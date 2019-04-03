@@ -1,0 +1,16 @@
+@import "bootstrap/functions";
+@import "variables";
+@import "bootstrap/mixins";
+
+body {
+  background-color: $blue;
+}
+
+aside {
+  background-color: $yellow;
+  color: $black;
+
+  [type="epubtype:something"] {
+    background-color: $green;
+  }
+}

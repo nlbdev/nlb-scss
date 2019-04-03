@@ -10,7 +10,8 @@ module.exports = function(grunt) {
 			},
 			dist: {
 				files: {
-					'css/example.css': 'scss/example.scss'
+					'css/example.css': 'scss/example.scss',
+  				'css/alternative.css': 'scss/alternative.scss'
 				}
 			}
 		}

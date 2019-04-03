@@ -1,0 +1,10 @@
+body {
+  background-color: #007bff; }
+
+aside {
+  background-color: #ffc107;
+  color: #000; }
+  aside [type="epubtype:something"] {
+    background-color: #28a745; }
+
+/*# sourceMappingURL=alternative.css.map */
