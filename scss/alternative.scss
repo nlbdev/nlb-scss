@@ -6,11 +6,14 @@ body {
   background-color: $blue;
 }
 
-aside {
+aside, p {
   background-color: $yellow;
   color: $black;
 
   [type="epubtype:something"] {
-    background-color: $green;
+    background-color: darken($green, 10%);
+  }
+  [type="epubtype:somethingelse"] {
+    background-color: $red;
   }
 }

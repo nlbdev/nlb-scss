@@ -1,10 +1,12 @@
 body {
   background-color: #007bff; }
 
-aside {
+aside, p {
   background-color: #ffc107;
   color: #000; }
-  aside [type="epubtype:something"] {
-    background-color: #28a745; }
+  aside [type="epubtype:something"], p [type="epubtype:something"] {
+    background-color: #1e7e34; }
+  aside [type="epubtype:somethingelse"], p [type="epubtype:somethingelse"] {
+    background-color: #dc3545; }
 
 /*# sourceMappingURL=alternative.css.map */
