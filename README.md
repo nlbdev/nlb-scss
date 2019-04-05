@@ -6,4 +6,5 @@ An SCSS example using Grunt
 3. Run `npm install`
 
 To compile run `grunt`
+
 To view the compiled result, open: `demo.htm`
