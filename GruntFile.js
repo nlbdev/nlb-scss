@@ -6,12 +6,11 @@ module.exports = function(grunt) {
 		sass: {
 			options: {
 				implementation: sass,
-				sourceMap: true
+				sourceMap: false
 			},
 			dist: {
 				files: {
-					'css/example.css': 'scss/example.scss',
-  				'css/alternative.css': 'scss/alternative.scss'
+					'css/example.css': 'scss/example.scss'
 				}
 			}
 		}

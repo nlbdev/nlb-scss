@@ -4,6 +4,37 @@
 @import "bootstrap/root";
 @import "bootstrap/reboot";
 @import "bootstrap/type";
-@import "bootstrap/images";
 @import "bootstrap/grid";
-@import "bootstrap/tables";
+@import "bootstrap/images";
+
+%prettify {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+}
+
+body {
+  @extend .container-fluid;
+
+  background-color: $nlb-gray;
+}
+
+h1, h2, h3, h4 {
+  @extend .container; 
+
+  text-transform: capitalize;
+  color: $nlb-green;
+}
+
+p {
+  @extend .container;
+  @extend %prettify;
+
+  background-color: $nlb-green;
+  color: $nlb-black;
+}
+
+img {
+  @extend .img-fluid;
+  @extend %prettify;
+}
