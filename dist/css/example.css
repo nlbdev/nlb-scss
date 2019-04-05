@@ -992,7 +992,7 @@ mark,
   font-size: 90%;
   color: #6c757d; }
 
-p, ul, ol, img {
+img, p, ul, ol {
   padding-top: 5px;
   padding-bottom: 5px;
   border-radius: 5px; }

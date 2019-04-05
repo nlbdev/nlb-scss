@@ -1,3 +1,4 @@
+// Imports
 @import "bootstrap/functions";
 @import "variables";
 @import "bootstrap/mixins";
@@ -7,12 +8,20 @@
 @import "bootstrap/grid";
 @import "bootstrap/images";
 
+// Custom functionality
 %prettify {
   padding-top: 5px;
   padding-bottom: 5px;
   border-radius: 5px;
 }
 
+// Extends responsive image functionality from Bootstrap
+img {
+  @extend .img-fluid;
+  @extend %prettify;
+}
+
+// Extends container functionality from Bootstrap
 body {
   @extend .container-fluid;
 
@@ -20,12 +29,14 @@ body {
   color: $nlb-green;
 }
 
+// Extends container functionality from Bootstrap
 h1, h2, h3, h4 {
   @extend .container; 
 
   text-transform: capitalize;
 }
 
+// Extends container functionality from Bootstrap
 p, ul, ol {
   @extend .container;
   @extend %prettify;
@@ -33,11 +44,7 @@ p, ul, ol {
   background-color: $nlb-gray;
 }
 
-img {
-  @extend .img-fluid;
-  @extend %prettify;
-}
-
+// Custom functionality
 .page-normal, .page-front, .page-special {
   margin: 20px 0px; 
   border-bottom: 3px solid $nlb-green;
