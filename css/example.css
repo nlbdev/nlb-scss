@@ -382,23 +382,23 @@ mark,
   .blockquote-footer::before {
     content: "\2014\00A0"; }
 
-.container, h1, h2, h3, h4, p {
+.container, h1, h2, h3, h4, p, ul, ol {
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto; }
   @media (min-width: 576px) {
-    .container, h1, h2, h3, h4, p {
+    .container, h1, h2, h3, h4, p, ul, ol {
       max-width: 540px; } }
   @media (min-width: 768px) {
-    .container, h1, h2, h3, h4, p {
+    .container, h1, h2, h3, h4, p, ul, ol {
       max-width: 720px; } }
   @media (min-width: 992px) {
-    .container, h1, h2, h3, h4, p {
+    .container, h1, h2, h3, h4, p, ul, ol {
       max-width: 960px; } }
   @media (min-width: 1200px) {
-    .container, h1, h2, h3, h4, p {
+    .container, h1, h2, h3, h4, p, ul, ol {
       max-width: 1140px; } }
 
 .container-fluid, body {
@@ -992,18 +992,22 @@ mark,
   font-size: 90%;
   color: #6c757d; }
 
-p, img {
+p, ul, ol, img {
   padding-top: 5px;
   padding-bottom: 5px;
   border-radius: 5px; }
 
 body {
-  background-color: #262626; }
-
-h1, h2, h3, h4 {
-  text-transform: capitalize;
+  background-color: #000;
   color: #B1C900; }
 
-p {
-  background-color: #B1C900;
-  color: #000; }
+h1, h2, h3, h4 {
+  text-transform: capitalize; }
+
+p, ul, ol {
+  background-color: #262626; }
+
+.page-normal, .page-front, .page-special {
+  margin: 20px 0px;
+  border-bottom: 3px solid #B1C900;
+  text-align: right; }

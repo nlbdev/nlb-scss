@@ -16,25 +16,30 @@
 body {
   @extend .container-fluid;
 
-  background-color: $nlb-gray;
+  background-color: $nlb-black;
+  color: $nlb-green;
 }
 
 h1, h2, h3, h4 {
   @extend .container; 
 
   text-transform: capitalize;
-  color: $nlb-green;
 }
 
-p {
+p, ul, ol {
   @extend .container;
   @extend %prettify;
 
-  background-color: $nlb-green;
-  color: $nlb-black;
+  background-color: $nlb-gray;
 }
 
 img {
   @extend .img-fluid;
   @extend %prettify;
+}
+
+.page-normal, .page-front, .page-special {
+  margin: 20px 0px; 
+  border-bottom: 3px solid $nlb-green;
+  text-align: right;
 }
