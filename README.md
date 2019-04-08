@@ -1,7 +1,7 @@
 # scss-example
 An SCSS example using Grunt
 
-1. Install (NodeJS)[https://nodejs.org/en/]
+1. Install [NodeJS](https://nodejs.org/en/)
 2. Install Grunt with npm: `npm i -g grunt`
 3. Run `npm install`
 
