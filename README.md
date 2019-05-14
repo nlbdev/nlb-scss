@@ -1,5 +1,5 @@
-# scss-example
-An SCSS example using Grunt
+# nlb-scss
+NLB SCSS using Grunt
 
 1. Install [NodeJS](https://nodejs.org/en/)
 2. Install Grunt with npm: `npm i -g grunt` (run in command-line at the root folder)
