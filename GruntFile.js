@@ -1,3 +1,5 @@
+/*jshint esversion: 6 */
+
 const sass = require('node-sass');
 
 module.exports = function (grunt) {
@@ -10,11 +12,15 @@ module.exports = function (grunt) {
 			},
 			dist: {
 				files: {
-					'dist/css/example.css': 'src/scss/example.scss'
+					'dist/css/ebok.css': 'src/scss/ebok.scss',
+					'dist/css/epub.css': 'src/scss/epub.scss',
+					'dist/css/html.css': 'src/scss/html.scss',
+					'dist/css/ncc.css': 'src/scss/ncc.scss',
+					'dist/css/nettleserbok.css': 'src/scss/nettleserbok.scss'
 				}
 			}
 		},
-		postcss: {
+		postcss: { // postcss-scss required
 			options: {
 				map: false, // inline sourcemaps
 
@@ -26,7 +32,11 @@ module.exports = function (grunt) {
 			},
 			dist: {
 				files: {
-					'dist/css/example.min.css': 'dist/css/example.css'
+					'dist/css/ebok.css': 'src/scss/ebok.scss',
+					'dist/css/epub.css': 'src/scss/epub.scss',
+					'dist/css/html.css': 'src/scss/html.scss',
+					'dist/css/ncc.css': 'src/scss/ncc.scss',
+					'dist/css/nettleserbok.css': 'src/scss/nettleserbok.scss'
 				}
 			}
 		},
@@ -46,8 +56,7 @@ module.exports = function (grunt) {
 
 	grunt.loadNpmTasks('grunt-contrib-clean');
 	grunt.loadNpmTasks('grunt-sass');
-	grunt.loadNpmTasks('grunt-postcss');
 	grunt.loadNpmTasks('grunt-contrib-watch');
 
-	grunt.registerTask('default', ['clean', 'sass', 'postcss']);
+	grunt.registerTask('default', ['clean', 'sass']);
 };

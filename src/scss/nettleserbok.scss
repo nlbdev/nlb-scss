@@ -1,0 +1,36 @@
+// Imports
+@import "bootstrap/functions";
+@import "variables";
+@import "bootstrap/mixins";
+@import "bootstrap/root";
+@import "bootstrap/reboot";
+@import "bootstrap/utilities";
+@import "bootstrap/type";
+@import "bootstrap/grid";
+@import "bootstrap/images";
+@import "bootstrap/tables";
+
+@import "core";
+
+.sidetall,
+.page-normal, 
+.page-special, 
+.page-front {
+    @extend .border-top, .d-none, .d-sm-block, .mr-3, .pt-3, .mt-5, .mb-4, .text-right;
+
+    display: block;
+    font-weight: bold;
+    page-break-before: always;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: $height;
+}
+
+div#content.theme__dark * {
+    color: $white !important;
+}
+
+div#content.theme__dark.generisk-ramme {
+    background-color: #212d39 !important;
+}

@@ -1,0 +1,24 @@
+// Imports
+@import "bootstrap/functions";
+@import "variables";
+@import "bootstrap/mixins";
+@import "bootstrap/root";
+@import "bootstrap/reboot";
+@import "bootstrap/utilities";
+@import "bootstrap/type";
+@import "bootstrap/grid";
+@import "bootstrap/images";
+@import "bootstrap/tables";
+
+@import "core";
+
+.sidetall,
+.page-normal, 
+.page-special, 
+.page-front {
+    @extend .border-top, .d-none, .d-sm-block, .mr-3, .pt-3, .mt-5, .mb-4, .text-right;
+
+    display: block;
+    font-weight: bold;
+    page-break-before: always;
+}

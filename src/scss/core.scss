@@ -1,0 +1,52 @@
+$height: $spacer;
+
+body {
+    @include make-container();
+}
+
+h1.title {
+    margin-top: $height !important;
+}
+
+img {
+    @extend .img-fluid, .rounded;
+    margin-bottom: $height !important;
+}
+
+table {
+    @extend .table;
+}
+
+figure, .imggroup {
+    @extend .figure;
+    margin-bottom: $height !important;
+
+    img {
+        @extend .figure-img, .img-fluid, .rounded;
+    }
+
+    figcaption, .caption {
+        @extend .figure-caption;
+    }
+}
+
+.prodnote, .optional-prodnote, .prodnote-optional {
+    @extend .d-none;
+}
+
+.noteref {
+    vertical-align: super;
+    font-size: smaller;
+}
+
+.generisk-ramme {
+    @extend .bg-light, .text-dark, .p-1;
+}
+
+ul {
+    @extend .m-1;
+}
+
+blockquote {
+    @extend .blockquote;
+}
