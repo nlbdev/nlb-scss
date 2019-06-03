@@ -14,19 +14,26 @@ img {
 }
 
 table {
-    @extend .table;
+    @extend .table, .table-responsive;
+
+    th {
+        @extend .thead-light;
+    }
 }
 
 figure, .imggroup {
-    @extend .figure;
+    @extend .figure, .text-center;
     margin-bottom: $height !important;
+    width: 100%;
 
     img {
-        @extend .figure-img, .img-fluid, .rounded;
+        @extend .figure-img, .img-fluid, .img-thumbnail, .rounded, .mx-auto, .d-block;
     }
 
     figcaption, .caption {
-        @extend .figure-caption;
+        @extend .figure-caption, .my-2;
+        color: $gray-900;
+        font-size: smaller;
     }
 }
 

@@ -26,3 +26,23 @@
 ul.plain {
     list-style-type: none;
 }
+#toc-html {
+    a {
+        color: $black;
+    }
+}
+
+.preface, .colophon, [*|type="colophon"] {
+    .precedingemptyline {
+        margin-top: $line-height-sm+rem !important;
+    }
+    p {
+        @extend .my-0;
+    }
+}
+
+.part {
+    p strong {
+        @extend .lead;
+    }
+}

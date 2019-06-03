@@ -25,7 +25,7 @@
   --breakpoint-md: 768px;
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
-  --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
 
 *,
@@ -44,7 +44,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
@@ -494,7 +494,7 @@ button.bg-dark:focus {
 .d-inline-block {
   display: inline-block !important; }
 
-.d-block {
+.d-block, figure img, .imggroup img {
   display: block !important; }
 
 .d-table {
@@ -1206,7 +1206,10 @@ button.bg-dark:focus {
   margin: 0 !important; }
 
 .mt-0,
-.my-0 {
+.my-0,
+.preface p,
+.colophon p,
+[*|type="colophon"] p {
   margin-top: 0 !important; }
 
 .mr-0,
@@ -1214,7 +1217,10 @@ button.bg-dark:focus {
   margin-right: 0 !important; }
 
 .mb-0,
-.my-0 {
+.my-0,
+.preface p,
+.colophon p,
+[*|type="colophon"] p {
   margin-bottom: 0 !important; }
 
 .ml-0,
@@ -1244,7 +1250,11 @@ button.bg-dark:focus {
   margin: 0.75rem !important; }
 
 .mt-2,
-.my-2 {
+.my-2,
+figure figcaption,
+figure .caption,
+.imggroup figcaption,
+.imggroup .caption {
   margin-top: 0.75rem !important; }
 
 .mr-2,
@@ -1252,7 +1262,11 @@ button.bg-dark:focus {
   margin-right: 0.75rem !important; }
 
 .mb-2,
-.my-2 {
+.my-2,
+figure figcaption,
+figure .caption,
+.imggroup figcaption,
+.imggroup .caption {
   margin-bottom: 0.75rem !important; }
 
 .ml-2,
@@ -1545,7 +1559,9 @@ button.bg-dark:focus {
   margin-top: auto !important; }
 
 .mr-auto,
-.mx-auto {
+.mx-auto,
+figure img,
+.imggroup img {
   margin-right: auto !important; }
 
 .mb-auto,
@@ -1553,7 +1569,9 @@ button.bg-dark:focus {
   margin-bottom: auto !important; }
 
 .ml-auto,
-.mx-auto {
+.mx-auto,
+figure img,
+.imggroup img {
   margin-left: auto !important; }
 
 @media (min-width: 576px) {
@@ -2598,7 +2616,7 @@ button.bg-dark:focus {
 .page-front {
   text-align: right !important; }
 
-.text-center {
+.text-center, figure, .imggroup {
   text-align: center !important; }
 
 @media (min-width: 576px) {
@@ -2782,7 +2800,7 @@ h5, .h5 {
 h6, .h6 {
   font-size: 1rem; }
 
-.lead {
+.lead, .part p strong {
   font-size: 1.25rem;
   font-weight: 300; }
 
@@ -3453,7 +3471,7 @@ mark,
   max-width: 100%;
   height: auto; }
 
-.img-thumbnail {
+.img-thumbnail, figure img, .imggroup img {
   padding: 0.25rem;
   background-color: #fff;
   border: 1px solid #dee2e6;
@@ -3666,7 +3684,7 @@ mark,
   background-color: #343a40;
   border-color: #454d55; }
 
-.table .thead-light th, table .thead-light th {
+.table .thead-light th, table .thead-light th, .table table th th, table .table th th, table th th {
   color: #495057;
   background-color: #e9ecef;
   border-color: #dee2e6; }
@@ -3722,12 +3740,12 @@ mark,
     .table-responsive-xl > .table-bordered {
       border: 0; } }
 
-.table-responsive {
+.table-responsive, table {
   display: block;
   width: 100%;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch; }
-  .table-responsive > .table-bordered {
+  .table-responsive > .table-bordered, table > .table-bordered {
     border: 0; }
 
 body {
@@ -3744,7 +3762,11 @@ img {
   margin-bottom: 1.5rem !important; }
 
 figure, .imggroup {
-  margin-bottom: 1.5rem !important; }
+  margin-bottom: 1.5rem !important;
+  width: 100%; }
+  figure figcaption, figure .caption, .imggroup figcaption, .imggroup .caption {
+    color: #212529;
+    font-size: smaller; }
 
 .noteref {
   vertical-align: super;
@@ -3760,3 +3782,9 @@ figure, .imggroup {
 
 ul.plain {
   list-style-type: none; }
+
+#toc-html a {
+  color: #000; }
+
+.preface .precedingemptyline, .colophon .precedingemptyline, [*|type="colophon"] .precedingemptyline {
+  margin-top: 1.5rem !important; }
