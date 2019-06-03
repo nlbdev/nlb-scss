@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+   <head>
+      <meta name="dc:identifier" content="9788232302000"/>
+      <meta name="dc:title" content="Yrke =HO: Vg1 Helse- og oppvekstfag"/>
+      <meta name="dc:format" content="Daisy 2.02"/>
+      <meta name="title" content="Kapittel 2: Endringer i samfunnet"/>
+      <meta name="ncc:totalElapsedTime" content="01:38:30"/>
+      <meta name="ncc:timeInThisSmil" content="00:00:11"/>
+      <meta name="ncc:generator" content="Regenerator 1.0.28"/>
+      <layout>
+			      <region id="txtView"/>
+		    </layout>
+   </head>
+   <body>
+      <seq dur="10.585s">
+         <par endsync="last" id="rgn_par_0242_0001">
+            <text src="innhold2345.html#rgn_cnt_1466" id="rgn_txt_0242_0001"/>
+            <seq>
+               <audio src="dtb_0242.mp3" clip-begin="npt=0.000s" clip-end="npt=3.399s"
+                      id="rgn_aud_0242_0001"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0242_0002">
+            <text src="innhold2345.html#rgn_cnt_1467" id="rgn_txt_0242_0002"/>
+            <seq>
+               <audio src="dtb_0242.mp3" clip-begin="npt=3.399s" clip-end="npt=4.799s"
+                      id="rgn_aud_0242_0002"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0242_0003">
+            <text src="innhold2345.html#rgn_cnt_1468" id="rgn_txt_0242_0003"/>
+            <seq>
+               <audio src="dtb_0242.mp3" clip-begin="npt=4.799s" clip-end="npt=10.585s"
+                      id="rgn_aud_0242_0003"/>
+            </seq>
+         </par>
+      </seq>
+   </body>
+</smil>

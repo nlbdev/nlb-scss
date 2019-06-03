@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+   <head>
+      <meta name="dc:identifier" content="9788232302000"/>
+      <meta name="dc:title" content="Yrke =HO: Vg1 Helse- og oppvekstfag"/>
+      <meta name="dc:format" content="Daisy 2.02"/>
+      <meta name="title" content="Y5 + K9"/>
+      <meta name="ncc:totalElapsedTime" content="05:31:00"/>
+      <meta name="ncc:timeInThisSmil" content="00:00:12"/>
+      <meta name="ncc:generator" content="Regenerator 1.0.28"/>
+      <layout>
+			      <region id="txtView"/>
+		    </layout>
+   </head>
+   <body>
+      <seq dur="12.332s">
+         <par endsync="last" id="rgn_par_0840_0001">
+            <text src="innhold2345.html#rgn_cnt_4968" id="rgn_txt_0840_0001"/>
+            <seq>
+               <audio src="dtb_0840.mp3" clip-begin="npt=0.000s" clip-end="npt=1.999s"
+                      id="rgn_aud_0840_0001"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0840_0002">
+            <text src="innhold2345.html#rgn_cnt_4969" id="rgn_txt_0840_0002"/>
+            <seq>
+               <audio src="dtb_0840.mp3" clip-begin="npt=1.999s" clip-end="npt=3.999s"
+                      id="rgn_aud_0840_0002"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0840_0003">
+            <text src="innhold2345.html#rgn_cnt_4970" id="rgn_txt_0840_0003"/>
+            <seq>
+               <audio src="dtb_0840.mp3" clip-begin="npt=3.999s" clip-end="npt=10.334s"
+                      id="rgn_aud_0840_0003"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0840_0004">
+            <text src="innhold2345.html#rgn_cnt_4971" id="rgn_txt_0840_0004"/>
+            <seq>
+               <audio src="dtb_0840.mp3" clip-begin="npt=10.334s" clip-end="npt=12.332s"
+                      id="rgn_aud_0840_0004"/>
+            </seq>
+         </par>
+      </seq>
+   </body>
+</smil>

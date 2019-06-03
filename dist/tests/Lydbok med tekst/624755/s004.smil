@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd"[]>
+<smil>
+  <head>
+    <meta name="dc:title" content="THE BOY IN THE STRIPED PYJAMAS" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="dc:identifier" content="624755" />
+    <meta name="ncc:totalElapsedTime" content="00:01:21.274" />
+    <meta name="ncc:timeInThisSmil" content="00:00:39.110" />
+    <meta name="ncc:generator" content="Hindenburg ABC Studio 1.26.2164" />
+    <layout>
+      <region id="txtView" />
+    </layout>
+  </head>
+  <body>
+    <seq id="main" dur="39.110s">
+      <par endsync="last" id="parS1">
+        <text id="hix01462" src="624755.html#hix01462" />
+        <audio id="audhix01462" clip-begin="npt=0.000s" clip-end="npt=3.751s" src="04_DAISY_book_information.mp3" />
+      </par>
+      <par endsync="last" id="parS2">
+        <text id="hix01464" src="624755.html#hix01464" />
+        <audio id="audhix01464" clip-begin="npt=3.751s" clip-end="npt=9.840s" src="04_DAISY_book_information.mp3" />
+      </par>
+      <par endsync="last" id="parS3">
+        <text id="hix01464s2" src="624755.html#hix01464s2" />
+        <audio id="audhix01464s2" clip-begin="npt=9.840s" clip-end="npt=15.840s" src="04_DAISY_book_information.mp3" />
+      </par>
+      <par endsync="last" id="parS4">
+        <text id="hix01464s3" src="624755.html#hix01464s3" />
+        <audio id="audhix01464s3" clip-begin="npt=15.840s" clip-end="npt=21.441s" src="04_DAISY_book_information.mp3" />
+      </par>
+      <par endsync="last" id="parS5">
+        <text id="hix01465" src="624755.html#hix01465" />
+        <audio id="audhix01465" clip-begin="npt=21.441s" clip-end="npt=28.560s" src="04_DAISY_book_information.mp3" />
+      </par>
+      <par endsync="last" id="parS6">
+        <text id="hix01465s2" src="624755.html#hix01465s2" />
+        <audio id="audhix01465s2" clip-begin="npt=28.560s" clip-end="npt=32.440s" src="04_DAISY_book_information.mp3" />
+      </par>
+      <par endsync="last" id="parS7">
+        <text id="hix01465s3" src="624755.html#hix01465s3" />
+        <audio id="audhix01465s3" clip-begin="npt=32.440s" clip-end="npt=36.360s" src="04_DAISY_book_information.mp3" />
+      </par>
+      <par endsync="last" id="parS8">
+        <text id="hix01465s4" src="624755.html#hix01465s4" />
+        <audio id="audhix01465s4" clip-begin="npt=36.360s" clip-end="npt=39.110s" src="04_DAISY_book_information.mp3" />
+      </par>
+    </seq>
+  </body>
+</smil>

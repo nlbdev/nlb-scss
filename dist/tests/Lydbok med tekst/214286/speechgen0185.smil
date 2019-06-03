@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd" []>
+<smil>
+   <head>
+      <meta name="ncc:generator" content="DMFC z3986-2005 to Daisy 2.02 (smil2smil v0.2)" />
+      <meta name="dc:format" content="Daisy 2.02" />
+      <meta name="dc:identifier" content="214286" />
+      <meta name="title" content="2 Ensidig test positiv (>)" />
+      <meta name="dc:title" content="Metode og dataanalyse" />
+      <meta name="ncc:totalElapsedTime" content="11:39:53" />
+      <meta name="ncc:timeInThisSmil" content="0:00:33" />
+      <layout>
+         <region id="txtView" />
+      </layout>
+   </head>
+   <body>
+      <seq dur="32.665s">
+         <par endsync="last" id="tcp5316">
+            <text id="text5316" src="content.html#dtb5492" />
+            <audio src="speechgen0185.mp3" id="audd7080e10" clip-begin="npt=0.000s" clip-end="npt=7.773s" />
+         </par>
+         <par endsync="last" id="tcp5317">
+            <text id="text5317" src="content.html#dtb5493" />
+            <audio src="speechgen0185.mp3" id="audd7080e13" clip-begin="npt=7.773s" clip-end="npt=14.962s" />
+         </par>
+         <par endsync="last" id="tcp5318">
+            <text id="text5318" src="content.html#dtb5494" />
+            <audio src="speechgen0185.mp3" id="audd7080e16" clip-begin="npt=14.962s" clip-end="npt=20.100s" />
+         </par>
+         <par endsync="last" id="tcp5319">
+            <text id="text5319" src="content.html#dtb5495" />
+            <audio src="speechgen0185.mp3" id="audd7080e19" clip-begin="npt=20.100s" clip-end="npt=29.274s" />
+         </par>
+         <par endsync="last" id="tcp5320">
+            <text id="text5320" src="content.html#dtb5496" />
+            <audio src="speechgen0185.mp3" id="audd7080e22" clip-begin="npt=29.274s" clip-end="npt=32.665s" />
+         </par>
+      </seq>
+   </body>
+</smil>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd" []>
+<smil>
+   <head>
+      <meta name="ncc:generator" content="DMFC z3986-2005 to Daisy 2.02 (smil2smil v0.2)" />
+      <meta name="dc:format" content="Daisy 2.02" />
+      <meta name="dc:identifier" content="214286" />
+      <meta name="title" content="Kvasieksperiment" />
+      <meta name="dc:title" content="Metode og dataanalyse" />
+      <meta name="ncc:totalElapsedTime" content="2:22:55" />
+      <meta name="ncc:timeInThisSmil" content="0:01:26" />
+      <layout>
+         <region id="txtView" />
+      </layout>
+   </head>
+   <body>
+      <seq dur="85.550s">
+         <par endsync="last" id="tcp1145">
+            <text id="text1145" src="content.html#dtb1182" />
+            <audio src="speechgen0034.mp3" id="audd1506e12" clip-begin="npt=0.000s" clip-end="npt=4.809s" />
+         </par>
+         <par endsync="last" id="tcp1146">
+            <text id="text1146" src="content.html#dtb1183" />
+            <audio src="speechgen0034.mp3" id="audd1506e15" clip-begin="npt=4.809s" clip-end="npt=6.951s" />
+         </par>
+         <par endsync="last" id="tcp1147">
+            <text id="text1147" src="content.html#dtb1184" />
+            <audio src="speechgen0034.mp3" id="audd1506e18" clip-begin="npt=6.951s" clip-end="npt=19.682s" />
+         </par>
+         <par endsync="last" id="tcp1148">
+            <text id="text1148" src="content.html#dtb1185" />
+            <audio src="speechgen0034.mp3" id="audd1506e21" clip-begin="npt=19.682s" clip-end="npt=28.426s" />
+         </par>
+         <par endsync="last" id="tcp1149">
+            <text id="text1149" src="content.html#dtb1186" />
+            <audio src="speechgen0034.mp3" id="audd1506e24" clip-begin="npt=28.426s" clip-end="npt=40.142s" />
+         </par>
+         <par endsync="last" id="tcp1150">
+            <text id="text1150" src="content.html#dtb1187" />
+            <audio src="speechgen0034.mp3" id="audd1506e27" clip-begin="npt=40.142s" clip-end="npt=55.997s" />
+         </par>
+         <par endsync="last" id="tcp1151">
+            <text id="text1151" src="content.html#dtb1188" />
+            <audio src="speechgen0034.mp3" id="audd1506e30" clip-begin="npt=55.997s" clip-end="npt=63.067s" />
+         </par>
+         <par endsync="last" id="tcp1152">
+            <text id="text1152" src="content.html#dtb1189" />
+            <audio src="speechgen0034.mp3" id="audd1506e33" clip-begin="npt=63.067s" clip-end="npt=69.660s" />
+         </par>
+         <par endsync="last" id="tcp1153" system-required="sidebar-on">
+            <text id="text1153" src="content.html#dtb1191" />
+            <audio src="speechgen0034.mp3" id="audd1506e37" clip-begin="npt=69.660s" clip-end="npt=73.373s" />
+         </par>
+         <par endsync="last" id="tcp1154" system-required="sidebar-on">
+            <text id="text1154" src="content.html#dtb1193" />
+            <audio src="speechgen0034.mp3" id="audd1506e41" clip-begin="npt=73.373s" clip-end="npt=77.911s" />
+         </par>
+         <par endsync="last" id="tcp1155" system-required="sidebar-on">
+            <text id="text1155" src="content.html#dtb1194" />
+            <audio src="speechgen0034.mp3" id="audd1506e44" clip-begin="npt=77.911s" clip-end="npt=85.550s" />
+         </par>
+      </seq>
+   </body>
+</smil>

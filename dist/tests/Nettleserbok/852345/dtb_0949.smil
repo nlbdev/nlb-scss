@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+   <head>
+      <meta name="dc:identifier" content="9788232302000"/>
+      <meta name="dc:title" content="Yrke =HO: Vg1 Helse- og oppvekstfag"/>
+      <meta name="dc:format" content="Daisy 2.02"/>
+      <meta name="title" content="Ergoterapeut"/>
+      <meta name="ncc:totalElapsedTime" content="06:25:33"/>
+      <meta name="ncc:timeInThisSmil" content="00:00:26"/>
+      <meta name="ncc:generator" content="Regenerator 1.0.28"/>
+      <layout>
+			      <region id="txtView"/>
+		    </layout>
+   </head>
+   <body>
+      <seq dur="26.319s">
+         <par endsync="last" id="rgn_par_0949_0001">
+            <text src="innhold2345.html#rgn_cnt_5703" id="rgn_txt_0949_0001"/>
+            <seq>
+               <audio src="dtb_0949.mp3" clip-begin="npt=0.000s" clip-end="npt=1.999s"
+                      id="rgn_aud_0949_0001"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0949_0002">
+            <text src="innhold2345.html#rgn_cnt_5704" id="rgn_txt_0949_0002"/>
+            <seq>
+               <audio src="dtb_0949.mp3" clip-begin="npt=1.999s" clip-end="npt=9.126s"
+                      id="rgn_aud_0949_0002"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0949_0003">
+            <text src="innhold2345.html#rgn_cnt_5705" id="rgn_txt_0949_0003"/>
+            <seq>
+               <audio src="dtb_0949.mp3" clip-begin="npt=9.126s" clip-end="npt=17.326s"
+                      id="rgn_aud_0949_0003"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0949_0004">
+            <text src="innhold2345.html#rgn_cnt_5706" id="rgn_txt_0949_0004"/>
+            <seq>
+               <audio src="dtb_0949.mp3" clip-begin="npt=17.326s" clip-end="npt=23.326s"
+                      id="rgn_aud_0949_0004"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0949_0005">
+            <text src="innhold2345.html#rgn_cnt_5707" id="rgn_txt_0949_0005"/>
+            <seq>
+               <audio src="dtb_0949.mp3" clip-begin="npt=23.326s" clip-end="npt=26.319s"
+                      id="rgn_aud_0949_0005"/>
+            </seq>
+         </par>
+      </seq>
+   </body>
+</smil>

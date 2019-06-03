@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd" []>
+<smil>
+   <head>
+      <meta name="ncc:generator" content="DMFC z3986-2005 to Daisy 2.02 (smil2smil v0.2)" />
+      <meta name="dc:format" content="Daisy 2.02" />
+      <meta name="dc:identifier" content="214286" />
+      <meta name="title" content="Studentarbeider" />
+      <meta name="dc:title" content="Metode og dataanalyse" />
+      <meta name="ncc:totalElapsedTime" content="15:21:37" />
+      <meta name="ncc:timeInThisSmil" content="0:00:30" />
+      <layout>
+         <region id="txtView" />
+      </layout>
+   </head>
+   <body>
+      <seq dur="29.509s">
+         <par endsync="last" id="tcp7307">
+            <text id="text7307" src="content.html#dtb7559" />
+            <audio src="speechgen0246.mp3" id="audd9717e10" clip-begin="npt=0.000s" clip-end="npt=4.512s" />
+         </par>
+         <par endsync="last" id="tcp7308">
+            <text id="text7308" src="content.html#dtb7560" />
+            <audio src="speechgen0246.mp3" id="audd9717e13" clip-begin="npt=4.512s" clip-end="npt=10.616s" />
+         </par>
+         <par endsync="last" id="tcp7309">
+            <text id="text7309" src="content.html#dtb7561" />
+            <audio src="speechgen0246.mp3" id="audd9717e16" clip-begin="npt=10.616s" clip-end="npt=23.436s" />
+         </par>
+         <par endsync="last" id="tcp7310">
+            <text id="text7310" src="content.html#dtb7562" />
+            <audio src="speechgen0246.mp3" id="audd9717e19" clip-begin="npt=23.436s" clip-end="npt=29.509s" />
+         </par>
+      </seq>
+   </body>
+</smil>

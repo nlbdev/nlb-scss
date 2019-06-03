@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:06:33.951"/>
+		<meta name="ncc:totalElapsedTime" content="03:56:55.774"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300089122"/>
+		<meta name="title" content="Kapittel 31: Oransje og grått"/>
+		<meta name="dc:title" content="AARONS MASKIN"/>
+		<meta name="dc:identifier" content="616872"/>
+	</head>
+	<body>
+		<seq dur="393.951s">
+			<par endsync="last" id="ugkc_00ae">
+				<text src="ncc.html#ugkc_00ad" id="ugkc_00ad"/>
+				<seq>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=0.000s" clip-end="npt=6.478s" id="audio_0001"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=6.478s" clip-end="npt=11.966s" id="audio_0002"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=11.966s" clip-end="npt=16.890s" id="audio_0003"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=16.890s" clip-end="npt=22.950s" id="audio_0004"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=22.950s" clip-end="npt=27.444s" id="audio_0005"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=27.444s" clip-end="npt=33.635s" id="audio_0006"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=33.635s" clip-end="npt=39.852s" id="audio_0007"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=39.852s" clip-end="npt=46.278s" id="audio_0008"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=46.278s" clip-end="npt=52.156s" id="audio_0009"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=52.156s" clip-end="npt=63.859s" id="audio_0010"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=63.859s" clip-end="npt=71.656s" id="audio_0011"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=71.656s" clip-end="npt=76.149s" id="audio_0012"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=76.149s" clip-end="npt=80.822s" id="audio_0013"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=80.822s" clip-end="npt=89.977s" id="audio_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="dnfy_0001" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_00db" id="dnfy_0005"/>
+				<seq>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=89.977s" clip-end="npt=90.637s" id="audio_0015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="dnfy_000d">
+				<text src="ncc.html#ugkc_00ad" id="dnfy_0006"/>
+				<seq>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=90.637s" clip-end="npt=103.649s" id="audio_0016"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=103.649s" clip-end="npt=110.493s" id="audio_0017"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=110.493s" clip-end="npt=118.473s" id="audio_0018"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=118.473s" clip-end="npt=122.496s" id="audio_0019"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=122.496s" clip-end="npt=126.689s" id="audio_0020"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=126.689s" clip-end="npt=132.997s" id="audio_0021"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=132.997s" clip-end="npt=137.608s" id="audio_0022"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=137.608s" clip-end="npt=149.678s" id="audio_0023"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=149.678s" clip-end="npt=156.510s" id="audio_0024"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=156.510s" clip-end="npt=162.152s" id="audio_0025"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=162.152s" clip-end="npt=167.912s" id="audio_0026"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=167.912s" clip-end="npt=172.471s" id="audio_0027"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=172.471s" clip-end="npt=177.630s" id="audio_0028"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=177.630s" clip-end="npt=181.893s" id="audio_0029"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=181.893s" clip-end="npt=186.804s" id="audio_0030"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=186.804s" clip-end="npt=192.803s" id="audio_0031"/>
+				</seq>
+			</par>
+			<par endsync="last" id="dnfy_0002" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_00dc" id="dnfy_0007"/>
+				<seq>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=192.803s" clip-end="npt=193.523s" id="audio_0032"/>
+				</seq>
+			</par>
+			<par endsync="last" id="dnfy_000e">
+				<text src="ncc.html#ugkc_00ad" id="dnfy_0008"/>
+				<seq>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=193.523s" clip-end="npt=198.925s" id="audio_0033"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=198.925s" clip-end="npt=203.902s" id="audio_0034"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=203.902s" clip-end="npt=214.403s" id="audio_0035"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=214.403s" clip-end="npt=221.247s" id="audio_0036"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=221.247s" clip-end="npt=230.947s" id="audio_0037"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=230.947s" clip-end="npt=241.866s" id="audio_0038"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=241.866s" clip-end="npt=246.790s" id="audio_0039"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=246.790s" clip-end="npt=254.105s" id="audio_0040"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=254.105s" clip-end="npt=261.954s" id="audio_0041"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=261.954s" clip-end="npt=269.945s" id="audio_0042"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=269.945s" clip-end="npt=285.789s" id="audio_0043"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=285.789s" clip-end="npt=292.803s" id="audio_0044"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=292.803s" clip-end="npt=298.145s" id="audio_0045"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=298.145s" clip-end="npt=303.664s" id="audio_0046"/>
+				</seq>
+			</par>
+			<par endsync="last" id="dnfy_0003" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_00dd" id="dnfy_0009"/>
+				<seq>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=303.664s" clip-end="npt=304.264s" id="audio_0047"/>
+				</seq>
+			</par>
+			<par endsync="last" id="dnfy_000f">
+				<text src="ncc.html#ugkc_00ad" id="dnfy_000a"/>
+				<seq>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=304.264s" clip-end="npt=309.967s" id="audio_0048"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=309.967s" clip-end="npt=319.868s" id="audio_0049"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=319.868s" clip-end="npt=330.369s" id="audio_0050"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=330.369s" clip-end="npt=339.551s" id="audio_0051"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=339.551s" clip-end="npt=349.569s" id="audio_0052"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=349.569s" clip-end="npt=356.283s" id="audio_0053"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=356.283s" clip-end="npt=365.164s" id="audio_0054"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=365.164s" clip-end="npt=372.061s" id="audio_0055"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=372.061s" clip-end="npt=377.350s" id="audio_0056"/>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=377.350s" clip-end="npt=392.222s" id="audio_0057"/>
+				</seq>
+			</par>
+			<par endsync="last" id="dnfy_0004" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_00de" id="dnfy_000b"/>
+				<seq>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=392.222s" clip-end="npt=393.002s" id="audio_0058"/>
+				</seq>
+			</par>
+			<par endsync="last" id="dnfy_0010">
+				<text src="ncc.html#ugkc_00ad" id="dnfy_000c"/>
+				<seq>
+					<audio src="039_Kapittel_31_.mp3" clip-begin="npt=393.002s" clip-end="npt=393.951s" id="audio_0059"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

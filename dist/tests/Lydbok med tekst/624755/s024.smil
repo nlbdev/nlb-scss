@@ -1,0 +1,755 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd"[]>
+<smil>
+  <head>
+    <meta name="dc:title" content="THE BOY IN THE STRIPED PYJAMAS" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="dc:identifier" content="624755" />
+    <meta name="ncc:totalElapsedTime" content="05:09:59.920" />
+    <meta name="ncc:timeInThisSmil" content="00:12:09.119" />
+    <meta name="ncc:generator" content="Hindenburg ABC Studio 1.26.2164" />
+    <layout>
+      <region id="txtView" />
+    </layout>
+  </head>
+  <body>
+    <seq id="main" dur="729.119s">
+      <par endsync="last" id="parS1">
+        <text id="d1534e4953-0" src="624755.html#d1534e4953-0" />
+        <audio id="audd1534e4953-0" clip-begin="npt=0.000s" clip-end="npt=6.566s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS2">
+        <text id="hix01296" src="624755.html#hix01296" />
+        <audio id="audhix01296" clip-begin="npt=6.566s" clip-end="npt=12.480s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS3">
+        <text id="hix01296s2" src="624755.html#hix01296s2" />
+        <audio id="audhix01296s2" clip-begin="npt=12.480s" clip-end="npt=16.160s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS4">
+        <text id="hix01296s3" src="624755.html#hix01296s3" />
+        <audio id="audhix01296s3" clip-begin="npt=16.160s" clip-end="npt=19.400s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS5">
+        <text id="hix01296s4" src="624755.html#hix01296s4" />
+        <audio id="audhix01296s4" clip-begin="npt=19.400s" clip-end="npt=20.320s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS6">
+        <text id="hix01296s5" src="624755.html#hix01296s5" />
+        <audio id="audhix01296s5" clip-begin="npt=20.320s" clip-end="npt=29.880s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS7">
+        <text id="hix01296s6" src="624755.html#hix01296s6" />
+        <audio id="audhix01296s6" clip-begin="npt=29.880s" clip-end="npt=35.960s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS8">
+        <text id="hix01296s7" src="624755.html#hix01296s7" />
+        <audio id="audhix01296s7" clip-begin="npt=35.960s" clip-end="npt=47.870s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS9">
+        <text id="hix01297" src="624755.html#hix01297" />
+        <audio id="audhix01297" clip-begin="npt=47.870s" clip-end="npt=56.000s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS10">
+        <text id="hix01297s2" src="624755.html#hix01297s2" />
+        <audio id="audhix01297s2" clip-begin="npt=56.000s" clip-end="npt=62.760s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS11">
+        <text id="hix01297s3" src="624755.html#hix01297s3" />
+        <audio id="audhix01297s3" clip-begin="npt=62.760s" clip-end="npt=70.160s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS12">
+        <text id="hix01297s4" src="624755.html#hix01297s4" />
+        <audio id="audhix01297s4" clip-begin="npt=70.160s" clip-end="npt=75.938s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par id="par4" system-required="pagenumber-on" endsync="last">
+        <text id="Page_193" src="624755.html#Page_193" />
+        <audio id="aud004" clip-begin="npt=75.938s" clip-end="npt=76.625s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS13">
+        <text id="hix01298" src="624755.html#hix01298" />
+        <audio id="audhix01298" clip-begin="npt=76.625s" clip-end="npt=81.800s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS14">
+        <text id="hix01298s2" src="624755.html#hix01298s2" />
+        <audio id="audhix01298s2" clip-begin="npt=81.800s" clip-end="npt=85.563s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS15">
+        <text id="hix01299" src="624755.html#hix01299" />
+        <audio id="audhix01299" clip-begin="npt=85.563s" clip-end="npt=89.040s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS16">
+        <text id="hix01299s2" src="624755.html#hix01299s2" />
+        <audio id="audhix01299s2" clip-begin="npt=89.040s" clip-end="npt=96.000s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS17">
+        <text id="hix01299s3" src="624755.html#hix01299s3" />
+        <audio id="audhix01299s3" clip-begin="npt=96.000s" clip-end="npt=98.640s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS18">
+        <text id="hix01299s4" src="624755.html#hix01299s4" />
+        <audio id="audhix01299s4" clip-begin="npt=98.640s" clip-end="npt=103.880s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS19">
+        <text id="hix01299s5" src="624755.html#hix01299s5" />
+        <audio id="audhix01299s5" clip-begin="npt=103.880s" clip-end="npt=107.240s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS20">
+        <text id="hix01299s6" src="624755.html#hix01299s6" />
+        <audio id="audhix01299s6" clip-begin="npt=107.240s" clip-end="npt=111.121s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS21">
+        <text id="hix01300" src="624755.html#hix01300" />
+        <audio id="audhix01300" clip-begin="npt=111.121s" clip-end="npt=114.960s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS22">
+        <text id="hix01300s2" src="624755.html#hix01300s2" />
+        <audio id="audhix01300s2" clip-begin="npt=114.960s" clip-end="npt=116.999s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS23">
+        <text id="hix01301" src="624755.html#hix01301" />
+        <audio id="audhix01301" clip-begin="npt=116.999s" clip-end="npt=120.160s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS24">
+        <text id="hix01301s2" src="624755.html#hix01301s2" />
+        <audio id="audhix01301s2" clip-begin="npt=120.160s" clip-end="npt=123.368s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS25">
+        <text id="hix01302" src="624755.html#hix01302" />
+        <audio id="audhix01302" clip-begin="npt=123.368s" clip-end="npt=125.840s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS26">
+        <text id="hix01302s2" src="624755.html#hix01302s2" />
+        <audio id="audhix01302s2" clip-begin="npt=125.840s" clip-end="npt=129.160s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS27">
+        <text id="hix01302s3" src="624755.html#hix01302s3" />
+        <audio id="audhix01302s3" clip-begin="npt=129.160s" clip-end="npt=130.373s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS28">
+        <text id="hix01303" src="624755.html#hix01303" />
+        <audio id="audhix01303" clip-begin="npt=130.373s" clip-end="npt=134.000s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS29">
+        <text id="hix01303s2" src="624755.html#hix01303s2" />
+        <audio id="audhix01303s2" clip-begin="npt=134.000s" clip-end="npt=142.245s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS30">
+        <text id="hix01304" src="624755.html#hix01304" />
+        <audio id="audhix01304" clip-begin="npt=142.245s" clip-end="npt=146.680s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS31">
+        <text id="hix01304s2" src="624755.html#hix01304s2" />
+        <audio id="audhix01304s2" clip-begin="npt=146.680s" clip-end="npt=152.874s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS32">
+        <text id="hix01305" src="624755.html#hix01305" />
+        <audio id="audhix01305" clip-begin="npt=152.874s" clip-end="npt=156.520s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS33">
+        <text id="hix01305s2" src="624755.html#hix01305s2" />
+        <audio id="audhix01305s2" clip-begin="npt=156.520s" clip-end="npt=161.494s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS34">
+        <text id="hix01306" src="624755.html#hix01306" />
+        <audio id="audhix01306" clip-begin="npt=161.494s" clip-end="npt=166.280s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS35">
+        <text id="hix01306s2" src="624755.html#hix01306s2" />
+        <audio id="audhix01306s2" clip-begin="npt=166.280s" clip-end="npt=170.800s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS36">
+        <text id="hix01306s3" src="624755.html#hix01306s3" />
+        <audio id="audhix01306s3" clip-begin="npt=170.800s" clip-end="npt=172.186s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS37">
+        <text id="hix01307" src="624755.html#hix01307" />
+        <audio id="audhix01307" clip-begin="npt=172.186s" clip-end="npt=174.994s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS38">
+        <text id="hix01308" src="624755.html#hix01308" />
+        <audio id="audhix01308" clip-begin="npt=174.994s" clip-end="npt=176.807s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS39">
+        <text id="hix01309" src="624755.html#hix01309" />
+        <audio id="audhix01309" clip-begin="npt=176.807s" clip-end="npt=178.480s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS40">
+        <text id="hix01309s2" src="624755.html#hix01309s2" />
+        <audio id="audhix01309s2" clip-begin="npt=178.480s" clip-end="npt=181.200s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS41">
+        <text id="hix01309s3" src="624755.html#hix01309s3" />
+        <audio id="audhix01309s3" clip-begin="npt=181.200s" clip-end="npt=185.248s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par id="par17" system-required="pagenumber-on" endsync="last">
+        <text id="Page_194" src="624755.html#Page_194" />
+        <audio id="aud017" clip-begin="npt=185.248s" clip-end="npt=185.554s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS42">
+        <text id="hix01310" src="624755.html#hix01310" />
+        <audio id="audhix01310" clip-begin="npt=185.554s" clip-end="npt=189.868s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS43">
+        <text id="hix01311" src="624755.html#hix01311" />
+        <audio id="audhix01311" clip-begin="npt=189.868s" clip-end="npt=199.480s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS44">
+        <text id="hix01311s2" src="624755.html#hix01311s2" />
+        <audio id="audhix01311s2" clip-begin="npt=199.480s" clip-end="npt=202.720s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS45">
+        <text id="hix01311s3" src="624755.html#hix01311s3" />
+        <audio id="audhix01311s3" clip-begin="npt=202.720s" clip-end="npt=205.053s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS46">
+        <text id="hix01312" src="624755.html#hix01312" />
+        <audio id="audhix01312" clip-begin="npt=205.053s" clip-end="npt=208.680s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS47">
+        <text id="hix01312s2" src="624755.html#hix01312s2" />
+        <audio id="audhix01312s2" clip-begin="npt=208.680s" clip-end="npt=210.600s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS48">
+        <text id="hix01312s3" src="624755.html#hix01312s3" />
+        <audio id="audhix01312s3" clip-begin="npt=210.600s" clip-end="npt=214.930s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS49">
+        <text id="hix01313" src="624755.html#hix01313" />
+        <audio id="audhix01313" clip-begin="npt=214.930s" clip-end="npt=221.120s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS50">
+        <text id="hix01313s2" src="624755.html#hix01313s2" />
+        <audio id="audhix01313s2" clip-begin="npt=221.120s" clip-end="npt=223.802s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS51">
+        <text id="hix01314" src="624755.html#hix01314" />
+        <audio id="audhix01314" clip-begin="npt=223.802s" clip-end="npt=229.200s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS52">
+        <text id="hix01314s2" src="624755.html#hix01314s2" />
+        <audio id="audhix01314s2" clip-begin="npt=229.200s" clip-end="npt=229.720s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS53">
+        <text id="hix01314s3" src="624755.html#hix01314s3" />
+        <audio id="audhix01314s3" clip-begin="npt=229.720s" clip-end="npt=231.880s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS54">
+        <text id="hix01314s4" src="624755.html#hix01314s4" />
+        <audio id="audhix01314s4" clip-begin="npt=231.880s" clip-end="npt=234.872s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS55">
+        <text id="hix01315" src="624755.html#hix01315" />
+        <audio id="audhix01315" clip-begin="npt=234.872s" clip-end="npt=238.120s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS56">
+        <text id="hix01315s2" src="624755.html#hix01315s2" />
+        <audio id="audhix01315s2" clip-begin="npt=238.120s" clip-end="npt=242.932s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS57">
+        <text id="hix01316" src="624755.html#hix01316" />
+        <audio id="audhix01316" clip-begin="npt=242.932s" clip-end="npt=248.000s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS58">
+        <text id="hix01316s2" src="624755.html#hix01316s2" />
+        <audio id="audhix01316s2" clip-begin="npt=248.000s" clip-end="npt=254.160s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS59">
+        <text id="hix01316s3" src="624755.html#hix01316s3" />
+        <audio id="audhix01316s3" clip-begin="npt=254.160s" clip-end="npt=257.120s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS60">
+        <text id="hix01316s4" src="624755.html#hix01316s4" />
+        <audio id="audhix01316s4" clip-begin="npt=257.120s" clip-end="npt=259.740s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS61">
+        <text id="hix01317" src="624755.html#hix01317" />
+        <audio id="audhix01317" clip-begin="npt=259.740s" clip-end="npt=262.320s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS62">
+        <text id="hix01317s2" src="624755.html#hix01317s2" />
+        <audio id="audhix01317s2" clip-begin="npt=262.320s" clip-end="npt=266.621s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS63">
+        <text id="hix01318" src="624755.html#hix01318" />
+        <audio id="audhix01318" clip-begin="npt=266.621s" clip-end="npt=269.680s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS64">
+        <text id="hix01318s2" src="624755.html#hix01318s2" />
+        <audio id="audhix01318s2" clip-begin="npt=269.680s" clip-end="npt=270.680s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS65">
+        <text id="hix01318s3" src="624755.html#hix01318s3" />
+        <audio id="audhix01318s3" clip-begin="npt=270.680s" clip-end="npt=274.800s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS66">
+        <text id="hix01318s4" src="624755.html#hix01318s4" />
+        <audio id="audhix01318s4" clip-begin="npt=274.800s" clip-end="npt=278.360s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS67">
+        <text id="hix01318s5" src="624755.html#hix01318s5" />
+        <audio id="audhix01318s5" clip-begin="npt=278.360s" clip-end="npt=282.868s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS68">
+        <text id="hix01319" src="624755.html#hix01319" />
+        <audio id="audhix01319" clip-begin="npt=282.868s" clip-end="npt=285.720s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS69">
+        <text id="hix01319s2" src="624755.html#hix01319s2" />
+        <audio id="audhix01319s2" clip-begin="npt=285.720s" clip-end="npt=289.400s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS70">
+        <text id="hix01319s3" src="624755.html#hix01319s3" />
+        <audio id="audhix01319s3" clip-begin="npt=289.400s" clip-end="npt=292.840s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS71">
+        <text id="hix01319s4" src="624755.html#hix01319s4" />
+        <audio id="audhix01319s4" clip-begin="npt=292.840s" clip-end="npt=305.721s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par id="par28" system-required="pagenumber-on" endsync="last">
+        <text id="Page_195" src="624755.html#Page_195" />
+        <audio id="aud028" clip-begin="npt=305.721s" clip-end="npt=306.470s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS72">
+        <text id="hix01320" src="624755.html#hix01320" />
+        <audio id="audhix01320" clip-begin="npt=306.470s" clip-end="npt=312.240s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS73">
+        <text id="hix01320s2" src="624755.html#hix01320s2" />
+        <audio id="audhix01320s2" clip-begin="npt=312.240s" clip-end="npt=315.280s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS74">
+        <text id="hix01320s3" src="624755.html#hix01320s3" />
+        <audio id="audhix01320s3" clip-begin="npt=315.280s" clip-end="npt=319.787s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS75">
+        <text id="hix01321" src="624755.html#hix01321" />
+        <audio id="audhix01321" clip-begin="npt=319.787s" clip-end="npt=324.120s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS76">
+        <text id="hix01321s2" src="624755.html#hix01321s2" />
+        <audio id="audhix01321s2" clip-begin="npt=324.120s" clip-end="npt=325.080s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS77">
+        <text id="hix01321s3" src="624755.html#hix01321s3" />
+        <audio id="audhix01321s3" clip-begin="npt=325.080s" clip-end="npt=328.480s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS78">
+        <text id="hix01321s4" src="624755.html#hix01321s4" />
+        <audio id="audhix01321s4" clip-begin="npt=328.480s" clip-end="npt=330.848s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS79">
+        <text id="hix01322" src="624755.html#hix01322" />
+        <audio id="audhix01322" clip-begin="npt=330.848s" clip-end="npt=334.760s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS80">
+        <text id="hix01322s2" src="624755.html#hix01322s2" />
+        <audio id="audhix01322s2" clip-begin="npt=334.760s" clip-end="npt=338.880s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS81">
+        <text id="hix01322s3" src="624755.html#hix01322s3" />
+        <audio id="audhix01322s3" clip-begin="npt=338.880s" clip-end="npt=343.288s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS82">
+        <text id="hix01323" src="624755.html#hix01323" />
+        <audio id="audhix01323" clip-begin="npt=343.288s" clip-end="npt=345.520s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS83">
+        <text id="hix01323s2" src="624755.html#hix01323s2" />
+        <audio id="audhix01323s2" clip-begin="npt=345.520s" clip-end="npt=347.880s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS84">
+        <text id="hix01323s3" src="624755.html#hix01323s3" />
+        <audio id="audhix01323s3" clip-begin="npt=347.880s" clip-end="npt=351.880s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS85">
+        <text id="hix01323s4" src="624755.html#hix01323s4" />
+        <audio id="audhix01323s4" clip-begin="npt=351.880s" clip-end="npt=352.971s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS86">
+        <text id="hix01324" src="624755.html#hix01324" />
+        <audio id="audhix01324" clip-begin="npt=352.971s" clip-end="npt=357.658s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS87">
+        <text id="hix01325" src="624755.html#hix01325" />
+        <audio id="audhix01325" clip-begin="npt=357.658s" clip-end="npt=361.440s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS88">
+        <text id="hix01325s2" src="624755.html#hix01325s2" />
+        <audio id="audhix01325s2" clip-begin="npt=361.440s" clip-end="npt=373.240s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS89">
+        <text id="hix01325s3" src="624755.html#hix01325s3" />
+        <audio id="audhix01325s3" clip-begin="npt=373.240s" clip-end="npt=376.036s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS90">
+        <text id="hix01326" src="624755.html#hix01326" />
+        <audio id="audhix01326" clip-begin="npt=376.036s" clip-end="npt=379.000s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS91">
+        <text id="hix01326s2" src="624755.html#hix01326s2" />
+        <audio id="audhix01326s2" clip-begin="npt=379.000s" clip-end="npt=383.222s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS92">
+        <text id="hix01327" src="624755.html#hix01327" />
+        <audio id="audhix01327" clip-begin="npt=383.222s" clip-end="npt=389.911s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS93">
+        <text id="hix01328" src="624755.html#hix01328" />
+        <audio id="audhix01328" clip-begin="npt=389.911s" clip-end="npt=390.960s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS94">
+        <text id="hix01328s2" src="624755.html#hix01328s2" />
+        <audio id="audhix01328s2" clip-begin="npt=390.960s" clip-end="npt=391.920s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS95">
+        <text id="hix01328s3" src="624755.html#hix01328s3" />
+        <audio id="audhix01328s3" clip-begin="npt=391.920s" clip-end="npt=393.480s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS96">
+        <text id="hix01328s4" src="624755.html#hix01328s4" />
+        <audio id="audhix01328s4" clip-begin="npt=393.480s" clip-end="npt=396.480s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS97">
+        <text id="hix01328s5" src="624755.html#hix01328s5" />
+        <audio id="audhix01328s5" clip-begin="npt=396.480s" clip-end="npt=398.600s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS98">
+        <text id="hix01328s6" src="624755.html#hix01328s6" />
+        <audio id="audhix01328s6" clip-begin="npt=398.600s" clip-end="npt=399.658s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS99">
+        <text id="hix01329" src="624755.html#hix01329" />
+        <audio id="audhix01329" clip-begin="npt=399.658s" clip-end="npt=402.440s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS100">
+        <text id="hix01329s2" src="624755.html#hix01329s2" />
+        <audio id="audhix01329s2" clip-begin="npt=402.440s" clip-end="npt=406.520s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS101">
+        <text id="hix01329s3" src="624755.html#hix01329s3" />
+        <audio id="audhix01329s3" clip-begin="npt=406.520s" clip-end="npt=414.097s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS102">
+        <text id="hix01330" src="624755.html#hix01330" />
+        <audio id="audhix01330" clip-begin="npt=414.097s" clip-end="npt=417.920s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS103">
+        <text id="hix01330s2" src="624755.html#hix01330s2" />
+        <audio id="audhix01330s2" clip-begin="npt=417.920s" clip-end="npt=419.520s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS104">
+        <text id="hix01330s3" src="624755.html#hix01330s3" />
+        <audio id="audhix01330s3" clip-begin="npt=419.520s" clip-end="npt=422.520s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS105">
+        <text id="hix01330s4" src="624755.html#hix01330s4" />
+        <audio id="audhix01330s4" clip-begin="npt=422.520s" clip-end="npt=427.285s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par id="par40" system-required="pagenumber-on" endsync="last">
+        <text id="Page_196" src="624755.html#Page_196" />
+        <audio id="aud040" clip-begin="npt=427.285s" clip-end="npt=427.977s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS106">
+        <text id="hix01331" src="624755.html#hix01331" />
+        <audio id="audhix01331" clip-begin="npt=427.977s" clip-end="npt=436.200s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS107">
+        <text id="hix01331s2" src="624755.html#hix01331s2" />
+        <audio id="audhix01331s2" clip-begin="npt=436.200s" clip-end="npt=440.720s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS108">
+        <text id="hix01331s3" src="624755.html#hix01331s3" />
+        <audio id="audhix01331s3" clip-begin="npt=440.720s" clip-end="npt=444.100s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS109">
+        <text id="hix01332" src="624755.html#hix01332" />
+        <audio id="audhix01332" clip-begin="npt=444.100s" clip-end="npt=450.911s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS110">
+        <text id="hix01333" src="624755.html#hix01333" />
+        <audio id="audhix01333" clip-begin="npt=450.911s" clip-end="npt=457.800s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS111">
+        <text id="hix01333s2" src="624755.html#hix01333s2" />
+        <audio id="audhix01333s2" clip-begin="npt=457.800s" clip-end="npt=460.320s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS112">
+        <text id="hix01333s3" src="624755.html#hix01333s3" />
+        <audio id="audhix01333s3" clip-begin="npt=460.320s" clip-end="npt=461.472s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS113">
+        <text id="hix01334" src="624755.html#hix01334" />
+        <audio id="audhix01334" clip-begin="npt=461.472s" clip-end="npt=464.850s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS114">
+        <text id="hix01335" src="624755.html#hix01335" />
+        <audio id="audhix01335" clip-begin="npt=464.850s" clip-end="npt=471.880s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS115">
+        <text id="hix01335s2" src="624755.html#hix01335s2" />
+        <audio id="audhix01335s2" clip-begin="npt=471.880s" clip-end="npt=474.320s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS116">
+        <text id="hix01335s3" src="624755.html#hix01335s3" />
+        <audio id="audhix01335s3" clip-begin="npt=474.320s" clip-end="npt=483.599s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS117">
+        <text id="hix01336" src="624755.html#hix01336" />
+        <audio id="audhix01336" clip-begin="npt=483.599s" clip-end="npt=487.360s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS118">
+        <text id="hix01336s2" src="624755.html#hix01336s2" />
+        <audio id="audhix01336s2" clip-begin="npt=487.360s" clip-end="npt=491.595s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS119">
+        <text id="hix01337" src="624755.html#hix01337" />
+        <audio id="audhix01337" clip-begin="npt=491.595s" clip-end="npt=496.980s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS120">
+        <text id="hix01338" src="624755.html#hix01338" />
+        <audio id="audhix01338" clip-begin="npt=496.980s" clip-end="npt=505.640s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS121">
+        <text id="hix01338s2" src="624755.html#hix01338s2" />
+        <audio id="audhix01338s2" clip-begin="npt=505.640s" clip-end="npt=508.040s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS122">
+        <text id="hix01338s3" src="624755.html#hix01338s3" />
+        <audio id="audhix01338s3" clip-begin="npt=508.040s" clip-end="npt=511.440s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS123">
+        <text id="hix01338s4" src="624755.html#hix01338s4" />
+        <audio id="audhix01338s4" clip-begin="npt=511.440s" clip-end="npt=513.377s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS124">
+        <text id="hix01339" src="624755.html#hix01339" />
+        <audio id="audhix01339" clip-begin="npt=513.377s" clip-end="npt=516.280s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS125">
+        <text id="hix01339s2" src="624755.html#hix01339s2" />
+        <audio id="audhix01339s2" clip-begin="npt=516.280s" clip-end="npt=519.628s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS126">
+        <text id="hix01340" src="624755.html#hix01340" />
+        <audio id="audhix01340" clip-begin="npt=519.628s" clip-end="npt=522.600s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS127">
+        <text id="hix01340s2" src="624755.html#hix01340s2" />
+        <audio id="audhix01340s2" clip-begin="npt=522.600s" clip-end="npt=527.377s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS128">
+        <text id="hix01341" src="624755.html#hix01341" />
+        <audio id="audhix01341" clip-begin="npt=527.377s" clip-end="npt=529.200s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS129">
+        <text id="hix01341s2" src="624755.html#hix01341s2" />
+        <audio id="audhix01341s2" clip-begin="npt=529.200s" clip-end="npt=534.743s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par id="par52" system-required="pagenumber-on" endsync="last">
+        <text id="Page_197" src="624755.html#Page_197" />
+        <audio id="aud052" clip-begin="npt=534.743s" clip-end="npt=535.121s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS130">
+        <text id="hix01342" src="624755.html#hix01342" />
+        <audio id="audhix01342" clip-begin="npt=535.121s" clip-end="npt=537.920s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS131">
+        <text id="hix01342s2" src="624755.html#hix01342s2" />
+        <audio id="audhix01342s2" clip-begin="npt=537.920s" clip-end="npt=538.878s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS132">
+        <text id="hix01343" src="624755.html#hix01343" />
+        <audio id="audhix01343" clip-begin="npt=538.878s" clip-end="npt=544.080s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS133">
+        <text id="hix01343s2" src="624755.html#hix01343s2" />
+        <audio id="audhix01343s2" clip-begin="npt=544.080s" clip-end="npt=546.744s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS134">
+        <text id="hix01344" src="624755.html#hix01344" />
+        <audio id="audhix01344" clip-begin="npt=546.744s" clip-end="npt=551.000s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS135">
+        <text id="hix01344s2" src="624755.html#hix01344s2" />
+        <audio id="audhix01344s2" clip-begin="npt=551.000s" clip-end="npt=555.040s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS136">
+        <text id="hix01344s3" src="624755.html#hix01344s3" />
+        <audio id="audhix01344s3" clip-begin="npt=555.040s" clip-end="npt=560.750s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS137">
+        <text id="hix01345" src="624755.html#hix01345" />
+        <audio id="audhix01345" clip-begin="npt=560.750s" clip-end="npt=565.360s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS138">
+        <text id="hix01345s2" src="624755.html#hix01345s2" />
+        <audio id="audhix01345s2" clip-begin="npt=565.360s" clip-end="npt=567.808s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS139">
+        <text id="hix01346" src="624755.html#hix01346" />
+        <audio id="audhix01346" clip-begin="npt=567.808s" clip-end="npt=570.960s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS140">
+        <text id="hix01346s2" src="624755.html#hix01346s2" />
+        <audio id="audhix01346s2" clip-begin="npt=570.960s" clip-end="npt=576.280s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS141">
+        <text id="hix01346s3" src="624755.html#hix01346s3" />
+        <audio id="audhix01346s3" clip-begin="npt=576.280s" clip-end="npt=584.280s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS142">
+        <text id="hix01346s4" src="624755.html#hix01346s4" />
+        <audio id="audhix01346s4" clip-begin="npt=584.280s" clip-end="npt=590.200s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS143">
+        <text id="hix01346s5" src="624755.html#hix01346s5" />
+        <audio id="audhix01346s5" clip-begin="npt=590.200s" clip-end="npt=593.314s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS144">
+        <text id="hix01347" src="624755.html#hix01347" />
+        <audio id="audhix01347" clip-begin="npt=593.314s" clip-end="npt=598.120s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS145">
+        <text id="hix01348" src="624755.html#hix01348" />
+        <audio id="audhix01348" clip-begin="npt=598.120s" clip-end="npt=599.680s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS146">
+        <text id="hix01348s2" src="624755.html#hix01348s2" />
+        <audio id="audhix01348s2" clip-begin="npt=599.680s" clip-end="npt=602.320s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS147">
+        <text id="hix01348s3" src="624755.html#hix01348s3" />
+        <audio id="audhix01348s3" clip-begin="npt=602.320s" clip-end="npt=606.040s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS148">
+        <text id="hix01348s4" src="624755.html#hix01348s4" />
+        <audio id="audhix01348s4" clip-begin="npt=606.040s" clip-end="npt=612.062s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS149">
+        <text id="hix01349" src="624755.html#hix01349" />
+        <audio id="audhix01349" clip-begin="npt=612.062s" clip-end="npt=617.440s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS150">
+        <text id="hix01349s2" src="624755.html#hix01349s2" />
+        <audio id="audhix01349s2" clip-begin="npt=617.440s" clip-end="npt=621.440s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS151">
+        <text id="hix01349s3" src="624755.html#hix01349s3" />
+        <audio id="audhix01349s3" clip-begin="npt=621.440s" clip-end="npt=623.620s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS152">
+        <text id="hix01350" src="624755.html#hix01350" />
+        <audio id="audhix01350" clip-begin="npt=623.620s" clip-end="npt=626.600s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS153">
+        <text id="hix01350s2" src="624755.html#hix01350s2" />
+        <audio id="audhix01350s2" clip-begin="npt=626.600s" clip-end="npt=629.280s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS154">
+        <text id="hix01350s3" src="624755.html#hix01350s3" />
+        <audio id="audhix01350s3" clip-begin="npt=629.280s" clip-end="npt=631.680s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS155">
+        <text id="hix01350s4" src="624755.html#hix01350s4" />
+        <audio id="audhix01350s4" clip-begin="npt=631.680s" clip-end="npt=634.378s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par id="par62" system-required="pagenumber-on" endsync="last">
+        <text id="Page_198" src="624755.html#Page_198" />
+        <audio id="aud062" clip-begin="npt=634.378s" clip-end="npt=634.937s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS156">
+        <text id="hix01351" src="624755.html#hix01351" />
+        <audio id="audhix01351" clip-begin="npt=634.937s" clip-end="npt=639.628s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS157">
+        <text id="hix01352" src="624755.html#hix01352" />
+        <audio id="audhix01352" clip-begin="npt=639.628s" clip-end="npt=642.440s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS158">
+        <text id="hix01352s2" src="624755.html#hix01352s2" />
+        <audio id="audhix01352s2" clip-begin="npt=642.440s" clip-end="npt=647.640s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS159">
+        <text id="hix01352s3" src="624755.html#hix01352s3" />
+        <audio id="audhix01352s3" clip-begin="npt=647.640s" clip-end="npt=651.520s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS160">
+        <text id="hix01352s4" src="624755.html#hix01352s4" />
+        <audio id="audhix01352s4" clip-begin="npt=651.520s" clip-end="npt=655.378s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS161">
+        <text id="hix01353" src="624755.html#hix01353" />
+        <audio id="audhix01353" clip-begin="npt=655.378s" clip-end="npt=658.440s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS162">
+        <text id="hix01353s2" src="624755.html#hix01353s2" />
+        <audio id="audhix01353s2" clip-begin="npt=658.440s" clip-end="npt=661.520s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS163">
+        <text id="hix01353s3" src="624755.html#hix01353s3" />
+        <audio id="audhix01353s3" clip-begin="npt=661.520s" clip-end="npt=663.960s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS164">
+        <text id="hix01353s4" src="624755.html#hix01353s4" />
+        <audio id="audhix01353s4" clip-begin="npt=663.960s" clip-end="npt=667.400s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS165">
+        <text id="hix01353s5" src="624755.html#hix01353s5" />
+        <audio id="audhix01353s5" clip-begin="npt=667.400s" clip-end="npt=670.750s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS166">
+        <text id="hix01354" src="624755.html#hix01354" />
+        <audio id="audhix01354" clip-begin="npt=670.750s" clip-end="npt=674.040s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS167">
+        <text id="hix01354s2" src="624755.html#hix01354s2" />
+        <audio id="audhix01354s2" clip-begin="npt=674.040s" clip-end="npt=676.360s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS168">
+        <text id="hix01354s3" src="624755.html#hix01354s3" />
+        <audio id="audhix01354s3" clip-begin="npt=676.360s" clip-end="npt=678.810s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS169">
+        <text id="hix01355" src="624755.html#hix01355" />
+        <audio id="audhix01355" clip-begin="npt=678.810s" clip-end="npt=684.001s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS170">
+        <text id="hix01356" src="624755.html#hix01356" />
+        <audio id="audhix01356" clip-begin="npt=684.001s" clip-end="npt=688.160s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS171">
+        <text id="hix01356s2" src="624755.html#hix01356s2" />
+        <audio id="audhix01356s2" clip-begin="npt=688.160s" clip-end="npt=690.720s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS172">
+        <text id="hix01356s3" src="624755.html#hix01356s3" />
+        <audio id="audhix01356s3" clip-begin="npt=690.720s" clip-end="npt=694.186s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS173">
+        <text id="hix01357" src="624755.html#hix01357" />
+        <audio id="audhix01357" clip-begin="npt=694.186s" clip-end="npt=698.880s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS174">
+        <text id="hix01357s2" src="624755.html#hix01357s2" />
+        <audio id="audhix01357s2" clip-begin="npt=698.880s" clip-end="npt=707.682s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS175">
+        <text id="hix01358" src="624755.html#hix01358" />
+        <audio id="audhix01358" clip-begin="npt=707.682s" clip-end="npt=720.760s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS176">
+        <text id="hix01358s2" src="624755.html#hix01358s2" />
+        <audio id="audhix01358s2" clip-begin="npt=720.760s" clip-end="npt=721.640s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par endsync="last" id="parS177">
+        <text id="hix01358s3" src="624755.html#hix01358s3" />
+        <audio id="audhix01358s3" clip-begin="npt=721.640s" clip-end="npt=727.620s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+      <par id="par71" system-required="pagenumber-on" endsync="last">
+        <text id="Page_199" src="624755.html#Page_199" />
+        <audio id="aud071" clip-begin="npt=727.620s" clip-end="npt=729.119s" src="24_Chapter_Eighteen_Thinking_Up_the_Final.mp3" />
+      </par>
+    </seq>
+  </body>
+</smil>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+   <head>
+      <meta name="dc:identifier" content="9788232302000"/>
+      <meta name="dc:title" content="Yrke =HO: Vg1 Helse- og oppvekstfag"/>
+      <meta name="dc:format" content="Daisy 2.02"/>
+      <meta name="title" content="Refleksjonsspørsmål"/>
+      <meta name="ncc:totalElapsedTime" content="06:06:47"/>
+      <meta name="ncc:timeInThisSmil" content="00:00:09"/>
+      <meta name="ncc:generator" content="Regenerator 1.0.28"/>
+      <layout>
+			      <region id="txtView"/>
+		    </layout>
+   </head>
+   <body>
+      <seq dur="9.214s">
+         <par endsync="last" id="rgn_par_0915_0001">
+            <text src="innhold2345.html#rgn_cnt_5469" id="rgn_txt_0915_0001"/>
+            <seq>
+               <audio src="dtb_0915.mp3" clip-begin="npt=0.000s" clip-end="npt=1.599s"
+                      id="rgn_aud_0915_0001"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0915_0002">
+            <text src="innhold2345.html#rgn_cnt_5470" id="rgn_txt_0915_0002"/>
+            <seq>
+               <audio src="dtb_0915.mp3" clip-begin="npt=1.599s" clip-end="npt=7.398s"
+                      id="rgn_aud_0915_0002"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0915_0003">
+            <text src="innhold2345.html#rgn_cnt_5471" id="rgn_txt_0915_0003"/>
+            <seq>
+               <audio src="dtb_0915.mp3" clip-begin="npt=7.398s" clip-end="npt=9.214s"
+                      id="rgn_aud_0915_0003"/>
+            </seq>
+         </par>
+      </seq>
+   </body>
+</smil>

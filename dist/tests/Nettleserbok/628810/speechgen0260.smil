@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd" []>
+<smil>
+   <head>
+      <meta name="ncc:generator" content="DMFC z3986-2005 to Daisy 2.02 (smil2smil v0.2)" />
+      <meta name="dc:format" content="Daisy 2.02" />
+      <meta name="dc:identifier" content="628810" />
+      <meta name="title" content="Kjøretid" />
+      <meta name="dc:title" content="Veien til førerkortet: buss, lastebil, vogntog" />
+      <meta name="ncc:totalElapsedTime" content="13:55:23" />
+      <meta name="ncc:timeInThisSmil" content="0:01:45" />
+      <layout>
+         <region id="txtView" />
+      </layout>
+   </head>
+   <body>
+      <seq dur="105.413s">
+         <par endsync="last" id="tcp9832">
+            <text id="text9832" src="content.html#dtb9273" />
+            <audio src="speechgen0260.mp3" id="audd12888e10" clip-begin="npt=0.000s" clip-end="npt=4.118s" />
+         </par>
+         <par endsync="last" id="tcp9833">
+            <text id="text9833" src="content.html#img_768" />
+            <audio src="speechgen0260.mp3" id="audd12888e13" clip-begin="npt=4.118s" clip-end="npt=4.318s" />
+         </par>
+         <par endsync="last" id="tcp9834">
+            <text id="text9834" src="content.html#dtb9274" />
+            <audio src="speechgen0260.mp3" id="audd12888e16" clip-begin="npt=4.318s" clip-end="npt=7.902s" />
+         </par>
+         <par endsync="last" id="tcp9835">
+            <text id="text9835" src="content.html#dtb9275" />
+            <audio src="speechgen0260.mp3" id="audd12888e19" clip-begin="npt=7.902s" clip-end="npt=24.350s" />
+         </par>
+         <par endsync="last" id="tcp9836">
+            <text id="text9836" src="content.html#dtb9276" />
+            <audio src="speechgen0260.mp3" id="audd12888e22" clip-begin="npt=24.350s" clip-end="npt=29.601s" />
+         </par>
+         <par endsync="last" id="tcp9837">
+            <text id="text9837" src="content.html#dtb9277" />
+            <audio src="speechgen0260.mp3" id="audd12888e25" clip-begin="npt=29.601s" clip-end="npt=33.237s" />
+         </par>
+         <par endsync="last" id="tcp9838">
+            <text id="text9838" src="content.html#dtb9278" />
+            <audio src="speechgen0260.mp3" id="audd12888e28" clip-begin="npt=33.237s" clip-end="npt=41.230s" />
+         </par>
+         <par endsync="last" id="tcp9839">
+            <text id="text9839" src="content.html#dtb9279" />
+            <audio src="speechgen0260.mp3" id="audd12888e31" clip-begin="npt=41.230s" clip-end="npt=45.065s" />
+         </par>
+         <par endsync="last" id="tcp9840">
+            <text id="text9840" src="content.html#dtb9280" />
+            <audio src="speechgen0260.mp3" id="audd12888e34" clip-begin="npt=45.065s" clip-end="npt=64.680s" />
+         </par>
+         <par endsync="last" id="tcp9841">
+            <text id="text9841" src="content.html#dtb9281" />
+            <audio src="speechgen0260.mp3" id="audd12888e37" clip-begin="npt=64.680s" clip-end="npt=71.561s" />
+         </par>
+         <par endsync="last" id="tcp9842">
+            <text id="text9842" src="content.html#dtb9282" />
+            <audio src="speechgen0260.mp3" id="audd12888e40" clip-begin="npt=71.561s" clip-end="npt=73.877s" />
+         </par>
+         <par endsync="last" id="tcp9843">
+            <text id="text9843" src="content.html#dtb9283" />
+            <audio src="speechgen0260.mp3" id="audd12888e44" clip-begin="npt=73.877s" clip-end="npt=86.715s" />
+         </par>
+         <par endsync="last" id="tcp9844">
+            <text id="text9844" src="content.html#dtb9284" />
+            <audio src="speechgen0260.mp3" id="audd12888e47" clip-begin="npt=86.715s" clip-end="npt=95.766s" />
+         </par>
+         <par endsync="last" id="tcp9845">
+            <text id="text9845" src="content.html#dtb9285" />
+            <audio src="speechgen0260.mp3" id="audd12888e50" clip-begin="npt=95.766s" clip-end="npt=105.413s" />
+         </par>
+      </seq>
+   </body>
+</smil>

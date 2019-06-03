@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:11:45.876"/>
+		<meta name="ncc:totalElapsedTime" content="05:41:50.642"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300089122"/>
+		<meta name="title" content="Kapittel 44: Aaron, Aaron, Aaron"/>
+		<meta name="dc:title" content="AARONS MASKIN"/>
+		<meta name="dc:identifier" content="616872"/>
+	</head>
+	<body>
+		<seq dur="705.876s">
+			<par endsync="last" id="ugkc_00bb">
+				<text src="ncc.html#ugkc_00ba" id="ugkc_00ba"/>
+				<seq>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=0.000s" clip-end="npt=7.262s" id="audio_0001"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=7.262s" clip-end="npt=13.022s" id="audio_0002"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=13.022s" clip-end="npt=18.547s" id="audio_0003"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=18.547s" clip-end="npt=23.523s" id="audio_0004"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=23.523s" clip-end="npt=34.678s" id="audio_0005"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=34.678s" clip-end="npt=39.967s" id="audio_0006"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=39.967s" clip-end="npt=44.108s" id="audio_0007"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=44.108s" clip-end="npt=51.840s" id="audio_0008"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=51.840s" clip-end="npt=56.699s" id="audio_0009"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=56.699s" clip-end="npt=61.923s" id="audio_0010"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=61.923s" clip-end="npt=65.998s" id="audio_0011"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=65.998s" clip-end="npt=72.607s" id="audio_0012"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=72.607s" clip-end="npt=87.119s" id="audio_0013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="fgll_0001" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_011e" id="fgll_0009"/>
+				<seq>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=87.119s" clip-end="npt=87.719s" id="audio_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="fgll_0019">
+				<text src="ncc.html#ugkc_00ba" id="fgll_000a"/>
+				<seq>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=87.719s" clip-end="npt=92.591s" id="audio_0015"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=92.591s" clip-end="npt=97.881s" id="audio_0016"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=97.881s" clip-end="npt=104.066s" id="audio_0017"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=104.066s" clip-end="npt=109.055s" id="audio_0018"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=109.055s" clip-end="npt=117.339s" id="audio_0019"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=117.339s" clip-end="npt=122.916s" id="audio_0020"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=122.916s" clip-end="npt=128.676s" id="audio_0021"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=128.676s" clip-end="npt=137.022s" id="audio_0022"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=137.022s" clip-end="npt=145.003s" id="audio_0023"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=145.003s" clip-end="npt=149.378s" id="audio_0024"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=149.378s" clip-end="npt=155.321s" id="audio_0025"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=155.321s" clip-end="npt=160.114s" id="audio_0026"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=160.114s" clip-end="npt=166.841s" id="audio_0027"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=166.841s" clip-end="npt=170.945s" id="audio_0028"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=170.945s" clip-end="npt=176.582s" id="audio_0029"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=176.582s" clip-end="npt=180.788s" id="audio_0030"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=180.788s" clip-end="npt=185.221s" id="audio_0031"/>
+				</seq>
+			</par>
+			<par endsync="last" id="fgll_0002" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_011f" id="fgll_000b"/>
+				<seq>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=185.221s" clip-end="npt=185.821s" id="audio_0032"/>
+				</seq>
+			</par>
+			<par endsync="last" id="fgll_001a">
+				<text src="ncc.html#ugkc_00ba" id="fgll_000c"/>
+				<seq>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=185.821s" clip-end="npt=199.656s" id="audio_0033"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=199.656s" clip-end="npt=209.380s" id="audio_0034"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=209.380s" clip-end="npt=216.159s" id="audio_0035"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=216.159s" clip-end="npt=221.593s" id="audio_0036"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=221.593s" clip-end="npt=226.752s" id="audio_0037"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=226.752s" clip-end="npt=237.720s" id="audio_0038"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=237.720s" clip-end="npt=246.827s" id="audio_0039"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=246.827s" clip-end="npt=251.085s" id="audio_0040"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=251.085s" clip-end="npt=255.350s" id="audio_0041"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=255.350s" clip-end="npt=259.584s" id="audio_0042"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=259.584s" clip-end="npt=267.930s" id="audio_0043"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=267.930s" clip-end="npt=272.545s" id="audio_0044"/>
+				</seq>
+			</par>
+			<par endsync="last" id="fgll_0003" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_0120" id="fgll_000d"/>
+				<seq>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=272.545s" clip-end="npt=273.265s" id="audio_0045"/>
+				</seq>
+			</par>
+			<par endsync="last" id="fgll_001b">
+				<text src="ncc.html#ugkc_00ba" id="fgll_000e"/>
+				<seq>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=273.265s" clip-end="npt=278.272s" id="audio_0046"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=278.272s" clip-end="npt=283.313s" id="audio_0047"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=283.313s" clip-end="npt=288.888s" id="audio_0048"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=288.888s" clip-end="npt=292.911s" id="audio_0049"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=292.911s" clip-end="npt=297.823s" id="audio_0050"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=297.823s" clip-end="npt=303.935s" id="audio_0051"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=303.935s" clip-end="npt=309.460s" id="audio_0052"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=309.460s" clip-end="npt=313.483s" id="audio_0053"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=313.483s" clip-end="npt=320.614s" id="audio_0054"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=320.614s" clip-end="npt=324.820s" id="audio_0055"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=324.820s" clip-end="npt=329.078s" id="audio_0056"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=329.078s" clip-end="npt=338.195s" id="audio_0057"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=338.195s" clip-end="npt=342.753s" id="audio_0058"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=342.753s" clip-end="npt=347.377s" id="audio_0059"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=347.377s" clip-end="npt=351.517s" id="audio_0060"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=351.517s" clip-end="npt=357.695s" id="audio_0061"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=357.695s" clip-end="npt=366.041s" id="audio_0062"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=366.041s" clip-end="npt=370.665s" id="audio_0063"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=370.665s" clip-end="npt=374.675s" id="audio_0064"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=374.675s" clip-end="npt=381.995s" id="audio_0065"/>
+				</seq>
+			</par>
+			<par endsync="last" id="fgll_0004" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_0121" id="fgll_000f"/>
+				<seq>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=381.995s" clip-end="npt=382.595s" id="audio_0066"/>
+				</seq>
+			</par>
+			<par endsync="last" id="fgll_001c">
+				<text src="ncc.html#ugkc_00ba" id="fgll_0010"/>
+				<seq>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=382.595s" clip-end="npt=387.331s" id="audio_0067"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=387.331s" clip-end="npt=391.837s" id="audio_0068"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=391.837s" clip-end="npt=396.931s" id="audio_0069"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=396.931s" clip-end="npt=405.143s" id="audio_0070"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=405.143s" clip-end="npt=413.371s" id="audio_0071"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=413.371s" clip-end="npt=421.051s" id="audio_0072"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=421.051s" clip-end="npt=425.793s" id="audio_0073"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=425.793s" clip-end="npt=430.051s" id="audio_0074"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=430.051s" clip-end="npt=434.491s" id="audio_0075"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=434.491s" clip-end="npt=442.054s" id="audio_0076"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=442.054s" clip-end="npt=450.922s" id="audio_0077"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=450.922s" clip-end="npt=456.513s" id="audio_0078"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=456.513s" clip-end="npt=463.461s" id="audio_0079"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=463.461s" clip-end="npt=468.092s" id="audio_0080"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=468.092s" clip-end="npt=476.304s" id="audio_0081"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=476.304s" clip-end="npt=483.743s" id="audio_0082"/>
+				</seq>
+			</par>
+			<par endsync="last" id="fgll_0005" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_0122" id="fgll_0011"/>
+				<seq>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=483.743s" clip-end="npt=484.343s" id="audio_0083"/>
+				</seq>
+			</par>
+			<par endsync="last" id="fgll_001d">
+				<text src="ncc.html#ugkc_00ba" id="fgll_0012"/>
+				<seq>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=484.343s" clip-end="npt=489.091s" id="audio_0084"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=489.091s" clip-end="npt=495.752s" id="audio_0085"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=495.752s" clip-end="npt=501.447s" id="audio_0086"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=501.447s" clip-end="npt=508.173s" id="audio_0087"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=508.173s" clip-end="npt=515.370s" id="audio_0088"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=515.370s" clip-end="npt=520.032s" id="audio_0089"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=520.032s" clip-end="npt=526.341s" id="audio_0090"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=526.341s" clip-end="npt=531.853s" id="audio_0091"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=531.853s" clip-end="npt=537.538s" id="audio_0092"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=537.538s" clip-end="npt=542.415s" id="audio_0093"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=542.415s" clip-end="npt=548.358s" id="audio_0094"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=548.358s" clip-end="npt=556.756s" id="audio_0095"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=556.756s" clip-end="npt=564.554s" id="audio_0096"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=564.554s" clip-end="npt=581.654s" id="audio_0097"/>
+				</seq>
+			</par>
+			<par endsync="last" id="fgll_0006" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_0123" id="fgll_0013"/>
+				<seq>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=581.654s" clip-end="npt=582.314s" id="audio_0098"/>
+				</seq>
+			</par>
+			<par endsync="last" id="fgll_001e">
+				<text src="ncc.html#ugkc_00ba" id="fgll_0014"/>
+				<seq>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=582.314s" clip-end="npt=588.127s" id="audio_0099"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=588.127s" clip-end="npt=593.417s" id="audio_0100"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=593.417s" clip-end="npt=597.609s" id="audio_0101"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=597.609s" clip-end="npt=602.168s" id="audio_0102"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=602.168s" clip-end="npt=608.346s" id="audio_0103"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=608.346s" clip-end="npt=619.267s" id="audio_0104"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=619.267s" clip-end="npt=625.628s" id="audio_0105"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=625.628s" clip-end="npt=630.839s" id="audio_0106"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=630.839s" clip-end="npt=635.463s" id="audio_0107"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=635.463s" clip-end="npt=641.445s" id="audio_0108"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=641.445s" clip-end="npt=646.970s" id="audio_0109"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=646.970s" clip-end="npt=654.585s" id="audio_0110"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=654.585s" clip-end="npt=662.212s" id="audio_0111"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=662.212s" clip-end="npt=670.545s" id="audio_0112"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=670.545s" clip-end="npt=677.084s" id="audio_0113"/>
+				</seq>
+			</par>
+			<par endsync="last" id="fgll_0007" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_0124" id="fgll_0015"/>
+				<seq>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=677.084s" clip-end="npt=677.684s" id="audio_0114"/>
+				</seq>
+			</par>
+			<par endsync="last" id="fgll_001f">
+				<text src="ncc.html#ugkc_00ba" id="fgll_0016"/>
+				<seq>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=677.684s" clip-end="npt=683.502s" id="audio_0115"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=683.502s" clip-end="npt=690.712s" id="audio_0116"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=690.712s" clip-end="npt=695.323s" id="audio_0117"/>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=695.323s" clip-end="npt=704.564s" id="audio_0118"/>
+				</seq>
+			</par>
+			<par endsync="last" id="fgll_0008" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_0125" id="fgll_0017"/>
+				<seq>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=704.564s" clip-end="npt=705.104s" id="audio_0119"/>
+				</seq>
+			</par>
+			<par endsync="last" id="fgll_0020">
+				<text src="ncc.html#ugkc_00ba" id="fgll_0018"/>
+				<seq>
+					<audio src="052_Kapittel_44_.mp3" clip-begin="npt=705.104s" clip-end="npt=705.876s" id="audio_0120"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

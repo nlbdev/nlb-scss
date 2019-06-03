@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="210311"/>
+		<meta name="dc:title" content="Fra mottaker til aktør"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="14:44:32.426"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<ref src="dtb_0001.smil" title="Fra mottaker til aktør" id="rgn_smil_0001"/>
+		<ref src="dtb_0002.smil" title="Lydbokavtalen" id="rgn_smil_0002"/>
+		<ref src="dtb_0003.smil" title="Informasjon om lydboka" id="rgn_smil_0003"/>
+		<ref src="dtb_0004.smil" title="Baksidetekst" id="rgn_smil_0004"/>
+		<ref src="dtb_0005.smil" title="Forfatterne" id="rgn_smil_0005"/>
+		<ref src="dtb_0006.smil" title="Forord" id="rgn_smil_0006"/>
+		<ref src="dtb_0007.smil" title="Innhold" id="rgn_smil_0007"/>
+		<ref src="dtb_0008.smil" title="Del 1 Sosialpolitiske perspektiver" id="rgn_smil_0008"/>
+		<ref src="dtb_0009.smil" title="Kapittel 1 Fra mottaker til aktør; brukernes plass i praktisk sosialt arbeid og forskning. Mona Sandbæk" id="rgn_smil_0009"/>
+		<ref src="dtb_0010.smil" title="Utviklingen innen velferdsforskningen" id="rgn_smil_0010"/>
+		<ref src="dtb_0011.smil" title="Fra mottaker til aktør" id="rgn_smil_0011"/>
+		<ref src="dtb_0012.smil" title="Solidaritet - med det aktive velferdssubjektet?" id="rgn_smil_0012"/>
+		<ref src="dtb_0013.smil" title="Klient, bruker eller aktør - drøfting av begreper" id="rgn_smil_0013"/>
+		<ref src="dtb_0014.smil" title="Avstand mellom idealer og praksis" id="rgn_smil_0014"/>
+		<ref src="dtb_0015.smil" title="Forholdet mellom profesjonell kunnskap og brukermedvirkning" id="rgn_smil_0015"/>
+		<ref src="dtb_0016.smil" title="Forholdet mellom forskning og praksis" id="rgn_smil_0016"/>
+		<ref src="dtb_0017.smil" title="Kapittel 2 Solidariteten og velferdsstaten. Steinar Stjernø" id="rgn_smil_0017"/>
+		<ref src="dtb_0018.smil" title="Det mangfoldige begrepet" id="rgn_smil_0018"/>
+		<ref src="dtb_0019.smil" title="Samhold og solidaritet" id="rgn_smil_0019"/>
+		<ref src="dtb_0020.smil" title="Arbeiderklassesolidariteten" id="rgn_smil_0020"/>
+		<ref src="dtb_0021.smil" title="Middelklassen og de franske solidaristene" id="rgn_smil_0021"/>
+		<ref src="dtb_0022.smil" title="Durkheim: Fra mekanisk til organisk solidaritet" id="rgn_smil_0022"/>
+		<ref src="dtb_0023.smil" title="Katolisismen og protestantismen" id="rgn_smil_0023"/>
+		<ref src="dtb_0024.smil" title="Moderne sosialteori: Solidaritet fra Parsons til Baldwin" id="rgn_smil_0024"/>
+		<ref src="dtb_0025.smil" title="Første bekymring: Individualiseringen" id="rgn_smil_0025"/>
+		<ref src="dtb_0026.smil" title="Andre bekymring: Klassegrunnlaget" id="rgn_smil_0026"/>
+		<ref src="dtb_0027.smil" title="Tredje bekymring: Velferdsstaten undergraver sitt normative grunnlag" id="rgn_smil_0027"/>
+		<ref src="dtb_0028.smil" title="En ny basis for solidariteten?" id="rgn_smil_0028"/>
+		<ref src="dtb_0029.smil" title="Avslutning: Et standpunkt" id="rgn_smil_0029"/>
+		<ref src="dtb_0030.smil" title="Kapittel 3 Posisjonering av velferdsbrukeren innen forskning: Fra passiv mottaker til velferdsaktør. Fiona Williams" id="rgn_smil_0030"/>
+		<ref src="dtb_0031.smil" title="Framveksten av en ny velferdsaktør" id="rgn_smil_0031"/>
+		<ref src="dtb_0032.smil" title="Endrede politiske diskurser om velferd" id="rgn_smil_0032"/>
+		<ref src="dtb_0033.smil" title="Endringer i grunnlaget for forskning" id="rgn_smil_0033"/>
+		<ref src="dtb_0034.smil" title="Utforskning av velferdssubjektet i handling og kontekst" id="rgn_smil_0034"/>
+		<ref src="dtb_0035.smil" title="Velferdsaktør som konsept" id="rgn_smil_0035"/>
+		<ref src="dtb_0036.smil" title="Å knytte aktør til kontekst" id="rgn_smil_0036"/>
+		<ref src="dtb_0037.smil" title="Del 2 Brukere i møte med hjelpeapparatet" id="rgn_smil_0037"/>
+		<ref src="dtb_0038.smil" title="Kapittel 4 Sosialhjelp, sjølrespekt og meistring, Om institusjonell audmjuking og krav til eit anstendig hjelpeapparat. Liv Johanne Solheim" id="rgn_smil_0038"/>
+		<ref src="dtb_0039.smil" title="Utgangspunkt" id="rgn_smil_0039"/>
+		<ref src="dtb_0040.smil" title="Moglege forklaringar på dårlege klienterfaringar" id="rgn_smil_0040"/>
+		<ref src="dtb_0041.smil" title="Kva er sjølrespekt?" id="rgn_smil_0041"/>
+		<ref src="dtb_0042.smil" title="Kvifor er sjølrespekt viktig?" id="rgn_smil_0042"/>
+		<ref src="dtb_0043.smil" title="Det audmjukande (og invalidiserande) hjelpeapparatet" id="rgn_smil_0043"/>
+		<ref src="dtb_0044.smil" title="Meistringsstrategiar" id="rgn_smil_0044"/>
+		<ref src="dtb_0045.smil" title="Vern om sjølrespekten i sosialt arbeid" id="rgn_smil_0045"/>
+		<ref src="dtb_0046.smil" title="Konklusjon" id="rgn_smil_0046"/>
+		<ref src="dtb_0047.smil" title="Kapittel 5 Hva er motstand? Diskusjon av motstandsbegrepet i lys av handling og struktur. Karen-Sofie Pettersen" id="rgn_smil_0047"/>
+		<ref src="dtb_0048.smil" title="Foucaults perspektiv: Spenning mellom struktur og handling" id="rgn_smil_0048"/>
+		<ref src="dtb_0049.smil" title="En idealistisk tilnærming" id="rgn_smil_0049"/>
+		<ref src="dtb_0050.smil" title="Legitimering: Spørsmål om delt bevissthet mellom aktørene" id="rgn_smil_0050"/>
+		<ref src="dtb_0051.smil" title="En kritisk realistisk tilnærming" id="rgn_smil_0051"/>
+		<ref src="dtb_0052.smil" title="Noen konkluderende bemerkninger" id="rgn_smil_0052"/>
+		<ref src="dtb_0053.smil" title="Kapittel 6 Brukermedvirkningens kår under nye rammebetingelser i barnevernet. Tor Slettebø og Sissel Seim" id="rgn_smil_0053"/>
+		<ref src="dtb_0054.smil" title="Hva mener vi med brukermedvirkning og hvorfor?" id="rgn_smil_0054"/>
+		<ref src="dtb_0055.smil" title="Hvorfor er det vanskelig å gjennomføre brukermedvirkning i barnevernet?" id="rgn_smil_0055"/>
+		<ref src="dtb_0056.smil" title="Kunnskapssynet i barnevernet: Ulike syn på brukermedvirkning" id="rgn_smil_0056"/>
+		<ref src="dtb_0057.smil" title="Tvetydig profesjonelt verdigrunnlag" id="rgn_smil_0057"/>
+		<ref src="dtb_0058.smil" title="Motsetning mellom profesjonalisering og brukermedvirkning?" id="rgn_smil_0058"/>
+		<ref src="dtb_0059.smil" title="Hvordan få til mer brukermedvirkning?" id="rgn_smil_0059"/>
+		<ref src="dtb_0060.smil" title="Kapittel 7 Kan barneverntjenesten forholde seg til både foreldre og barn som brukere og aktører? Mona Sandbæk" id="rgn_smil_0060"/>
+		<ref src="dtb_0061.smil" title="Hensiktsmessigheten av brukerbegrepet i barnevernssammenheng" id="rgn_smil_0061"/>
+		<ref src="dtb_0062.smil" title="Brukermedvirkning i praksis" id="rgn_smil_0062"/>
+		<ref src="dtb_0063.smil" title="Anvendelse av aktørbegrepet" id="rgn_smil_0063"/>
+		<ref src="dtb_0064.smil" title="Barnet som primærbruker" id="rgn_smil_0064"/>
+		<ref src="dtb_0065.smil" title="Barn og foreldre som brukere" id="rgn_smil_0065"/>
+		<ref src="dtb_0066.smil" title="Balansen mellom ansvar og respekt" id="rgn_smil_0066"/>
+		<ref src="dtb_0067.smil" title="Avslutning" id="rgn_smil_0067"/>
+		<ref src="dtb_0068.smil" title="Kapittel 8 Forebyggingsprogrammer mot seksuelle overgrep. Barnet som aktør og helt - på barnets eller voksnes premisser? Svein Mossige" id="rgn_smil_0068"/>
+		<ref src="dtb_0069.smil" title="Forebyggingsprogrammene - innhold og idé" id="rgn_smil_0069"/>
+		<ref src="dtb_0070.smil" title="Aktørperspektivets muligheter og overgrepssituasjonens begrensninger for barnet" id="rgn_smil_0070"/>
+		<ref src="dtb_0071.smil" title="Hvordan den fordekte makten skaper delaktighet og taushet" id="rgn_smil_0071"/>
+		<ref src="dtb_0072.smil" title="Avslutning" id="rgn_smil_0072"/>
+		<ref src="dtb_0073.smil" title="Del 3 Profesjonell kunnskap og brukernes erfaringer" id="rgn_smil_0073"/>
+		<ref src="dtb_0074.smil" title="Kapittel 9 Profesjonell kunnskap - i brukernes tjeneste? Elisabeth Backe-Hansen" id="rgn_smil_0074"/>
+		<ref src="dtb_0075.smil" title="Aktørperspektivet som metafor" id="rgn_smil_0075"/>
+		<ref src="dtb_0076.smil" title="Et kritisk blikk på aktørperspektivet - om å oppheve sosial ulikhet?" id="rgn_smil_0076"/>
+		<ref src="dtb_0077.smil" title="Kapittel 10 Barnefamiliens primære oppgave - et viktig tema for fagfelt og forskning? Erik Larsen" id="rgn_smil_0077"/>
+		<ref src="dtb_0078.smil" title="Familien er i samspill med sine omgivelser omkring den primære oppgaven" id="rgn_smil_0078"/>
+		<ref src="dtb_0079.smil" title="Noen synspunkter på familiens primære oppgave i et politisk og kulturelt perspektiv" id="rgn_smil_0079"/>
+		<ref src="dtb_0080.smil" title="Barnet, familien og den primære oppgave i et (vestlig) psykodynamisk utviklingsperspektiv" id="rgn_smil_0080"/>
+		<ref src="dtb_0081.smil" title="Ekspertperspektivet versus brukerperspektivet - er disse perspektivene uforenlige?" id="rgn_smil_0081"/>
+		<ref src="dtb_0082.smil" title="Hvordan kan forskning være nyttig i fagfeltets arbeid med barnefamilier og dens primære oppgave?" id="rgn_smil_0082"/>
+		<ref src="dtb_0083.smil" title="Avslutning" id="rgn_smil_0083"/>
+		<ref src="dtb_0084.smil" title="Kapittel 11 Foreldre; skolens forlengede arm? Anne Kristin Bø" id="rgn_smil_0084"/>
+		<ref src="dtb_0085.smil" title="Overlater foreldre altfor mye til skolen?" id="rgn_smil_0085"/>
+		<ref src="dtb_0086.smil" title="Teknisk rasjonalitet i profesjonell kunnskap" id="rgn_smil_0086"/>
+		<ref src="dtb_0087.smil" title="Myndiggjørende praksis" id="rgn_smil_0087"/>
+		<ref src="dtb_0088.smil" title="Til elevens beste?" id="rgn_smil_0088"/>
+		<ref src="dtb_0089.smil" title="Kapittel 12 Brukernes plass i tverrfaglig samarbeid. Thomas Nordahl" id="rgn_smil_0089"/>
+		<ref src="dtb_0090.smil" title="Premisser for tverrfaglig samarbeid" id="rgn_smil_0090"/>
+		<ref src="dtb_0091.smil" title="Forståelse av brukerbegrepet og forholdet til profesjonene" id="rgn_smil_0091"/>
+		<ref src="dtb_0092.smil" title="Konstruksjoner av brukere i tverrfaglig samarbeid" id="rgn_smil_0092"/>
+		<ref src="dtb_0093.smil" title="Muligheter for kommunikativ makt" id="rgn_smil_0093"/>
+		<ref src="dtb_0094.smil" title="Avslutning" id="rgn_smil_0094"/>
+		<ref src="dtb_0095.smil" title="Del 4 Forholdet mellom forskning og praksis" id="rgn_smil_0095"/>
+		<ref src="dtb_0096.smil" title="Kapittel 13 Forskningens bidrag til praksis: Noen refleksjoner rundt problemorientert forskning. Jan Tøssebro" id="rgn_smil_0096"/>
+		<ref src="dtb_0097.smil" title="Forvaltningsforskning og opposisjonsforskning - en måte å karakterisere feltet" id="rgn_smil_0097"/>
+		<ref src="dtb_0098.smil" title="Forskningens relasjon til praksis og praktisk nytte" id="rgn_smil_0098"/>
+		<ref src="dtb_0099.smil" title="Yrkesutøvelsen" id="rgn_smil_0099"/>
+		<ref src="dtb_0100.smil" title="Det store bildet" id="rgn_smil_0100"/>
+		<ref src="dtb_0101.smil" title="Avslutning" id="rgn_smil_0101"/>
+		<ref src="dtb_0102.smil" title="Kapittel 14 Forskningens forhold til svake grupper. Sturla Falck" id="rgn_smil_0102"/>
+		<ref src="dtb_0103.smil" title="Svake grupper - hva er det?" id="rgn_smil_0103"/>
+		<ref src="dtb_0104.smil" title="Forskningens ansvar" id="rgn_smil_0104"/>
+		<ref src="dtb_0105.smil" title="Fra aksjonsforskning til utviklingsarbeid" id="rgn_smil_0105"/>
+		<ref src="dtb_0106.smil" title="Kapittel 15 Diskurser i og om sosialt arbeid. Irene Levin" id="rgn_smil_0106"/>
+		<ref src="dtb_0107.smil" title="En studie av sosialt arbeid" id="rgn_smil_0107"/>
+		<ref src="dtb_0108.smil" title="Metoden" id="rgn_smil_0108"/>
+		<ref src="dtb_0109.smil" title="Resultater" id="rgn_smil_0109"/>
+		<ref src="dtb_0110.smil" title="Mulighetenes horisont" id="rgn_smil_0110"/>
+		<ref src="dtb_0111.smil" title="Avslutning" id="rgn_smil_0111"/>
+		<ref src="dtb_0112.smil" title="Kapittel 16 Praksis og forskning i sosialt arbeid - noen utviklingstrekk. Kikkan Ustvedt Christiansen" id="rgn_smil_0112"/>
+		<ref src="dtb_0113.smil" title="Forskning om og i sosialt arbeid" id="rgn_smil_0113"/>
+		<ref src="dtb_0114.smil" title="Nærhet og distanse" id="rgn_smil_0114"/>
+		<ref src="dtb_0115.smil" title="Mellomposisjoner og brobyggere" id="rgn_smil_0115"/>
+		<ref src="dtb_0116.smil" title="Avslutning" id="rgn_smil_0116"/>
+		<ref src="dtb_0117.smil" title="Sluttannonsering" id="rgn_smil_0117"/>
+	</body>
+</smil>

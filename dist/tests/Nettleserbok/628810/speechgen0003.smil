@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd" []>
+<smil>
+   <head>
+      <meta name="ncc:generator" content="DMFC z3986-2005 to Daisy 2.02 (smil2smil v0.2)" />
+      <meta name="dc:format" content="Daisy 2.02" />
+      <meta name="dc:identifier" content="628810" />
+      <meta name="title" content="Bokinformasjon" />
+      <meta name="dc:title" content="Veien til førerkortet: buss, lastebil, vogntog" />
+      <meta name="ncc:totalElapsedTime" content="0:01:10" />
+      <meta name="ncc:timeInThisSmil" content="0:03:55" />
+      <layout>
+         <region id="txtView" />
+      </layout>
+   </head>
+   <body>
+      <seq dur="234.645s">
+         <par endsync="last" id="tcp10">
+            <text id="text10" src="content.html#dtb10" />
+            <audio src="speechgen0003.mp3" id="audd22e13" clip-begin="npt=0.000s" clip-end="npt=4.536s" />
+         </par>
+         <par endsync="last" id="tcp11">
+            <text id="text11" src="content.html#dtb11" />
+            <audio src="speechgen0003.mp3" id="audd22e16" clip-begin="npt=4.536s" clip-end="npt=15.796s" />
+         </par>
+         <par endsync="last" id="tcp12">
+            <text id="text12" src="content.html#dtb12" />
+            <audio src="speechgen0003.mp3" id="audd22e19" clip-begin="npt=15.796s" clip-end="npt=23.209s" />
+         </par>
+         <par endsync="last" id="tcp13">
+            <text id="text13" src="content.html#dtb13" />
+            <audio src="speechgen0003.mp3" id="audd22e22" clip-begin="npt=23.209s" clip-end="npt=34.381s" />
+         </par>
+         <par endsync="last" id="tcp14">
+            <text id="text14" src="content.html#dtb14" />
+            <audio src="speechgen0003.mp3" id="audd22e25" clip-begin="npt=34.381s" clip-end="npt=45.927s" />
+         </par>
+         <par endsync="last" id="tcp15">
+            <text id="text15" src="content.html#dtb15" />
+            <audio src="speechgen0003.mp3" id="audd22e28" clip-begin="npt=45.927s" clip-end="npt=53.636s" />
+         </par>
+         <par endsync="last" id="tcp16">
+            <text id="text16" src="content.html#dtb16" />
+            <audio src="speechgen0003.mp3" id="audd22e31" clip-begin="npt=53.636s" clip-end="npt=61.082s" />
+         </par>
+         <par endsync="last" id="tcp17">
+            <text id="text17" src="content.html#dtb17" />
+            <audio src="speechgen0003.mp3" id="audd22e34" clip-begin="npt=61.082s" clip-end="npt=68.848s" />
+         </par>
+         <par endsync="last" id="tcp18">
+            <text id="text18" src="content.html#dtb18" />
+            <audio src="speechgen0003.mp3" id="audd22e37" clip-begin="npt=68.848s" clip-end="npt=70.586s" />
+         </par>
+         <par endsync="last" id="tcp19">
+            <text id="text19" src="content.html#dtb19" />
+            <audio src="speechgen0003.mp3" id="audd22e40" clip-begin="npt=70.586s" clip-end="npt=70.786s" />
+         </par>
+         <par endsync="last" id="tcp20" system-required="prodnote-on">
+            <text id="text20" src="content.html#img_1" />
+            <audio src="speechgen0003.mp3" id="audd22e44" clip-begin="npt=70.786s" clip-end="npt=70.986s" />
+         </par>
+         <par endsync="last" id="tcp21" system-required="prodnote-on">
+            <text id="text21" src="content.html#dtb20" />
+            <audio src="speechgen0003.mp3" id="audd22e49" clip-begin="npt=70.986s" clip-end="npt=72.058s" />
+         </par>
+         <par endsync="last" id="tcp22" system-required="prodnote-on">
+            <text id="text22" src="content.html#dtb21" />
+            <audio src="speechgen0003.mp3" id="audd22e52" clip-begin="npt=72.058s" clip-end="npt=73.716s" />
+         </par>
+         <par endsync="last" id="tcp23" system-required="prodnote-on">
+            <text id="text23" src="content.html#img_2" />
+            <audio src="speechgen0003.mp3" id="audd22e55" clip-begin="npt=73.716s" clip-end="npt=73.916s" />
+         </par>
+         <par endsync="last" id="tcp24" system-required="prodnote-on">
+            <text id="text24" src="content.html#dtb22" />
+            <audio src="speechgen0003.mp3" id="audd22e58" clip-begin="npt=73.916s" clip-end="npt=82.197s" />
+         </par>
+         <par endsync="last" id="tcp25" system-required="prodnote-on">
+            <text id="text25" src="content.html#img_3" />
+            <audio src="speechgen0003.mp3" id="audd22e61" clip-begin="npt=82.197s" clip-end="npt=82.397s" />
+         </par>
+         <par endsync="last" id="tcp26" system-required="prodnote-on">
+            <text id="text26" src="content.html#img_4" />
+            <audio src="speechgen0003.mp3" id="audd22e64" clip-begin="npt=82.397s" clip-end="npt=82.597s" />
+         </par>
+         <par endsync="last" id="tcp27" system-required="prodnote-on">
+            <text id="text27" src="content.html#dtb23" />
+            <audio src="speechgen0003.mp3" id="audd22e67" clip-begin="npt=82.597s" clip-end="npt=88.654s" />
+         </par>
+         <par endsync="last" id="tcp28" system-required="prodnote-on">
+            <text id="text28" src="content.html#dtb24" />
+            <audio src="speechgen0003.mp3" id="audd22e70" clip-begin="npt=88.654s" clip-end="npt=93.304s" />
+         </par>
+         <par endsync="last" id="tcp29" system-required="prodnote-on">
+            <text id="text29" src="content.html#dtb25" />
+            <audio src="speechgen0003.mp3" id="audd22e74" clip-begin="npt=93.304s" clip-end="npt=96.883s" />
+         </par>
+         <par endsync="last" id="tcp30" system-required="prodnote-on">
+            <text id="text30" src="content.html#dtb27" />
+            <audio src="speechgen0003.mp3" id="audd22e78" clip-begin="npt=96.883s" clip-end="npt=105.079s" />
+         </par>
+         <par endsync="last" id="tcp31" system-required="prodnote-on">
+            <text id="text31" src="content.html#dtb28" />
+            <audio src="speechgen0003.mp3" id="audd22e81" clip-begin="npt=105.079s" clip-end="npt=110.392s" />
+         </par>
+         <par endsync="last" id="tcp32" system-required="prodnote-on">
+            <text id="text32" src="content.html#dtb29" />
+            <audio src="speechgen0003.mp3" id="audd22e84" clip-begin="npt=110.392s" clip-end="npt=116.133s" />
+         </par>
+         <par endsync="last" id="tcp33" system-required="prodnote-on">
+            <text id="text33" src="content.html#dtb30" />
+            <audio src="speechgen0003.mp3" id="audd22e87" clip-begin="npt=116.133s" clip-end="npt=118.447s" />
+         </par>
+         <par endsync="last" id="tcp34" system-required="prodnote-on">
+            <text id="text34" src="content.html#img_5" />
+            <audio src="speechgen0003.mp3" id="audd22e90" clip-begin="npt=118.447s" clip-end="npt=118.647s" />
+         </par>
+         <par endsync="last" id="tcp35" system-required="prodnote-on">
+            <text id="text35" src="content.html#dtb31" />
+            <audio src="speechgen0003.mp3" id="audd22e93" clip-begin="npt=118.647s" clip-end="npt=123.955s" />
+         </par>
+         <par endsync="last" id="tcp36" system-required="prodnote-on">
+            <text id="text36" src="content.html#img_6" />
+            <audio src="speechgen0003.mp3" id="audd22e97" clip-begin="npt=123.955s" clip-end="npt=124.155s" />
+         </par>
+         <par endsync="last" id="tcp37" system-required="prodnote-on">
+            <text id="text37" src="content.html#dtb32" />
+            <audio src="speechgen0003.mp3" id="audd22e100" clip-begin="npt=124.155s" clip-end="npt=129.461s" />
+         </par>
+         <par endsync="last" id="tcp38" system-required="prodnote-on">
+            <text id="text38" src="content.html#dtb33" />
+            <audio src="speechgen0003.mp3" id="audd22e103" clip-begin="npt=129.461s" clip-end="npt=143.147s" />
+         </par>
+         <par endsync="last" id="tcp39" system-required="prodnote-on">
+            <text id="text39" src="content.html#dtb34" />
+            <audio src="speechgen0003.mp3" id="audd22e106" clip-begin="npt=143.147s" clip-end="npt=153.391s" />
+         </par>
+         <par endsync="last" id="tcp40" system-required="prodnote-on">
+            <text id="text40" src="content.html#dtb35" />
+            <audio src="speechgen0003.mp3" id="audd22e109" clip-begin="npt=153.391s" clip-end="npt=156.352s" />
+         </par>
+         <par endsync="last" id="tcp41" system-required="prodnote-on">
+            <text id="text41" src="content.html#dtb37" />
+            <audio src="speechgen0003.mp3" id="audd22e113" clip-begin="npt=156.352s" clip-end="npt=159.162s" />
+         </par>
+         <par endsync="last" id="tcp42" system-required="prodnote-on">
+            <text id="text42" src="content.html#dtb38" />
+            <audio src="speechgen0003.mp3" id="audd22e116" clip-begin="npt=159.162s" clip-end="npt=166.368s" />
+         </par>
+         <par endsync="last" id="tcp43" system-required="prodnote-on">
+            <text id="text43" src="content.html#dtb39" />
+            <audio src="speechgen0003.mp3" id="audd22e119" clip-begin="npt=166.368s" clip-end="npt=168.922s" />
+         </par>
+         <par endsync="last" id="tcp44" system-required="prodnote-on">
+            <text id="text44" src="content.html#dtb40" />
+            <audio src="speechgen0003.mp3" id="audd22e122" clip-begin="npt=168.922s" clip-end="npt=171.720s" />
+         </par>
+         <par endsync="last" id="tcp45" system-required="prodnote-on">
+            <text id="text45" src="content.html#dtb41" />
+            <audio src="speechgen0003.mp3" id="audd22e125" clip-begin="npt=171.720s" clip-end="npt=176.596s" />
+         </par>
+         <par endsync="last" id="tcp46" system-required="prodnote-on">
+            <text id="text46" src="content.html#img_7" />
+            <audio src="speechgen0003.mp3" id="audd22e128" clip-begin="npt=176.596s" clip-end="npt=176.796s" />
+         </par>
+         <par endsync="last" id="tcp47" system-required="prodnote-on">
+            <text id="text47" src="content.html#dtb42" />
+            <audio src="speechgen0003.mp3" id="audd22e131" clip-begin="npt=176.796s" clip-end="npt=187.309s" />
+         </par>
+         <par endsync="last" id="tcp48" system-required="prodnote-on">
+            <text id="text48" src="content.html#dtb43" />
+            <audio src="speechgen0003.mp3" id="audd22e134" clip-begin="npt=187.309s" clip-end="npt=197.617s" />
+         </par>
+         <par endsync="last" id="tcp49" system-required="prodnote-on">
+            <text id="text49" src="content.html#dtb44" />
+            <audio src="speechgen0003.mp3" id="audd22e137" clip-begin="npt=197.617s" clip-end="npt=206.712s" />
+         </par>
+         <par endsync="last" id="tcp50" system-required="prodnote-on">
+            <text id="text50" src="content.html#dtb45" />
+            <audio src="speechgen0003.mp3" id="audd22e140" clip-begin="npt=206.712s" clip-end="npt=210.409s" />
+         </par>
+         <par endsync="last" id="tcp51" system-required="prodnote-on">
+            <text id="text51" src="content.html#dtb46" />
+            <audio src="speechgen0003.mp3" id="audd22e144" clip-begin="npt=210.409s" clip-end="npt=216.119s" />
+         </par>
+         <par endsync="last" id="tcp52" system-required="prodnote-on">
+            <text id="text52" src="content.html#dtb47" />
+            <audio src="speechgen0003.mp3" id="audd22e147" clip-begin="npt=216.119s" clip-end="npt=219.590s" />
+         </par>
+         <par endsync="last" id="tcp53" system-required="prodnote-on">
+            <text id="text53" src="content.html#dtb48" />
+            <audio src="speechgen0003.mp3" id="audd22e150" clip-begin="npt=219.590s" clip-end="npt=223.717s" />
+         </par>
+         <par endsync="last" id="tcp54" system-required="prodnote-on">
+            <text id="text54" src="content.html#dtb49" />
+            <audio src="speechgen0003.mp3" id="audd22e153" clip-begin="npt=223.717s" clip-end="npt=224.760s" />
+         </par>
+         <par endsync="last" id="tcp55" system-required="prodnote-on">
+            <text id="text55" src="content.html#dtb50" />
+            <audio src="speechgen0003.mp3" id="audd22e156" clip-begin="npt=224.760s" clip-end="npt=228.817s" />
+         </par>
+         <par endsync="last" id="tcp56" system-required="prodnote-on">
+            <text id="text56" src="content.html#dtb51" />
+            <audio src="speechgen0003.mp3" id="audd22e159" clip-begin="npt=228.817s" clip-end="npt=233.467s" />
+         </par>
+         <par id="tcp57" endsync="last" system-required="pagenumber-on">
+            <text id="text57" src="content.html#Page_1" />
+            <audio src="speechgen0003.mp3" id="audd22e162" clip-begin="npt=233.467s" clip-end="npt=234.645s" />
+         </par>
+      </seq>
+   </body>
+</smil>

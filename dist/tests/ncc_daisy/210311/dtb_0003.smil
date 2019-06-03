@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="210311"/>
+		<meta name="dc:title" content="Fra mottaker til aktør"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Informasjon om lydboka"/>
+		<meta name="ncc:totalElapsedTime" content="00:01:08"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:32"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="32.087s">
+			<par endsync="last" id="rgn_par_0002_0001">
+				<text src="ncc.html#text_0002" id="text_0002"/>
+				<seq>
+					<audio src="dtb_0003.mp3" clip-begin="npt=0.000s" clip-end="npt=4.049s" id="rgn_aud_0003_0001"/>
+					<audio src="dtb_0003.mp3" clip-begin="npt=4.049s" clip-end="npt=9.449s" id="rgn_aud_0003_0002"/>
+					<audio src="dtb_0003.mp3" clip-begin="npt=9.449s" clip-end="npt=13.644s" id="rgn_aud_0003_0003"/>
+					<audio src="dtb_0003.mp3" clip-begin="npt=13.644s" clip-end="npt=16.440s" id="rgn_aud_0003_0004"/>
+					<audio src="dtb_0003.mp3" clip-begin="npt=16.440s" clip-end="npt=16.800s" id="rgn_aud_0003_0005"/>
+					<audio src="dtb_0003.mp3" clip-begin="npt=16.800s" clip-end="npt=18.696s" id="rgn_aud_0003_0006"/>
+					<audio src="dtb_0003.mp3" clip-begin="npt=18.696s" clip-end="npt=18.765s" id="rgn_aud_0003_0007"/>
+					<audio src="dtb_0003.mp3" clip-begin="npt=18.765s" clip-end="npt=19.413s" id="rgn_aud_0003_0008"/>
+					<audio src="dtb_0003.mp3" clip-begin="npt=19.413s" clip-end="npt=25.605s" id="rgn_aud_0003_0009"/>
+					<audio src="dtb_0003.mp3" clip-begin="npt=25.605s" clip-end="npt=29.059s" id="rgn_aud_0003_0010"/>
+					<audio src="dtb_0003.mp3" clip-begin="npt=29.059s" clip-end="npt=30.899s" id="rgn_aud_0003_0011"/>
+					<audio src="dtb_0003.mp3" clip-begin="npt=30.899s" clip-end="npt=32.087s" id="rgn_aud_0003_0012"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd" []>
+<smil>
+   <head>
+      <meta name="ncc:generator" content="DMFC z3986-2005 to Daisy 2.02 (smil2smil v0.2)" />
+      <meta name="dc:format" content="Daisy 2.02" />
+      <meta name="dc:identifier" content="214286" />
+      <meta name="title" content="13.1 Innledning" />
+      <meta name="dc:title" content="Metode og dataanalyse" />
+      <meta name="ncc:totalElapsedTime" content="15:06:18" />
+      <meta name="ncc:timeInThisSmil" content="0:01:42" />
+      <layout>
+         <region id="txtView" />
+      </layout>
+   </head>
+   <body>
+      <seq dur="102.023s">
+         <par endsync="last" id="tcp7185">
+            <text id="text7185" src="content.html#dtb7441" />
+            <audio src="speechgen0232.mp3" id="audd9511e10" clip-begin="npt=0.000s" clip-end="npt=5.295s" />
+         </par>
+         <par endsync="last" id="tcp7186">
+            <text id="text7186" src="content.html#dtb7442" />
+            <audio src="speechgen0232.mp3" id="audd9511e13" clip-begin="npt=5.295s" clip-end="npt=16.457s" />
+         </par>
+         <par endsync="last" id="tcp7187">
+            <text id="text7187" src="content.html#dtb7443" />
+            <audio src="speechgen0232.mp3" id="audd9511e16" clip-begin="npt=16.457s" clip-end="npt=37.658s" />
+         </par>
+         <par endsync="last" id="tcp7188">
+            <text id="text7188" src="content.html#dtb7444" />
+            <audio src="speechgen0232.mp3" id="audd9511e19" clip-begin="npt=37.658s" clip-end="npt=56.341s" />
+         </par>
+         <par endsync="last" id="tcp7189">
+            <text id="text7189" src="content.html#dtb7445" />
+            <audio src="speechgen0232.mp3" id="audd9511e22" clip-begin="npt=56.341s" clip-end="npt=71.032s" />
+         </par>
+         <par endsync="last" id="tcp7190">
+            <text id="text7190" src="content.html#dtb7446" />
+            <audio src="speechgen0232.mp3" id="audd9511e25" clip-begin="npt=71.032s" clip-end="npt=87.014s" />
+         </par>
+         <par endsync="last" id="tcp7191">
+            <text id="text7191" src="content.html#dtb7447" />
+            <audio src="speechgen0232.mp3" id="audd9511e28" clip-begin="npt=87.014s" clip-end="npt=95.892s" />
+         </par>
+         <par endsync="last" id="tcp7192">
+            <text id="text7192" src="content.html#dtb7448" />
+            <audio src="speechgen0232.mp3" id="audd9511e31" clip-begin="npt=95.892s" clip-end="npt=102.023s" />
+         </par>
+      </seq>
+   </body>
+</smil>

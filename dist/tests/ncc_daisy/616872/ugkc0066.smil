@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:08:30.883"/>
+		<meta name="ncc:totalElapsedTime" content="11:27:57.368"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300089122"/>
+		<meta name="title" content="Kapittel 91: Forskjellen på godt og ondt"/>
+		<meta name="dc:title" content="AARONS MASKIN"/>
+		<meta name="dc:identifier" content="616872"/>
+	</head>
+	<body>
+		<seq dur="510.883s">
+			<par endsync="last" id="vcci_0001">
+				<text src="ncc.html#ugkc_01f4" id="ugkc_01f4"/>
+				<seq>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=0.000s" clip-end="npt=7.262s" id="audio_0001"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=7.262s" clip-end="npt=11.468s" id="audio_0002"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=11.468s" clip-end="npt=20.584s" id="audio_0003"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=20.584s" clip-end="npt=26.279s" id="audio_0004"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=26.279s" clip-end="npt=32.640s" id="audio_0005"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=32.640s" clip-end="npt=37.564s" id="audio_0006"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=37.564s" clip-end="npt=41.606s" id="audio_0007"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=41.606s" clip-end="npt=54.328s" id="audio_0008"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=54.328s" clip-end="npt=61.774s" id="audio_0009"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=61.774s" clip-end="npt=67.599s" id="audio_0010"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=67.599s" clip-end="npt=72.759s" id="audio_0011"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=72.759s" clip-end="npt=80.345s" id="audio_0012"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=80.345s" clip-end="npt=85.977s" id="audio_0013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vcci_0002" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_0242" id="vcci_0007"/>
+				<seq>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=85.977s" clip-end="npt=86.577s" id="audio_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vcci_0011">
+				<text src="ncc.html#ugkc_01f4" id="vcci_0008"/>
+				<seq>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=86.577s" clip-end="npt=90.835s" id="audio_0015"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=90.835s" clip-end="npt=97.248s" id="audio_0016"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=97.248s" clip-end="npt=101.388s" id="audio_0017"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=101.388s" clip-end="npt=111.354s" id="audio_0018"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=111.354s" clip-end="npt=116.259s" id="audio_0019"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=116.259s" clip-end="npt=122.750s" id="audio_0020"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=122.750s" clip-end="npt=129.167s" id="audio_0021"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=129.167s" clip-end="npt=135.214s" id="audio_0022"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=135.214s" clip-end="npt=147.818s" id="audio_0023"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=147.818s" clip-end="npt=152.194s" id="audio_0024"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=152.194s" clip-end="npt=158.254s" id="audio_0025"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=158.254s" clip-end="npt=169.591s" id="audio_0026"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=169.591s" clip-end="npt=175.652s" id="audio_0027"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=175.652s" clip-end="npt=184.298s" id="audio_0028"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=184.298s" clip-end="npt=195.818s" id="audio_0029"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=195.818s" clip-end="npt=200.309s" id="audio_0030"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vcci_0003" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_0243" id="vcci_0009"/>
+				<seq>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=200.309s" clip-end="npt=200.969s" id="audio_0031"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vcci_0012">
+				<text src="ncc.html#ugkc_01f4" id="vcci_000a"/>
+				<seq>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=200.969s" clip-end="npt=207.090s" id="audio_0032"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=207.090s" clip-end="npt=217.539s" id="audio_0033"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=217.539s" clip-end="npt=227.074s" id="audio_0034"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=227.074s" clip-end="npt=232.951s" id="audio_0035"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=232.951s" clip-end="npt=236.974s" id="audio_0036"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=236.974s" clip-end="npt=245.973s" id="audio_0037"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=245.973s" clip-end="npt=250.231s" id="audio_0038"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=250.231s" clip-end="npt=261.268s" id="audio_0039"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=261.268s" clip-end="npt=272.491s" id="audio_0040"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=272.491s" clip-end="npt=278.669s" id="audio_0041"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=278.669s" clip-end="npt=282.744s" id="audio_0042"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=282.744s" clip-end="npt=290.604s" id="audio_0043"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=290.604s" clip-end="npt=300.556s" id="audio_0044"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=300.556s" clip-end="npt=307.818s" id="audio_0045"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=307.818s" clip-end="npt=312.612s" id="audio_0046"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=312.612s" clip-end="npt=316.752s" id="audio_0047"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=316.752s" clip-end="npt=325.240s" id="audio_0048"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vcci_0004" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_0244" id="vcci_000b"/>
+				<seq>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=325.240s" clip-end="npt=325.840s" id="audio_0049"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vcci_0013">
+				<text src="ncc.html#ugkc_01f4" id="vcci_000c"/>
+				<seq>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=325.840s" clip-end="npt=331.152s" id="audio_0050"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=331.152s" clip-end="npt=336.194s" id="audio_0051"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=336.194s" clip-end="npt=342.137s" id="audio_0052"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=342.137s" clip-end="npt=348.798s" id="audio_0053"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=348.798s" clip-end="npt=356.360s" id="audio_0054"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=356.360s" clip-end="npt=362.956s" id="audio_0055"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=362.956s" clip-end="npt=367.880s" id="audio_0056"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=367.880s" clip-end="npt=375.861s" id="audio_0057"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=375.861s" clip-end="npt=380.171s" id="audio_0058"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=380.171s" clip-end="npt=386.715s" id="audio_0059"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=386.715s" clip-end="npt=396.323s" id="audio_0060"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=396.323s" clip-end="npt=401.112s" id="audio_0061"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=401.112s" clip-end="npt=405.422s" id="audio_0062"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=405.422s" clip-end="npt=411.901s" id="audio_0063"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=411.901s" clip-end="npt=416.642s" id="audio_0064"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=416.642s" clip-end="npt=422.642s" id="audio_0065"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vcci_0005" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_0245" id="vcci_000d"/>
+				<seq>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=422.642s" clip-end="npt=423.242s" id="audio_0066"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vcci_0014">
+				<text src="ncc.html#ugkc_01f4" id="vcci_000e"/>
+				<seq>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=423.242s" clip-end="npt=428.462s" id="audio_0067"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=428.462s" clip-end="npt=434.351s" id="audio_0068"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=434.351s" clip-end="npt=438.975s" id="audio_0069"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=438.975s" clip-end="npt=445.453s" id="audio_0070"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=445.453s" clip-end="npt=451.749s" id="audio_0071"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=451.749s" clip-end="npt=456.620s" id="audio_0072"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=456.620s" clip-end="npt=461.468s" id="audio_0073"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=461.468s" clip-end="npt=472.805s" id="audio_0074"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=472.805s" clip-end="npt=477.311s" id="audio_0075"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=477.311s" clip-end="npt=481.365s" id="audio_0076"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=481.365s" clip-end="npt=487.674s" id="audio_0077"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=487.674s" clip-end="npt=497.391s" id="audio_0078"/>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=497.391s" clip-end="npt=509.264s" id="audio_0079"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vcci_0006" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_0246" id="vcci_000f"/>
+				<seq>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=509.264s" clip-end="npt=509.924s" id="audio_0080"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vcci_0015">
+				<text src="ncc.html#ugkc_01f4" id="vcci_0010"/>
+				<seq>
+					<audio src="102_Kapittel_91_.mp3" clip-begin="npt=509.924s" clip-end="npt=510.883s" id="audio_0081"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd" []>
+<smil>
+   <head>
+      <meta name="ncc:generator" content="DMFC z3986-2005 to Daisy 2.02 (smil2smil v0.2)" />
+      <meta name="dc:format" content="Daisy 2.02" />
+      <meta name="dc:identifier" content="628810" />
+      <meta name="title" content="Ekstrautstyr" />
+      <meta name="dc:title" content="Veien til førerkortet: buss, lastebil, vogntog" />
+      <meta name="ncc:totalElapsedTime" content="8:26:39" />
+      <meta name="ncc:timeInThisSmil" content="0:00:28" />
+      <layout>
+         <region id="txtView" />
+      </layout>
+   </head>
+   <body>
+      <seq dur="28.386s">
+         <par endsync="last" id="tcp5503">
+            <text id="text5503" src="content.html#dtb4964" />
+            <audio src="speechgen0181.mp3" id="audd7187e12" clip-begin="npt=0.000s" clip-end="npt=4.349s" />
+         </par>
+         <par endsync="last" id="tcp5504">
+            <text id="text5504" src="content.html#dtb4965" />
+            <audio src="speechgen0181.mp3" id="audd7187e15" clip-begin="npt=4.349s" clip-end="npt=6.411s" />
+         </par>
+         <par endsync="last" id="tcp5505">
+            <text id="text5505" src="content.html#dtb4966" />
+            <audio src="speechgen0181.mp3" id="audd7187e18" clip-begin="npt=6.411s" clip-end="npt=15.934s" />
+         </par>
+         <par endsync="last" id="tcp5506">
+            <text id="text5506" src="content.html#dtb4967" />
+            <audio src="speechgen0181.mp3" id="audd7187e21" clip-begin="npt=15.934s" clip-end="npt=26.151s" />
+         </par>
+         <par id="tcp5507" endsync="last" system-required="pagenumber-on">
+            <text id="text5507" src="content.html#Page_253" />
+            <audio src="speechgen0181.mp3" id="audd7187e24" clip-begin="npt=26.151s" clip-end="npt=28.386s" />
+         </par>
+      </seq>
+   </body>
+</smil>

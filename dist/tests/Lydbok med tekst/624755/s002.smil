@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd"[]>
+<smil>
+  <head>
+    <meta name="dc:title" content="THE BOY IN THE STRIPED PYJAMAS" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="dc:identifier" content="624755" />
+    <meta name="ncc:totalElapsedTime" content="00:00:11.476" />
+    <meta name="ncc:timeInThisSmil" content="00:00:52.174" />
+    <meta name="ncc:generator" content="Hindenburg ABC Studio 1.26.2164" />
+    <layout>
+      <region id="txtView" />
+    </layout>
+  </head>
+  <body>
+    <seq id="main" dur="52.174s">
+      <par endsync="last" id="parS1">
+        <text id="d1534e46-0" src="624755.html#d1534e46-0" />
+        <audio id="audd1534e46-0" clip-begin="npt=0.000s" clip-end="npt=2.805s" src="02_The_Audiobook_Agreement.mp3" />
+      </par>
+      <par endsync="last" id="parS2">
+        <text id="hix00002" src="624755.html#hix00002" />
+        <audio id="audhix00002" clip-begin="npt=2.805s" clip-end="npt=18.320s" src="02_The_Audiobook_Agreement.mp3" />
+      </par>
+      <par endsync="last" id="parS3">
+        <text id="hix00002s2" src="624755.html#hix00002s2" />
+        <audio id="audhix00002s2" clip-begin="npt=18.320s" clip-end="npt=21.800s" src="02_The_Audiobook_Agreement.mp3" />
+      </par>
+      <par endsync="last" id="parS4">
+        <text id="hix00002s3" src="624755.html#hix00002s3" />
+        <audio id="audhix00002s3" clip-begin="npt=21.800s" clip-end="npt=28.760s" src="02_The_Audiobook_Agreement.mp3" />
+      </par>
+      <par endsync="last" id="parS5">
+        <text id="hix00002s4" src="624755.html#hix00002s4" />
+        <audio id="audhix00002s4" clip-begin="npt=28.760s" clip-end="npt=45.320s" src="02_The_Audiobook_Agreement.mp3" />
+      </par>
+      <par endsync="last" id="parS6">
+        <text id="hix00002s5" src="624755.html#hix00002s5" />
+        <audio id="audhix00002s5" clip-begin="npt=45.320s" clip-end="npt=52.174s" src="02_The_Audiobook_Agreement.mp3" />
+      </par>
+    </seq>
+  </body>
+</smil>

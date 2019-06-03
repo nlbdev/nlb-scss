@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="210311"/>
+		<meta name="dc:title" content="Fra mottaker til aktør"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Kapittel 16 Praksis og forskning i sosialt arbeid - noen utviklingstrekk. Kikkan Ustvedt Christiansen "/>
+		<meta name="ncc:totalElapsedTime" content="14:07:18"/>
+		<meta name="ncc:timeInThisSmil" content="00:02:02"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="122.305s">
+			<par endsync="last" id="rgn_par_0111_0001">
+				<text src="ncc.html#text_006f" id="text_006f"/>
+				<seq>
+					<audio src="dtb_0112.mp3" clip-begin="npt=0.000s" clip-end="npt=11.799s" id="rgn_aud_0112_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0111_0002">
+				<text src="ncc.html#page_0120" id="page_0120"/>
+				<seq>
+					<audio src="dtb_0112.mp3" clip-begin="npt=11.799s" clip-end="npt=13.320s" id="rgn_aud_0112_0002"/>
+					<audio src="dtb_0112.mp3" clip-begin="npt=13.320s" clip-end="npt=14.891s" id="rgn_aud_0112_0003"/>
+					<audio src="dtb_0112.mp3" clip-begin="npt=14.891s" clip-end="npt=15.574s" id="rgn_aud_0112_0004"/>
+					<audio src="dtb_0112.mp3" clip-begin="npt=15.574s" clip-end="npt=24.430s" id="rgn_aud_0112_0005"/>
+					<audio src="dtb_0112.mp3" clip-begin="npt=24.430s" clip-end="npt=34.924s" id="rgn_aud_0112_0006"/>
+					<audio src="dtb_0112.mp3" clip-begin="npt=34.924s" clip-end="npt=44.338s" id="rgn_aud_0112_0007"/>
+					<audio src="dtb_0112.mp3" clip-begin="npt=44.338s" clip-end="npt=46.078s" id="rgn_aud_0112_0008"/>
+					<audio src="dtb_0112.mp3" clip-begin="npt=46.078s" clip-end="npt=47.031s" id="rgn_aud_0112_0009"/>
+					<audio src="dtb_0112.mp3" clip-begin="npt=47.031s" clip-end="npt=58.372s" id="rgn_aud_0112_0010"/>
+					<audio src="dtb_0112.mp3" clip-begin="npt=58.372s" clip-end="npt=68.305s" id="rgn_aud_0112_0011"/>
+					<audio src="dtb_0112.mp3" clip-begin="npt=68.305s" clip-end="npt=69.150s" id="rgn_aud_0112_0012"/>
+					<audio src="dtb_0112.mp3" clip-begin="npt=69.150s" clip-end="npt=73.200s" id="rgn_aud_0112_0013"/>
+					<audio src="dtb_0112.mp3" clip-begin="npt=73.200s" clip-end="npt=76.349s" id="rgn_aud_0112_0014"/>
+					<audio src="dtb_0112.mp3" clip-begin="npt=76.349s" clip-end="npt=80.995s" id="rgn_aud_0112_0015"/>
+					<audio src="dtb_0112.mp3" clip-begin="npt=80.995s" clip-end="npt=88.427s" id="rgn_aud_0112_0016"/>
+					<audio src="dtb_0112.mp3" clip-begin="npt=88.427s" clip-end="npt=98.814s" id="rgn_aud_0112_0017"/>
+					<audio src="dtb_0112.mp3" clip-begin="npt=98.814s" clip-end="npt=104.340s" id="rgn_aud_0112_0018"/>
+					<audio src="dtb_0112.mp3" clip-begin="npt=104.340s" clip-end="npt=108.984s" id="rgn_aud_0112_0019"/>
+					<audio src="dtb_0112.mp3" clip-begin="npt=108.984s" clip-end="npt=113.143s" id="rgn_aud_0112_0020"/>
+					<audio src="dtb_0112.mp3" clip-begin="npt=113.143s" clip-end="npt=122.305s" id="rgn_aud_0112_0021"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

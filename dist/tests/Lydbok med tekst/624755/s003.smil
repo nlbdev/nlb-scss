@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd"[]>
+<smil>
+  <head>
+    <meta name="dc:title" content="THE BOY IN THE STRIPED PYJAMAS" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="dc:identifier" content="624755" />
+    <meta name="ncc:totalElapsedTime" content="00:01:03.650" />
+    <meta name="ncc:timeInThisSmil" content="00:00:17.624" />
+    <meta name="ncc:generator" content="Hindenburg ABC Studio 1.26.2164" />
+    <layout>
+      <region id="txtView" />
+    </layout>
+  </head>
+  <body>
+    <seq id="main" dur="17.624s">
+      <par endsync="last" id="parS1">
+        <text id="hix01459" src="624755.html#hix01459" />
+        <audio id="audhix01459" clip-begin="npt=0.000s" clip-end="npt=3.193s" src="03_Book_information.mp3" />
+      </par>
+      <par endsync="last" id="parS2">
+        <text id="hix01460" src="624755.html#hix01460" />
+        <audio id="audhix01460" clip-begin="npt=3.193s" clip-end="npt=7.080s" src="03_Book_information.mp3" />
+      </par>
+      <par endsync="last" id="parS3">
+        <text id="hix01460s2" src="624755.html#hix01460s2" />
+        <audio id="audhix01460s2" clip-begin="npt=7.080s" clip-end="npt=7.600s" src="03_Book_information.mp3" />
+      </par>
+      <par endsync="last" id="parS4">
+        <text id="hix01460s3" src="624755.html#hix01460s3" />
+        <audio id="audhix01460s3" clip-begin="npt=7.600s" clip-end="npt=10.120s" src="03_Book_information.mp3" />
+      </par>
+      <par endsync="last" id="parS5">
+        <text id="hix01460s4" src="624755.html#hix01460s4" />
+        <audio id="audhix01460s4" clip-begin="npt=10.120s" clip-end="npt=13.128s" src="03_Book_information.mp3" />
+      </par>
+      <par endsync="last" id="parS6">
+        <text id="hix01461" src="624755.html#hix01461" />
+        <audio id="audhix01461" clip-begin="npt=13.128s" clip-end="npt=17.624s" src="03_Book_information.mp3" />
+      </par>
+    </seq>
+  </body>
+</smil>

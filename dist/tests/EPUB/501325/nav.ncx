@@ -1,0 +1,4120 @@
+<?xml version="1.0" encoding="utf-8"?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" xml:lang="en" version="2005-1">
+    <head>
+        <meta name="dtb:uid" content="501325"/>
+        <meta name="dtb:depth" content="6"/>
+        <meta name="dtb:generator" content="DAISY Pipeline 2"/>
+        <meta name="dtb:totalPageCount" content="363"/>
+        <meta name="dtb:maxPageNumber" content="366"/>
+    </head>
+    <docTitle>
+        <text>Metode og dataanalyse</text>
+    </docTitle>
+    <navMap>
+        <navLabel>
+            <text>Innholdsfortegnelse</text>
+        </navLabel>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel>
+                <text>Kapittel Uten Tittel</text>
+            </navLabel>
+            <content src="501325-01-chapter.xhtml#level1_1"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel>
+                <text>Innhold</text>
+            </navLabel>
+            <content src="501325-02-toc.xhtml#level1_2"/>
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+            <navLabel>
+                <text>Forord</text>
+            </navLabel>
+            <content src="501325-03-chapter.xhtml#level1_3"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+                <text>Del 1 Utforming av unders&#xf8;kelsen</text>
+            </navLabel>
+            <content src="501325-04-part.xhtml#level1_4"/>
+            <navPoint id="navPoint-5" playOrder="5">
+                <navLabel>
+                    <text>Kapittel 1 Metode og vitenskapsteori</text>
+                </navLabel>
+                <content src="501325-05-chapter.xhtml#level2_1"/>
+                <navPoint id="navPoint-6" playOrder="6">
+                    <navLabel>
+                        <text>1.1 Innledning</text>
+                    </navLabel>
+                    <content src="501325-05-chapter.xhtml#level3_1"/>
+                </navPoint>
+                <navPoint id="navPoint-7" playOrder="7">
+                    <navLabel>
+                        <text>1.2 Vitenskapsteoretisk tiln&#xe6;rming</text>
+                    </navLabel>
+                    <content src="501325-05-chapter.xhtml#level3_2"/>
+                </navPoint>
+                <navPoint id="navPoint-8" playOrder="8">
+                    <navLabel>
+                        <text>1.3 Beslutningsprosesser</text>
+                    </navLabel>
+                    <content src="501325-05-chapter.xhtml#level3_3"/>
+                    <navPoint id="navPoint-9" playOrder="9">
+                        <navLabel>
+                            <text>Individmodeller</text>
+                        </navLabel>
+                        <content src="501325-05-chapter.xhtml#level4_1"/>
+                    </navPoint>
+                    <navPoint id="navPoint-10" playOrder="10">
+                        <navLabel>
+                            <text>Modell for politikk og maktut&#xf8;velse</text>
+                        </navLabel>
+                        <content src="501325-05-chapter.xhtml#level4_2"/>
+                    </navPoint>
+                    <navPoint id="navPoint-11" playOrder="11">
+                        <navLabel>
+                            <text>Modell for uklare m&#xe5;l og flytende deltakelse</text>
+                        </navLabel>
+                        <content src="501325-05-chapter.xhtml#level4_3"/>
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+            <navPoint id="navPoint-12" playOrder="12">
+                <navLabel>
+                    <text>Kapittel 2 Forskningsprosess og problemformulering</text>
+                </navLabel>
+                <content src="501325-06-chapter.xhtml#level2_2"/>
+                <navPoint id="navPoint-13" playOrder="13">
+                    <navLabel>
+                        <text>2.1 Innledning</text>
+                    </navLabel>
+                    <content src="501325-06-chapter.xhtml#level3_4"/>
+                </navPoint>
+                <navPoint id="navPoint-14" playOrder="14">
+                    <navLabel>
+                        <text>2.2 Problemer, muligheter og symptomer</text>
+                    </navLabel>
+                    <content src="501325-06-chapter.xhtml#level3_5"/>
+                </navPoint>
+                <navPoint id="navPoint-15" playOrder="15">
+                    <navLabel>
+                        <text>2.3 Analyseform&#xe5;l og unders&#xf8;kelsessp&#xf8;rsm&#xe5;l</text>
+                    </navLabel>
+                    <content src="501325-06-chapter.xhtml#level3_6"/>
+                    <navPoint id="navPoint-16" playOrder="16">
+                        <navLabel>
+                            <text>EKSEMPEL 2.1</text>
+                        </navLabel>
+                        <content src="501325-06-chapter.xhtml#level4_4"/>
+                    </navPoint>
+                    <navPoint id="navPoint-17" playOrder="17">
+                        <navLabel>
+                            <text>EKSEMPEL 2.2</text>
+                        </navLabel>
+                        <content src="501325-06-chapter.xhtml#level4_5"/>
+                    </navPoint>
+                    <navPoint id="navPoint-18" playOrder="18">
+                        <navLabel>
+                            <text>EKSEMPEL 2.3</text>
+                        </navLabel>
+                        <content src="501325-06-chapter.xhtml#level4_6"/>
+                    </navPoint>
+                    <navPoint id="navPoint-19" playOrder="19">
+                        <navLabel>
+                            <text>EKSEMPEL 2.4</text>
+                        </navLabel>
+                        <content src="501325-06-chapter.xhtml#level4_7"/>
+                    </navPoint>
+                </navPoint>
+                <navPoint id="navPoint-20" playOrder="20">
+                    <navLabel>
+                        <text>2.4 Forskningsprosessen</text>
+                    </navLabel>
+                    <content src="501325-06-chapter.xhtml#level3_7"/>
+                </navPoint>
+            </navPoint>
+            <navPoint id="navPoint-21" playOrder="21">
+                <navLabel>
+                    <text>Kapittel 3 Unders&#xf8;kelsesdesign</text>
+                </navLabel>
+                <content src="501325-07-chapter.xhtml#level2_3"/>
+                <navPoint id="navPoint-22" playOrder="22">
+                    <navLabel>
+                        <text>3.1 Innledning</text>
+                    </navLabel>
+                    <content src="501325-07-chapter.xhtml#level3_8"/>
+                </navPoint>
+                <navPoint id="navPoint-23" playOrder="23">
+                    <navLabel>
+                        <text>3.2 Eksplorativt design</text>
+                    </navLabel>
+                    <content src="501325-07-chapter.xhtml#level3_9"/>
+                    <navPoint id="navPoint-24" playOrder="24">
+                        <navLabel>
+                            <text>Fokusgrupper</text>
+                        </navLabel>
+                        <content src="501325-07-chapter.xhtml#level4_8"/>
+                    </navPoint>
+                    <navPoint id="navPoint-25" playOrder="25">
+                        <navLabel>
+                            <text>Individuelle dybdeintervjuer</text>
+                        </navLabel>
+                        <content src="501325-07-chapter.xhtml#level4_9"/>
+                    </navPoint>
+                    <navPoint id="navPoint-26" playOrder="26">
+                        <navLabel>
+                            <text>Andre teknikker</text>
+                        </navLabel>
+                        <content src="501325-07-chapter.xhtml#level4_10"/>
+                    </navPoint>
+                </navPoint>
+                <navPoint id="navPoint-27" playOrder="27">
+                    <navLabel>
+                        <text>3.3 Deskriptivt design</text>
+                    </navLabel>
+                    <content src="501325-07-chapter.xhtml#level3_10"/>
+                    <navPoint id="navPoint-28" playOrder="28">
+                        <navLabel>
+                            <text>Sp&#xf8;rreskjemaunders&#xf8;kelser</text>
+                        </navLabel>
+                        <content src="501325-07-chapter.xhtml#level4_11"/>
+                    </navPoint>
+                    <navPoint id="navPoint-29" playOrder="29">
+                        <navLabel>
+                            <text>Observasjon og dagbokmetoden</text>
+                        </navLabel>
+                        <content src="501325-07-chapter.xhtml#level4_12"/>
+                    </navPoint>
+                </navPoint>
+                <navPoint id="navPoint-30" playOrder="30">
+                    <navLabel>
+                        <text>3.4 Kausalt design</text>
+                    </navLabel>
+                    <content src="501325-07-chapter.xhtml#level3_11"/>
+                    <navPoint id="navPoint-31" playOrder="31">
+                        <navLabel>
+                            <text>Ekte eksperiment (laboratorie- eller felteksperiment)</text>
+                        </navLabel>
+                        <content src="501325-07-chapter.xhtml#level4_13"/>
+                    </navPoint>
+                    <navPoint id="navPoint-32" playOrder="32">
+                        <navLabel>
+                            <text>Kvasieksperiment</text>
+                        </navLabel>
+                        <content src="501325-07-chapter.xhtml#level4_14"/>
+                    </navPoint>
+                    <navPoint id="navPoint-33" playOrder="33">
+                        <navLabel>
+                            <text>Laboratorieeksperiment</text>
+                        </navLabel>
+                        <content src="501325-07-chapter.xhtml#level4_15"/>
+                    </navPoint>
+                    <navPoint id="navPoint-34" playOrder="34">
+                        <navLabel>
+                            <text>Felteksperiment</text>
+                        </navLabel>
+                        <content src="501325-07-chapter.xhtml#level4_16"/>
+                    </navPoint>
+                    <navPoint id="navPoint-35" playOrder="35">
+                        <navLabel>
+                            <text>Intern og ekstern validitet i eksperimenter</text>
+                        </navLabel>
+                        <content src="501325-07-chapter.xhtml#level4_17"/>
+                    </navPoint>
+                </navPoint>
+                <navPoint id="navPoint-36" playOrder="36">
+                    <navLabel>
+                        <text>3.5 Valg av design</text>
+                    </navLabel>
+                    <content src="501325-07-chapter.xhtml#level3_12"/>
+                    <navPoint id="navPoint-37" playOrder="37">
+                        <navLabel>
+                            <text>Bruk av teori</text>
+                        </navLabel>
+                        <content src="501325-07-chapter.xhtml#level4_18"/>
+                    </navPoint>
+                    <navPoint id="navPoint-38" playOrder="38">
+                        <navLabel>
+                            <text>Validitet og reliabilitet i unders&#xf8;kelser</text>
+                        </navLabel>
+                        <content src="501325-07-chapter.xhtml#level4_19"/>
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-39" playOrder="39">
+            <navLabel>
+                <text>Del 2 Innsamling av data</text>
+            </navLabel>
+            <content src="501325-08-part.xhtml#level1_5"/>
+            <navPoint id="navPoint-40" playOrder="40">
+                <navLabel>
+                    <text>Kapittel 4 Sekund&#xe6;rdata og observasjonsdata</text>
+                </navLabel>
+                <content src="501325-09-chapter.xhtml#level2_4"/>
+                <navPoint id="navPoint-41" playOrder="41">
+                    <navLabel>
+                        <text>4.1 Innledning</text>
+                    </navLabel>
+                    <content src="501325-09-chapter.xhtml#level3_13"/>
+                    <navPoint id="navPoint-42" playOrder="42">
+                        <navLabel>
+                            <text>Feilkilder til sekund&#xe6;rdata</text>
+                        </navLabel>
+                        <content src="501325-09-chapter.xhtml#level4_20"/>
+                    </navPoint>
+                </navPoint>
+                <navPoint id="navPoint-43" playOrder="43">
+                    <navLabel>
+                        <text>4.2 Hovedtyper av sekund&#xe6;rdata</text>
+                    </navLabel>
+                    <content src="501325-09-chapter.xhtml#level3_14"/>
+                </navPoint>
+                <navPoint id="navPoint-44" playOrder="44">
+                    <navLabel>
+                        <text>4.3 Interne kilder</text>
+                    </navLabel>
+                    <content src="501325-09-chapter.xhtml#level3_15"/>
+                </navPoint>
+                <navPoint id="navPoint-45" playOrder="45">
+                    <navLabel>
+                        <text>4.4 Offentlige kilder</text>
+                    </navLabel>
+                    <content src="501325-09-chapter.xhtml#level3_16"/>
+                </navPoint>
+                <navPoint id="navPoint-46" playOrder="46">
+                    <navLabel>
+                        <text>4.5 Faglitteratur</text>
+                    </navLabel>
+                    <content src="501325-09-chapter.xhtml#level3_17"/>
+                </navPoint>
+                <navPoint id="navPoint-47" playOrder="47">
+                    <navLabel>
+                        <text>4.6 Markedsanalysebransjen</text>
+                    </navLabel>
+                    <content src="501325-09-chapter.xhtml#level3_18"/>
+                </navPoint>
+                <navPoint id="navPoint-48" playOrder="48">
+                    <navLabel>
+                        <text>4.7 Standardiserte unders&#xf8;kelser</text>
+                    </navLabel>
+                    <content src="501325-09-chapter.xhtml#level3_19"/>
+                    <navPoint id="navPoint-49" playOrder="49">
+                        <navLabel>
+                            <text>Hva menes med standardisering</text>
+                        </navLabel>
+                        <content src="501325-09-chapter.xhtml#level4_21"/>
+                    </navPoint>
+                </navPoint>
+                <navPoint id="navPoint-50" playOrder="50">
+                    <navLabel>
+                        <text>4.8 Butikkm&#xe5;linger</text>
+                    </navLabel>
+                    <content src="501325-09-chapter.xhtml#level3_20"/>
+                </navPoint>
+                <navPoint id="navPoint-51" playOrder="51">
+                    <navLabel>
+                        <text>4.9 Forbrukerpanel</text>
+                    </navLabel>
+                    <content src="501325-09-chapter.xhtml#level3_21"/>
+                </navPoint>
+                <navPoint id="navPoint-52" playOrder="52">
+                    <navLabel>
+                        <text>4.10 Medieunders&#xf8;kelser</text>
+                    </navLabel>
+                    <content src="501325-09-chapter.xhtml#level3_22"/>
+                </navPoint>
+                <navPoint id="navPoint-53" playOrder="53">
+                    <navLabel>
+                        <text>4.11 Sosiokulturelle unders&#xf8;kelser</text>
+                    </navLabel>
+                    <content src="501325-09-chapter.xhtml#level3_23"/>
+                </navPoint>
+                <navPoint id="navPoint-54" playOrder="54">
+                    <navLabel>
+                        <text>4.12 Observasjonsdata</text>
+                    </navLabel>
+                    <content src="501325-09-chapter.xhtml#level3_24"/>
+                </navPoint>
+                <navPoint id="navPoint-55" playOrder="55">
+                    <navLabel>
+                        <text>4.13 Typer av observasjoner</text>
+                    </navLabel>
+                    <content src="501325-09-chapter.xhtml#level3_25"/>
+                </navPoint>
+                <navPoint id="navPoint-56" playOrder="56">
+                    <navLabel>
+                        <text>4.14 F&#xf8;lelser m&#xe5;lt ved hjelp av observasjon</text>
+                    </navLabel>
+                    <content src="501325-09-chapter.xhtml#level3_26"/>
+                </navPoint>
+                <navPoint id="navPoint-57" playOrder="57">
+                    <navLabel>
+                        <text>4.15 Bruk av observasjonsmetoden</text>
+                    </navLabel>
+                    <content src="501325-09-chapter.xhtml#level3_27"/>
+                </navPoint>
+            </navPoint>
+            <navPoint id="navPoint-58" playOrder="58">
+                <navLabel>
+                    <text>Kapittel 5 Kvalitative metoder</text>
+                </navLabel>
+                <content src="501325-10-chapter.xhtml#level2_5"/>
+                <navPoint id="navPoint-59" playOrder="59">
+                    <navLabel>
+                        <text>5.1 Innledning</text>
+                    </navLabel>
+                    <content src="501325-10-chapter.xhtml#level3_28"/>
+                </navPoint>
+                <navPoint id="navPoint-60" playOrder="60">
+                    <navLabel>
+                        <text>5.2 Fokusgrupper Gjennomf&#xf8;ring av fokusgruppe</text>
+                    </navLabel>
+                    <content src="501325-10-chapter.xhtml#level3_29"/>
+                    <navPoint id="navPoint-61" playOrder="61">
+                        <navLabel>
+                            <text>Hovedtyper av fokusgrupper</text>
+                        </navLabel>
+                        <content src="501325-10-chapter.xhtml#level4_22"/>
+                    </navPoint>
+                    <navPoint id="navPoint-62" playOrder="62">
+                        <navLabel>
+                            <text>Opplegg og gjennomf&#xf8;ring av fokusgrupper</text>
+                        </navLabel>
+                        <content src="501325-10-chapter.xhtml#level4_23"/>
+                        <navPoint id="navPoint-63" playOrder="63">
+                            <navLabel>
+                                <text>1 Problemformulering</text>
+                            </navLabel>
+                            <content src="501325-10-chapter.xhtml#level5_1"/>
+                        </navPoint>
+                        <navPoint id="navPoint-64" playOrder="64">
+                            <navLabel>
+                                <text>2 Tilrettelegging</text>
+                            </navLabel>
+                            <content src="501325-10-chapter.xhtml#level5_2"/>
+                        </navPoint>
+                        <navPoint id="navPoint-65" playOrder="65">
+                            <navLabel>
+                                <text>3 Gjennomf&#xf8;ring</text>
+                            </navLabel>
+                            <content src="501325-10-chapter.xhtml#level5_3"/>
+                        </navPoint>
+                        <navPoint id="navPoint-66" playOrder="66">
+                            <navLabel>
+                                <text>4 Dataanalyse</text>
+                            </navLabel>
+                            <content src="501325-10-chapter.xhtml#level5_4"/>
+                        </navPoint>
+                        <navPoint id="navPoint-67" playOrder="67">
+                            <navLabel>
+                                <text>5 Rapport og presentasjon</text>
+                            </navLabel>
+                            <content src="501325-10-chapter.xhtml#level5_5"/>
+                        </navPoint>
+                    </navPoint>
+                </navPoint>
+                <navPoint id="navPoint-68" playOrder="68">
+                    <navLabel>
+                        <text>5.3 Individuelle dybdeintervjuer</text>
+                    </navLabel>
+                    <content src="501325-10-chapter.xhtml#level3_30"/>
+                </navPoint>
+                <navPoint id="navPoint-69" playOrder="69">
+                    <navLabel>
+                        <text>5.4 Projektive teknikker</text>
+                    </navLabel>
+                    <content src="501325-10-chapter.xhtml#level3_31"/>
+                </navPoint>
+                <navPoint id="navPoint-70" playOrder="70">
+                    <navLabel>
+                        <text>5.5 Sosiale medier</text>
+                    </navLabel>
+                    <content src="501325-10-chapter.xhtml#level3_32"/>
+                </navPoint>
+            </navPoint>
+            <navPoint id="navPoint-71" playOrder="71">
+                <navLabel>
+                    <text>Kapittel 6 Sp&#xf8;rreskjemaunders&#xf8;kelser</text>
+                </navLabel>
+                <content src="501325-11-chapter.xhtml#level2_6"/>
+                <navPoint id="navPoint-72" playOrder="72">
+                    <navLabel>
+                        <text>6.1 Innledning</text>
+                    </navLabel>
+                    <content src="501325-11-chapter.xhtml#level3_33"/>
+                </navPoint>
+                <navPoint id="navPoint-73" playOrder="73">
+                    <navLabel>
+                        <text>6.2 Begrepsanalyse og operasjonalisering</text>
+                    </navLabel>
+                    <content src="501325-11-chapter.xhtml#level3_34"/>
+                </navPoint>
+                <navPoint id="navPoint-74" playOrder="74">
+                    <navLabel>
+                        <text>6.3 Validitet</text>
+                    </navLabel>
+                    <content src="501325-11-chapter.xhtml#level3_35"/>
+                    <navPoint id="navPoint-75" playOrder="75">
+                        <navLabel>
+                            <text>Innholdsvaliditet (&#xab;content validity&#xbb;)</text>
+                        </navLabel>
+                        <content src="501325-11-chapter.xhtml#level4_24"/>
+                    </navPoint>
+                    <navPoint id="navPoint-76" playOrder="76">
+                        <navLabel>
+                            <text>Begrepsvaliditet (&#xab;construct validity&#xbb;)</text>
+                        </navLabel>
+                        <content src="501325-11-chapter.xhtml#level4_25"/>
+                    </navPoint>
+                    <navPoint id="navPoint-77" playOrder="77">
+                        <navLabel>
+                            <text>Overflatevaliditet (&#xab;face validity&#xbb;)</text>
+                        </navLabel>
+                        <content src="501325-11-chapter.xhtml#level4_26"/>
+                    </navPoint>
+                    <navPoint id="navPoint-78" playOrder="78">
+                        <navLabel>
+                            <text>Statistisk konklusjonsvaliditet</text>
+                        </navLabel>
+                        <content src="501325-11-chapter.xhtml#level4_27"/>
+                    </navPoint>
+                    <navPoint id="navPoint-79" playOrder="79">
+                        <navLabel>
+                            <text>Reliabilitet</text>
+                        </navLabel>
+                        <content src="501325-11-chapter.xhtml#level4_28"/>
+                    </navPoint>
+                </navPoint>
+                <navPoint id="navPoint-80" playOrder="80">
+                    <navLabel>
+                        <text>6.4 Skalabruk</text>
+                    </navLabel>
+                    <content src="501325-11-chapter.xhtml#level3_36"/>
+                    <navPoint id="navPoint-81" playOrder="81">
+                        <navLabel>
+                            <text>Nominalniv&#xe5;</text>
+                        </navLabel>
+                        <content src="501325-11-chapter.xhtml#level4_29"/>
+                    </navPoint>
+                    <navPoint id="navPoint-82" playOrder="82">
+                        <navLabel>
+                            <text>Ordinalniv&#xe5;</text>
+                        </navLabel>
+                        <content src="501325-11-chapter.xhtml#level4_30"/>
+                    </navPoint>
+                    <navPoint id="navPoint-83" playOrder="83">
+                        <navLabel>
+                            <text>Intervallniv&#xe5;</text>
+                        </navLabel>
+                        <content src="501325-11-chapter.xhtml#level4_31"/>
+                    </navPoint>
+                    <navPoint id="navPoint-84" playOrder="84">
+                        <navLabel>
+                            <text>Forholdstallsniv&#xe5;</text>
+                        </navLabel>
+                        <content src="501325-11-chapter.xhtml#level4_32"/>
+                    </navPoint>
+                </navPoint>
+                <navPoint id="navPoint-85" playOrder="85">
+                    <navLabel>
+                        <text>6.5 Holdnings- og profilm&#xe5;ling</text>
+                    </navLabel>
+                    <content src="501325-11-chapter.xhtml#level3_37"/>
+                    <navPoint id="navPoint-86" playOrder="86">
+                        <navLabel>
+                            <text>Likert-skalaen</text>
+                        </navLabel>
+                        <content src="501325-11-chapter.xhtml#level4_33"/>
+                    </navPoint>
+                    <navPoint id="navPoint-87" playOrder="87">
+                        <navLabel>
+                            <text>Semantisk differensialskala</text>
+                        </navLabel>
+                        <content src="501325-11-chapter.xhtml#level4_34"/>
+                    </navPoint>
+                </navPoint>
+                <navPoint id="navPoint-88" playOrder="88">
+                    <navLabel>
+                        <text>6.6 Skalaverdier</text>
+                    </navLabel>
+                    <content src="501325-11-chapter.xhtml#level3_38"/>
+                    <navPoint id="navPoint-89" playOrder="89">
+                        <navLabel>
+                            <text>Komparative skalaer</text>
+                        </navLabel>
+                        <content src="501325-11-chapter.xhtml#level4_35"/>
+                    </navPoint>
+                    <navPoint id="navPoint-90" playOrder="90">
+                        <navLabel>
+                            <text>Ikke-komparative skalaer</text>
+                        </navLabel>
+                        <content src="501325-11-chapter.xhtml#level4_36"/>
+                    </navPoint>
+                </navPoint>
+                <navPoint id="navPoint-91" playOrder="91">
+                    <navLabel>
+                        <text>6.7 Sp&#xf8;rsm&#xe5;lsutforming og rekkef&#xf8;lge</text>
+                    </navLabel>
+                    <content src="501325-11-chapter.xhtml#level3_39"/>
+                    <navPoint id="navPoint-92" playOrder="92">
+                        <navLabel>
+                            <text>Fysisk utforming</text>
+                        </navLabel>
+                        <content src="501325-11-chapter.xhtml#level4_37"/>
+                    </navPoint>
+                    <navPoint id="navPoint-93" playOrder="93">
+                        <navLabel>
+                            <text>Pretest</text>
+                        </navLabel>
+                        <content src="501325-11-chapter.xhtml#level4_38"/>
+                    </navPoint>
+                </navPoint>
+                <navPoint id="navPoint-94" playOrder="94">
+                    <navLabel>
+                        <text>6.8 Innhenting av data fra sp&#xf8;rreskjemaunders&#xf8;kelser</text>
+                    </navLabel>
+                    <content src="501325-11-chapter.xhtml#level3_40"/>
+                    <navPoint id="navPoint-95" playOrder="95">
+                        <navLabel>
+                            <text>Personlige intervjuer</text>
+                        </navLabel>
+                        <content src="501325-11-chapter.xhtml#level4_39"/>
+                    </navPoint>
+                    <navPoint id="navPoint-96" playOrder="96">
+                        <navLabel>
+                            <text>Postale sp&#xf8;rreskjemaer</text>
+                        </navLabel>
+                        <content src="501325-11-chapter.xhtml#level4_40"/>
+                    </navPoint>
+                    <navPoint id="navPoint-97" playOrder="97">
+                        <navLabel>
+                            <text>Telefonintervjuer</text>
+                        </navLabel>
+                        <content src="501325-11-chapter.xhtml#level4_41"/>
+                    </navPoint>
+                    <navPoint id="navPoint-98" playOrder="98">
+                        <navLabel>
+                            <text>Web-baserte l&#xf8;sninger</text>
+                        </navLabel>
+                        <content src="501325-11-chapter.xhtml#level4_42"/>
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+            <navPoint id="navPoint-99" playOrder="99">
+                <navLabel>
+                    <text>Kapittel 7 Utvalgstyper og utvalgsst&#xf8;rrelser</text>
+                </navLabel>
+                <content src="501325-12-chapter.xhtml#level2_7"/>
+                <navPoint id="navPoint-100" playOrder="100">
+                    <navLabel>
+                        <text>7.1 Innledning</text>
+                    </navLabel>
+                    <content src="501325-12-chapter.xhtml#level3_41"/>
+                </navPoint>
+                <navPoint id="navPoint-101" playOrder="101">
+                    <navLabel>
+                        <text>7.2 Definere populasjonen og bestemme utvalgsrammen</text>
+                    </navLabel>
+                    <content src="501325-12-chapter.xhtml#level3_42"/>
+                    <navPoint id="navPoint-102" playOrder="102">
+                        <navLabel>
+                            <text>Utvalgsramme</text>
+                        </navLabel>
+                        <content src="501325-12-chapter.xhtml#level4_43"/>
+                    </navPoint>
+                </navPoint>
+                <navPoint id="navPoint-103" playOrder="103">
+                    <navLabel>
+                        <text>7.3 Velge utvalgsmetode</text>
+                    </navLabel>
+                    <content src="501325-12-chapter.xhtml#level3_43"/>
+                    <navPoint id="navPoint-104" playOrder="104">
+                        <navLabel>
+                            <text>a) Sannsynlighetsutvalg</text>
+                        </navLabel>
+                        <content src="501325-12-chapter.xhtml#level4_44"/>
+                        <navPoint id="navPoint-105" playOrder="105">
+                            <navLabel>
+                                <text>Enkelt tilfeldig utvalg</text>
+                            </navLabel>
+                            <content src="501325-12-chapter.xhtml#level5_6"/>
+                        </navPoint>
+                        <navPoint id="navPoint-106" playOrder="106">
+                            <navLabel>
+                                <text>Stratifisert utvalg</text>
+                            </navLabel>
+                            <content src="501325-12-chapter.xhtml#level5_7"/>
+                        </navPoint>
+                        <navPoint id="navPoint-107" playOrder="107">
+                            <navLabel>
+                                <text>Klyngeutvalg</text>
+                            </navLabel>
+                            <content src="501325-12-chapter.xhtml#level5_8"/>
+                        </navPoint>
+                    </navPoint>
+                    <navPoint id="navPoint-108" playOrder="108">
+                        <navLabel>
+                            <text>b) Ikke-sannsynlighetsutvalg</text>
+                        </navLabel>
+                        <content src="501325-12-chapter.xhtml#level4_45"/>
+                        <navPoint id="navPoint-109" playOrder="109">
+                            <navLabel>
+                                <text>Bekvemmelighetsutvalg</text>
+                            </navLabel>
+                            <content src="501325-12-chapter.xhtml#level5_9"/>
+                        </navPoint>
+                        <navPoint id="navPoint-110" playOrder="110">
+                            <navLabel>
+                                <text>Kvoteutvalg</text>
+                            </navLabel>
+                            <content src="501325-12-chapter.xhtml#level5_10"/>
+                        </navPoint>
+                        <navPoint id="navPoint-111" playOrder="111">
+                            <navLabel>
+                                <text>Vurderingsutvalg</text>
+                            </navLabel>
+                            <content src="501325-12-chapter.xhtml#level5_11"/>
+                        </navPoint>
+                    </navPoint>
+                </navPoint>
+                <navPoint id="navPoint-112" playOrder="112">
+                    <navLabel>
+                        <text>7.4 Bestemme utvalgsst&#xf8;rrelsen</text>
+                    </navLabel>
+                    <content src="501325-12-chapter.xhtml#level3_44"/>
+                    <navPoint id="navPoint-113" playOrder="113">
+                        <navLabel>
+                            <text>Antallet grupper</text>
+                        </navLabel>
+                        <content src="501325-12-chapter.xhtml#level4_46"/>
+                    </navPoint>
+                    <navPoint id="navPoint-114" playOrder="114">
+                        <navLabel>
+                            <text>Ressurser</text>
+                        </navLabel>
+                        <content src="501325-12-chapter.xhtml#level4_47"/>
+                    </navPoint>
+                    <navPoint id="navPoint-115" playOrder="115">
+                        <navLabel>
+                            <text>Variansen i populasjonen</text>
+                        </navLabel>
+                        <content src="501325-12-chapter.xhtml#level4_48"/>
+                    </navPoint>
+                    <navPoint id="navPoint-116" playOrder="116">
+                        <navLabel>
+                            <text>Egenskap ved populasjonen</text>
+                        </navLabel>
+                        <content src="501325-12-chapter.xhtml#level4_49"/>
+                    </navPoint>
+                    <navPoint id="navPoint-117" playOrder="117">
+                        <navLabel>
+                            <text>Presisjon og konfidensgrad</text>
+                        </navLabel>
+                        <content src="501325-12-chapter.xhtml#level4_50"/>
+                    </navPoint>
+                </navPoint>
+                <navPoint id="navPoint-118" playOrder="118">
+                    <navLabel>
+                        <text>7.5 Feilkilder</text>
+                    </navLabel>
+                    <content src="501325-12-chapter.xhtml#level3_45"/>
+                    <navPoint id="navPoint-119" playOrder="119">
+                        <navLabel>
+                            <text>Manglende observasjoner</text>
+                        </navLabel>
+                        <content src="501325-12-chapter.xhtml#level4_51"/>
+                    </navPoint>
+                    <navPoint id="navPoint-120" playOrder="120">
+                        <navLabel>
+                            <text>a) Dekningsfeil</text>
+                        </navLabel>
+                        <content src="501325-12-chapter.xhtml#level4_52"/>
+                    </navPoint>
+                    <navPoint id="navPoint-121" playOrder="121">
+                        <navLabel>
+                            <text>b) Ikke-responsfeil</text>
+                        </navLabel>
+                        <content src="501325-12-chapter.xhtml#level4_53"/>
+                    </navPoint>
+                    <navPoint id="navPoint-122" playOrder="122">
+                        <navLabel>
+                            <text>c) Utvalgsfeil</text>
+                        </navLabel>
+                        <content src="501325-12-chapter.xhtml#level4_54"/>
+                    </navPoint>
+                    <navPoint id="navPoint-123" playOrder="123">
+                        <navLabel>
+                            <text>M&#xe5;lefeil</text>
+                        </navLabel>
+                        <content src="501325-12-chapter.xhtml#level4_55"/>
+                        <navPoint id="navPoint-124" playOrder="124">
+                            <navLabel>
+                                <text>a) Sp&#xf8;rreskjemaet</text>
+                            </navLabel>
+                            <content src="501325-12-chapter.xhtml#level5_12"/>
+                        </navPoint>
+                        <navPoint id="navPoint-125" playOrder="125">
+                            <navLabel>
+                                <text>b) Interaksjonen</text>
+                            </navLabel>
+                            <content src="501325-12-chapter.xhtml#level5_13"/>
+                        </navPoint>
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-126" playOrder="126">
+            <navLabel>
+                <text>Del 3 Analyseteknikker</text>
+            </navLabel>
+            <content src="501325-13-part.xhtml#level1_6"/>
+            <navPoint id="navPoint-127" playOrder="127">
+                <navLabel>
+                    <text>Kapittel 8 Enkle analyseteknikker</text>
+                </navLabel>
+                <content src="501325-14-chapter.xhtml#level2_8"/>
+                <navPoint id="navPoint-128" playOrder="128">
+                    <navLabel>
+                        <text>8.1 Introduksjon</text>
+                    </navLabel>
+                    <content src="501325-14-chapter.xhtml#level3_46"/>
+                </navPoint>
+                <navPoint id="navPoint-129" playOrder="129">
+                    <navLabel>
+                        <text>8.2 Starte &#xe5; bruke JMP</text>
+                    </navLabel>
+                    <content src="501325-14-chapter.xhtml#level3_47"/>
+                </navPoint>
+                <navPoint id="navPoint-130" playOrder="130">
+                    <navLabel>
+                        <text>8.3 Innledning om enkle analyseteknikker</text>
+                    </navLabel>
+                    <content src="501325-14-chapter.xhtml#level3_48"/>
+                </navPoint>
+                <navPoint id="navPoint-131" playOrder="131">
+                    <navLabel>
+                        <text>8.4 Datarensing</text>
+                    </navLabel>
+                    <content src="501325-14-chapter.xhtml#level3_49"/>
+                </navPoint>
+                <navPoint id="navPoint-132" playOrder="132">
+                    <navLabel>
+                        <text>8.5 Analyseteknikker for enkeltvariabler</text>
+                    </navLabel>
+                    <content src="501325-14-chapter.xhtml#level3_50"/>
+                    <navPoint id="navPoint-133" playOrder="133">
+                        <navLabel>
+                            <text>Frekvens og stolpediagram</text>
+                        </navLabel>
+                        <content src="501325-14-chapter.xhtml#level4_56"/>
+                    </navPoint>
+                    <navPoint id="navPoint-134" playOrder="134">
+                        <navLabel>
+                            <text>Beliggenhetsm&#xe5;l</text>
+                        </navLabel>
+                        <content src="501325-14-chapter.xhtml#level4_57"/>
+                        <navPoint id="navPoint-135" playOrder="135">
+                            <navLabel>
+                                <text>a) Gjennomsnitt</text>
+                            </navLabel>
+                            <content src="501325-14-chapter.xhtml#level5_14"/>
+                        </navPoint>
+                        <navPoint id="navPoint-136" playOrder="136">
+                            <navLabel>
+                                <text>b) Medianen</text>
+                            </navLabel>
+                            <content src="501325-14-chapter.xhtml#level5_15"/>
+                        </navPoint>
+                    </navPoint>
+                    <navPoint id="navPoint-137" playOrder="137">
+                        <navLabel>
+                            <text>Spredningsm&#xe5;l</text>
+                        </navLabel>
+                        <content src="501325-14-chapter.xhtml#level4_58"/>
+                        <navPoint id="navPoint-138" playOrder="138">
+                            <navLabel>
+                                <text>a) Variasjonsbredden og kvartilbredden</text>
+                            </navLabel>
+                            <content src="501325-14-chapter.xhtml#level5_16"/>
+                        </navPoint>
+                        <navPoint id="navPoint-139" playOrder="139">
+                            <navLabel>
+                                <text>b) Varians og standardavvik</text>
+                            </navLabel>
+                            <content src="501325-14-chapter.xhtml#level5_17"/>
+                        </navPoint>
+                    </navPoint>
+                    <navPoint id="navPoint-140" playOrder="140">
+                        <navLabel>
+                            <text>M&#xe5;ling av reliabilitet</text>
+                        </navLabel>
+                        <content src="501325-14-chapter.xhtml#level4_59"/>
+                        <navPoint id="navPoint-141" playOrder="141">
+                            <navLabel>
+                                <text>a) Stabilitet over tid</text>
+                            </navLabel>
+                            <content src="501325-14-chapter.xhtml#level5_18"/>
+                        </navPoint>
+                        <navPoint id="navPoint-142" playOrder="142">
+                            <navLabel>
+                                <text>b) Intern konsistens</text>
+                            </navLabel>
+                            <content src="501325-14-chapter.xhtml#level5_19"/>
+                        </navPoint>
+                        <navPoint id="navPoint-143" playOrder="143">
+                            <navLabel>
+                                <text>c) Cronbachs alfa</text>
+                            </navLabel>
+                            <content src="501325-14-chapter.xhtml#level5_20"/>
+                        </navPoint>
+                        <navPoint id="navPoint-144" playOrder="144">
+                            <navLabel>
+                                <text>Lage nye variabler</text>
+                            </navLabel>
+                            <content src="501325-14-chapter.xhtml#level5_21"/>
+                        </navPoint>
+                    </navPoint>
+                </navPoint>
+                <navPoint id="navPoint-145" playOrder="145">
+                    <navLabel>
+                        <text>8.6 Analyseteknikker for sammenheng mellom variabler</text>
+                    </navLabel>
+                    <content src="501325-14-chapter.xhtml#level3_51"/>
+                    <navPoint id="navPoint-146" playOrder="146">
+                        <navLabel>
+                            <text>Krysstabuleringer</text>
+                        </navLabel>
+                        <content src="501325-14-chapter.xhtml#level4_60"/>
+                    </navPoint>
+                    <navPoint id="navPoint-147" playOrder="147">
+                        <navLabel>
+                            <text>Kovarians og korrelasjon</text>
+                        </navLabel>
+                        <content src="501325-14-chapter.xhtml#level4_61"/>
+                    </navPoint>
+                    <navPoint id="navPoint-148" playOrder="148">
+                        <navLabel>
+                            <text>Rangkorrelasjon</text>
+                        </navLabel>
+                        <content src="501325-14-chapter.xhtml#level4_62"/>
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+            <navPoint id="navPoint-149" playOrder="149">
+                <navLabel>
+                    <text>Kapittel 9 Hypotesetesting</text>
+                </navLabel>
+                <content src="501325-15-chapter.xhtml#level2_9"/>
+                <navPoint id="navPoint-150" playOrder="150">
+                    <navLabel>
+                        <text>9.1 Innledning</text>
+                    </navLabel>
+                    <content src="501325-15-chapter.xhtml#level3_52"/>
+                </navPoint>
+                <navPoint id="navPoint-151" playOrder="151">
+                    <navLabel>
+                        <text>9.2 Feil ved hypotesetester</text>
+                    </navLabel>
+                    <content src="501325-15-chapter.xhtml#level3_53"/>
+                    <navPoint id="navPoint-152" playOrder="152">
+                        <navLabel>
+                            <text>Type I- og Type II-feil</text>
+                        </navLabel>
+                        <content src="501325-15-chapter.xhtml#level4_63"/>
+                        <navPoint id="navPoint-153" playOrder="153">
+                            <navLabel>
+                                <text>Type I-feil: Vi forkaster en sann H0</text>
+                            </navLabel>
+                            <content src="501325-15-chapter.xhtml#level5_22"/>
+                        </navPoint>
+                        <navPoint id="navPoint-154" playOrder="154">
+                            <navLabel>
+                                <text>Type II-feil: Vi beholder en usann H0</text>
+                            </navLabel>
+                            <content src="501325-15-chapter.xhtml#level5_23"/>
+                        </navPoint>
+                    </navPoint>
+                    <navPoint id="navPoint-155" playOrder="155">
+                        <navLabel>
+                            <text>Teoretisk signifikans og statistisk signifikans</text>
+                        </navLabel>
+                        <content src="501325-15-chapter.xhtml#level4_64"/>
+                    </navPoint>
+                    <navPoint id="navPoint-156" playOrder="156">
+                        <navLabel>
+                            <text>Forst&#xe5; signifikansniv&#xe5;</text>
+                        </navLabel>
+                        <content src="501325-15-chapter.xhtml#level4_65"/>
+                    </navPoint>
+                </navPoint>
+                <navPoint id="navPoint-157" playOrder="157">
+                    <navLabel>
+                        <text>9.3 Student t-test</text>
+                    </navLabel>
+                    <content src="501325-15-chapter.xhtml#level3_54"/>
+                    <navPoint id="navPoint-158" playOrder="158">
+                        <navLabel>
+                            <text>t-test for &#xe9;n stikkpr&#xf8;ve</text>
+                        </navLabel>
+                        <content src="501325-15-chapter.xhtml#level4_66"/>
+                    </navPoint>
+                    <navPoint id="navPoint-159" playOrder="159">
+                        <navLabel>
+                            <text>t-test for to stikkpr&#xf8;ver</text>
+                        </navLabel>
+                        <content src="501325-15-chapter.xhtml#level4_67"/>
+                        <navPoint id="navPoint-160" playOrder="160">
+                            <navLabel>
+                                <text>a) t-testen av to avhengige stikkpr&#xf8;ver</text>
+                            </navLabel>
+                            <content src="501325-15-chapter.xhtml#level5_24"/>
+                        </navPoint>
+                        <navPoint id="navPoint-161" playOrder="161">
+                            <navLabel>
+                                <text>a) t-testen for to uavhengige stikkpr&#xf8;ver</text>
+                            </navLabel>
+                            <content src="501325-15-chapter.xhtml#level5_25"/>
+                        </navPoint>
+                    </navPoint>
+                </navPoint>
+                <navPoint id="navPoint-162" playOrder="162">
+                    <navLabel>
+                        <text>9.4 Variansanalyse</text>
+                    </navLabel>
+                    <content src="501325-15-chapter.xhtml#level3_55"/>
+                    <navPoint id="navPoint-163" playOrder="163">
+                        <navLabel>
+                            <text>a) Variabilitet innenfor gruppene</text>
+                        </navLabel>
+                        <content src="501325-15-chapter.xhtml#level4_68"/>
+                    </navPoint>
+                    <navPoint id="navPoint-164" playOrder="164">
+                        <navLabel>
+                            <text>b) Variabiliteten mellom gruppene</text>
+                        </navLabel>
+                        <content src="501325-15-chapter.xhtml#level4_69"/>
+                    </navPoint>
+                    <navPoint id="navPoint-165" playOrder="165">
+                        <navLabel>
+                            <text>Testobservatoren F-fordelingen</text>
+                        </navLabel>
+                        <content src="501325-15-chapter.xhtml#level4_70"/>
+                    </navPoint>
+                </navPoint>
+                <navPoint id="navPoint-166" playOrder="166">
+                    <navLabel>
+                        <text>9.5 Kji-kvadrattesten (Kji 2 )</text>
+                    </navLabel>
+                    <content src="501325-15-chapter.xhtml#level3_56"/>
+                    <navPoint id="navPoint-167" playOrder="167">
+                        <navLabel>
+                            <text>Frekvensvise forskjeller</text>
+                        </navLabel>
+                        <content src="501325-15-chapter.xhtml#level4_71"/>
+                        <navPoint id="navPoint-168" playOrder="168">
+                            <navLabel>
+                                <text>Prosentvise forskjeller</text>
+                            </navLabel>
+                            <content src="501325-15-chapter.xhtml#level5_26"/>
+                        </navPoint>
+                        <navPoint id="navPoint-169" playOrder="169">
+                            <navLabel>
+                                <text>Signifikante forskjeller</text>
+                            </navLabel>
+                            <content src="501325-15-chapter.xhtml#level5_27"/>
+                        </navPoint>
+                        <navPoint id="navPoint-170" playOrder="170">
+                            <navLabel>
+                                <text>1 Hypoteseformulering</text>
+                            </navLabel>
+                            <content src="501325-15-chapter.xhtml#level5_28"/>
+                        </navPoint>
+                        <navPoint id="navPoint-171" playOrder="171">
+                            <navLabel>
+                                <text>2 Beregne forventningsverdi</text>
+                            </navLabel>
+                            <content src="501325-15-chapter.xhtml#level5_29"/>
+                        </navPoint>
+                        <navPoint id="navPoint-172" playOrder="172">
+                            <navLabel>
+                                <text>3 Beregne relativ kvadrert differanse</text>
+                            </navLabel>
+                            <content src="501325-15-chapter.xhtml#level5_30"/>
+                        </navPoint>
+                        <navPoint id="navPoint-173" playOrder="173">
+                            <navLabel>
+                                <text>4 Beregne Kji-kvadratet</text>
+                            </navLabel>
+                            <content src="501325-15-chapter.xhtml#level5_31"/>
+                        </navPoint>
+                    </navPoint>
+                </navPoint>
+                <navPoint id="navPoint-174" playOrder="174">
+                    <navLabel>
+                        <text>9.6 Testing av korrelasjonskoeffisienten</text>
+                    </navLabel>
+                    <content src="501325-15-chapter.xhtml#level3_57"/>
+                    <navPoint id="navPoint-175" playOrder="175">
+                        <navLabel>
+                            <text>Pearson-korrelasjonen</text>
+                        </navLabel>
+                        <content src="501325-15-chapter.xhtml#level4_72"/>
+                    </navPoint>
+                    <navPoint id="navPoint-176" playOrder="176">
+                        <navLabel>
+                            <text>Spearmans rangkorrelasjon</text>
+                        </navLabel>
+                        <content src="501325-15-chapter.xhtml#level4_73"/>
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+            <navPoint id="navPoint-177" playOrder="177">
+                <navLabel>
+                    <text>Kapittel 10 Regresjonsanalyse</text>
+                </navLabel>
+                <content src="501325-16-chapter.xhtml#level2_10"/>
+                <navPoint id="navPoint-178" playOrder="178">
+                    <navLabel>
+                        <text>10.1 Innledning</text>
+                    </navLabel>
+                    <content src="501325-16-chapter.xhtml#level3_58"/>
+                </navPoint>
+                <navPoint id="navPoint-179" playOrder="179">
+                    <navLabel>
+                        <text>10.2 Enkel regresjonsanalyse</text>
+                    </navLabel>
+                    <content src="501325-16-chapter.xhtml#level3_59"/>
+                </navPoint>
+                <navPoint id="navPoint-180" playOrder="180">
+                    <navLabel>
+                        <text>10.3 Estimering av regresjonsparametrene</text>
+                    </navLabel>
+                    <content src="501325-16-chapter.xhtml#level3_60"/>
+                </navPoint>
+                <navPoint id="navPoint-181" playOrder="181">
+                    <navLabel>
+                        <text>10.4 t-testen</text>
+                    </navLabel>
+                    <content src="501325-16-chapter.xhtml#level3_61"/>
+                    <navPoint id="navPoint-182" playOrder="182">
+                        <navLabel>
+                            <text>1 Tosidig test positiv eller negativ (=)</text>
+                        </navLabel>
+                        <content src="501325-16-chapter.xhtml#level4_74"/>
+                    </navPoint>
+                    <navPoint id="navPoint-183" playOrder="183">
+                        <navLabel>
+                            <text>2 Ensidig test positiv (&gt;)</text>
+                        </navLabel>
+                        <content src="501325-16-chapter.xhtml#level4_75"/>
+                    </navPoint>
+                    <navPoint id="navPoint-184" playOrder="184">
+                        <navLabel>
+                            <text>3 Ensidig test negativ ( &lt; )</text>
+                        </navLabel>
+                        <content src="501325-16-chapter.xhtml#level4_76"/>
+                    </navPoint>
+                </navPoint>
+                <navPoint id="navPoint-185" playOrder="185">
+                    <navLabel>
+                        <text>10.5 Multippel regresjonsanalyse</text>
+                    </navLabel>
+                    <content src="501325-16-chapter.xhtml#level3_62"/>
+                </navPoint>
+                <navPoint id="navPoint-186" playOrder="186">
+                    <navLabel>
+                        <text>I de p&#xe5;f&#xf8;lgende avsnittene skal vi tolke denne regresjonsutskriften mer inng&#xe5;ende.</text>
+                    </navLabel>
+                    <content src="501325-16-chapter.xhtml#level3_63"/>
+                    <navPoint id="navPoint-187" playOrder="187">
+                        <navLabel>
+                            <text>10.6 Regresjonsligningens forklaringskraft, R 2</text>
+                        </navLabel>
+                        <content src="501325-16-chapter.xhtml#level4_77"/>
+                    </navPoint>
+                </navPoint>
+                <navPoint id="navPoint-188" playOrder="188">
+                    <navLabel>
+                        <text>10.7 Test av den multiple regresjonsmodellen</text>
+                    </navLabel>
+                    <content src="501325-16-chapter.xhtml#level3_64"/>
+                    <navPoint id="navPoint-189" playOrder="189">
+                        <navLabel>
+                            <text>F-testen for multippel regresjonsmodell</text>
+                        </navLabel>
+                        <content src="501325-16-chapter.xhtml#level4_78"/>
+                    </navPoint>
+                    <navPoint id="navPoint-190" playOrder="190">
+                        <navLabel>
+                            <text>t-testen for multippel regresjonsmodell</text>
+                        </navLabel>
+                        <content src="501325-16-chapter.xhtml#level4_79"/>
+                    </navPoint>
+                    <navPoint id="navPoint-191" playOrder="191">
+                        <navLabel>
+                            <text>Standardisert beta</text>
+                        </navLabel>
+                        <content src="501325-16-chapter.xhtml#level4_80"/>
+                    </navPoint>
+                </navPoint>
+                <navPoint id="navPoint-192" playOrder="192">
+                    <navLabel>
+                        <text>10.8 For mange eller for f&#xe5; forklaringsvariabler</text>
+                    </navLabel>
+                    <content src="501325-16-chapter.xhtml#level3_65"/>
+                    <navPoint id="navPoint-193" playOrder="193">
+                        <navLabel>
+                            <text>Konsekvens av &#xab;for lang&#xbb; modell</text>
+                        </navLabel>
+                        <content src="501325-16-chapter.xhtml#level4_81"/>
+                    </navPoint>
+                    <navPoint id="navPoint-194" playOrder="194">
+                        <navLabel>
+                            <text>Konsekvens av &#xab;for kort&#xbb; modell</text>
+                        </navLabel>
+                        <content src="501325-16-chapter.xhtml#level4_82"/>
+                    </navPoint>
+                </navPoint>
+                <navPoint id="navPoint-195" playOrder="195">
+                    <navLabel>
+                        <text>10.9 Dummy-regresjon</text>
+                    </navLabel>
+                    <content src="501325-16-chapter.xhtml#level3_66"/>
+                </navPoint>
+                <navPoint id="navPoint-196" playOrder="196">
+                    <navLabel>
+                        <text>10.10 Eksempel p&#xe5; multippel regresjonsanalyse ved hjelp av JMP</text>
+                    </navLabel>
+                    <content src="501325-16-chapter.xhtml#level3_67"/>
+                </navPoint>
+                <navPoint id="navPoint-197" playOrder="197">
+                    <navLabel>
+                        <text>VEDLEGG</text>
+                    </navLabel>
+                    <content src="501325-16-chapter.xhtml#level3_68"/>
+                    <navPoint id="navPoint-198" playOrder="198">
+                        <navLabel>
+                            <text>Klassiske antakelser:</text>
+                        </navLabel>
+                        <content src="501325-16-chapter.xhtml#level4_83"/>
+                    </navPoint>
+                    <navPoint id="navPoint-199" playOrder="199">
+                        <navLabel>
+                            <text>Gauss-Markov-teoremet</text>
+                        </navLabel>
+                        <content src="501325-16-chapter.xhtml#level4_84"/>
+                    </navPoint>
+                    <navPoint id="navPoint-200" playOrder="200">
+                        <navLabel>
+                            <text>Test av antakelse 2 &#x2013; residualanalyse</text>
+                        </navLabel>
+                        <content src="501325-16-chapter.xhtml#level4_85"/>
+                        <navPoint id="navPoint-201" playOrder="201">
+                            <navLabel>
+                                <text>Normalitetsantakelsen</text>
+                            </navLabel>
+                            <content src="501325-16-chapter.xhtml#level5_32"/>
+                        </navPoint>
+                    </navPoint>
+                    <navPoint id="navPoint-202" playOrder="202">
+                        <navLabel>
+                            <text>Test av antakelse 4 &#x2013; konstant varians</text>
+                        </navLabel>
+                        <content src="501325-16-chapter.xhtml#level4_86"/>
+                    </navPoint>
+                    <navPoint id="navPoint-203" playOrder="203">
+                        <navLabel>
+                            <text>Test av antakelse 6 &#x2013; Modellen skal v&#xe6;re line&#xe6;r i parametrene</text>
+                        </navLabel>
+                        <content src="501325-16-chapter.xhtml#level4_87"/>
+                    </navPoint>
+                    <navPoint id="navPoint-204" playOrder="204">
+                        <navLabel>
+                            <text>Test av antakelse 7 &#x2013; kollinearitet (multikollinearitet)</text>
+                        </navLabel>
+                        <content src="501325-16-chapter.xhtml#level4_88"/>
+                        <navPoint id="navPoint-205" playOrder="205">
+                            <navLabel>
+                                <text>M&#xe5;ling av kollinearitet</text>
+                            </navLabel>
+                            <content src="501325-16-chapter.xhtml#level5_33"/>
+                        </navPoint>
+                        <navPoint id="navPoint-206" playOrder="206">
+                            <navLabel>
+                                <text>Minste kvadraters metode</text>
+                            </navLabel>
+                            <content src="501325-16-chapter.xhtml#level5_34"/>
+                        </navPoint>
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+            <navPoint id="navPoint-207" playOrder="207">
+                <navLabel>
+                    <text>Kapittel 11 Segmentering og clustering</text>
+                </navLabel>
+                <content src="501325-17-chapter.xhtml#level2_11"/>
+                <navPoint id="navPoint-208" playOrder="208">
+                    <navLabel>
+                        <text>11.1 Innledning</text>
+                    </navLabel>
+                    <content src="501325-17-chapter.xhtml#level3_69"/>
+                </navPoint>
+                <navPoint id="navPoint-209" playOrder="209">
+                    <navLabel>
+                        <text>11.2 Likhet mellom grupper i dataene</text>
+                    </navLabel>
+                    <content src="501325-17-chapter.xhtml#level3_70"/>
+                </navPoint>
+                <navPoint id="navPoint-210" playOrder="210">
+                    <navLabel>
+                        <text>11.3 Ulike metodikker innenfor clustering</text>
+                    </navLabel>
+                    <content src="501325-17-chapter.xhtml#level3_71"/>
+                </navPoint>
+                <navPoint id="navPoint-211" playOrder="211">
+                    <navLabel>
+                        <text>11.4 Ikke-hierarkisk clustering</text>
+                    </navLabel>
+                    <content src="501325-17-chapter.xhtml#level3_72"/>
+                </navPoint>
+                <navPoint id="navPoint-212" playOrder="212">
+                    <navLabel>
+                        <text>11.5 Fortolkning og videre bruk av clustre</text>
+                    </navLabel>
+                    <content src="501325-17-chapter.xhtml#level3_73"/>
+                </navPoint>
+                <navPoint id="navPoint-213" playOrder="213">
+                    <navLabel>
+                        <text>11.6 Hierarkisk clustering</text>
+                    </navLabel>
+                    <content src="501325-17-chapter.xhtml#level3_74"/>
+                </navPoint>
+                <navPoint id="navPoint-214" playOrder="214">
+                    <navLabel>
+                        <text>11.7 Variabel clustering</text>
+                    </navLabel>
+                    <content src="501325-17-chapter.xhtml#level3_75"/>
+                </navPoint>
+            </navPoint>
+            <navPoint id="navPoint-215" playOrder="215">
+                <navLabel>
+                    <text>Kapittel 12 Faktoranalyse</text>
+                </navLabel>
+                <content src="501325-18-chapter.xhtml#level2_12"/>
+                <navPoint id="navPoint-216" playOrder="216">
+                    <navLabel>
+                        <text>12.1 Innledning</text>
+                    </navLabel>
+                    <content src="501325-18-chapter.xhtml#level3_76"/>
+                </navPoint>
+                <navPoint id="navPoint-217" playOrder="217">
+                    <navLabel>
+                        <text>12.2 Faktoranalyse</text>
+                    </navLabel>
+                    <content src="501325-18-chapter.xhtml#level3_77"/>
+                </navPoint>
+                <navPoint id="navPoint-218" playOrder="218">
+                    <navLabel>
+                        <text>12.3 Eksplorerende og bekreftende faktoranalyse</text>
+                    </navLabel>
+                    <content src="501325-18-chapter.xhtml#level3_78"/>
+                    <navPoint id="navPoint-219" playOrder="219">
+                        <navLabel>
+                            <text>Hvilke faktorer er avgj&#xf8;rende ved kj&#xf8;p av ny bil?</text>
+                        </navLabel>
+                        <content src="501325-18-chapter.xhtml#level4_89"/>
+                    </navPoint>
+                </navPoint>
+                <navPoint id="navPoint-220" playOrder="220">
+                    <navLabel>
+                        <text>12.4 Faktoranalyse</text>
+                    </navLabel>
+                    <content src="501325-18-chapter.xhtml#level3_79"/>
+                </navPoint>
+                <navPoint id="navPoint-221" playOrder="221">
+                    <navLabel>
+                        <text>12.5 Rotasjon</text>
+                    </navLabel>
+                    <content src="501325-18-chapter.xhtml#level3_80"/>
+                </navPoint>
+                <navPoint id="navPoint-222" playOrder="222">
+                    <navLabel>
+                        <text>12.6 Forskjellen mellom faktoranalyse og prinsipal komponent-analyse</text>
+                    </navLabel>
+                    <content src="501325-18-chapter.xhtml#level3_81"/>
+                </navPoint>
+                <navPoint id="navPoint-223" playOrder="223">
+                    <navLabel>
+                        <text>12.7 Faktorscorer</text>
+                    </navLabel>
+                    <content src="501325-18-chapter.xhtml#level3_82"/>
+                    <navPoint id="navPoint-224" playOrder="224">
+                        <navLabel>
+                            <text>Rotasjon</text>
+                        </navLabel>
+                        <content src="501325-18-chapter.xhtml#level4_90"/>
+                        <navPoint id="navPoint-225" playOrder="225">
+                            <navLabel>
+                                <text>Vi klikker p&#xe5;</text>
+                            </navLabel>
+                            <content src="501325-18-chapter.xhtml#level5_35"/>
+                        </navPoint>
+                    </navPoint>
+                </navPoint>
+                <navPoint id="navPoint-226" playOrder="226">
+                    <navLabel>
+                        <text>12.8 Reliabilitet</text>
+                    </navLabel>
+                    <content src="501325-18-chapter.xhtml#level3_83"/>
+                </navPoint>
+                <navPoint id="navPoint-227" playOrder="227">
+                    <navLabel>
+                        <text>12.9 Lage indekser basert p&#xe5; faktoranalysen</text>
+                    </navLabel>
+                    <content src="501325-18-chapter.xhtml#level3_84"/>
+                </navPoint>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-228" playOrder="228">
+            <navLabel>
+                <text>Del 4 Rapportering</text>
+            </navLabel>
+            <content src="501325-19-part.xhtml#level1_7"/>
+            <navPoint id="navPoint-229" playOrder="229">
+                <navLabel>
+                    <text>Kapittel 13 Konklusjon, rapportering og implementering</text>
+                </navLabel>
+                <content src="501325-20-chapter.xhtml#level2_13"/>
+                <navPoint id="navPoint-230" playOrder="230">
+                    <navLabel>
+                        <text>13.1 Innledning</text>
+                    </navLabel>
+                    <content src="501325-20-chapter.xhtml#level3_85"/>
+                </navPoint>
+                <navPoint id="navPoint-231" playOrder="231">
+                    <navLabel>
+                        <text>13.2 Konklusjon</text>
+                    </navLabel>
+                    <content src="501325-20-chapter.xhtml#level3_86"/>
+                </navPoint>
+                <navPoint id="navPoint-232" playOrder="232">
+                    <navLabel>
+                        <text>13.3 Rapportering</text>
+                    </navLabel>
+                    <content src="501325-20-chapter.xhtml#level3_87"/>
+                    <navPoint id="navPoint-233" playOrder="233">
+                        <navLabel>
+                            <text>Tilpasse til mottaker</text>
+                        </navLabel>
+                        <content src="501325-20-chapter.xhtml#level4_91"/>
+                    </navPoint>
+                    <navPoint id="navPoint-234" playOrder="234">
+                        <navLabel>
+                            <text>Viktig informasjon</text>
+                        </navLabel>
+                        <content src="501325-20-chapter.xhtml#level4_92"/>
+                    </navPoint>
+                    <navPoint id="navPoint-235" playOrder="235">
+                        <navLabel>
+                            <text>Referansebruk</text>
+                        </navLabel>
+                        <content src="501325-20-chapter.xhtml#level4_93"/>
+                        <navPoint id="navPoint-236" playOrder="236">
+                            <navLabel>
+                                <text>Artikkel i journal, &#xe9;n forfatter</text>
+                            </navLabel>
+                            <content src="501325-20-chapter.xhtml#level5_36"/>
+                        </navPoint>
+                        <navPoint id="navPoint-237" playOrder="237">
+                            <navLabel>
+                                <text>Artikkel i journal, to forfattere</text>
+                            </navLabel>
+                            <content src="501325-20-chapter.xhtml#level5_37"/>
+                        </navPoint>
+                        <navPoint id="navPoint-238" playOrder="238">
+                            <navLabel>
+                                <text>Artikkel i journal, tre eller flere forfattere</text>
+                            </navLabel>
+                            <content src="501325-20-chapter.xhtml#level5_38"/>
+                        </navPoint>
+                        <navPoint id="navPoint-239" playOrder="239">
+                            <navLabel>
+                                <text>Bok, en forfatter</text>
+                            </navLabel>
+                            <content src="501325-20-chapter.xhtml#level5_39"/>
+                        </navPoint>
+                        <navPoint id="navPoint-240" playOrder="240">
+                            <navLabel>
+                                <text>Bok, to forfattere</text>
+                            </navLabel>
+                            <content src="501325-20-chapter.xhtml#level5_40"/>
+                        </navPoint>
+                        <navPoint id="navPoint-241" playOrder="241">
+                            <navLabel>
+                                <text>Bok, tre eller flere forfattere</text>
+                            </navLabel>
+                            <content src="501325-20-chapter.xhtml#level5_41"/>
+                        </navPoint>
+                        <navPoint id="navPoint-242" playOrder="242">
+                            <navLabel>
+                                <text>Kapitler og artikler i b&#xf8;ker, en forfatter</text>
+                            </navLabel>
+                            <content src="501325-20-chapter.xhtml#level5_42"/>
+                        </navPoint>
+                        <navPoint id="navPoint-243" playOrder="243">
+                            <navLabel>
+                                <text>Kapitler og artikler i b&#xf8;ker, to forfattere</text>
+                            </navLabel>
+                            <content src="501325-20-chapter.xhtml#level5_43"/>
+                        </navPoint>
+                        <navPoint id="navPoint-244" playOrder="244">
+                            <navLabel>
+                                <text>Studentarbeider</text>
+                            </navLabel>
+                            <content src="501325-20-chapter.xhtml#level5_44"/>
+                        </navPoint>
+                        <navPoint id="navPoint-245" playOrder="245">
+                            <navLabel>
+                                <text>Elektroniske kilder</text>
+                            </navLabel>
+                            <content src="501325-20-chapter.xhtml#level5_45"/>
+                        </navPoint>
+                        <navPoint id="navPoint-246" playOrder="246">
+                            <navLabel>
+                                <text>Etterpr&#xf8;vbarhet</text>
+                            </navLabel>
+                            <content src="501325-20-chapter.xhtml#level5_46"/>
+                        </navPoint>
+                        <navPoint id="navPoint-247" playOrder="247">
+                            <navLabel>
+                                <text>Svakheter</text>
+                            </navLabel>
+                            <content src="501325-20-chapter.xhtml#level5_47"/>
+                        </navPoint>
+                        <navPoint id="navPoint-248" playOrder="248">
+                            <navLabel>
+                                <text>Stil og skriveform</text>
+                            </navLabel>
+                            <content src="501325-20-chapter.xhtml#level5_48"/>
+                        </navPoint>
+                    </navPoint>
+                </navPoint>
+                <navPoint id="navPoint-249" playOrder="249">
+                    <navLabel>
+                        <text>13.4 Formelt oppsett p&#xe5; rapporten</text>
+                    </navLabel>
+                    <content src="501325-20-chapter.xhtml#level3_88"/>
+                </navPoint>
+                <navPoint id="navPoint-250" playOrder="250">
+                    <navLabel>
+                        <text>13.5 Implementering</text>
+                    </navLabel>
+                    <content src="501325-20-chapter.xhtml#level3_89"/>
+                    <navPoint id="navPoint-251" playOrder="251">
+                        <navLabel>
+                            <text>Mer utbytte av unders&#xf8;kelser</text>
+                        </navLabel>
+                        <content src="501325-20-chapter.xhtml#level4_94"/>
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+            <navPoint id="navPoint-252" playOrder="252">
+                <navLabel>
+                    <text>Litteraturliste</text>
+                </navLabel>
+                <content src="501325-21-chapter.xhtml#level2_14"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-253" playOrder="253">
+            <navLabel>
+                <text>Del 5 Vedlegg</text>
+            </navLabel>
+            <content src="501325-22-part.xhtml#level1_8"/>
+            <navPoint id="navPoint-254" playOrder="254">
+                <navLabel>
+                    <text>Nyttige linker</text>
+                </navLabel>
+                <content src="501325-23-chapter.xhtml#level2_15"/>
+                <navPoint id="navPoint-255" playOrder="255">
+                    <navLabel>
+                        <text>Analysebyr&#xe5;er, fullservice</text>
+                    </navLabel>
+                    <content src="501325-23-chapter.xhtml#level3_90"/>
+                </navPoint>
+                <navPoint id="navPoint-256" playOrder="256">
+                    <navLabel>
+                        <text>Norske markedsanalyseinstitutter (nisjer)</text>
+                    </navLabel>
+                    <content src="501325-23-chapter.xhtml#level3_91"/>
+                </navPoint>
+                <navPoint id="navPoint-257" playOrder="257">
+                    <navLabel>
+                        <text>Spesialister p&#xe5; kvalitative unders&#xf8;kelser</text>
+                    </navLabel>
+                    <content src="501325-23-chapter.xhtml#level3_92"/>
+                </navPoint>
+                <navPoint id="navPoint-258" playOrder="258">
+                    <navLabel>
+                        <text>Spesialister p&#xe5; datainnsamling</text>
+                    </navLabel>
+                    <content src="501325-23-chapter.xhtml#level3_93"/>
+                </navPoint>
+                <navPoint id="navPoint-259" playOrder="259">
+                    <navLabel>
+                        <text>Gjennomf&#xf8;rer analyser kun p&#xe5; web</text>
+                    </navLabel>
+                    <content src="501325-23-chapter.xhtml#level3_94"/>
+                </navPoint>
+                <navPoint id="navPoint-260" playOrder="260">
+                    <navLabel>
+                        <text>Softwareselskaper</text>
+                    </navLabel>
+                    <content src="501325-23-chapter.xhtml#level3_95"/>
+                </navPoint>
+                <navPoint id="navPoint-261" playOrder="261">
+                    <navLabel>
+                        <text>Markedsstrategisk r&#xe5;dgivning</text>
+                    </navLabel>
+                    <content src="501325-23-chapter.xhtml#level3_96"/>
+                </navPoint>
+                <navPoint id="navPoint-262" playOrder="262">
+                    <navLabel>
+                        <text>Utenlandske analyseinstitutter</text>
+                    </navLabel>
+                    <content src="501325-23-chapter.xhtml#level3_97"/>
+                </navPoint>
+                <navPoint id="navPoint-263" playOrder="263">
+                    <navLabel>
+                        <text>Utenlandske nettsteder av interesse</text>
+                    </navLabel>
+                    <content src="501325-23-chapter.xhtml#level3_98"/>
+                </navPoint>
+                <navPoint id="navPoint-264" playOrder="264">
+                    <navLabel>
+                        <text>L&#xe6;resteder</text>
+                    </navLabel>
+                    <content src="501325-23-chapter.xhtml#level3_99"/>
+                </navPoint>
+            </navPoint>
+            <navPoint id="navPoint-265" playOrder="265">
+                <navLabel>
+                    <text>Vedlegg 1</text>
+                </navLabel>
+                <content src="501325-24-chapter.xhtml#level2_16"/>
+                <navPoint id="navPoint-266" playOrder="266">
+                    <navLabel>
+                        <text>NKB-sp&#xf8;rreskjema</text>
+                    </navLabel>
+                    <content src="501325-24-chapter.xhtml#level3_100"/>
+                    <navPoint id="navPoint-267" playOrder="267">
+                        <navLabel>
+                            <text>NORSK KUNDEBAROMETER &#x2013; BOLIGALARM</text>
+                        </navLabel>
+                        <content src="501325-24-chapter.xhtml#level4_95"/>
+                        <navPoint id="navPoint-268" playOrder="268">
+                            <navLabel>
+                                <text>Screening</text>
+                            </navLabel>
+                            <content src="501325-24-chapter.xhtml#level5_49"/>
+                        </navPoint>
+                        <navPoint id="navPoint-269" playOrder="269">
+                            <navLabel>
+                                <text>Tilfredshet</text>
+                            </navLabel>
+                            <content src="501325-24-chapter.xhtml#level5_50"/>
+                        </navPoint>
+                        <navPoint id="navPoint-270" playOrder="270">
+                            <navLabel>
+                                <text>Pris</text>
+                            </navLabel>
+                            <content src="501325-24-chapter.xhtml#level5_51"/>
+                        </navPoint>
+                        <navPoint id="navPoint-271" playOrder="271">
+                            <navLabel>
+                                <text>Materiell kvalitet/faktura/produkt</text>
+                            </navLabel>
+                            <content src="501325-24-chapter.xhtml#level5_52"/>
+                        </navPoint>
+                        <navPoint id="navPoint-272" playOrder="272">
+                            <navLabel>
+                                <text>Reaksjonsdyktighet</text>
+                            </navLabel>
+                            <content src="501325-24-chapter.xhtml#level5_53"/>
+                        </navPoint>
+                        <navPoint id="navPoint-273" playOrder="273">
+                            <navLabel>
+                                <text>Personlig behandling</text>
+                            </navLabel>
+                            <content src="501325-24-chapter.xhtml#level5_54"/>
+                        </navPoint>
+                        <navPoint id="navPoint-274" playOrder="274">
+                            <navLabel>
+                                <text>Rettferdighet</text>
+                            </navLabel>
+                            <content src="501325-24-chapter.xhtml#level5_55"/>
+                        </navPoint>
+                        <navPoint id="navPoint-275" playOrder="275">
+                            <navLabel>
+                                <text>Klagebehandling</text>
+                            </navLabel>
+                            <content src="501325-24-chapter.xhtml#level5_56"/>
+                        </navPoint>
+                        <navPoint id="navPoint-276" playOrder="276">
+                            <navLabel>
+                                <text>Omd&#xf8;mme</text>
+                            </navLabel>
+                            <content src="501325-24-chapter.xhtml#level5_57"/>
+                        </navPoint>
+                        <navPoint id="navPoint-277" playOrder="277">
+                            <navLabel>
+                                <text>Tillit</text>
+                            </navLabel>
+                            <content src="501325-24-chapter.xhtml#level5_58"/>
+                        </navPoint>
+                        <navPoint id="navPoint-278" playOrder="278">
+                            <navLabel>
+                                <text>Affektiv tilknytning</text>
+                            </navLabel>
+                            <content src="501325-24-chapter.xhtml#level5_59"/>
+                        </navPoint>
+                        <navPoint id="navPoint-279" playOrder="279">
+                            <navLabel>
+                                <text>Kalkulativ tilknytning</text>
+                            </navLabel>
+                            <content src="501325-24-chapter.xhtml#level5_60"/>
+                        </navPoint>
+                        <navPoint id="navPoint-280" playOrder="280">
+                            <navLabel>
+                                <text>Atferdsmessige intensjoner</text>
+                            </navLabel>
+                            <content src="501325-24-chapter.xhtml#level5_61"/>
+                        </navPoint>
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+            <navPoint id="navPoint-281" playOrder="281">
+                <navLabel>
+                    <text>Vedlegg 2A</text>
+                </navLabel>
+                <content src="501325-25-chapter.xhtml#level2_17"/>
+                <navPoint id="navPoint-282" playOrder="282">
+                    <navLabel>
+                        <text>Case Dagbladet</text>
+                    </navLabel>
+                    <content src="501325-25-chapter.xhtml#level3_101"/>
+                    <navPoint id="navPoint-283" playOrder="283">
+                        <navLabel>
+                            <text>Verveguide for fokusgruppe</text>
+                        </navLabel>
+                        <content src="501325-25-chapter.xhtml#level4_96"/>
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+            <navPoint id="navPoint-284" playOrder="284">
+                <navLabel>
+                    <text>Vedlegg 2B</text>
+                </navLabel>
+                <content src="501325-26-chapter.xhtml#level2_18"/>
+                <navPoint id="navPoint-285" playOrder="285">
+                    <navLabel>
+                        <text>Samtaleguide for fokusgruppe</text>
+                    </navLabel>
+                    <content src="501325-26-chapter.xhtml#level3_102"/>
+                    <navPoint id="navPoint-286" playOrder="286">
+                        <navLabel>
+                            <text>Samtaleguide DAG13395</text>
+                        </navLabel>
+                        <content src="501325-26-chapter.xhtml#level4_97"/>
+                        <navPoint id="navPoint-287" playOrder="287">
+                            <navLabel>
+                                <text>Oppvarming (10 min)</text>
+                            </navLabel>
+                            <content src="501325-26-chapter.xhtml#level5_62"/>
+                        </navPoint>
+                        <navPoint id="navPoint-288" playOrder="288">
+                            <navLabel>
+                                <text>Innledning (15 min)</text>
+                            </navLabel>
+                            <content src="501325-26-chapter.xhtml#level5_63"/>
+                        </navPoint>
+                        <navPoint id="navPoint-289" playOrder="289">
+                            <navLabel>
+                                <text>Forholdet til produktkategorien (X min)</text>
+                            </navLabel>
+                            <content src="501325-26-chapter.xhtml#level5_64"/>
+                        </navPoint>
+                        <navPoint id="navPoint-290" playOrder="290">
+                            <navLabel>
+                                <text>Oppfatning av Dagbladet (X min)</text>
+                            </navLabel>
+                            <content src="501325-26-chapter.xhtml#level5_65"/>
+                        </navPoint>
+                        <navPoint id="navPoint-291" playOrder="291">
+                            <navLabel>
+                                <text>Konkurrenter (X min)</text>
+                            </navLabel>
+                            <content src="501325-26-chapter.xhtml#level5_66"/>
+                        </navPoint>
+                        <navPoint id="navPoint-292" playOrder="292">
+                            <navLabel>
+                                <text>Helgemagasinene (X min)</text>
+                            </navLabel>
+                            <content src="501325-26-chapter.xhtml#level5_67"/>
+                            <navPoint id="navPoint-293" playOrder="293">
+                                <navLabel>
+                                    <text>Avsnitt Uten Tittel</text>
+                                </navLabel>
+                                <content src="501325-26-chapter.xhtml#poem_1"/>
+                            </navPoint>
+                            <navPoint id="navPoint-294" playOrder="294">
+                                <navLabel>
+                                    <text>Avsnitt Uten Tittel</text>
+                                </navLabel>
+                                <content src="501325-26-chapter.xhtml#poem_2"/>
+                            </navPoint>
+                        </navPoint>
+                        <navPoint id="navPoint-295" playOrder="295">
+                            <navLabel>
+                                <text>Nye magasin (X min)</text>
+                            </navLabel>
+                            <content src="501325-26-chapter.xhtml#level5_68"/>
+                        </navPoint>
+                        <navPoint id="navPoint-296" playOrder="296">
+                            <navLabel>
+                                <text>Pris (X min)</text>
+                            </navLabel>
+                            <content src="501325-26-chapter.xhtml#level5_69"/>
+                        </navPoint>
+                        <navPoint id="navPoint-297" playOrder="297">
+                            <navLabel>
+                                <text>Reklameinnstikk (X min)</text>
+                            </navLabel>
+                            <content src="501325-26-chapter.xhtml#level5_70"/>
+                        </navPoint>
+                        <navPoint id="navPoint-298" playOrder="298">
+                            <navLabel>
+                                <text>Avslutning</text>
+                            </navLabel>
+                            <content src="501325-26-chapter.xhtml#level5_71"/>
+                        </navPoint>
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+            <navPoint id="navPoint-299" playOrder="299">
+                <navLabel>
+                    <text>Vedlegg 2C</text>
+                </navLabel>
+                <content src="501325-27-chapter.xhtml#level2_19"/>
+                <navPoint id="navPoint-300" playOrder="300">
+                    <navLabel>
+                        <text>Sp&#xf8;rreskjemaunders&#xf8;kelse</text>
+                    </navLabel>
+                    <content src="501325-27-chapter.xhtml#level3_103"/>
+                </navPoint>
+            </navPoint>
+            <navPoint id="navPoint-301" playOrder="301">
+                <navLabel>
+                    <text>Vedlegg 3</text>
+                </navLabel>
+                <content src="501325-28-chapter.xhtml#level2_20"/>
+                <navPoint id="navPoint-302" playOrder="302">
+                    <navLabel>
+                        <text>Tabeller</text>
+                    </navLabel>
+                    <content src="501325-28-chapter.xhtml#level3_104"/>
+                    <navPoint id="navPoint-303" playOrder="303">
+                        <navLabel>
+                            <text>Tabell 3A Kji-kvadratfordelingen</text>
+                        </navLabel>
+                        <content src="501325-28-chapter.xhtml#level4_98"/>
+                    </navPoint>
+                    <navPoint id="navPoint-304" playOrder="304">
+                        <navLabel>
+                            <text>Tabell 3B t-fordelingen</text>
+                        </navLabel>
+                        <content src="501325-28-chapter.xhtml#level4_99"/>
+                    </navPoint>
+                    <navPoint id="navPoint-305" playOrder="305">
+                        <navLabel>
+                            <text>Tabell 3C F-fordelingen</text>
+                        </navLabel>
+                        <content src="501325-28-chapter.xhtml#level4_100"/>
+                    </navPoint>
+                    <navPoint id="navPoint-306" playOrder="306">
+                        <navLabel>
+                            <text>Tabell 3D Shapiro-Wilks-tabellen</text>
+                        </navLabel>
+                        <content src="501325-28-chapter.xhtml#level4_101"/>
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+            <navPoint id="navPoint-307" playOrder="307">
+                <navLabel>
+                    <text>Vedlegg 4</text>
+                </navLabel>
+                <content src="501325-29-chapter.xhtml#level2_21"/>
+                <navPoint id="navPoint-308" playOrder="308">
+                    <navLabel>
+                        <text>Hotelldataene</text>
+                    </navLabel>
+                    <content src="501325-29-chapter.xhtml#level3_105"/>
+                </navPoint>
+            </navPoint>
+            <navPoint id="navPoint-309" playOrder="309">
+                <navLabel>
+                    <text>Vedlegg 5</text>
+                </navLabel>
+                <content src="501325-30-chapter.xhtml#level2_22"/>
+                <navPoint id="navPoint-310" playOrder="310">
+                    <navLabel>
+                        <text>Eksamensoppgaver fra Handelsh&#xf8;yskolen BI</text>
+                    </navLabel>
+                    <content src="501325-30-chapter.xhtml#level3_106"/>
+                    <navPoint id="navPoint-311" playOrder="311">
+                        <navLabel>
+                            <text>Bergby Kaffebar</text>
+                        </navLabel>
+                        <content src="501325-30-chapter.xhtml#level4_102"/>
+                    </navPoint>
+                    <navPoint id="navPoint-312" playOrder="312">
+                        <navLabel>
+                            <text>AB Bank</text>
+                        </navLabel>
+                        <content src="501325-30-chapter.xhtml#level4_103"/>
+                    </navPoint>
+                    <navPoint id="navPoint-313" playOrder="313">
+                        <navLabel>
+                            <text>Peunault Jeunesse</text>
+                        </navLabel>
+                        <content src="501325-30-chapter.xhtml#level4_104"/>
+                    </navPoint>
+                    <navPoint id="navPoint-314" playOrder="314">
+                        <navLabel>
+                            <text>Diamond Gym Inc</text>
+                        </navLabel>
+                        <content src="501325-30-chapter.xhtml#level4_105"/>
+                    </navPoint>
+                    <navPoint id="navPoint-315" playOrder="315">
+                        <navLabel>
+                            <text>TIURTOPPEN HOTELL</text>
+                        </navLabel>
+                        <content src="501325-30-chapter.xhtml#level4_106"/>
+                    </navPoint>
+                    <navPoint id="navPoint-316" playOrder="316">
+                        <navLabel>
+                            <text>Eksamensoppgave i Markedsanalyse ved Handelsh&#xf8;yskolen BI, 1998</text>
+                        </navLabel>
+                        <content src="501325-30-chapter.xhtml#level4_107"/>
+                    </navPoint>
+                    <navPoint id="navPoint-317" playOrder="317">
+                        <navLabel>
+                            <text>Fagoppgave MET2360 Metode og dataanalyse, H&#xf8;sten 2003</text>
+                        </navLabel>
+                        <content src="501325-30-chapter.xhtml#level4_108"/>
+                    </navPoint>
+                    <navPoint id="navPoint-318" playOrder="318">
+                        <navLabel>
+                            <text>Sp&#xf8;rreskjemaunders&#xf8;kelse for ansatte ved Cure helseforetak.</text>
+                        </navLabel>
+                        <content src="501325-30-chapter.xhtml#level4_109"/>
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-319" playOrder="319">
+            <navLabel>
+                <text>Stikkordregister</text>
+            </navLabel>
+            <content src="501325-31-chapter.xhtml#level1_9"/>
+        </navPoint>
+        <navPoint id="navPoint-320" playOrder="320">
+            <navLabel>
+                <text>Avsnitt Uten Tittel</text>
+            </navLabel>
+            <content src="501325-32-footnotes.xhtml#level1_10"/>
+        </navPoint>
+    </navMap>
+    <pageList>
+        <navLabel>
+            <text>Liste over sider</text>
+        </navLabel>
+        <pageTarget id="pageTarget-321" playOrder="321" type="normal">
+            <navLabel>
+                <text>4</text>
+            </navLabel>
+            <content src="501325-01-chapter.xhtml#page-4"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-322" playOrder="322" type="normal">
+            <navLabel>
+                <text>5</text>
+            </navLabel>
+            <content src="501325-02-toc.xhtml#page-5"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-323" playOrder="323" type="normal">
+            <navLabel>
+                <text>6</text>
+            </navLabel>
+            <content src="501325-02-toc.xhtml#page-6"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-324" playOrder="324" type="normal">
+            <navLabel>
+                <text>7</text>
+            </navLabel>
+            <content src="501325-02-toc.xhtml#page-7"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-325" playOrder="325" type="normal">
+            <navLabel>
+                <text>8</text>
+            </navLabel>
+            <content src="501325-02-toc.xhtml#page-8"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-326" playOrder="326" type="normal">
+            <navLabel>
+                <text>9</text>
+            </navLabel>
+            <content src="501325-03-chapter.xhtml#page-9"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-327" playOrder="327" type="normal">
+            <navLabel>
+                <text>10</text>
+            </navLabel>
+            <content src="501325-03-chapter.xhtml#page-10"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-328" playOrder="328" type="normal">
+            <navLabel>
+                <text>11</text>
+            </navLabel>
+            <content src="501325-04-part.xhtml#page-11"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-329" playOrder="329" type="normal">
+            <navLabel>
+                <text>12</text>
+            </navLabel>
+            <content src="501325-04-part.xhtml#page-12"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-330" playOrder="330" type="normal">
+            <navLabel>
+                <text>13</text>
+            </navLabel>
+            <content src="501325-05-chapter.xhtml#page-13"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-331" playOrder="331" type="normal">
+            <navLabel>
+                <text>14</text>
+            </navLabel>
+            <content src="501325-05-chapter.xhtml#page-14"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-332" playOrder="332" type="normal">
+            <navLabel>
+                <text>15</text>
+            </navLabel>
+            <content src="501325-05-chapter.xhtml#page-15"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-333" playOrder="333" type="normal">
+            <navLabel>
+                <text>16</text>
+            </navLabel>
+            <content src="501325-05-chapter.xhtml#page-16"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-334" playOrder="334" type="normal">
+            <navLabel>
+                <text>17</text>
+            </navLabel>
+            <content src="501325-05-chapter.xhtml#page-17"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-335" playOrder="335" type="normal">
+            <navLabel>
+                <text>18</text>
+            </navLabel>
+            <content src="501325-05-chapter.xhtml#page-18"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-336" playOrder="336" type="normal">
+            <navLabel>
+                <text>19</text>
+            </navLabel>
+            <content src="501325-05-chapter.xhtml#page-19"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-337" playOrder="337" type="normal">
+            <navLabel>
+                <text>20</text>
+            </navLabel>
+            <content src="501325-05-chapter.xhtml#page-20"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-338" playOrder="338" type="normal">
+            <navLabel>
+                <text>21</text>
+            </navLabel>
+            <content src="501325-05-chapter.xhtml#page-21"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-339" playOrder="339" type="normal">
+            <navLabel>
+                <text>22</text>
+            </navLabel>
+            <content src="501325-05-chapter.xhtml#page-22"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-340" playOrder="340" type="normal">
+            <navLabel>
+                <text>23</text>
+            </navLabel>
+            <content src="501325-05-chapter.xhtml#page-23"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-341" playOrder="341" type="normal">
+            <navLabel>
+                <text>24</text>
+            </navLabel>
+            <content src="501325-05-chapter.xhtml#page-24"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-342" playOrder="342" type="normal">
+            <navLabel>
+                <text>25</text>
+            </navLabel>
+            <content src="501325-06-chapter.xhtml#page-25"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-343" playOrder="343" type="normal">
+            <navLabel>
+                <text>26</text>
+            </navLabel>
+            <content src="501325-06-chapter.xhtml#page-26"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-344" playOrder="344" type="normal">
+            <navLabel>
+                <text>27</text>
+            </navLabel>
+            <content src="501325-06-chapter.xhtml#page-27"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-345" playOrder="345" type="normal">
+            <navLabel>
+                <text>28</text>
+            </navLabel>
+            <content src="501325-06-chapter.xhtml#page-28"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-346" playOrder="346" type="normal">
+            <navLabel>
+                <text>29</text>
+            </navLabel>
+            <content src="501325-06-chapter.xhtml#page-29"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-347" playOrder="347" type="normal">
+            <navLabel>
+                <text>30</text>
+            </navLabel>
+            <content src="501325-06-chapter.xhtml#page-30"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-348" playOrder="348" type="normal">
+            <navLabel>
+                <text>31</text>
+            </navLabel>
+            <content src="501325-06-chapter.xhtml#page-31"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-349" playOrder="349" type="normal">
+            <navLabel>
+                <text>32</text>
+            </navLabel>
+            <content src="501325-06-chapter.xhtml#page-32"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-350" playOrder="350" type="normal">
+            <navLabel>
+                <text>33</text>
+            </navLabel>
+            <content src="501325-06-chapter.xhtml#page-33"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-351" playOrder="351" type="normal">
+            <navLabel>
+                <text>34</text>
+            </navLabel>
+            <content src="501325-06-chapter.xhtml#page-34"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-352" playOrder="352" type="normal">
+            <navLabel>
+                <text>35</text>
+            </navLabel>
+            <content src="501325-06-chapter.xhtml#page-35"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-353" playOrder="353" type="normal">
+            <navLabel>
+                <text>36</text>
+            </navLabel>
+            <content src="501325-06-chapter.xhtml#page-36"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-354" playOrder="354" type="normal">
+            <navLabel>
+                <text>37</text>
+            </navLabel>
+            <content src="501325-06-chapter.xhtml#page-37"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-355" playOrder="355" type="normal">
+            <navLabel>
+                <text>38</text>
+            </navLabel>
+            <content src="501325-07-chapter.xhtml#page-38"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-356" playOrder="356" type="normal">
+            <navLabel>
+                <text>39</text>
+            </navLabel>
+            <content src="501325-07-chapter.xhtml#page-39"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-357" playOrder="357" type="normal">
+            <navLabel>
+                <text>40</text>
+            </navLabel>
+            <content src="501325-07-chapter.xhtml#page-40"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-358" playOrder="358" type="normal">
+            <navLabel>
+                <text>41</text>
+            </navLabel>
+            <content src="501325-07-chapter.xhtml#page-41"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-359" playOrder="359" type="normal">
+            <navLabel>
+                <text>42</text>
+            </navLabel>
+            <content src="501325-07-chapter.xhtml#page-42"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-360" playOrder="360" type="normal">
+            <navLabel>
+                <text>43</text>
+            </navLabel>
+            <content src="501325-07-chapter.xhtml#page-43"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-361" playOrder="361" type="normal">
+            <navLabel>
+                <text>44</text>
+            </navLabel>
+            <content src="501325-07-chapter.xhtml#page-44"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-362" playOrder="362" type="normal">
+            <navLabel>
+                <text>45</text>
+            </navLabel>
+            <content src="501325-07-chapter.xhtml#page-45"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-363" playOrder="363" type="normal">
+            <navLabel>
+                <text>46</text>
+            </navLabel>
+            <content src="501325-07-chapter.xhtml#page-46"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-364" playOrder="364" type="normal">
+            <navLabel>
+                <text>47</text>
+            </navLabel>
+            <content src="501325-07-chapter.xhtml#page-47"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-365" playOrder="365" type="normal">
+            <navLabel>
+                <text>48</text>
+            </navLabel>
+            <content src="501325-07-chapter.xhtml#page-48"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-366" playOrder="366" type="normal">
+            <navLabel>
+                <text>49</text>
+            </navLabel>
+            <content src="501325-07-chapter.xhtml#page-49"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-367" playOrder="367" type="normal">
+            <navLabel>
+                <text>50</text>
+            </navLabel>
+            <content src="501325-07-chapter.xhtml#page-50"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-368" playOrder="368" type="normal">
+            <navLabel>
+                <text>51</text>
+            </navLabel>
+            <content src="501325-07-chapter.xhtml#page-51"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-369" playOrder="369" type="normal">
+            <navLabel>
+                <text>52</text>
+            </navLabel>
+            <content src="501325-07-chapter.xhtml#page-52"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-370" playOrder="370" type="normal">
+            <navLabel>
+                <text>53</text>
+            </navLabel>
+            <content src="501325-07-chapter.xhtml#page-53"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-371" playOrder="371" type="normal">
+            <navLabel>
+                <text>54</text>
+            </navLabel>
+            <content src="501325-07-chapter.xhtml#page-54"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-372" playOrder="372" type="normal">
+            <navLabel>
+                <text>55</text>
+            </navLabel>
+            <content src="501325-08-part.xhtml#page-55"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-373" playOrder="373" type="normal">
+            <navLabel>
+                <text>56</text>
+            </navLabel>
+            <content src="501325-08-part.xhtml#page-56"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-374" playOrder="374" type="normal">
+            <navLabel>
+                <text>57</text>
+            </navLabel>
+            <content src="501325-09-chapter.xhtml#page-57"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-375" playOrder="375" type="normal">
+            <navLabel>
+                <text>58</text>
+            </navLabel>
+            <content src="501325-09-chapter.xhtml#page-58"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-376" playOrder="376" type="normal">
+            <navLabel>
+                <text>59</text>
+            </navLabel>
+            <content src="501325-09-chapter.xhtml#page-59"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-377" playOrder="377" type="normal">
+            <navLabel>
+                <text>60</text>
+            </navLabel>
+            <content src="501325-09-chapter.xhtml#page-60"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-378" playOrder="378" type="normal">
+            <navLabel>
+                <text>61</text>
+            </navLabel>
+            <content src="501325-09-chapter.xhtml#page-61"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-379" playOrder="379" type="normal">
+            <navLabel>
+                <text>62</text>
+            </navLabel>
+            <content src="501325-09-chapter.xhtml#page-62"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-380" playOrder="380" type="normal">
+            <navLabel>
+                <text>63</text>
+            </navLabel>
+            <content src="501325-09-chapter.xhtml#page-63"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-381" playOrder="381" type="normal">
+            <navLabel>
+                <text>64</text>
+            </navLabel>
+            <content src="501325-09-chapter.xhtml#page-64"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-382" playOrder="382" type="normal">
+            <navLabel>
+                <text>65</text>
+            </navLabel>
+            <content src="501325-09-chapter.xhtml#page-65"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-383" playOrder="383" type="normal">
+            <navLabel>
+                <text>66</text>
+            </navLabel>
+            <content src="501325-09-chapter.xhtml#page-66"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-384" playOrder="384" type="normal">
+            <navLabel>
+                <text>67</text>
+            </navLabel>
+            <content src="501325-09-chapter.xhtml#page-67"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-385" playOrder="385" type="normal">
+            <navLabel>
+                <text>68</text>
+            </navLabel>
+            <content src="501325-09-chapter.xhtml#page-68"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-386" playOrder="386" type="normal">
+            <navLabel>
+                <text>69</text>
+            </navLabel>
+            <content src="501325-09-chapter.xhtml#page-69"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-387" playOrder="387" type="normal">
+            <navLabel>
+                <text>70</text>
+            </navLabel>
+            <content src="501325-09-chapter.xhtml#page-70"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-388" playOrder="388" type="normal">
+            <navLabel>
+                <text>71</text>
+            </navLabel>
+            <content src="501325-09-chapter.xhtml#page-71"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-389" playOrder="389" type="normal">
+            <navLabel>
+                <text>72</text>
+            </navLabel>
+            <content src="501325-09-chapter.xhtml#page-72"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-390" playOrder="390" type="normal">
+            <navLabel>
+                <text>73</text>
+            </navLabel>
+            <content src="501325-09-chapter.xhtml#page-73"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-391" playOrder="391" type="normal">
+            <navLabel>
+                <text>74</text>
+            </navLabel>
+            <content src="501325-09-chapter.xhtml#page-74"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-392" playOrder="392" type="normal">
+            <navLabel>
+                <text>75</text>
+            </navLabel>
+            <content src="501325-09-chapter.xhtml#page-75"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-393" playOrder="393" type="normal">
+            <navLabel>
+                <text>76</text>
+            </navLabel>
+            <content src="501325-09-chapter.xhtml#page-76"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-394" playOrder="394" type="normal">
+            <navLabel>
+                <text>77</text>
+            </navLabel>
+            <content src="501325-09-chapter.xhtml#page-77"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-395" playOrder="395" type="normal">
+            <navLabel>
+                <text>78</text>
+            </navLabel>
+            <content src="501325-09-chapter.xhtml#page-78"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-396" playOrder="396" type="normal">
+            <navLabel>
+                <text>79</text>
+            </navLabel>
+            <content src="501325-10-chapter.xhtml#page-79"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-397" playOrder="397" type="normal">
+            <navLabel>
+                <text>80</text>
+            </navLabel>
+            <content src="501325-10-chapter.xhtml#page-80"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-398" playOrder="398" type="normal">
+            <navLabel>
+                <text>81</text>
+            </navLabel>
+            <content src="501325-10-chapter.xhtml#page-81"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-399" playOrder="399" type="normal">
+            <navLabel>
+                <text>82</text>
+            </navLabel>
+            <content src="501325-10-chapter.xhtml#page-82"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-400" playOrder="400" type="normal">
+            <navLabel>
+                <text>83</text>
+            </navLabel>
+            <content src="501325-10-chapter.xhtml#page-83"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-401" playOrder="401" type="normal">
+            <navLabel>
+                <text>84</text>
+            </navLabel>
+            <content src="501325-10-chapter.xhtml#page-84"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-402" playOrder="402" type="normal">
+            <navLabel>
+                <text>85</text>
+            </navLabel>
+            <content src="501325-10-chapter.xhtml#page-85"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-403" playOrder="403" type="normal">
+            <navLabel>
+                <text>86</text>
+            </navLabel>
+            <content src="501325-10-chapter.xhtml#page-86"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-404" playOrder="404" type="normal">
+            <navLabel>
+                <text>87</text>
+            </navLabel>
+            <content src="501325-10-chapter.xhtml#page-87"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-405" playOrder="405" type="normal">
+            <navLabel>
+                <text>88</text>
+            </navLabel>
+            <content src="501325-10-chapter.xhtml#page-88"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-406" playOrder="406" type="normal">
+            <navLabel>
+                <text>89</text>
+            </navLabel>
+            <content src="501325-10-chapter.xhtml#page-89"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-407" playOrder="407" type="normal">
+            <navLabel>
+                <text>90</text>
+            </navLabel>
+            <content src="501325-10-chapter.xhtml#page-90"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-408" playOrder="408" type="normal">
+            <navLabel>
+                <text>91</text>
+            </navLabel>
+            <content src="501325-10-chapter.xhtml#page-91"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-409" playOrder="409" type="normal">
+            <navLabel>
+                <text>92</text>
+            </navLabel>
+            <content src="501325-10-chapter.xhtml#page-92"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-410" playOrder="410" type="normal">
+            <navLabel>
+                <text>93</text>
+            </navLabel>
+            <content src="501325-10-chapter.xhtml#page-93"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-411" playOrder="411" type="normal">
+            <navLabel>
+                <text>94</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-94"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-412" playOrder="412" type="normal">
+            <navLabel>
+                <text>95</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-95"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-413" playOrder="413" type="normal">
+            <navLabel>
+                <text>96</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-96"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-414" playOrder="414" type="normal">
+            <navLabel>
+                <text>97</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-97"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-415" playOrder="415" type="normal">
+            <navLabel>
+                <text>98</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-98"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-416" playOrder="416" type="normal">
+            <navLabel>
+                <text>99</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-99"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-417" playOrder="417" type="normal">
+            <navLabel>
+                <text>100</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-100"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-418" playOrder="418" type="normal">
+            <navLabel>
+                <text>101</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-101"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-419" playOrder="419" type="normal">
+            <navLabel>
+                <text>102</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-102"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-420" playOrder="420" type="normal">
+            <navLabel>
+                <text>103</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-103"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-421" playOrder="421" type="normal">
+            <navLabel>
+                <text>104</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-104"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-422" playOrder="422" type="normal">
+            <navLabel>
+                <text>105</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-105"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-423" playOrder="423" type="normal">
+            <navLabel>
+                <text>106</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-106"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-424" playOrder="424" type="normal">
+            <navLabel>
+                <text>107</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-107"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-425" playOrder="425" type="normal">
+            <navLabel>
+                <text>108</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-108"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-426" playOrder="426" type="normal">
+            <navLabel>
+                <text>109</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-109"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-427" playOrder="427" type="normal">
+            <navLabel>
+                <text>110</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-110"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-428" playOrder="428" type="normal">
+            <navLabel>
+                <text>111</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-111"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-429" playOrder="429" type="normal">
+            <navLabel>
+                <text>112</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-112"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-430" playOrder="430" type="normal">
+            <navLabel>
+                <text>113</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-113"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-431" playOrder="431" type="normal">
+            <navLabel>
+                <text>114</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-114"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-432" playOrder="432" type="normal">
+            <navLabel>
+                <text>115</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-115"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-433" playOrder="433" type="normal">
+            <navLabel>
+                <text>116</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-116"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-434" playOrder="434" type="normal">
+            <navLabel>
+                <text>117</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-117"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-435" playOrder="435" type="normal">
+            <navLabel>
+                <text>118</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-118"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-436" playOrder="436" type="normal">
+            <navLabel>
+                <text>119</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-119"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-437" playOrder="437" type="normal">
+            <navLabel>
+                <text>120</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-120"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-438" playOrder="438" type="normal">
+            <navLabel>
+                <text>121</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-121"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-439" playOrder="439" type="normal">
+            <navLabel>
+                <text>122</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-122"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-440" playOrder="440" type="normal">
+            <navLabel>
+                <text>123</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-123"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-441" playOrder="441" type="normal">
+            <navLabel>
+                <text>124</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-124"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-442" playOrder="442" type="normal">
+            <navLabel>
+                <text>125</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-125"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-443" playOrder="443" type="normal">
+            <navLabel>
+                <text>126</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-126"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-444" playOrder="444" type="normal">
+            <navLabel>
+                <text>127</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-127"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-445" playOrder="445" type="normal">
+            <navLabel>
+                <text>128</text>
+            </navLabel>
+            <content src="501325-11-chapter.xhtml#page-128"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-446" playOrder="446" type="normal">
+            <navLabel>
+                <text>129</text>
+            </navLabel>
+            <content src="501325-12-chapter.xhtml#page-129"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-447" playOrder="447" type="normal">
+            <navLabel>
+                <text>130</text>
+            </navLabel>
+            <content src="501325-12-chapter.xhtml#page-130"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-448" playOrder="448" type="normal">
+            <navLabel>
+                <text>131</text>
+            </navLabel>
+            <content src="501325-12-chapter.xhtml#page-131"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-449" playOrder="449" type="normal">
+            <navLabel>
+                <text>132</text>
+            </navLabel>
+            <content src="501325-12-chapter.xhtml#page-132"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-450" playOrder="450" type="normal">
+            <navLabel>
+                <text>133</text>
+            </navLabel>
+            <content src="501325-12-chapter.xhtml#page-133"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-451" playOrder="451" type="normal">
+            <navLabel>
+                <text>134</text>
+            </navLabel>
+            <content src="501325-12-chapter.xhtml#page-134"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-452" playOrder="452" type="normal">
+            <navLabel>
+                <text>135</text>
+            </navLabel>
+            <content src="501325-12-chapter.xhtml#page-135"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-453" playOrder="453" type="normal">
+            <navLabel>
+                <text>136</text>
+            </navLabel>
+            <content src="501325-12-chapter.xhtml#page-136"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-454" playOrder="454" type="normal">
+            <navLabel>
+                <text>137</text>
+            </navLabel>
+            <content src="501325-12-chapter.xhtml#page-137"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-455" playOrder="455" type="normal">
+            <navLabel>
+                <text>138</text>
+            </navLabel>
+            <content src="501325-12-chapter.xhtml#page-138"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-456" playOrder="456" type="normal">
+            <navLabel>
+                <text>139</text>
+            </navLabel>
+            <content src="501325-12-chapter.xhtml#page-139"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-457" playOrder="457" type="normal">
+            <navLabel>
+                <text>140</text>
+            </navLabel>
+            <content src="501325-12-chapter.xhtml#page-140"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-458" playOrder="458" type="normal">
+            <navLabel>
+                <text>141</text>
+            </navLabel>
+            <content src="501325-12-chapter.xhtml#page-141"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-459" playOrder="459" type="normal">
+            <navLabel>
+                <text>142</text>
+            </navLabel>
+            <content src="501325-12-chapter.xhtml#page-142"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-460" playOrder="460" type="normal">
+            <navLabel>
+                <text>143</text>
+            </navLabel>
+            <content src="501325-12-chapter.xhtml#page-143"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-461" playOrder="461" type="normal">
+            <navLabel>
+                <text>144</text>
+            </navLabel>
+            <content src="501325-12-chapter.xhtml#page-144"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-462" playOrder="462" type="normal">
+            <navLabel>
+                <text>145</text>
+            </navLabel>
+            <content src="501325-12-chapter.xhtml#page-145"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-463" playOrder="463" type="normal">
+            <navLabel>
+                <text>146</text>
+            </navLabel>
+            <content src="501325-12-chapter.xhtml#page-146"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-464" playOrder="464" type="normal">
+            <navLabel>
+                <text>147</text>
+            </navLabel>
+            <content src="501325-12-chapter.xhtml#page-147"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-465" playOrder="465" type="normal">
+            <navLabel>
+                <text>148</text>
+            </navLabel>
+            <content src="501325-12-chapter.xhtml#page-148"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-466" playOrder="466" type="normal">
+            <navLabel>
+                <text>149</text>
+            </navLabel>
+            <content src="501325-13-part.xhtml#page-149"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-467" playOrder="467" type="normal">
+            <navLabel>
+                <text>150</text>
+            </navLabel>
+            <content src="501325-13-part.xhtml#page-150"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-468" playOrder="468" type="normal">
+            <navLabel>
+                <text>151</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-151"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-469" playOrder="469" type="normal">
+            <navLabel>
+                <text>152</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-152"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-470" playOrder="470" type="normal">
+            <navLabel>
+                <text>153</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-153"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-471" playOrder="471" type="normal">
+            <navLabel>
+                <text>154</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-154"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-472" playOrder="472" type="normal">
+            <navLabel>
+                <text>155</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-155"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-473" playOrder="473" type="normal">
+            <navLabel>
+                <text>156</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-156"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-474" playOrder="474" type="normal">
+            <navLabel>
+                <text>157</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-157"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-475" playOrder="475" type="normal">
+            <navLabel>
+                <text>158</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-158"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-476" playOrder="476" type="normal">
+            <navLabel>
+                <text>159</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-159"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-477" playOrder="477" type="normal">
+            <navLabel>
+                <text>160</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-160"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-478" playOrder="478" type="normal">
+            <navLabel>
+                <text>161</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-161"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-479" playOrder="479" type="normal">
+            <navLabel>
+                <text>162</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-162"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-480" playOrder="480" type="normal">
+            <navLabel>
+                <text>163</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-163"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-481" playOrder="481" type="normal">
+            <navLabel>
+                <text>164</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-164"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-482" playOrder="482" type="normal">
+            <navLabel>
+                <text>165</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-165"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-483" playOrder="483" type="normal">
+            <navLabel>
+                <text>166</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-166"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-484" playOrder="484" type="normal">
+            <navLabel>
+                <text>167</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-167"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-485" playOrder="485" type="normal">
+            <navLabel>
+                <text>168</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-168"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-486" playOrder="486" type="normal">
+            <navLabel>
+                <text>169</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-169"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-487" playOrder="487" type="normal">
+            <navLabel>
+                <text>170</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-170"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-488" playOrder="488" type="normal">
+            <navLabel>
+                <text>171</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-171"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-489" playOrder="489" type="normal">
+            <navLabel>
+                <text>172</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-172"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-490" playOrder="490" type="normal">
+            <navLabel>
+                <text>173</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-173"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-491" playOrder="491" type="normal">
+            <navLabel>
+                <text>174</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-174"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-492" playOrder="492" type="normal">
+            <navLabel>
+                <text>175</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-175"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-493" playOrder="493" type="normal">
+            <navLabel>
+                <text>176</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-176"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-494" playOrder="494" type="normal">
+            <navLabel>
+                <text>177</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-177"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-495" playOrder="495" type="normal">
+            <navLabel>
+                <text>178</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-178"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-496" playOrder="496" type="normal">
+            <navLabel>
+                <text>179</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-179"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-497" playOrder="497" type="normal">
+            <navLabel>
+                <text>180</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-180"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-498" playOrder="498" type="normal">
+            <navLabel>
+                <text>181</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-181"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-499" playOrder="499" type="normal">
+            <navLabel>
+                <text>182</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-182"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-500" playOrder="500" type="normal">
+            <navLabel>
+                <text>183</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-183"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-501" playOrder="501" type="normal">
+            <navLabel>
+                <text>184</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-184"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-502" playOrder="502" type="normal">
+            <navLabel>
+                <text>185</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-185"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-503" playOrder="503" type="normal">
+            <navLabel>
+                <text>186</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-186"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-504" playOrder="504" type="normal">
+            <navLabel>
+                <text>187</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-187"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-505" playOrder="505" type="normal">
+            <navLabel>
+                <text>188</text>
+            </navLabel>
+            <content src="501325-14-chapter.xhtml#page-188"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-506" playOrder="506" type="normal">
+            <navLabel>
+                <text>189</text>
+            </navLabel>
+            <content src="501325-15-chapter.xhtml#page-189"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-507" playOrder="507" type="normal">
+            <navLabel>
+                <text>190</text>
+            </navLabel>
+            <content src="501325-15-chapter.xhtml#page-190"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-508" playOrder="508" type="normal">
+            <navLabel>
+                <text>191</text>
+            </navLabel>
+            <content src="501325-15-chapter.xhtml#page-191"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-509" playOrder="509" type="normal">
+            <navLabel>
+                <text>192</text>
+            </navLabel>
+            <content src="501325-15-chapter.xhtml#page-192"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-510" playOrder="510" type="normal">
+            <navLabel>
+                <text>193</text>
+            </navLabel>
+            <content src="501325-15-chapter.xhtml#page-193"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-511" playOrder="511" type="normal">
+            <navLabel>
+                <text>194</text>
+            </navLabel>
+            <content src="501325-15-chapter.xhtml#page-194"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-512" playOrder="512" type="normal">
+            <navLabel>
+                <text>195</text>
+            </navLabel>
+            <content src="501325-15-chapter.xhtml#page-195"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-513" playOrder="513" type="normal">
+            <navLabel>
+                <text>196</text>
+            </navLabel>
+            <content src="501325-15-chapter.xhtml#page-196"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-514" playOrder="514" type="normal">
+            <navLabel>
+                <text>197</text>
+            </navLabel>
+            <content src="501325-15-chapter.xhtml#page-197"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-515" playOrder="515" type="normal">
+            <navLabel>
+                <text>198</text>
+            </navLabel>
+            <content src="501325-15-chapter.xhtml#page-198"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-516" playOrder="516" type="normal">
+            <navLabel>
+                <text>199</text>
+            </navLabel>
+            <content src="501325-15-chapter.xhtml#page-199"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-517" playOrder="517" type="normal">
+            <navLabel>
+                <text>200</text>
+            </navLabel>
+            <content src="501325-15-chapter.xhtml#page-200"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-518" playOrder="518" type="normal">
+            <navLabel>
+                <text>201</text>
+            </navLabel>
+            <content src="501325-15-chapter.xhtml#page-201"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-519" playOrder="519" type="normal">
+            <navLabel>
+                <text>202</text>
+            </navLabel>
+            <content src="501325-15-chapter.xhtml#page-202"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-520" playOrder="520" type="normal">
+            <navLabel>
+                <text>203</text>
+            </navLabel>
+            <content src="501325-15-chapter.xhtml#page-203"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-521" playOrder="521" type="normal">
+            <navLabel>
+                <text>204</text>
+            </navLabel>
+            <content src="501325-15-chapter.xhtml#page-204"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-522" playOrder="522" type="normal">
+            <navLabel>
+                <text>205</text>
+            </navLabel>
+            <content src="501325-15-chapter.xhtml#page-205"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-523" playOrder="523" type="normal">
+            <navLabel>
+                <text>206</text>
+            </navLabel>
+            <content src="501325-15-chapter.xhtml#page-206"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-524" playOrder="524" type="normal">
+            <navLabel>
+                <text>207</text>
+            </navLabel>
+            <content src="501325-15-chapter.xhtml#page-207"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-525" playOrder="525" type="normal">
+            <navLabel>
+                <text>208</text>
+            </navLabel>
+            <content src="501325-15-chapter.xhtml#page-208"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-526" playOrder="526" type="normal">
+            <navLabel>
+                <text>209</text>
+            </navLabel>
+            <content src="501325-15-chapter.xhtml#page-209"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-527" playOrder="527" type="normal">
+            <navLabel>
+                <text>210</text>
+            </navLabel>
+            <content src="501325-15-chapter.xhtml#page-210"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-528" playOrder="528" type="normal">
+            <navLabel>
+                <text>211</text>
+            </navLabel>
+            <content src="501325-15-chapter.xhtml#page-211"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-529" playOrder="529" type="normal">
+            <navLabel>
+                <text>212</text>
+            </navLabel>
+            <content src="501325-15-chapter.xhtml#page-212"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-530" playOrder="530" type="normal">
+            <navLabel>
+                <text>213</text>
+            </navLabel>
+            <content src="501325-15-chapter.xhtml#page-213"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-531" playOrder="531" type="normal">
+            <navLabel>
+                <text>214</text>
+            </navLabel>
+            <content src="501325-15-chapter.xhtml#page-214"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-532" playOrder="532" type="normal">
+            <navLabel>
+                <text>215</text>
+            </navLabel>
+            <content src="501325-15-chapter.xhtml#page-215"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-533" playOrder="533" type="normal">
+            <navLabel>
+                <text>216</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-216"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-534" playOrder="534" type="normal">
+            <navLabel>
+                <text>217</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-217"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-535" playOrder="535" type="normal">
+            <navLabel>
+                <text>218</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-218"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-536" playOrder="536" type="normal">
+            <navLabel>
+                <text>219</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-219"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-537" playOrder="537" type="normal">
+            <navLabel>
+                <text>220</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-220"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-538" playOrder="538" type="normal">
+            <navLabel>
+                <text>221</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-221"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-539" playOrder="539" type="normal">
+            <navLabel>
+                <text>222</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-222"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-540" playOrder="540" type="normal">
+            <navLabel>
+                <text>223</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-223"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-541" playOrder="541" type="normal">
+            <navLabel>
+                <text>224</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-224"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-542" playOrder="542" type="normal">
+            <navLabel>
+                <text>225</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-225"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-543" playOrder="543" type="normal">
+            <navLabel>
+                <text>226</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-226"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-544" playOrder="544" type="normal">
+            <navLabel>
+                <text>227</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-227"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-545" playOrder="545" type="normal">
+            <navLabel>
+                <text>228</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-228"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-546" playOrder="546" type="normal">
+            <navLabel>
+                <text>229</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-229"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-547" playOrder="547" type="normal">
+            <navLabel>
+                <text>230</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-230"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-548" playOrder="548" type="normal">
+            <navLabel>
+                <text>231</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-231"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-549" playOrder="549" type="normal">
+            <navLabel>
+                <text>232</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-232"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-550" playOrder="550" type="normal">
+            <navLabel>
+                <text>233</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-233"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-551" playOrder="551" type="normal">
+            <navLabel>
+                <text>234</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-234"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-552" playOrder="552" type="normal">
+            <navLabel>
+                <text>235</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-235"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-553" playOrder="553" type="normal">
+            <navLabel>
+                <text>236</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-236"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-554" playOrder="554" type="normal">
+            <navLabel>
+                <text>237</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-237"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-555" playOrder="555" type="normal">
+            <navLabel>
+                <text>238</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-238"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-556" playOrder="556" type="normal">
+            <navLabel>
+                <text>239</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-239"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-557" playOrder="557" type="normal">
+            <navLabel>
+                <text>240</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-240"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-558" playOrder="558" type="normal">
+            <navLabel>
+                <text>241</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-241"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-559" playOrder="559" type="normal">
+            <navLabel>
+                <text>242</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-242"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-560" playOrder="560" type="normal">
+            <navLabel>
+                <text>243</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-243"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-561" playOrder="561" type="normal">
+            <navLabel>
+                <text>244</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-244"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-562" playOrder="562" type="normal">
+            <navLabel>
+                <text>245</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-245"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-563" playOrder="563" type="normal">
+            <navLabel>
+                <text>246</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-246"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-564" playOrder="564" type="normal">
+            <navLabel>
+                <text>247</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-247"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-565" playOrder="565" type="normal">
+            <navLabel>
+                <text>248</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-248"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-566" playOrder="566" type="normal">
+            <navLabel>
+                <text>249</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-249"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-567" playOrder="567" type="normal">
+            <navLabel>
+                <text>250</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-250"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-568" playOrder="568" type="normal">
+            <navLabel>
+                <text>251</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-251"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-569" playOrder="569" type="normal">
+            <navLabel>
+                <text>252</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-252"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-570" playOrder="570" type="normal">
+            <navLabel>
+                <text>253</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-253"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-571" playOrder="571" type="normal">
+            <navLabel>
+                <text>254</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-254"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-572" playOrder="572" type="normal">
+            <navLabel>
+                <text>255</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-255"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-573" playOrder="573" type="normal">
+            <navLabel>
+                <text>256</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-256"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-574" playOrder="574" type="normal">
+            <navLabel>
+                <text>257</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-257"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-575" playOrder="575" type="normal">
+            <navLabel>
+                <text>258</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-258"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-576" playOrder="576" type="normal">
+            <navLabel>
+                <text>259</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-259"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-577" playOrder="577" type="normal">
+            <navLabel>
+                <text>260</text>
+            </navLabel>
+            <content src="501325-16-chapter.xhtml#page-260"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-578" playOrder="578" type="normal">
+            <navLabel>
+                <text>261</text>
+            </navLabel>
+            <content src="501325-17-chapter.xhtml#page-261"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-579" playOrder="579" type="normal">
+            <navLabel>
+                <text>262</text>
+            </navLabel>
+            <content src="501325-17-chapter.xhtml#page-262"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-580" playOrder="580" type="normal">
+            <navLabel>
+                <text>263</text>
+            </navLabel>
+            <content src="501325-17-chapter.xhtml#page-263"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-581" playOrder="581" type="normal">
+            <navLabel>
+                <text>264</text>
+            </navLabel>
+            <content src="501325-17-chapter.xhtml#page-264"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-582" playOrder="582" type="normal">
+            <navLabel>
+                <text>265</text>
+            </navLabel>
+            <content src="501325-17-chapter.xhtml#page-265"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-583" playOrder="583" type="normal">
+            <navLabel>
+                <text>266</text>
+            </navLabel>
+            <content src="501325-17-chapter.xhtml#page-266"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-584" playOrder="584" type="normal">
+            <navLabel>
+                <text>267</text>
+            </navLabel>
+            <content src="501325-17-chapter.xhtml#page-267"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-585" playOrder="585" type="normal">
+            <navLabel>
+                <text>268</text>
+            </navLabel>
+            <content src="501325-17-chapter.xhtml#page-268"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-586" playOrder="586" type="normal">
+            <navLabel>
+                <text>269</text>
+            </navLabel>
+            <content src="501325-17-chapter.xhtml#page-269"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-587" playOrder="587" type="normal">
+            <navLabel>
+                <text>270</text>
+            </navLabel>
+            <content src="501325-17-chapter.xhtml#page-270"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-588" playOrder="588" type="normal">
+            <navLabel>
+                <text>271</text>
+            </navLabel>
+            <content src="501325-17-chapter.xhtml#page-271"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-589" playOrder="589" type="normal">
+            <navLabel>
+                <text>272</text>
+            </navLabel>
+            <content src="501325-17-chapter.xhtml#page-272"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-590" playOrder="590" type="normal">
+            <navLabel>
+                <text>273</text>
+            </navLabel>
+            <content src="501325-17-chapter.xhtml#page-273"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-591" playOrder="591" type="normal">
+            <navLabel>
+                <text>274</text>
+            </navLabel>
+            <content src="501325-17-chapter.xhtml#page-274"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-592" playOrder="592" type="normal">
+            <navLabel>
+                <text>275</text>
+            </navLabel>
+            <content src="501325-18-chapter.xhtml#page-275"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-593" playOrder="593" type="normal">
+            <navLabel>
+                <text>276</text>
+            </navLabel>
+            <content src="501325-18-chapter.xhtml#page-276"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-594" playOrder="594" type="normal">
+            <navLabel>
+                <text>277</text>
+            </navLabel>
+            <content src="501325-18-chapter.xhtml#page-277"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-595" playOrder="595" type="normal">
+            <navLabel>
+                <text>278</text>
+            </navLabel>
+            <content src="501325-18-chapter.xhtml#page-278"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-596" playOrder="596" type="normal">
+            <navLabel>
+                <text>279</text>
+            </navLabel>
+            <content src="501325-18-chapter.xhtml#page-279"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-597" playOrder="597" type="normal">
+            <navLabel>
+                <text>280</text>
+            </navLabel>
+            <content src="501325-18-chapter.xhtml#page-280"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-598" playOrder="598" type="normal">
+            <navLabel>
+                <text>281</text>
+            </navLabel>
+            <content src="501325-18-chapter.xhtml#page-281"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-599" playOrder="599" type="normal">
+            <navLabel>
+                <text>282</text>
+            </navLabel>
+            <content src="501325-18-chapter.xhtml#page-282"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-600" playOrder="600" type="normal">
+            <navLabel>
+                <text>283</text>
+            </navLabel>
+            <content src="501325-18-chapter.xhtml#page-283"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-601" playOrder="601" type="normal">
+            <navLabel>
+                <text>284</text>
+            </navLabel>
+            <content src="501325-18-chapter.xhtml#page-284"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-602" playOrder="602" type="normal">
+            <navLabel>
+                <text>285</text>
+            </navLabel>
+            <content src="501325-18-chapter.xhtml#page-285"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-603" playOrder="603" type="normal">
+            <navLabel>
+                <text>286</text>
+            </navLabel>
+            <content src="501325-18-chapter.xhtml#page-286"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-604" playOrder="604" type="normal">
+            <navLabel>
+                <text>287</text>
+            </navLabel>
+            <content src="501325-18-chapter.xhtml#page-287"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-605" playOrder="605" type="normal">
+            <navLabel>
+                <text>288</text>
+            </navLabel>
+            <content src="501325-18-chapter.xhtml#page-288"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-606" playOrder="606" type="normal">
+            <navLabel>
+                <text>289</text>
+            </navLabel>
+            <content src="501325-18-chapter.xhtml#page-289"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-607" playOrder="607" type="normal">
+            <navLabel>
+                <text>290</text>
+            </navLabel>
+            <content src="501325-18-chapter.xhtml#page-290"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-608" playOrder="608" type="normal">
+            <navLabel>
+                <text>291</text>
+            </navLabel>
+            <content src="501325-18-chapter.xhtml#page-291"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-609" playOrder="609" type="normal">
+            <navLabel>
+                <text>292</text>
+            </navLabel>
+            <content src="501325-18-chapter.xhtml#page-292"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-610" playOrder="610" type="normal">
+            <navLabel>
+                <text>293</text>
+            </navLabel>
+            <content src="501325-19-part.xhtml#page-293"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-611" playOrder="611" type="normal">
+            <navLabel>
+                <text>294</text>
+            </navLabel>
+            <content src="501325-19-part.xhtml#page-294"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-612" playOrder="612" type="normal">
+            <navLabel>
+                <text>295</text>
+            </navLabel>
+            <content src="501325-20-chapter.xhtml#page-295"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-613" playOrder="613" type="normal">
+            <navLabel>
+                <text>296</text>
+            </navLabel>
+            <content src="501325-20-chapter.xhtml#page-296"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-614" playOrder="614" type="normal">
+            <navLabel>
+                <text>297</text>
+            </navLabel>
+            <content src="501325-20-chapter.xhtml#page-297"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-615" playOrder="615" type="normal">
+            <navLabel>
+                <text>298</text>
+            </navLabel>
+            <content src="501325-20-chapter.xhtml#page-298"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-616" playOrder="616" type="normal">
+            <navLabel>
+                <text>299</text>
+            </navLabel>
+            <content src="501325-20-chapter.xhtml#page-299"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-617" playOrder="617" type="normal">
+            <navLabel>
+                <text>300</text>
+            </navLabel>
+            <content src="501325-20-chapter.xhtml#page-300"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-618" playOrder="618" type="normal">
+            <navLabel>
+                <text>301</text>
+            </navLabel>
+            <content src="501325-20-chapter.xhtml#page-301"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-619" playOrder="619" type="normal">
+            <navLabel>
+                <text>302</text>
+            </navLabel>
+            <content src="501325-20-chapter.xhtml#page-302"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-620" playOrder="620" type="normal">
+            <navLabel>
+                <text>303</text>
+            </navLabel>
+            <content src="501325-20-chapter.xhtml#page-303"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-621" playOrder="621" type="normal">
+            <navLabel>
+                <text>304</text>
+            </navLabel>
+            <content src="501325-20-chapter.xhtml#page-304"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-622" playOrder="622" type="normal">
+            <navLabel>
+                <text>305</text>
+            </navLabel>
+            <content src="501325-20-chapter.xhtml#page-305"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-623" playOrder="623" type="normal">
+            <navLabel>
+                <text>306</text>
+            </navLabel>
+            <content src="501325-21-chapter.xhtml#page-306"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-624" playOrder="624" type="normal">
+            <navLabel>
+                <text>307</text>
+            </navLabel>
+            <content src="501325-21-chapter.xhtml#page-307"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-625" playOrder="625" type="normal">
+            <navLabel>
+                <text>308</text>
+            </navLabel>
+            <content src="501325-21-chapter.xhtml#page-308"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-626" playOrder="626" type="normal">
+            <navLabel>
+                <text>309</text>
+            </navLabel>
+            <content src="501325-22-part.xhtml#page-309"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-627" playOrder="627" type="normal">
+            <navLabel>
+                <text>310</text>
+            </navLabel>
+            <content src="501325-23-chapter.xhtml#page-310"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-628" playOrder="628" type="normal">
+            <navLabel>
+                <text>311</text>
+            </navLabel>
+            <content src="501325-23-chapter.xhtml#page-311"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-629" playOrder="629" type="normal">
+            <navLabel>
+                <text>312</text>
+            </navLabel>
+            <content src="501325-24-chapter.xhtml#page-312"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-630" playOrder="630" type="normal">
+            <navLabel>
+                <text>313</text>
+            </navLabel>
+            <content src="501325-24-chapter.xhtml#page-313"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-631" playOrder="631" type="normal">
+            <navLabel>
+                <text>314</text>
+            </navLabel>
+            <content src="501325-24-chapter.xhtml#page-314"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-632" playOrder="632" type="normal">
+            <navLabel>
+                <text>315</text>
+            </navLabel>
+            <content src="501325-24-chapter.xhtml#page-315"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-633" playOrder="633" type="normal">
+            <navLabel>
+                <text>316</text>
+            </navLabel>
+            <content src="501325-24-chapter.xhtml#page-316"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-634" playOrder="634" type="normal">
+            <navLabel>
+                <text>317</text>
+            </navLabel>
+            <content src="501325-24-chapter.xhtml#page-317"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-635" playOrder="635" type="normal">
+            <navLabel>
+                <text>318</text>
+            </navLabel>
+            <content src="501325-24-chapter.xhtml#page-318"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-636" playOrder="636" type="normal">
+            <navLabel>
+                <text>319</text>
+            </navLabel>
+            <content src="501325-25-chapter.xhtml#page-319"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-637" playOrder="637" type="normal">
+            <navLabel>
+                <text>320</text>
+            </navLabel>
+            <content src="501325-25-chapter.xhtml#page-320"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-638" playOrder="638" type="normal">
+            <navLabel>
+                <text>321</text>
+            </navLabel>
+            <content src="501325-25-chapter.xhtml#page-321"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-639" playOrder="639" type="normal">
+            <navLabel>
+                <text>322</text>
+            </navLabel>
+            <content src="501325-25-chapter.xhtml#page-322"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-640" playOrder="640" type="normal">
+            <navLabel>
+                <text>323</text>
+            </navLabel>
+            <content src="501325-25-chapter.xhtml#page-323"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-641" playOrder="641" type="normal">
+            <navLabel>
+                <text>324</text>
+            </navLabel>
+            <content src="501325-26-chapter.xhtml#page-324"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-642" playOrder="642" type="normal">
+            <navLabel>
+                <text>325</text>
+            </navLabel>
+            <content src="501325-26-chapter.xhtml#page-325"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-643" playOrder="643" type="normal">
+            <navLabel>
+                <text>326</text>
+            </navLabel>
+            <content src="501325-26-chapter.xhtml#page-326"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-644" playOrder="644" type="normal">
+            <navLabel>
+                <text>327</text>
+            </navLabel>
+            <content src="501325-26-chapter.xhtml#page-327"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-645" playOrder="645" type="normal">
+            <navLabel>
+                <text>328</text>
+            </navLabel>
+            <content src="501325-26-chapter.xhtml#page-328"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-646" playOrder="646" type="normal">
+            <navLabel>
+                <text>329</text>
+            </navLabel>
+            <content src="501325-26-chapter.xhtml#page-329"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-647" playOrder="647" type="normal">
+            <navLabel>
+                <text>330</text>
+            </navLabel>
+            <content src="501325-27-chapter.xhtml#page-330"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-648" playOrder="648" type="normal">
+            <navLabel>
+                <text>331</text>
+            </navLabel>
+            <content src="501325-27-chapter.xhtml#page-331"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-649" playOrder="649" type="normal">
+            <navLabel>
+                <text>332</text>
+            </navLabel>
+            <content src="501325-27-chapter.xhtml#page-332"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-650" playOrder="650" type="normal">
+            <navLabel>
+                <text>333</text>
+            </navLabel>
+            <content src="501325-27-chapter.xhtml#page-333"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-651" playOrder="651" type="normal">
+            <navLabel>
+                <text>334</text>
+            </navLabel>
+            <content src="501325-27-chapter.xhtml#page-334"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-652" playOrder="652" type="normal">
+            <navLabel>
+                <text>335</text>
+            </navLabel>
+            <content src="501325-28-chapter.xhtml#page-335"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-653" playOrder="653" type="normal">
+            <navLabel>
+                <text>336</text>
+            </navLabel>
+            <content src="501325-28-chapter.xhtml#page-336"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-654" playOrder="654" type="normal">
+            <navLabel>
+                <text>337</text>
+            </navLabel>
+            <content src="501325-28-chapter.xhtml#page-337"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-655" playOrder="655" type="normal">
+            <navLabel>
+                <text>338</text>
+            </navLabel>
+            <content src="501325-28-chapter.xhtml#page-338"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-656" playOrder="656" type="normal">
+            <navLabel>
+                <text>339</text>
+            </navLabel>
+            <content src="501325-28-chapter.xhtml#page-339"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-657" playOrder="657" type="normal">
+            <navLabel>
+                <text>340</text>
+            </navLabel>
+            <content src="501325-29-chapter.xhtml#page-340"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-658" playOrder="658" type="normal">
+            <navLabel>
+                <text>341</text>
+            </navLabel>
+            <content src="501325-29-chapter.xhtml#page-341"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-659" playOrder="659" type="normal">
+            <navLabel>
+                <text>342</text>
+            </navLabel>
+            <content src="501325-29-chapter.xhtml#page-342"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-660" playOrder="660" type="normal">
+            <navLabel>
+                <text>343</text>
+            </navLabel>
+            <content src="501325-29-chapter.xhtml#page-343"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-661" playOrder="661" type="normal">
+            <navLabel>
+                <text>344</text>
+            </navLabel>
+            <content src="501325-29-chapter.xhtml#page-344"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-662" playOrder="662" type="normal">
+            <navLabel>
+                <text>345</text>
+            </navLabel>
+            <content src="501325-30-chapter.xhtml#page-345"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-663" playOrder="663" type="normal">
+            <navLabel>
+                <text>346</text>
+            </navLabel>
+            <content src="501325-30-chapter.xhtml#page-346"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-664" playOrder="664" type="normal">
+            <navLabel>
+                <text>347</text>
+            </navLabel>
+            <content src="501325-30-chapter.xhtml#page-347"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-665" playOrder="665" type="normal">
+            <navLabel>
+                <text>348</text>
+            </navLabel>
+            <content src="501325-30-chapter.xhtml#page-348"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-666" playOrder="666" type="normal">
+            <navLabel>
+                <text>349</text>
+            </navLabel>
+            <content src="501325-30-chapter.xhtml#page-349"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-667" playOrder="667" type="normal">
+            <navLabel>
+                <text>350</text>
+            </navLabel>
+            <content src="501325-30-chapter.xhtml#page-350"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-668" playOrder="668" type="normal">
+            <navLabel>
+                <text>351</text>
+            </navLabel>
+            <content src="501325-30-chapter.xhtml#page-351"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-669" playOrder="669" type="normal">
+            <navLabel>
+                <text>352</text>
+            </navLabel>
+            <content src="501325-30-chapter.xhtml#page-352"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-670" playOrder="670" type="normal">
+            <navLabel>
+                <text>353</text>
+            </navLabel>
+            <content src="501325-30-chapter.xhtml#page-353"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-671" playOrder="671" type="normal">
+            <navLabel>
+                <text>354</text>
+            </navLabel>
+            <content src="501325-30-chapter.xhtml#page-354"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-672" playOrder="672" type="normal">
+            <navLabel>
+                <text>355</text>
+            </navLabel>
+            <content src="501325-30-chapter.xhtml#page-355"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-673" playOrder="673" type="normal">
+            <navLabel>
+                <text>356</text>
+            </navLabel>
+            <content src="501325-30-chapter.xhtml#page-356"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-674" playOrder="674" type="normal">
+            <navLabel>
+                <text>357</text>
+            </navLabel>
+            <content src="501325-30-chapter.xhtml#page-357"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-675" playOrder="675" type="normal">
+            <navLabel>
+                <text>358</text>
+            </navLabel>
+            <content src="501325-30-chapter.xhtml#page-358"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-676" playOrder="676" type="normal">
+            <navLabel>
+                <text>359</text>
+            </navLabel>
+            <content src="501325-30-chapter.xhtml#page-359"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-677" playOrder="677" type="normal">
+            <navLabel>
+                <text>360</text>
+            </navLabel>
+            <content src="501325-30-chapter.xhtml#page-360"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-678" playOrder="678" type="normal">
+            <navLabel>
+                <text>361</text>
+            </navLabel>
+            <content src="501325-30-chapter.xhtml#page-361"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-679" playOrder="679" type="normal">
+            <navLabel>
+                <text>362</text>
+            </navLabel>
+            <content src="501325-31-chapter.xhtml#page-362"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-680" playOrder="680" type="normal">
+            <navLabel>
+                <text>363</text>
+            </navLabel>
+            <content src="501325-31-chapter.xhtml#page-363"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-681" playOrder="681" type="normal">
+            <navLabel>
+                <text>364</text>
+            </navLabel>
+            <content src="501325-31-chapter.xhtml#page-364"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-682" playOrder="682" type="normal">
+            <navLabel>
+                <text>365</text>
+            </navLabel>
+            <content src="501325-31-chapter.xhtml#page-365"/>
+        </pageTarget>
+        <pageTarget id="pageTarget-683" playOrder="683" type="normal">
+            <navLabel>
+                <text>366</text>
+            </navLabel>
+            <content src="501325-31-chapter.xhtml#page-366"/>
+        </pageTarget>
+    </pageList>
+</ncx>

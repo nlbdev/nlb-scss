@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+   <head>
+      <meta name="dc:identifier" content="9788232302000"/>
+      <meta name="dc:title" content="Yrke =HO: Vg1 Helse- og oppvekstfag"/>
+      <meta name="dc:format" content="Daisy 2.02"/>
+      <meta name="title" content="Barne- og familievernet"/>
+      <meta name="ncc:totalElapsedTime" content="01:17:29"/>
+      <meta name="ncc:timeInThisSmil" content="00:00:53"/>
+      <meta name="ncc:generator" content="Regenerator 1.0.28"/>
+      <layout>
+			      <region id="txtView"/>
+		    </layout>
+   </head>
+   <body>
+      <seq dur="52.748s">
+         <par endsync="last" id="rgn_par_0163_0001">
+            <text src="innhold2345.html#rgn_cnt_1143" id="rgn_txt_0163_0001"/>
+            <seq>
+               <audio src="dtb_0163.mp3" clip-begin="npt=0.000s" clip-end="npt=1.999s"
+                      id="rgn_aud_0163_0001"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0163_0002">
+            <text src="innhold2345.html#rgn_cnt_1144" id="rgn_txt_0163_0002"/>
+            <seq>
+               <audio src="dtb_0163.mp3" clip-begin="npt=1.999s" clip-end="npt=5.799s"
+                      id="rgn_aud_0163_0002"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0163_0003">
+            <text src="innhold2345.html#rgn_cnt_1145" id="rgn_txt_0163_0003"/>
+            <seq>
+               <audio src="dtb_0163.mp3" clip-begin="npt=5.799s" clip-end="npt=9.574s"
+                      id="rgn_aud_0163_0003"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0163_0004">
+            <text src="innhold2345.html#rgn_cnt_1146" id="rgn_txt_0163_0004"/>
+            <seq>
+               <audio src="dtb_0163.mp3" clip-begin="npt=9.574s" clip-end="npt=15.774s"
+                      id="rgn_aud_0163_0004"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0163_0005">
+            <text src="innhold2345.html#rgn_cnt_1147" id="rgn_txt_0163_0005"/>
+            <seq>
+               <audio src="dtb_0163.mp3" clip-begin="npt=15.774s" clip-end="npt=20.163s"
+                      id="rgn_aud_0163_0005"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0163_0006">
+            <text src="innhold2345.html#rgn_cnt_1148" id="rgn_txt_0163_0006"/>
+            <seq>
+               <audio src="dtb_0163.mp3" clip-begin="npt=20.163s" clip-end="npt=24.163s"
+                      id="rgn_aud_0163_0006"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0163_0007">
+            <text src="innhold2345.html#rgn_cnt_1149" id="rgn_txt_0163_0007"/>
+            <seq>
+               <audio src="dtb_0163.mp3" clip-begin="npt=24.163s" clip-end="npt=28.963s"
+                      id="rgn_aud_0163_0007"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0163_0008">
+            <text src="innhold2345.html#rgn_cnt_1150" id="rgn_txt_0163_0008"/>
+            <seq>
+               <audio src="dtb_0163.mp3" clip-begin="npt=28.963s" clip-end="npt=32.363s"
+                      id="rgn_aud_0163_0008"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0163_0009">
+            <text src="innhold2345.html#rgn_cnt_1151" id="rgn_txt_0163_0009"/>
+            <seq>
+               <audio src="dtb_0163.mp3" clip-begin="npt=32.363s" clip-end="npt=35.362s"
+                      id="rgn_aud_0163_0009"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0163_0010">
+            <text src="innhold2345.html#rgn_cnt_1152" id="rgn_txt_0163_0010"/>
+            <seq>
+               <audio src="dtb_0163.mp3" clip-begin="npt=35.362s" clip-end="npt=36.962s"
+                      id="rgn_aud_0163_0010"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0163_0011">
+            <text src="innhold2345.html#rgn_cnt_1153" id="rgn_txt_0163_0011"/>
+            <seq>
+               <audio src="dtb_0163.mp3" clip-begin="npt=36.962s" clip-end="npt=41.361s"
+                      id="rgn_aud_0163_0011"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0163_0012">
+            <text src="innhold2345.html#rgn_cnt_1154" id="rgn_txt_0163_0012"/>
+            <seq>
+               <audio src="dtb_0163.mp3" clip-begin="npt=41.361s" clip-end="npt=43.161s"
+                      id="rgn_aud_0163_0012"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0163_0013">
+            <text src="innhold2345.html#rgn_cnt_1155" id="rgn_txt_0163_0013"/>
+            <seq>
+               <audio src="dtb_0163.mp3" clip-begin="npt=43.161s" clip-end="npt=46.361s"
+                      id="rgn_aud_0163_0013"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0163_0014">
+            <text src="innhold2345.html#rgn_cnt_1156" id="rgn_txt_0163_0014"/>
+            <seq>
+               <audio src="dtb_0163.mp3" clip-begin="npt=46.361s" clip-end="npt=51.350s"
+                      id="rgn_aud_0163_0014"/>
+               <audio src="dtb_0163.mp3" clip-begin="npt=51.350s" clip-end="npt=52.748s"
+                      id="rgn_aud_0163_0015"/>
+            </seq>
+         </par>
+      </seq>
+   </body>
+</smil>

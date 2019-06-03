@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd" []>
+<smil>
+   <head>
+      <meta name="ncc:generator" content="DMFC z3986-2005 to Daisy 2.02 (smil2smil v0.2)" />
+      <meta name="dc:format" content="Daisy 2.02" />
+      <meta name="dc:identifier" content="628810" />
+      <meta name="title" content="Førerett klasse D1, minibuss" />
+      <meta name="dc:title" content="Veien til førerkortet: buss, lastebil, vogntog" />
+      <meta name="ncc:totalElapsedTime" content="0:49:25" />
+      <meta name="ncc:timeInThisSmil" content="0:00:29" />
+      <layout>
+         <region id="txtView" />
+      </layout>
+   </head>
+   <body>
+      <seq dur="28.956s">
+         <par endsync="last" id="tcp568">
+            <text id="text568" src="content.html#dtb528" />
+            <audio src="speechgen0015.mp3" id="audd732e10" clip-begin="npt=0.000s" clip-end="npt=6.433s" />
+         </par>
+         <par endsync="last" id="tcp569">
+            <text id="text569" src="content.html#img_41" />
+            <audio src="speechgen0015.mp3" id="audd732e13" clip-begin="npt=6.433s" clip-end="npt=6.633s" />
+         </par>
+         <par endsync="last" id="tcp570">
+            <text id="text570" src="content.html#dtb529" />
+            <audio src="speechgen0015.mp3" id="audd732e16" clip-begin="npt=6.633s" clip-end="npt=10.387s" />
+         </par>
+         <par endsync="last" id="tcp571">
+            <text id="text571" src="content.html#dtb530" />
+            <audio src="speechgen0015.mp3" id="audd732e19" clip-begin="npt=10.387s" clip-end="npt=15.948s" />
+         </par>
+         <par endsync="last" id="tcp572">
+            <text id="text572" src="content.html#dtb531" />
+            <audio src="speechgen0015.mp3" id="audd732e22" clip-begin="npt=15.948s" clip-end="npt=19.998s" />
+         </par>
+         <par endsync="last" id="tcp573">
+            <text id="text573" src="content.html#dtb532" />
+            <audio src="speechgen0015.mp3" id="audd732e25" clip-begin="npt=19.998s" clip-end="npt=28.956s" />
+         </par>
+      </seq>
+   </body>
+</smil>

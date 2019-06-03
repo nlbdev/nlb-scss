@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+   <head>
+      <meta name="dc:identifier" content="9788232302000"/>
+      <meta name="dc:title" content="Yrke =HO: Vg1 Helse- og oppvekstfag"/>
+      <meta name="dc:format" content="Daisy 2.02"/>
+      <meta name="title" content="Barnehageloven"/>
+      <meta name="ncc:totalElapsedTime" content="05:23:33"/>
+      <meta name="ncc:timeInThisSmil" content="00:00:11"/>
+      <meta name="ncc:generator" content="Regenerator 1.0.28"/>
+      <layout>
+			      <region id="txtView"/>
+		    </layout>
+   </head>
+   <body>
+      <seq dur="11.188s">
+         <par endsync="last" id="rgn_par_0790_0001">
+            <text src="innhold2345.html#rgn_cnt_4842" id="rgn_txt_0790_0001"/>
+            <seq>
+               <audio src="dtb_0790.mp3" clip-begin="npt=0.000s" clip-end="npt=1.999s"
+                      id="rgn_aud_0790_0001"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0790_0002">
+            <text src="innhold2345.html#rgn_cnt_4843" id="rgn_txt_0790_0002"/>
+            <seq>
+               <audio src="dtb_0790.mp3" clip-begin="npt=1.999s" clip-end="npt=6.199s"
+                      id="rgn_aud_0790_0002"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0790_0003">
+            <text src="innhold2345.html#rgn_cnt_4844" id="rgn_txt_0790_0003"/>
+            <seq>
+               <audio src="dtb_0790.mp3" clip-begin="npt=6.199s" clip-end="npt=11.188s"
+                      id="rgn_aud_0790_0003"/>
+            </seq>
+         </par>
+      </seq>
+   </body>
+</smil>

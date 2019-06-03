@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd" []>
+<smil>
+   <head>
+      <meta name="ncc:generator" content="DMFC z3986-2005 to Daisy 2.02 (smil2smil v0.2)" />
+      <meta name="dc:format" content="Daisy 2.02" />
+      <meta name="dc:identifier" content="628810" />
+      <meta name="title" content="Sleping" />
+      <meta name="dc:title" content="Veien til førerkortet: buss, lastebil, vogntog" />
+      <meta name="ncc:totalElapsedTime" content="3:18:00" />
+      <meta name="ncc:timeInThisSmil" content="0:00:47" />
+      <layout>
+         <region id="txtView" />
+      </layout>
+   </head>
+   <body>
+      <seq dur="46.532s">
+         <par endsync="last" id="tcp2160">
+            <text id="text2160" src="content.html#dtb1997" />
+            <audio src="speechgen0083.mp3" id="audd2900e10" clip-begin="npt=0.000s" clip-end="npt=4.047s" />
+         </par>
+         <par endsync="last" id="tcp2161">
+            <text id="text2161" src="content.html#dtb1998" />
+            <audio src="speechgen0083.mp3" id="audd2900e13" clip-begin="npt=4.047s" clip-end="npt=5.294s" />
+         </par>
+         <par endsync="last" id="tcp2162">
+            <text id="text2162" src="content.html#dtb1999" />
+            <audio src="speechgen0083.mp3" id="audd2900e16" clip-begin="npt=5.294s" clip-end="npt=10.459s" />
+         </par>
+         <par endsync="last" id="tcp2163">
+            <text id="text2163" src="content.html#dtb2000" />
+            <audio src="speechgen0083.mp3" id="audd2900e19" clip-begin="npt=10.459s" clip-end="npt=20.194s" />
+         </par>
+         <par endsync="last" id="tcp2164">
+            <text id="text2164" src="content.html#dtb2001" />
+            <audio src="speechgen0083.mp3" id="audd2900e22" clip-begin="npt=20.194s" clip-end="npt=27.182s" />
+         </par>
+         <par endsync="last" id="tcp2165">
+            <text id="text2165" src="content.html#dtb2002" />
+            <audio src="speechgen0083.mp3" id="audd2900e25" clip-begin="npt=27.182s" clip-end="npt=37.643s" />
+         </par>
+         <par endsync="last" id="tcp2166">
+            <text id="text2166" src="content.html#dtb2003" />
+            <audio src="speechgen0083.mp3" id="audd2900e28" clip-begin="npt=37.643s" clip-end="npt=46.332s" />
+         </par>
+         <par endsync="last" id="tcp2167">
+            <text id="text2167" src="content.html#img_154" />
+            <audio src="speechgen0083.mp3" id="audd2900e31" clip-begin="npt=46.332s" clip-end="npt=46.532s" />
+         </par>
+      </seq>
+   </body>
+</smil>

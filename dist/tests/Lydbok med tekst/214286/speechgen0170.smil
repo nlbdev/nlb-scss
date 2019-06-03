@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd" []>
+<smil>
+   <head>
+      <meta name="ncc:generator" content="DMFC z3986-2005 to Daisy 2.02 (smil2smil v0.2)" />
+      <meta name="dc:format" content="Daisy 2.02" />
+      <meta name="dc:identifier" content="214286" />
+      <meta name="title" content="Prosentvise forskjeller" />
+      <meta name="dc:title" content="Metode og dataanalyse" />
+      <meta name="ncc:totalElapsedTime" content="10:41:43" />
+      <meta name="ncc:timeInThisSmil" content="0:01:51" />
+      <layout>
+         <region id="txtView" />
+      </layout>
+   </head>
+   <body>
+      <seq dur="111.269s">
+         <par endsync="last" id="tcp4851">
+            <text id="text4851" src="content.html#dtb5003" />
+            <audio src="speechgen0170.mp3" id="audd6465e12" clip-begin="npt=0.000s" clip-end="npt=4.877s" />
+         </par>
+         <par endsync="last" id="tcp4852">
+            <text id="text4852" src="content.html#dtb5004" />
+            <audio src="speechgen0170.mp3" id="audd6465e15" clip-begin="npt=4.877s" clip-end="npt=10.294s" />
+         </par>
+         <par endsync="last" id="tcp4853">
+            <text id="text4853" src="content.html#dtb5006" />
+            <audio src="speechgen0170.mp3" id="audd6465e19" clip-begin="npt=10.294s" clip-end="npt=13.497s" />
+         </par>
+         <par endsync="last" id="tcp4854">
+            <text id="text4854" src="content.html#dtb5007" />
+            <audio src="speechgen0170.mp3" id="audd6465e22" clip-begin="npt=13.497s" clip-end="npt=16.432s" />
+         </par>
+         <par endsync="last" id="tcp4855">
+            <text id="text4855" src="content.html#dtb5008" />
+            <audio src="speechgen0170.mp3" id="audd6465e25" clip-begin="npt=16.432s" clip-end="npt=19.971s" />
+         </par>
+         <par endsync="last" id="tcp4856">
+            <text id="text4856" src="content.html#dtb5009" />
+            <audio src="speechgen0170.mp3" id="audd6465e28" clip-begin="npt=19.971s" clip-end="npt=25.687s" />
+         </par>
+         <par endsync="last" id="tcp4857">
+            <text id="text4857" src="content.html#dtb5010" />
+            <audio src="speechgen0170.mp3" id="audd6465e31" clip-begin="npt=25.687s" clip-end="npt=29.568s" />
+         </par>
+         <par endsync="last" id="tcp4858">
+            <text id="text4858" src="content.html#dtb5011" />
+            <audio src="speechgen0170.mp3" id="audd6465e34" clip-begin="npt=29.568s" clip-end="npt=35.868s" />
+         </par>
+         <par endsync="last" id="tcp4859">
+            <text id="text4859" src="content.html#dtb5012" />
+            <audio src="speechgen0170.mp3" id="audd6465e37" clip-begin="npt=35.868s" clip-end="npt=40.837s" />
+         </par>
+         <par endsync="last" id="tcp4860">
+            <text id="text4860" src="content.html#dtb5013" />
+            <audio src="speechgen0170.mp3" id="audd6465e40" clip-begin="npt=40.837s" clip-end="npt=53.751s" />
+         </par>
+         <par endsync="last" id="tcp4861">
+            <text id="text4861" src="content.html#dtb5014" />
+            <audio src="speechgen0170.mp3" id="audd6465e43" clip-begin="npt=53.751s" clip-end="npt=59.093s" />
+         </par>
+         <par endsync="last" id="tcp4862">
+            <text id="text4862" src="content.html#dtb5015" />
+            <audio src="speechgen0170.mp3" id="audd6465e46" clip-begin="npt=59.093s" clip-end="npt=63.232s" />
+         </par>
+         <par endsync="last" id="tcp4863">
+            <text id="text4863" src="content.html#dtb5016" />
+            <audio src="speechgen0170.mp3" id="audd6465e49" clip-begin="npt=63.232s" clip-end="npt=75.188s" />
+         </par>
+         <par endsync="last" id="tcp4864">
+            <text id="text4864" src="content.html#dtb5017" />
+            <audio src="speechgen0170.mp3" id="audd6465e53" clip-begin="npt=75.188s" clip-end="npt=78.921s" />
+         </par>
+         <par endsync="last" id="tcp4865">
+            <text id="text4865" src="content.html#dtb5018" />
+            <audio src="speechgen0170.mp3" id="audd6465e56" clip-begin="npt=78.921s" clip-end="npt=87.698s" />
+         </par>
+         <par endsync="last" id="tcp4866">
+            <text id="text4866" src="content.html#dtb5019" />
+            <audio src="speechgen0170.mp3" id="audd6465e59" clip-begin="npt=87.698s" clip-end="npt=94.686s" />
+         </par>
+         <par endsync="last" id="tcp4867">
+            <text id="text4867" src="content.html#dtb5020" />
+            <audio src="speechgen0170.mp3" id="audd6465e62" clip-begin="npt=94.686s" clip-end="npt=105.731s" />
+         </par>
+         <par endsync="last" id="tcp4868">
+            <text id="text4868" src="content.html#dtb5021" />
+            <audio src="speechgen0170.mp3" id="audd6465e65" clip-begin="npt=105.731s" clip-end="npt=108.995s" />
+         </par>
+         <par id="tcp4869" endsync="last" system-required="pagenumber-on">
+            <text id="text4869" src="content.html#page-210" />
+            <audio src="speechgen0170.mp3" id="audd6465e68" clip-begin="npt=108.995s" clip-end="npt=111.269s" />
+         </par>
+      </seq>
+   </body>
+</smil>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd" []>
+<smil>
+   <head>
+      <meta name="ncc:generator" content="DMFC z3986-2005 to Daisy 2.02 (smil2smil v0.2)" />
+      <meta name="dc:format" content="Daisy 2.02" />
+      <meta name="dc:identifier" content="214286" />
+      <meta name="title" content="Norske markedsanalyseinstitutter (nisjer)" />
+      <meta name="dc:title" content="Metode og dataanalyse" />
+      <meta name="ncc:totalElapsedTime" content="15:51:52" />
+      <meta name="ncc:timeInThisSmil" content="0:01:05" />
+      <layout>
+         <region id="txtView" />
+      </layout>
+   </head>
+   <body>
+      <seq dur="65.054s">
+         <par endsync="last" id="tcp7638">
+            <text id="text7638" src="content.html#dtb7901" />
+            <audio src="speechgen0258.mp3" id="audd10142e10" clip-begin="npt=0.000s" clip-end="npt=6.865s" />
+         </par>
+         <par endsync="last" id="tcp7639">
+            <text id="text7639" src="content.html#dtb7903" />
+            <audio src="speechgen0258.mp3" id="audd10142e14" clip-begin="npt=6.865s" clip-end="npt=20.102s" />
+         </par>
+         <par endsync="last" id="tcp7640">
+            <text id="text7640" src="content.html#dtb7904" />
+            <audio src="speechgen0258.mp3" id="audd10142e17" clip-begin="npt=20.102s" clip-end="npt=38.025s" />
+         </par>
+         <par endsync="last" id="tcp7641">
+            <text id="text7641" src="content.html#dtb7905" />
+            <audio src="speechgen0258.mp3" id="audd10142e20" clip-begin="npt=38.025s" clip-end="npt=51.418s" />
+         </par>
+         <par endsync="last" id="tcp7642">
+            <text id="text7642" src="content.html#dtb7906" />
+            <audio src="speechgen0258.mp3" id="audd10142e23" clip-begin="npt=51.418s" clip-end="npt=65.054s" />
+         </par>
+      </seq>
+   </body>
+</smil>

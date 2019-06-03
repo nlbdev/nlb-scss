@@ -1,0 +1,775 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd"[]>
+<smil>
+  <head>
+    <meta name="dc:title" content="THE BOY IN THE STRIPED PYJAMAS" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="dc:identifier" content="624755" />
+    <meta name="ncc:totalElapsedTime" content="03:24:10.702" />
+    <meta name="ncc:timeInThisSmil" content="00:13:00.372" />
+    <meta name="ncc:generator" content="Hindenburg ABC Studio 1.26.2164" />
+    <layout>
+      <region id="txtView" />
+    </layout>
+  </head>
+  <body>
+    <seq id="main" dur="780.372s">
+      <par endsync="last" id="parS1">
+        <text id="d1534e3178-0" src="624755.html#d1534e3178-0" />
+        <audio id="audd1534e3178-0" clip-begin="npt=0.000s" clip-end="npt=6.500s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS2">
+        <text id="hix00813" src="624755.html#hix00813" />
+        <audio id="audhix00813" clip-begin="npt=6.500s" clip-end="npt=10.440s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS3">
+        <text id="hix00813s2" src="624755.html#hix00813s2" />
+        <audio id="audhix00813s2" clip-begin="npt=10.440s" clip-end="npt=20.920s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS4">
+        <text id="hix00813s3" src="624755.html#hix00813s3" />
+        <audio id="audhix00813s3" clip-begin="npt=20.920s" clip-end="npt=25.400s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS5">
+        <text id="hix00813s4" src="624755.html#hix00813s4" />
+        <audio id="audhix00813s4" clip-begin="npt=25.400s" clip-end="npt=31.360s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS6">
+        <text id="hix00813s5" src="624755.html#hix00813s5" />
+        <audio id="audhix00813s5" clip-begin="npt=31.360s" clip-end="npt=36.240s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS7">
+        <text id="hix00813s6" src="624755.html#hix00813s6" />
+        <audio id="audhix00813s6" clip-begin="npt=36.240s" clip-end="npt=43.810s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS8">
+        <text id="hix00814" src="624755.html#hix00814" />
+        <audio id="audhix00814" clip-begin="npt=43.810s" clip-end="npt=47.617s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS9">
+        <text id="hix00815" src="624755.html#hix00815" />
+        <audio id="audhix00815" clip-begin="npt=47.617s" clip-end="npt=51.055s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS10">
+        <text id="hix00816" src="624755.html#hix00816" />
+        <audio id="audhix00816" clip-begin="npt=51.055s" clip-end="npt=52.747s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS11">
+        <text id="hix00817" src="624755.html#hix00817" />
+        <audio id="audhix00817" clip-begin="npt=52.747s" clip-end="npt=55.720s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS12">
+        <text id="hix00817s2" src="624755.html#hix00817s2" />
+        <audio id="audhix00817s2" clip-begin="npt=55.720s" clip-end="npt=60.560s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS13">
+        <text id="hix00818" src="624755.html#hix00818" />
+        <audio id="audhix00818" clip-begin="npt=60.560s" clip-end="npt=66.040s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS14">
+        <text id="hix00818s2" src="624755.html#hix00818s2" />
+        <audio id="audhix00818s2" clip-begin="npt=66.040s" clip-end="npt=75.744s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par id="par8" system-required="pagenumber-on" endsync="last">
+        <text id="Page_127" src="624755.html#Page_127" />
+        <audio id="aud008" clip-begin="npt=75.744s" clip-end="npt=76.498s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS15">
+        <text id="hix00819" src="624755.html#hix00819" />
+        <audio id="audhix00819" clip-begin="npt=76.498s" clip-end="npt=84.673s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par id="par10" endsync="last">
+        <text id="hix00820" src="624755.html#hix00820" />
+        <audio id="aud010" clip-begin="npt=84.673s" clip-end="npt=86.781s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS16">
+        <text id="hix00821" src="624755.html#hix00821" />
+        <audio id="audhix00821" clip-begin="npt=86.781s" clip-end="npt=89.920s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS17">
+        <text id="hix00821s2" src="624755.html#hix00821s2" />
+        <audio id="audhix00821s2" clip-begin="npt=89.920s" clip-end="npt=93.462s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS18">
+        <text id="hix00822" src="624755.html#hix00822" />
+        <audio id="audhix00822" clip-begin="npt=93.462s" clip-end="npt=97.560s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS19">
+        <text id="hix00822s2" src="624755.html#hix00822s2" />
+        <audio id="audhix00822s2" clip-begin="npt=97.560s" clip-end="npt=100.080s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS20">
+        <text id="hix00822s3" src="624755.html#hix00822s3" />
+        <audio id="audhix00822s3" clip-begin="npt=100.080s" clip-end="npt=101.480s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS21">
+        <text id="hix00822s4" src="624755.html#hix00822s4" />
+        <audio id="audhix00822s4" clip-begin="npt=101.480s" clip-end="npt=110.959s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par id="par13" endsync="last">
+        <text id="hix00823" src="624755.html#hix00823" />
+        <audio id="aud013" clip-begin="npt=110.959s" clip-end="npt=113.770s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS22">
+        <text id="hix00824" src="624755.html#hix00824" />
+        <audio id="audhix00824" clip-begin="npt=113.770s" clip-end="npt=115.920s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS23">
+        <text id="hix00824s2" src="624755.html#hix00824s2" />
+        <audio id="audhix00824s2" clip-begin="npt=115.920s" clip-end="npt=117.280s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS24">
+        <text id="hix00824s3" src="624755.html#hix00824s3" />
+        <audio id="audhix00824s3" clip-begin="npt=117.280s" clip-end="npt=120.337s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS25">
+        <text id="hix00825" src="624755.html#hix00825" />
+        <audio id="audhix00825" clip-begin="npt=120.337s" clip-end="npt=124.395s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS26">
+        <text id="hix00826" src="624755.html#hix00826" />
+        <audio id="audhix00826" clip-begin="npt=124.395s" clip-end="npt=128.590s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS27">
+        <text id="hix00827" src="624755.html#hix00827" />
+        <audio id="audhix00827" clip-begin="npt=128.590s" clip-end="npt=131.160s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS28">
+        <text id="hix00827s2" src="624755.html#hix00827s2" />
+        <audio id="audhix00827s2" clip-begin="npt=131.160s" clip-end="npt=134.280s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS29">
+        <text id="hix00827s3" src="624755.html#hix00827s3" />
+        <audio id="audhix00827s3" clip-begin="npt=134.280s" clip-end="npt=136.800s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS30">
+        <text id="hix00827s4" src="624755.html#hix00827s4" />
+        <audio id="audhix00827s4" clip-begin="npt=136.800s" clip-end="npt=138.777s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS31">
+        <text id="hix00828" src="624755.html#hix00828" />
+        <audio id="audhix00828" clip-begin="npt=138.777s" clip-end="npt=144.240s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS32">
+        <text id="hix00828s2" src="624755.html#hix00828s2" />
+        <audio id="audhix00828s2" clip-begin="npt=144.240s" clip-end="npt=151.961s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS33">
+        <text id="hix00829" src="624755.html#hix00829" />
+        <audio id="audhix00829" clip-begin="npt=151.961s" clip-end="npt=157.083s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par id="par20" system-required="pagenumber-on" endsync="last">
+        <text id="Page_128" src="624755.html#Page_128" />
+        <audio id="aud020" clip-begin="npt=157.083s" clip-end="npt=157.523s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS34">
+        <text id="hix00830" src="624755.html#hix00830" />
+        <audio id="audhix00830" clip-begin="npt=157.523s" clip-end="npt=161.880s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS35">
+        <text id="hix00830s2" src="624755.html#hix00830s2" />
+        <audio id="audhix00830s2" clip-begin="npt=161.880s" clip-end="npt=166.835s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS36">
+        <text id="hix00831" src="624755.html#hix00831" />
+        <audio id="audhix00831" clip-begin="npt=166.835s" clip-end="npt=170.920s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS37">
+        <text id="hix00831s2" src="624755.html#hix00831s2" />
+        <audio id="audhix00831s2" clip-begin="npt=170.920s" clip-end="npt=175.120s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS38">
+        <text id="hix00831s3" src="624755.html#hix00831s3" />
+        <audio id="audhix00831s3" clip-begin="npt=175.120s" clip-end="npt=177.680s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS39">
+        <text id="hix00831s4" src="624755.html#hix00831s4" />
+        <audio id="audhix00831s4" clip-begin="npt=177.680s" clip-end="npt=178.080s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS40">
+        <text id="hix00831s5" src="624755.html#hix00831s5" />
+        <audio id="audhix00831s5" clip-begin="npt=178.080s" clip-end="npt=181.320s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS41">
+        <text id="hix00831s6" src="624755.html#hix00831s6" />
+        <audio id="audhix00831s6" clip-begin="npt=181.320s" clip-end="npt=185.120s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS42">
+        <text id="hix00831s7" src="624755.html#hix00831s7" />
+        <audio id="audhix00831s7" clip-begin="npt=185.120s" clip-end="npt=189.462s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS43">
+        <text id="hix00832" src="624755.html#hix00832" />
+        <audio id="audhix00832" clip-begin="npt=189.462s" clip-end="npt=192.480s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS44">
+        <text id="hix00832s2" src="624755.html#hix00832s2" />
+        <audio id="audhix00832s2" clip-begin="npt=192.480s" clip-end="npt=198.040s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS45">
+        <text id="hix00832s3" src="624755.html#hix00832s3" />
+        <audio id="audhix00832s3" clip-begin="npt=198.040s" clip-end="npt=206.019s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS46">
+        <text id="hix00833" src="624755.html#hix00833" />
+        <audio id="audhix00833" clip-begin="npt=206.019s" clip-end="npt=209.560s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS47">
+        <text id="hix00833s2" src="624755.html#hix00833s2" />
+        <audio id="audhix00833s2" clip-begin="npt=209.560s" clip-end="npt=212.395s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS48">
+        <text id="hix00834" src="624755.html#hix00834" />
+        <audio id="audhix00834" clip-begin="npt=212.395s" clip-end="npt=216.160s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS49">
+        <text id="hix00834s2" src="624755.html#hix00834s2" />
+        <audio id="audhix00834s2" clip-begin="npt=216.160s" clip-end="npt=227.585s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS50">
+        <text id="hix00835" src="624755.html#hix00835" />
+        <audio id="audhix00835" clip-begin="npt=227.585s" clip-end="npt=232.680s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS51">
+        <text id="hix00835s2" src="624755.html#hix00835s2" />
+        <audio id="audhix00835s2" clip-begin="npt=232.680s" clip-end="npt=233.560s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS52">
+        <text id="hix00835s3" src="624755.html#hix00835s3" />
+        <audio id="audhix00835s3" clip-begin="npt=233.560s" clip-end="npt=236.320s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS53">
+        <text id="hix00836" src="624755.html#hix00836" />
+        <audio id="audhix00836" clip-begin="npt=236.320s" clip-end="npt=240.360s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS54">
+        <text id="hix00836s2" src="624755.html#hix00836s2" />
+        <audio id="audhix00836s2" clip-begin="npt=240.360s" clip-end="npt=241.080s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS55">
+        <text id="hix00836s3" src="624755.html#hix00836s3" />
+        <audio id="audhix00836s3" clip-begin="npt=241.080s" clip-end="npt=244.511s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS56">
+        <text id="hix00837" src="624755.html#hix00837" />
+        <audio id="audhix00837" clip-begin="npt=244.511s" clip-end="npt=255.076s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par id="par29" system-required="pagenumber-on" endsync="last">
+        <text id="Page_129" src="624755.html#Page_129" />
+        <audio id="aud029" clip-begin="npt=255.076s" clip-end="npt=255.578s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS57">
+        <text id="hix00838" src="624755.html#hix00838" />
+        <audio id="audhix00838" clip-begin="npt=255.578s" clip-end="npt=259.960s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS58">
+        <text id="hix00838s2" src="624755.html#hix00838s2" />
+        <audio id="audhix00838s2" clip-begin="npt=259.960s" clip-end="npt=263.400s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS59">
+        <text id="hix00838s3" src="624755.html#hix00838s3" />
+        <audio id="audhix00838s3" clip-begin="npt=263.400s" clip-end="npt=274.480s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS60">
+        <text id="hix00838s4" src="624755.html#hix00838s4" />
+        <audio id="audhix00838s4" clip-begin="npt=274.480s" clip-end="npt=281.240s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS61">
+        <text id="hix00838s5" src="624755.html#hix00838s5" />
+        <audio id="audhix00838s5" clip-begin="npt=281.240s" clip-end="npt=282.760s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS62">
+        <text id="hix00838s6" src="624755.html#hix00838s6" />
+        <audio id="audhix00838s6" clip-begin="npt=282.760s" clip-end="npt=287.074s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS63">
+        <text id="hix00839" src="624755.html#hix00839" />
+        <audio id="audhix00839" clip-begin="npt=287.074s" clip-end="npt=291.080s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS64">
+        <text id="hix00839s2" src="624755.html#hix00839s2" />
+        <audio id="audhix00839s2" clip-begin="npt=291.080s" clip-end="npt=293.520s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS65">
+        <text id="hix00839s3" src="624755.html#hix00839s3" />
+        <audio id="audhix00839s3" clip-begin="npt=293.520s" clip-end="npt=296.280s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS66">
+        <text id="hix00839s4" src="624755.html#hix00839s4" />
+        <audio id="audhix00839s4" clip-begin="npt=296.280s" clip-end="npt=306.506s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS67">
+        <text id="hix00840" src="624755.html#hix00840" />
+        <audio id="audhix00840" clip-begin="npt=306.506s" clip-end="npt=312.640s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS68">
+        <text id="hix00840s2" src="624755.html#hix00840s2" />
+        <audio id="audhix00840s2" clip-begin="npt=312.640s" clip-end="npt=315.280s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS69">
+        <text id="hix00840s3" src="624755.html#hix00840s3" />
+        <audio id="audhix00840s3" clip-begin="npt=315.280s" clip-end="npt=319.440s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS70">
+        <text id="hix00840s4" src="624755.html#hix00840s4" />
+        <audio id="audhix00840s4" clip-begin="npt=319.440s" clip-end="npt=326.760s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS71">
+        <text id="hix00840s5" src="624755.html#hix00840s5" />
+        <audio id="audhix00840s5" clip-begin="npt=326.760s" clip-end="npt=336.040s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS72">
+        <text id="hix00840s6" src="624755.html#hix00840s6" />
+        <audio id="audhix00840s6" clip-begin="npt=336.040s" clip-end="npt=340.692s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS73">
+        <text id="hix00841" src="624755.html#hix00841" />
+        <audio id="audhix00841" clip-begin="npt=340.692s" clip-end="npt=344.600s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS74">
+        <text id="hix00841s2" src="624755.html#hix00841s2" />
+        <audio id="audhix00841s2" clip-begin="npt=344.600s" clip-end="npt=348.400s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS75">
+        <text id="hix00841s3" src="624755.html#hix00841s3" />
+        <audio id="audhix00841s3" clip-begin="npt=348.400s" clip-end="npt=350.560s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS76">
+        <text id="hix00841s4" src="624755.html#hix00841s4" />
+        <audio id="audhix00841s4" clip-begin="npt=350.560s" clip-end="npt=357.080s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS77">
+        <text id="hix00841s5" src="624755.html#hix00841s5" />
+        <audio id="audhix00841s5" clip-begin="npt=357.080s" clip-end="npt=362.273s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par id="par34" system-required="pagenumber-on" endsync="last">
+        <text id="Page_130" src="624755.html#Page_130" />
+        <audio id="aud034" clip-begin="npt=362.273s" clip-end="npt=363.391s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS78">
+        <text id="hix00842" src="624755.html#hix00842" />
+        <audio id="audhix00842" clip-begin="npt=363.391s" clip-end="npt=366.720s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS79">
+        <text id="hix00842s2" src="624755.html#hix00842s2" />
+        <audio id="audhix00842s2" clip-begin="npt=366.720s" clip-end="npt=370.880s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS80">
+        <text id="hix00842s3" src="624755.html#hix00842s3" />
+        <audio id="audhix00842s3" clip-begin="npt=370.880s" clip-end="npt=373.520s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS81">
+        <text id="hix00842s4" src="624755.html#hix00842s4" />
+        <audio id="audhix00842s4" clip-begin="npt=373.520s" clip-end="npt=375.697s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS82">
+        <text id="hix00843" src="624755.html#hix00843" />
+        <audio id="audhix00843" clip-begin="npt=375.697s" clip-end="npt=380.680s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS83">
+        <text id="hix00843s2" src="624755.html#hix00843s2" />
+        <audio id="audhix00843s2" clip-begin="npt=380.680s" clip-end="npt=381.440s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS84">
+        <text id="hix00843s3" src="624755.html#hix00843s3" />
+        <audio id="audhix00843s3" clip-begin="npt=381.440s" clip-end="npt=385.139s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS85">
+        <text id="hix00844" src="624755.html#hix00844" />
+        <audio id="audhix00844" clip-begin="npt=385.139s" clip-end="npt=389.514s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS86">
+        <text id="hix00845" src="624755.html#hix00845" />
+        <audio id="audhix00845" clip-begin="npt=389.514s" clip-end="npt=392.699s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS87">
+        <text id="hix00846" src="624755.html#hix00846" />
+        <audio id="audhix00846" clip-begin="npt=392.699s" clip-end="npt=396.600s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS88">
+        <text id="hix00846s2" src="624755.html#hix00846s2" />
+        <audio id="audhix00846s2" clip-begin="npt=396.600s" clip-end="npt=399.560s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS89">
+        <text id="hix00846s3" src="624755.html#hix00846s3" />
+        <audio id="audhix00846s3" clip-begin="npt=399.560s" clip-end="npt=402.325s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS90">
+        <text id="hix00847" src="624755.html#hix00847" />
+        <audio id="audhix00847" clip-begin="npt=402.325s" clip-end="npt=406.000s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS91">
+        <text id="hix00847s2" src="624755.html#hix00847s2" />
+        <audio id="audhix00847s2" clip-begin="npt=406.000s" clip-end="npt=408.080s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS92">
+        <text id="hix00847s3" src="624755.html#hix00847s3" />
+        <audio id="audhix00847s3" clip-begin="npt=408.080s" clip-end="npt=410.071s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS93">
+        <text id="hix00848" src="624755.html#hix00848" />
+        <audio id="audhix00848" clip-begin="npt=410.071s" clip-end="npt=417.520s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS94">
+        <text id="hix00848s2" src="624755.html#hix00848s2" />
+        <audio id="audhix00848s2" clip-begin="npt=417.520s" clip-end="npt=421.435s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS95">
+        <text id="hix00849" src="624755.html#hix00849" />
+        <audio id="audhix00849" clip-begin="npt=421.435s" clip-end="npt=426.360s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS96">
+        <text id="hix00849s2" src="624755.html#hix00849s2" />
+        <audio id="audhix00849s2" clip-begin="npt=426.360s" clip-end="npt=432.066s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS97">
+        <text id="hix00850" src="624755.html#hix00850" />
+        <audio id="audhix00850" clip-begin="npt=432.066s" clip-end="npt=435.080s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS98">
+        <text id="hix00850s2" src="624755.html#hix00850s2" />
+        <audio id="audhix00850s2" clip-begin="npt=435.080s" clip-end="npt=436.683s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS99">
+        <text id="hix00851" src="624755.html#hix00851" />
+        <audio id="audhix00851" clip-begin="npt=436.683s" clip-end="npt=440.320s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS100">
+        <text id="hix00851s2" src="624755.html#hix00851s2" />
+        <audio id="audhix00851s2" clip-begin="npt=440.320s" clip-end="npt=448.257s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS101">
+        <text id="hix00852" src="624755.html#hix00852" />
+        <audio id="audhix00852" clip-begin="npt=448.257s" clip-end="npt=458.800s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS102">
+        <text id="hix00852s2" src="624755.html#hix00852s2" />
+        <audio id="audhix00852s2" clip-begin="npt=458.800s" clip-end="npt=462.315s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par id="par46" system-required="pagenumber-on" endsync="last">
+        <text id="Page_131" src="624755.html#Page_131" />
+        <audio id="aud046" clip-begin="npt=462.315s" clip-end="npt=463.185s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS103">
+        <text id="hix00853" src="624755.html#hix00853" />
+        <audio id="audhix00853" clip-begin="npt=463.185s" clip-end="npt=468.873s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS104">
+        <text id="hix00854" src="624755.html#hix00854" />
+        <audio id="audhix00854" clip-begin="npt=468.873s" clip-end="npt=472.185s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS105">
+        <text id="hix00855" src="624755.html#hix00855" />
+        <audio id="audhix00855" clip-begin="npt=472.185s" clip-end="npt=474.840s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS106">
+        <text id="hix00855s2" src="624755.html#hix00855s2" />
+        <audio id="audhix00855s2" clip-begin="npt=474.840s" clip-end="npt=477.960s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS107">
+        <text id="hix00855s3" src="624755.html#hix00855s3" />
+        <audio id="audhix00855s3" clip-begin="npt=477.960s" clip-end="npt=478.480s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS108">
+        <text id="hix00855s4" src="624755.html#hix00855s4" />
+        <audio id="audhix00855s4" clip-begin="npt=478.480s" clip-end="npt=480.880s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS109">
+        <text id="hix00855s5" src="624755.html#hix00855s5" />
+        <audio id="audhix00855s5" clip-begin="npt=480.880s" clip-end="npt=485.080s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS110">
+        <text id="hix00855s6" src="624755.html#hix00855s6" />
+        <audio id="audhix00855s6" clip-begin="npt=485.080s" clip-end="npt=490.452s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS111">
+        <text id="hix00856" src="624755.html#hix00856" />
+        <audio id="audhix00856" clip-begin="npt=490.452s" clip-end="npt=494.520s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS112">
+        <text id="hix00856s2" src="624755.html#hix00856s2" />
+        <audio id="audhix00856s2" clip-begin="npt=494.520s" clip-end="npt=495.886s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS113">
+        <text id="hix00857" src="624755.html#hix00857" />
+        <audio id="audhix00857" clip-begin="npt=495.886s" clip-end="npt=500.560s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS114">
+        <text id="hix00857s2" src="624755.html#hix00857s2" />
+        <audio id="audhix00857s2" clip-begin="npt=500.560s" clip-end="npt=504.137s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS115">
+        <text id="hix00858" src="624755.html#hix00858" />
+        <audio id="audhix00858" clip-begin="npt=504.137s" clip-end="npt=505.640s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS116">
+        <text id="hix00858s2" src="624755.html#hix00858s2" />
+        <audio id="audhix00858s2" clip-begin="npt=505.640s" clip-end="npt=507.680s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS117">
+        <text id="hix00858s3" src="624755.html#hix00858s3" />
+        <audio id="audhix00858s3" clip-begin="npt=507.680s" clip-end="npt=510.840s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS118">
+        <text id="hix00858s4" src="624755.html#hix00858s4" />
+        <audio id="audhix00858s4" clip-begin="npt=510.840s" clip-end="npt=511.560s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS119">
+        <text id="hix00858s5" src="624755.html#hix00858s5" />
+        <audio id="audhix00858s5" clip-begin="npt=511.560s" clip-end="npt=512.640s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS120">
+        <text id="hix00858s6" src="624755.html#hix00858s6" />
+        <audio id="audhix00858s6" clip-begin="npt=512.640s" clip-end="npt=515.120s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS121">
+        <text id="hix00858s7" src="624755.html#hix00858s7" />
+        <audio id="audhix00858s7" clip-begin="npt=515.120s" clip-end="npt=518.680s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS122">
+        <text id="hix00858s8" src="624755.html#hix00858s8" />
+        <audio id="audhix00858s8" clip-begin="npt=518.680s" clip-end="npt=524.360s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS123">
+        <text id="hix00858s9" src="624755.html#hix00858s9" />
+        <audio id="audhix00858s9" clip-begin="npt=524.360s" clip-end="npt=528.440s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS124">
+        <text id="hix00858s10" src="624755.html#hix00858s10" />
+        <audio id="audhix00858s10" clip-begin="npt=528.440s" clip-end="npt=533.388s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS125">
+        <text id="hix00859" src="624755.html#hix00859" />
+        <audio id="audhix00859" clip-begin="npt=533.388s" clip-end="npt=537.200s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS126">
+        <text id="hix00859s2" src="624755.html#hix00859s2" />
+        <audio id="audhix00859s2" clip-begin="npt=537.200s" clip-end="npt=539.267s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS127">
+        <text id="hix00860" src="624755.html#hix00860" />
+        <audio id="audhix00860" clip-begin="npt=539.267s" clip-end="npt=542.480s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS128">
+        <text id="hix00860s2" src="624755.html#hix00860s2" />
+        <audio id="audhix00860s2" clip-begin="npt=542.480s" clip-end="npt=546.450s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS129">
+        <text id="hix00861" src="624755.html#hix00861" />
+        <audio id="audhix00861" clip-begin="npt=546.450s" clip-end="npt=551.920s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS130">
+        <text id="hix00861s2" src="624755.html#hix00861s2" />
+        <audio id="audhix00861s2" clip-begin="npt=551.920s" clip-end="npt=557.200s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS131">
+        <text id="hix00861s3" src="624755.html#hix00861s3" />
+        <audio id="audhix00861s3" clip-begin="npt=557.200s" clip-end="npt=559.954s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS132">
+        <text id="hix00862" src="624755.html#hix00862" />
+        <audio id="audhix00862" clip-begin="npt=559.954s" clip-end="npt=562.400s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS133">
+        <text id="hix00862s2" src="624755.html#hix00862s2" />
+        <audio id="audhix00862s2" clip-begin="npt=562.400s" clip-end="npt=563.400s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS134">
+        <text id="hix00862s3" src="624755.html#hix00862s3" />
+        <audio id="audhix00862s3" clip-begin="npt=563.400s" clip-end="npt=567.197s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS135">
+        <text id="hix00863" src="624755.html#hix00863" />
+        <audio id="audhix00863" clip-begin="npt=567.197s" clip-end="npt=570.760s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS136">
+        <text id="hix00863s2" src="624755.html#hix00863s2" />
+        <audio id="audhix00863s2" clip-begin="npt=570.760s" clip-end="npt=571.572s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS137">
+        <text id="hix00864" src="624755.html#hix00864" />
+        <audio id="audhix00864" clip-begin="npt=571.572s" clip-end="npt=573.640s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS138">
+        <text id="hix00864s2" src="624755.html#hix00864s2" />
+        <audio id="audhix00864s2" clip-begin="npt=573.640s" clip-end="npt=577.140s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par id="par59" system-required="pagenumber-on" endsync="last">
+        <text id="Page_132" src="624755.html#Page_132" />
+        <audio id="aud059" clip-begin="npt=577.140s" clip-end="npt=577.634s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS139">
+        <text id="hix00865" src="624755.html#hix00865" />
+        <audio id="audhix00865" clip-begin="npt=577.634s" clip-end="npt=582.120s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS140">
+        <text id="hix00865s2" src="624755.html#hix00865s2" />
+        <audio id="audhix00865s2" clip-begin="npt=582.120s" clip-end="npt=583.697s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS141">
+        <text id="hix00866" src="624755.html#hix00866" />
+        <audio id="audhix00866" clip-begin="npt=583.697s" clip-end="npt=588.080s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS142">
+        <text id="hix00866s2" src="624755.html#hix00866s2" />
+        <audio id="audhix00866s2" clip-begin="npt=588.080s" clip-end="npt=592.633s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS143">
+        <text id="hix00867" src="624755.html#hix00867" />
+        <audio id="audhix00867" clip-begin="npt=592.633s" clip-end="npt=597.200s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS144">
+        <text id="hix00867s2" src="624755.html#hix00867s2" />
+        <audio id="audhix00867s2" clip-begin="npt=597.200s" clip-end="npt=600.824s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS145">
+        <text id="hix00868" src="624755.html#hix00868" />
+        <audio id="audhix00868" clip-begin="npt=600.824s" clip-end="npt=604.200s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS146">
+        <text id="hix00868s2" src="624755.html#hix00868s2" />
+        <audio id="audhix00868s2" clip-begin="npt=604.200s" clip-end="npt=606.581s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS147">
+        <text id="hix00869" src="624755.html#hix00869" />
+        <audio id="audhix00869" clip-begin="npt=606.581s" clip-end="npt=610.480s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS148">
+        <text id="hix00869s2" src="624755.html#hix00869s2" />
+        <audio id="audhix00869s2" clip-begin="npt=610.480s" clip-end="npt=616.360s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS149">
+        <text id="hix00869s3" src="624755.html#hix00869s3" />
+        <audio id="audhix00869s3" clip-begin="npt=616.360s" clip-end="npt=622.909s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS150">
+        <text id="hix00870" src="624755.html#hix00870" />
+        <audio id="audhix00870" clip-begin="npt=622.909s" clip-end="npt=628.930s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS151">
+        <text id="hix00871" src="624755.html#hix00871" />
+        <audio id="audhix00871" clip-begin="npt=628.930s" clip-end="npt=632.840s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS152">
+        <text id="hix00871s2" src="624755.html#hix00871s2" />
+        <audio id="audhix00871s2" clip-begin="npt=632.840s" clip-end="npt=636.480s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS153">
+        <text id="hix00871s3" src="624755.html#hix00871s3" />
+        <audio id="audhix00871s3" clip-begin="npt=636.480s" clip-end="npt=637.240s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS154">
+        <text id="hix00871s4" src="624755.html#hix00871s4" />
+        <audio id="audhix00871s4" clip-begin="npt=637.240s" clip-end="npt=639.400s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS155">
+        <text id="hix00871s5" src="624755.html#hix00871s5" />
+        <audio id="audhix00871s5" clip-begin="npt=639.400s" clip-end="npt=645.423s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS156">
+        <text id="hix00872" src="624755.html#hix00872" />
+        <audio id="audhix00872" clip-begin="npt=645.423s" clip-end="npt=650.280s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS157">
+        <text id="hix00872s2" src="624755.html#hix00872s2" />
+        <audio id="audhix00872s2" clip-begin="npt=650.280s" clip-end="npt=654.358s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS158">
+        <text id="hix00873" src="624755.html#hix00873" />
+        <audio id="audhix00873" clip-begin="npt=654.358s" clip-end="npt=658.796s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS159">
+        <text id="hix00874" src="624755.html#hix00874" />
+        <audio id="audhix00874" clip-begin="npt=658.796s" clip-end="npt=662.120s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS160">
+        <text id="hix00874s2" src="624755.html#hix00874s2" />
+        <audio id="audhix00874s2" clip-begin="npt=662.120s" clip-end="npt=665.043s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS161">
+        <text id="hix00875" src="624755.html#hix00875" />
+        <audio id="audhix00875" clip-begin="npt=665.043s" clip-end="npt=674.320s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS162">
+        <text id="hix00875s2" src="624755.html#hix00875s2" />
+        <audio id="audhix00875s2" clip-begin="npt=674.320s" clip-end="npt=683.000s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS163">
+        <text id="hix00875s3" src="624755.html#hix00875s3" />
+        <audio id="audhix00875s3" clip-begin="npt=683.000s" clip-end="npt=687.357s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par id="par71" system-required="pagenumber-on" endsync="last">
+        <text id="Page_133" src="624755.html#Page_133" />
+        <audio id="aud071" clip-begin="npt=687.357s" clip-end="npt=687.859s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS164">
+        <text id="hix00876" src="624755.html#hix00876" />
+        <audio id="audhix00876" clip-begin="npt=687.859s" clip-end="npt=702.840s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS165">
+        <text id="hix00876s2" src="624755.html#hix00876s2" />
+        <audio id="audhix00876s2" clip-begin="npt=702.840s" clip-end="npt=704.608s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS166">
+        <text id="hix00877" src="624755.html#hix00877" />
+        <audio id="audhix00877" clip-begin="npt=704.608s" clip-end="npt=712.520s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS167">
+        <text id="hix00877s2" src="624755.html#hix00877s2" />
+        <audio id="audhix00877s2" clip-begin="npt=712.520s" clip-end="npt=734.440s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS168">
+        <text id="hix00877s3" src="624755.html#hix00877s3" />
+        <audio id="audhix00877s3" clip-begin="npt=734.440s" clip-end="npt=736.640s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS169">
+        <text id="hix00877s4" src="624755.html#hix00877s4" />
+        <audio id="audhix00877s4" clip-begin="npt=736.640s" clip-end="npt=741.353s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS170">
+        <text id="hix00878" src="624755.html#hix00878" />
+        <audio id="audhix00878" clip-begin="npt=741.353s" clip-end="npt=742.120s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS171">
+        <text id="hix00878s2" src="624755.html#hix00878s2" />
+        <audio id="audhix00878s2" clip-begin="npt=742.120s" clip-end="npt=743.120s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS172">
+        <text id="hix00878s3" src="624755.html#hix00878s3" />
+        <audio id="audhix00878s3" clip-begin="npt=743.120s" clip-end="npt=750.120s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS173">
+        <text id="hix00878s4" src="624755.html#hix00878s4" />
+        <audio id="audhix00878s4" clip-begin="npt=750.120s" clip-end="npt=763.240s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS174">
+        <text id="hix00878s5" src="624755.html#hix00878s5" />
+        <audio id="audhix00878s5" clip-begin="npt=763.240s" clip-end="npt=766.080s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS175">
+        <text id="hix00878s6" src="624755.html#hix00878s6" />
+        <audio id="audhix00878s6" clip-begin="npt=766.080s" clip-end="npt=766.680s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS176">
+        <text id="hix00878s7" src="624755.html#hix00878s7" />
+        <audio id="audhix00878s7" clip-begin="npt=766.680s" clip-end="npt=768.364s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS177">
+        <text id="hix00879" src="624755.html#hix00879" />
+        <audio id="audhix00879" clip-begin="npt=768.364s" clip-end="npt=773.440s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS178">
+        <text id="hix00879s2" src="624755.html#hix00879s2" />
+        <audio id="audhix00879s2" clip-begin="npt=773.440s" clip-end="npt=776.360s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par endsync="last" id="parS179">
+        <text id="hix00879s3" src="624755.html#hix00879s3" />
+        <audio id="audhix00879s3" clip-begin="npt=776.360s" clip-end="npt=779.373s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+      <par id="par76" system-required="pagenumber-on" endsync="last">
+        <text id="Page_134" src="624755.html#Page_134" />
+        <audio id="aud076" clip-begin="npt=779.373s" clip-end="npt=780.372s" src="18_Chapter_Twelve_Shmuel_Thinks_of_an.mp3" />
+      </par>
+    </seq>
+  </body>
+</smil>

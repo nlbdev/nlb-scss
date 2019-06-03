@@ -1,0 +1,1555 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd"[]>
+<smil>
+  <head>
+    <meta name="dc:title" content="THE BOY IN THE STRIPED PYJAMAS" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="dc:identifier" content="624755" />
+    <meta name="ncc:totalElapsedTime" content="04:19:17.924" />
+    <meta name="ncc:timeInThisSmil" content="00:24:55.565" />
+    <meta name="ncc:generator" content="Hindenburg ABC Studio 1.26.2164" />
+    <layout>
+      <region id="txtView" />
+    </layout>
+  </head>
+  <body>
+    <seq id="main" dur="1495.565s">
+      <par endsync="last" id="parS1">
+        <text id="d1534e4133-0" src="624755.html#d1534e4133-0" />
+        <audio id="audd1534e4133-0" clip-begin="npt=0.000s" clip-end="npt=6.631s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS2">
+        <text id="hix01075" src="624755.html#hix01075" />
+        <audio id="audhix01075" clip-begin="npt=6.631s" clip-end="npt=16.760s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS3">
+        <text id="hix01075s2" src="624755.html#hix01075s2" />
+        <audio id="audhix01075s2" clip-begin="npt=16.760s" clip-end="npt=27.440s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS4">
+        <text id="hix01075s3" src="624755.html#hix01075s3" />
+        <audio id="audhix01075s3" clip-begin="npt=27.440s" clip-end="npt=32.040s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS5">
+        <text id="hix01075s4" src="624755.html#hix01075s4" />
+        <audio id="audhix01075s4" clip-begin="npt=32.040s" clip-end="npt=36.400s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS6">
+        <text id="hix01075s5" src="624755.html#hix01075s5" />
+        <audio id="audhix01075s5" clip-begin="npt=36.400s" clip-end="npt=49.520s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS7">
+        <text id="hix01075s6" src="624755.html#hix01075s6" />
+        <audio id="audhix01075s6" clip-begin="npt=49.520s" clip-end="npt=52.040s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS8">
+        <text id="hix01075s7" src="624755.html#hix01075s7" />
+        <audio id="audhix01075s7" clip-begin="npt=52.040s" clip-end="npt=62.256s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS9">
+        <text id="hix01076" src="624755.html#hix01076" />
+        <audio id="audhix01076" clip-begin="npt=62.256s" clip-end="npt=65.080s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS10">
+        <text id="hix01076s2" src="624755.html#hix01076s2" />
+        <audio id="audhix01076s2" clip-begin="npt=65.080s" clip-end="npt=68.120s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS11">
+        <text id="hix01076s3" src="624755.html#hix01076s3" />
+        <audio id="audhix01076s3" clip-begin="npt=68.120s" clip-end="npt=76.257s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par id="par4" system-required="pagenumber-on" endsync="last">
+        <text id="Page_161" src="624755.html#Page_161" />
+        <audio id="aud004" clip-begin="npt=76.257s" clip-end="npt=76.625s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS12">
+        <text id="hix01077" src="624755.html#hix01077" />
+        <audio id="audhix01077" clip-begin="npt=76.625s" clip-end="npt=81.600s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS13">
+        <text id="hix01077s2" src="624755.html#hix01077s2" />
+        <audio id="audhix01077s2" clip-begin="npt=81.600s" clip-end="npt=85.000s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS14">
+        <text id="hix01077s3" src="624755.html#hix01077s3" />
+        <audio id="audhix01077s3" clip-begin="npt=85.000s" clip-end="npt=90.688s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS15">
+        <text id="hix01078" src="624755.html#hix01078" />
+        <audio id="audhix01078" clip-begin="npt=90.688s" clip-end="npt=94.440s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS16">
+        <text id="hix01078s2" src="624755.html#hix01078s2" />
+        <audio id="audhix01078s2" clip-begin="npt=94.440s" clip-end="npt=98.815s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS17">
+        <text id="hix01079" src="624755.html#hix01079" />
+        <audio id="audhix01079" clip-begin="npt=98.815s" clip-end="npt=107.439s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS18">
+        <text id="hix01080" src="624755.html#hix01080" />
+        <audio id="audhix01080" clip-begin="npt=107.439s" clip-end="npt=110.920s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS19">
+        <text id="hix01080s2" src="624755.html#hix01080s2" />
+        <audio id="audhix01080s2" clip-begin="npt=110.920s" clip-end="npt=113.680s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS20">
+        <text id="hix01080s3" src="624755.html#hix01080s3" />
+        <audio id="audhix01080s3" clip-begin="npt=113.680s" clip-end="npt=116.880s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS21">
+        <text id="hix01080s4" src="624755.html#hix01080s4" />
+        <audio id="audhix01080s4" clip-begin="npt=116.880s" clip-end="npt=118.600s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS22">
+        <text id="hix01080s5" src="624755.html#hix01080s5" />
+        <audio id="audhix01080s5" clip-begin="npt=118.600s" clip-end="npt=121.566s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS23">
+        <text id="hix01081" src="624755.html#hix01081" />
+        <audio id="audhix01081" clip-begin="npt=121.566s" clip-end="npt=128.720s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS24">
+        <text id="hix01081s2" src="624755.html#hix01081s2" />
+        <audio id="audhix01081s2" clip-begin="npt=128.720s" clip-end="npt=132.567s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS25">
+        <text id="hix01082" src="624755.html#hix01082" />
+        <audio id="audhix01082" clip-begin="npt=132.567s" clip-end="npt=141.600s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS26">
+        <text id="hix01082s2" src="624755.html#hix01082s2" />
+        <audio id="audhix01082s2" clip-begin="npt=141.600s" clip-end="npt=146.280s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS27">
+        <text id="hix01082s3" src="624755.html#hix01082s3" />
+        <audio id="audhix01082s3" clip-begin="npt=146.280s" clip-end="npt=152.869s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS28">
+        <text id="hix01083" src="624755.html#hix01083" />
+        <audio id="audhix01083" clip-begin="npt=152.869s" clip-end="npt=156.800s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS29">
+        <text id="hix01083s2" src="624755.html#hix01083s2" />
+        <audio id="audhix01083s2" clip-begin="npt=156.800s" clip-end="npt=160.040s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS30">
+        <text id="hix01083s3" src="624755.html#hix01083s3" />
+        <audio id="audhix01083s3" clip-begin="npt=160.040s" clip-end="npt=163.863s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par id="par12" system-required="pagenumber-on" endsync="last">
+        <text id="Page_162" src="624755.html#Page_162" />
+        <audio id="aud012" clip-begin="npt=163.863s" clip-end="npt=164.491s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS31">
+        <text id="hix01084" src="624755.html#hix01084" />
+        <audio id="audhix01084" clip-begin="npt=164.491s" clip-end="npt=165.880s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS32">
+        <text id="hix01084s2" src="624755.html#hix01084s2" />
+        <audio id="audhix01084s2" clip-begin="npt=165.880s" clip-end="npt=180.613s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS33">
+        <text id="hix01085" src="624755.html#hix01085" />
+        <audio id="audhix01085" clip-begin="npt=180.613s" clip-end="npt=187.440s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS34">
+        <text id="hix01085s2" src="624755.html#hix01085s2" />
+        <audio id="audhix01085s2" clip-begin="npt=187.440s" clip-end="npt=191.369s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS35">
+        <text id="hix01086" src="624755.html#hix01086" />
+        <audio id="audhix01086" clip-begin="npt=191.369s" clip-end="npt=202.920s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS36">
+        <text id="hix01086s2" src="624755.html#hix01086s2" />
+        <audio id="audhix01086s2" clip-begin="npt=202.920s" clip-end="npt=206.640s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS37">
+        <text id="hix01086s3" src="624755.html#hix01086s3" />
+        <audio id="audhix01086s3" clip-begin="npt=206.640s" clip-end="npt=208.240s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS38">
+        <text id="hix01086s4" src="624755.html#hix01086s4" />
+        <audio id="audhix01086s4" clip-begin="npt=208.240s" clip-end="npt=209.840s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS39">
+        <text id="hix01086s5" src="624755.html#hix01086s5" />
+        <audio id="audhix01086s5" clip-begin="npt=209.840s" clip-end="npt=215.720s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS40">
+        <text id="hix01086s6" src="624755.html#hix01086s6" />
+        <audio id="audhix01086s6" clip-begin="npt=215.720s" clip-end="npt=217.760s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS41">
+        <text id="hix01086s7" src="624755.html#hix01086s7" />
+        <audio id="audhix01086s7" clip-begin="npt=217.760s" clip-end="npt=224.680s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS42">
+        <text id="hix01087" src="624755.html#hix01087" />
+        <audio id="audhix01087" clip-begin="npt=224.680s" clip-end="npt=232.360s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS43">
+        <text id="hix01087s2" src="624755.html#hix01087s2" />
+        <audio id="audhix01087s2" clip-begin="npt=232.360s" clip-end="npt=236.600s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS44">
+        <text id="hix01087s3" src="624755.html#hix01087s3" />
+        <audio id="audhix01087s3" clip-begin="npt=236.600s" clip-end="npt=240.720s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS45">
+        <text id="hix01087s4" src="624755.html#hix01087s4" />
+        <audio id="audhix01087s4" clip-begin="npt=240.720s" clip-end="npt=242.616s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS46">
+        <text id="hix01088" src="624755.html#hix01088" />
+        <audio id="audhix01088" clip-begin="npt=242.616s" clip-end="npt=244.400s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS47">
+        <text id="hix01088s2" src="624755.html#hix01088s2" />
+        <audio id="audhix01088s2" clip-begin="npt=244.400s" clip-end="npt=247.160s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS48">
+        <text id="hix01088s3" src="624755.html#hix01088s3" />
+        <audio id="audhix01088s3" clip-begin="npt=247.160s" clip-end="npt=249.370s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS49">
+        <text id="hix01089" src="624755.html#hix01089" />
+        <audio id="audhix01089" clip-begin="npt=249.370s" clip-end="npt=252.400s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS50">
+        <text id="hix01089s2" src="624755.html#hix01089s2" />
+        <audio id="audhix01089s2" clip-begin="npt=252.400s" clip-end="npt=252.930s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par id="par19" system-required="pagenumber-on" endsync="last">
+        <text id="Page_163" src="624755.html#Page_163" />
+        <audio id="aud019" clip-begin="npt=252.930s" clip-end="npt=253.177s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS51">
+        <text id="hix01090" src="624755.html#hix01090" />
+        <audio id="audhix01090" clip-begin="npt=253.177s" clip-end="npt=256.432s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS52">
+        <text id="hix01091" src="624755.html#hix01091" />
+        <audio id="audhix01091" clip-begin="npt=256.432s" clip-end="npt=262.400s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS53">
+        <text id="hix01091s2" src="624755.html#hix01091s2" />
+        <audio id="audhix01091s2" clip-begin="npt=262.400s" clip-end="npt=266.920s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS54">
+        <text id="hix01091s3" src="624755.html#hix01091s3" />
+        <audio id="audhix01091s3" clip-begin="npt=266.920s" clip-end="npt=268.677s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS55">
+        <text id="hix01092" src="624755.html#hix01092" />
+        <audio id="audhix01092" clip-begin="npt=268.677s" clip-end="npt=274.640s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS56">
+        <text id="hix01092s2" src="624755.html#hix01092s2" />
+        <audio id="audhix01092s2" clip-begin="npt=274.640s" clip-end="npt=277.720s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS57">
+        <text id="hix01092s3" src="624755.html#hix01092s3" />
+        <audio id="audhix01092s3" clip-begin="npt=277.720s" clip-end="npt=280.678s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS58">
+        <text id="hix01093" src="624755.html#hix01093" />
+        <audio id="audhix01093" clip-begin="npt=280.678s" clip-end="npt=281.960s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS59">
+        <text id="hix01093s2" src="624755.html#hix01093s2" />
+        <audio id="audhix01093s2" clip-begin="npt=281.960s" clip-end="npt=284.720s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS60">
+        <text id="hix01093s3" src="624755.html#hix01093s3" />
+        <audio id="audhix01093s3" clip-begin="npt=284.720s" clip-end="npt=287.120s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS61">
+        <text id="hix01093s4" src="624755.html#hix01093s4" />
+        <audio id="audhix01093s4" clip-begin="npt=287.120s" clip-end="npt=290.054s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS62">
+        <text id="hix01094" src="624755.html#hix01094" />
+        <audio id="audhix01094" clip-begin="npt=290.054s" clip-end="npt=293.840s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS63">
+        <text id="hix01094s2" src="624755.html#hix01094s2" />
+        <audio id="audhix01094s2" clip-begin="npt=293.840s" clip-end="npt=301.040s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS64">
+        <text id="hix01094s3" src="624755.html#hix01094s3" />
+        <audio id="audhix01094s3" clip-begin="npt=301.040s" clip-end="npt=305.932s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS65">
+        <text id="hix01095" src="624755.html#hix01095" />
+        <audio id="audhix01095" clip-begin="npt=305.932s" clip-end="npt=309.160s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS66">
+        <text id="hix01095s2" src="624755.html#hix01095s2" />
+        <audio id="audhix01095s2" clip-begin="npt=309.160s" clip-end="npt=311.720s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS67">
+        <text id="hix01095s3" src="624755.html#hix01095s3" />
+        <audio id="audhix01095s3" clip-begin="npt=311.720s" clip-end="npt=313.614s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS68">
+        <text id="hix01096" src="624755.html#hix01096" />
+        <audio id="audhix01096" clip-begin="npt=313.614s" clip-end="npt=318.238s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS69">
+        <text id="hix01097" src="624755.html#hix01097" />
+        <audio id="audhix01097" clip-begin="npt=318.238s" clip-end="npt=320.932s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS70">
+        <text id="hix01098" src="624755.html#hix01098" />
+        <audio id="audhix01098" clip-begin="npt=320.932s" clip-end="npt=326.177s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS71">
+        <text id="hix01099" src="624755.html#hix01099" />
+        <audio id="audhix01099" clip-begin="npt=326.177s" clip-end="npt=332.960s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS72">
+        <text id="hix01099s2" src="624755.html#hix01099s2" />
+        <audio id="audhix01099s2" clip-begin="npt=332.960s" clip-end="npt=335.440s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS73">
+        <text id="hix01099s3" src="624755.html#hix01099s3" />
+        <audio id="audhix01099s3" clip-begin="npt=335.440s" clip-end="npt=338.805s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS74">
+        <text id="hix01100" src="624755.html#hix01100" />
+        <audio id="audhix01100" clip-begin="npt=338.805s" clip-end="npt=342.080s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS75">
+        <text id="hix01100s2" src="624755.html#hix01100s2" />
+        <audio id="audhix01100s2" clip-begin="npt=342.080s" clip-end="npt=343.880s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS76">
+        <text id="hix01100s3" src="624755.html#hix01100s3" />
+        <audio id="audhix01100s3" clip-begin="npt=343.880s" clip-end="npt=347.440s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS77">
+        <text id="hix01100s4" src="624755.html#hix01100s4" />
+        <audio id="audhix01100s4" clip-begin="npt=347.440s" clip-end="npt=349.200s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS78">
+        <text id="hix01100s5" src="624755.html#hix01100s5" />
+        <audio id="audhix01100s5" clip-begin="npt=349.200s" clip-end="npt=353.960s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS79">
+        <text id="hix01100s6" src="624755.html#hix01100s6" />
+        <audio id="audhix01100s6" clip-begin="npt=353.960s" clip-end="npt=359.177s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par id="par31" system-required="pagenumber-on" endsync="last">
+        <text id="Page_164" src="624755.html#Page_164" />
+        <audio id="aud031" clip-begin="npt=359.177s" clip-end="npt=359.550s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS80">
+        <text id="hix01101" src="624755.html#hix01101" />
+        <audio id="audhix01101" clip-begin="npt=359.550s" clip-end="npt=366.992s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS81">
+        <text id="hix01102" src="624755.html#hix01102" />
+        <audio id="audhix01102" clip-begin="npt=366.992s" clip-end="npt=370.240s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS82">
+        <text id="hix01102s2" src="624755.html#hix01102s2" />
+        <audio id="audhix01102s2" clip-begin="npt=370.240s" clip-end="npt=374.364s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS83">
+        <text id="hix01103" src="624755.html#hix01103" />
+        <audio id="audhix01103" clip-begin="npt=374.364s" clip-end="npt=377.480s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS84">
+        <text id="hix01103s2" src="624755.html#hix01103s2" />
+        <audio id="audhix01103s2" clip-begin="npt=377.480s" clip-end="npt=379.181s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS85">
+        <text id="hix01104" src="624755.html#hix01104" />
+        <audio id="audhix01104" clip-begin="npt=379.181s" clip-end="npt=380.600s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS86">
+        <text id="hix01104s2" src="624755.html#hix01104s2" />
+        <audio id="audhix01104s2" clip-begin="npt=380.600s" clip-end="npt=383.200s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS87">
+        <text id="hix01104s3" src="624755.html#hix01104s3" />
+        <audio id="audhix01104s3" clip-begin="npt=383.200s" clip-end="npt=388.000s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS88">
+        <text id="hix01104s4" src="624755.html#hix01104s4" />
+        <audio id="audhix01104s4" clip-begin="npt=388.000s" clip-end="npt=391.114s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS89">
+        <text id="hix01105" src="624755.html#hix01105" />
+        <audio id="audhix01105" clip-begin="npt=391.114s" clip-end="npt=395.720s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS90">
+        <text id="hix01105s2" src="624755.html#hix01105s2" />
+        <audio id="audhix01105s2" clip-begin="npt=395.720s" clip-end="npt=400.400s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS91">
+        <text id="hix01105s3" src="624755.html#hix01105s3" />
+        <audio id="audhix01105s3" clip-begin="npt=400.400s" clip-end="npt=404.240s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS92">
+        <text id="hix01105s4" src="624755.html#hix01105s4" />
+        <audio id="audhix01105s4" clip-begin="npt=404.240s" clip-end="npt=405.176s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS93">
+        <text id="hix01106" src="624755.html#hix01106" />
+        <audio id="audhix01106" clip-begin="npt=405.176s" clip-end="npt=406.880s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS94">
+        <text id="hix01106s2" src="624755.html#hix01106s2" />
+        <audio id="audhix01106s2" clip-begin="npt=406.880s" clip-end="npt=409.040s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS95">
+        <text id="hix01106s3" src="624755.html#hix01106s3" />
+        <audio id="audhix01106s3" clip-begin="npt=409.040s" clip-end="npt=417.856s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS96">
+        <text id="hix01107" src="624755.html#hix01107" />
+        <audio id="audhix01107" clip-begin="npt=417.856s" clip-end="npt=422.240s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS97">
+        <text id="hix01107s2" src="624755.html#hix01107s2" />
+        <audio id="audhix01107s2" clip-begin="npt=422.240s" clip-end="npt=425.000s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS98">
+        <text id="hix01107s3" src="624755.html#hix01107s3" />
+        <audio id="audhix01107s3" clip-begin="npt=425.000s" clip-end="npt=432.480s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS99">
+        <text id="hix01107s4" src="624755.html#hix01107s4" />
+        <audio id="audhix01107s4" clip-begin="npt=432.480s" clip-end="npt=433.440s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS100">
+        <text id="hix01107s5" src="624755.html#hix01107s5" />
+        <audio id="audhix01107s5" clip-begin="npt=433.440s" clip-end="npt=434.400s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS101">
+        <text id="hix01107s6" src="624755.html#hix01107s6" />
+        <audio id="audhix01107s6" clip-begin="npt=434.400s" clip-end="npt=445.320s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS102">
+        <text id="hix01107s7" src="624755.html#hix01107s7" />
+        <audio id="audhix01107s7" clip-begin="npt=445.320s" clip-end="npt=449.542s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS103">
+        <text id="hix01108" src="624755.html#hix01108" />
+        <audio id="audhix01108" clip-begin="npt=449.542s" clip-end="npt=450.960s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS104">
+        <text id="hix01108s2" src="624755.html#hix01108s2" />
+        <audio id="audhix01108s2" clip-begin="npt=450.960s" clip-end="npt=451.520s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS105">
+        <text id="hix01108s3" src="624755.html#hix01108s3" />
+        <audio id="audhix01108s3" clip-begin="npt=451.520s" clip-end="npt=452.880s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS106">
+        <text id="hix01108s4" src="624755.html#hix01108s4" />
+        <audio id="audhix01108s4" clip-begin="npt=452.880s" clip-end="npt=455.520s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS107">
+        <text id="hix01108s5" src="624755.html#hix01108s5" />
+        <audio id="audhix01108s5" clip-begin="npt=455.520s" clip-end="npt=459.172s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par id="par40" system-required="pagenumber-on" endsync="last">
+        <text id="Page_165" src="624755.html#Page_165" />
+        <audio id="aud040" clip-begin="npt=459.172s" clip-end="npt=459.541s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS108">
+        <text id="hix01109" src="624755.html#hix01109" />
+        <audio id="audhix01109" clip-begin="npt=459.541s" clip-end="npt=464.760s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS109">
+        <text id="hix01109s2" src="624755.html#hix01109s2" />
+        <audio id="audhix01109s2" clip-begin="npt=464.760s" clip-end="npt=466.440s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS110">
+        <text id="hix01109s3" src="624755.html#hix01109s3" />
+        <audio id="audhix01109s3" clip-begin="npt=466.440s" clip-end="npt=468.720s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS111">
+        <text id="hix01109s4" src="624755.html#hix01109s4" />
+        <audio id="audhix01109s4" clip-begin="npt=468.720s" clip-end="npt=470.350s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS112">
+        <text id="hix01110" src="624755.html#hix01110" />
+        <audio id="audhix01110" clip-begin="npt=470.350s" clip-end="npt=474.960s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS113">
+        <text id="hix01110s2" src="624755.html#hix01110s2" />
+        <audio id="audhix01110s2" clip-begin="npt=474.960s" clip-end="npt=478.717s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS114">
+        <text id="hix01111" src="624755.html#hix01111" />
+        <audio id="audhix01111" clip-begin="npt=478.717s" clip-end="npt=480.320s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS115">
+        <text id="hix01111s2" src="624755.html#hix01111s2" />
+        <audio id="audhix01111s2" clip-begin="npt=480.320s" clip-end="npt=483.080s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS116">
+        <text id="hix01111s3" src="624755.html#hix01111s3" />
+        <audio id="audhix01111s3" clip-begin="npt=483.080s" clip-end="npt=486.782s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS117">
+        <text id="hix01112" src="624755.html#hix01112" />
+        <audio id="audhix01112" clip-begin="npt=486.782s" clip-end="npt=493.995s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS118">
+        <text id="hix01113" src="624755.html#hix01113" />
+        <audio id="audhix01113" clip-begin="npt=493.995s" clip-end="npt=495.640s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS119">
+        <text id="hix01113s2" src="624755.html#hix01113s2" />
+        <audio id="audhix01113s2" clip-begin="npt=495.640s" clip-end="npt=500.640s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS120">
+        <text id="hix01113s3" src="624755.html#hix01113s3" />
+        <audio id="audhix01113s3" clip-begin="npt=500.640s" clip-end="npt=502.160s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS121">
+        <text id="hix01113s4" src="624755.html#hix01113s4" />
+        <audio id="audhix01113s4" clip-begin="npt=502.160s" clip-end="npt=503.680s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS122">
+        <text id="hix01113s5" src="624755.html#hix01113s5" />
+        <audio id="audhix01113s5" clip-begin="npt=503.680s" clip-end="npt=506.160s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS123">
+        <text id="hix01113s6" src="624755.html#hix01113s6" />
+        <audio id="audhix01113s6" clip-begin="npt=506.160s" clip-end="npt=508.120s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS124">
+        <text id="hix01113s7" src="624755.html#hix01113s7" />
+        <audio id="audhix01113s7" clip-begin="npt=508.120s" clip-end="npt=510.870s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS125">
+        <text id="hix01114" src="624755.html#hix01114" />
+        <audio id="audhix01114" clip-begin="npt=510.870s" clip-end="npt=513.280s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS126">
+        <text id="hix01114s2" src="624755.html#hix01114s2" />
+        <audio id="audhix01114s2" clip-begin="npt=513.280s" clip-end="npt=515.813s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS127">
+        <text id="hix01115" src="624755.html#hix01115" />
+        <audio id="audhix01115" clip-begin="npt=515.813s" clip-end="npt=523.960s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS128">
+        <text id="hix01115s2" src="624755.html#hix01115s2" />
+        <audio id="audhix01115s2" clip-begin="npt=523.960s" clip-end="npt=528.244s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS129">
+        <text id="hix01116" src="624755.html#hix01116" />
+        <audio id="audhix01116" clip-begin="npt=528.244s" clip-end="npt=531.760s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS130">
+        <text id="hix01116s2" src="624755.html#hix01116s2" />
+        <audio id="audhix01116s2" clip-begin="npt=531.760s" clip-end="npt=536.120s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS131">
+        <text id="hix01116s3" src="624755.html#hix01116s3" />
+        <audio id="audhix01116s3" clip-begin="npt=536.120s" clip-end="npt=542.997s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS132">
+        <text id="hix01117" src="624755.html#hix01117" />
+        <audio id="audhix01117" clip-begin="npt=542.997s" clip-end="npt=547.306s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS133">
+        <text id="hix01118" src="624755.html#hix01118" />
+        <audio id="audhix01118" clip-begin="npt=547.306s" clip-end="npt=550.320s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS134">
+        <text id="hix01118s2" src="624755.html#hix01118s2" />
+        <audio id="audhix01118s2" clip-begin="npt=550.320s" clip-end="npt=554.059s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par id="par51" system-required="pagenumber-on" endsync="last">
+        <text id="Page_166" src="624755.html#Page_166" />
+        <audio id="aud051" clip-begin="npt=554.059s" clip-end="npt=554.367s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS135">
+        <text id="hix01119" src="624755.html#hix01119" />
+        <audio id="audhix01119" clip-begin="npt=554.367s" clip-end="npt=557.160s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS136">
+        <text id="hix01119s2" src="624755.html#hix01119s2" />
+        <audio id="audhix01119s2" clip-begin="npt=557.160s" clip-end="npt=564.800s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS137">
+        <text id="hix01119s3" src="624755.html#hix01119s3" />
+        <audio id="audhix01119s3" clip-begin="npt=564.800s" clip-end="npt=569.000s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS138">
+        <text id="hix01119s4" src="624755.html#hix01119s4" />
+        <audio id="audhix01119s4" clip-begin="npt=569.000s" clip-end="npt=571.560s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS139">
+        <text id="hix01119s5" src="624755.html#hix01119s5" />
+        <audio id="audhix01119s5" clip-begin="npt=571.560s" clip-end="npt=577.373s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS140">
+        <text id="hix01120" src="624755.html#hix01120" />
+        <audio id="audhix01120" clip-begin="npt=577.373s" clip-end="npt=581.320s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS141">
+        <text id="hix01120s2" src="624755.html#hix01120s2" />
+        <audio id="audhix01120s2" clip-begin="npt=581.320s" clip-end="npt=585.640s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS142">
+        <text id="hix01120s3" src="624755.html#hix01120s3" />
+        <audio id="audhix01120s3" clip-begin="npt=585.640s" clip-end="npt=594.520s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS143">
+        <text id="hix01120s4" src="624755.html#hix01120s4" />
+        <audio id="audhix01120s4" clip-begin="npt=594.520s" clip-end="npt=607.933s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS144">
+        <text id="hix01121" src="624755.html#hix01121" />
+        <audio id="audhix01121" clip-begin="npt=607.933s" clip-end="npt=615.640s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS145">
+        <text id="hix01121s2" src="624755.html#hix01121s2" />
+        <audio id="audhix01121s2" clip-begin="npt=615.640s" clip-end="npt=617.367s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS146">
+        <text id="hix01122" src="624755.html#hix01122" />
+        <audio id="audhix01122" clip-begin="npt=617.367s" clip-end="npt=622.118s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS147">
+        <text id="hix01123" src="624755.html#hix01123" />
+        <audio id="audhix01123" clip-begin="npt=622.118s" clip-end="npt=623.760s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS148">
+        <text id="hix01123s2" src="624755.html#hix01123s2" />
+        <audio id="audhix01123s2" clip-begin="npt=623.760s" clip-end="npt=631.000s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS149">
+        <text id="hix01123s3" src="624755.html#hix01123s3" />
+        <audio id="audhix01123s3" clip-begin="npt=631.000s" clip-end="npt=634.880s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS150">
+        <text id="hix01123s4" src="624755.html#hix01123s4" />
+        <audio id="audhix01123s4" clip-begin="npt=634.880s" clip-end="npt=637.400s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS151">
+        <text id="hix01123s5" src="624755.html#hix01123s5" />
+        <audio id="audhix01123s5" clip-begin="npt=637.400s" clip-end="npt=646.000s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS152">
+        <text id="hix01123s6" src="624755.html#hix01123s6" />
+        <audio id="audhix01123s6" clip-begin="npt=646.000s" clip-end="npt=648.400s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS153">
+        <text id="hix01123s7" src="624755.html#hix01123s7" />
+        <audio id="audhix01123s7" clip-begin="npt=648.400s" clip-end="npt=650.680s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS154">
+        <text id="hix01123s8" src="624755.html#hix01123s8" />
+        <audio id="audhix01123s8" clip-begin="npt=650.680s" clip-end="npt=652.960s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS155">
+        <text id="hix01123s9" src="624755.html#hix01123s9" />
+        <audio id="audhix01123s9" clip-begin="npt=652.960s" clip-end="npt=656.000s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS156">
+        <text id="hix01123s10" src="624755.html#hix01123s10" />
+        <audio id="audhix01123s10" clip-begin="npt=656.000s" clip-end="npt=660.280s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS157">
+        <text id="hix01123s11" src="624755.html#hix01123s11" />
+        <audio id="audhix01123s11" clip-begin="npt=660.280s" clip-end="npt=661.800s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS158">
+        <text id="hix01123s12" src="624755.html#hix01123s12" />
+        <audio id="audhix01123s12" clip-begin="npt=661.800s" clip-end="npt=662.280s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS159">
+        <text id="hix01123s13" src="624755.html#hix01123s13" />
+        <audio id="audhix01123s13" clip-begin="npt=662.280s" clip-end="npt=665.492s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS160">
+        <text id="hix01124" src="624755.html#hix01124" />
+        <audio id="audhix01124" clip-begin="npt=665.492s" clip-end="npt=668.516s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par id="par58" system-required="pagenumber-on" endsync="last">
+        <text id="Page_167" src="624755.html#Page_167" />
+        <audio id="aud058" clip-begin="npt=668.516s" clip-end="npt=668.884s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS161">
+        <text id="hix01125" src="624755.html#hix01125" />
+        <audio id="audhix01125" clip-begin="npt=668.884s" clip-end="npt=671.280s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS162">
+        <text id="hix01125s2" src="624755.html#hix01125s2" />
+        <audio id="audhix01125s2" clip-begin="npt=671.280s" clip-end="npt=673.000s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS163">
+        <text id="hix01125s3" src="624755.html#hix01125s3" />
+        <audio id="audhix01125s3" clip-begin="npt=673.000s" clip-end="npt=674.680s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS164">
+        <text id="hix01125s4" src="624755.html#hix01125s4" />
+        <audio id="audhix01125s4" clip-begin="npt=674.680s" clip-end="npt=677.320s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS165">
+        <text id="hix01125s5" src="624755.html#hix01125s5" />
+        <audio id="audhix01125s5" clip-begin="npt=677.320s" clip-end="npt=680.762s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS166">
+        <text id="hix01126" src="624755.html#hix01126" />
+        <audio id="audhix01126" clip-begin="npt=680.762s" clip-end="npt=680.760s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS167">
+        <text id="hix01126s2" src="624755.html#hix01126s2" />
+        <audio id="audhix01126s2" clip-begin="npt=680.760s" clip-end="npt=694.400s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS168">
+        <text id="hix01126s3" src="624755.html#hix01126s3" />
+        <audio id="audhix01126s3" clip-begin="npt=694.400s" clip-end="npt=697.320s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS169">
+        <text id="hix01126s4" src="624755.html#hix01126s4" />
+        <audio id="audhix01126s4" clip-begin="npt=697.320s" clip-end="npt=699.720s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS170">
+        <text id="hix01126s5" src="624755.html#hix01126s5" />
+        <audio id="audhix01126s5" clip-begin="npt=699.720s" clip-end="npt=702.640s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS171">
+        <text id="hix01126s6" src="624755.html#hix01126s6" />
+        <audio id="audhix01126s6" clip-begin="npt=702.640s" clip-end="npt=705.720s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS172">
+        <text id="hix01126s7" src="624755.html#hix01126s7" />
+        <audio id="audhix01126s7" clip-begin="npt=705.720s" clip-end="npt=709.200s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS173">
+        <text id="hix01126s8" src="624755.html#hix01126s8" />
+        <audio id="audhix01126s8" clip-begin="npt=709.200s" clip-end="npt=720.600s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS174">
+        <text id="hix01126s9" src="624755.html#hix01126s9" />
+        <audio id="audhix01126s9" clip-begin="npt=720.600s" clip-end="npt=728.818s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS175">
+        <text id="hix01127" src="624755.html#hix01127" />
+        <audio id="audhix01127" clip-begin="npt=728.818s" clip-end="npt=732.640s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS176">
+        <text id="hix01127s2" src="624755.html#hix01127s2" />
+        <audio id="audhix01127s2" clip-begin="npt=732.640s" clip-end="npt=734.240s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS177">
+        <text id="hix01127s3" src="624755.html#hix01127s3" />
+        <audio id="audhix01127s3" clip-begin="npt=734.240s" clip-end="npt=737.640s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS178">
+        <text id="hix01127s4" src="624755.html#hix01127s4" />
+        <audio id="audhix01127s4" clip-begin="npt=737.640s" clip-end="npt=739.130s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS179">
+        <text id="hix01128" src="624755.html#hix01128" />
+        <audio id="audhix01128" clip-begin="npt=739.130s" clip-end="npt=744.697s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS180">
+        <text id="hix01129" src="624755.html#hix01129" />
+        <audio id="audhix01129" clip-begin="npt=744.697s" clip-end="npt=749.160s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS181">
+        <text id="hix01129s2" src="624755.html#hix01129s2" />
+        <audio id="audhix01129s2" clip-begin="npt=749.160s" clip-end="npt=751.880s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS182">
+        <text id="hix01129s3" src="624755.html#hix01129s3" />
+        <audio id="audhix01129s3" clip-begin="npt=751.880s" clip-end="npt=754.440s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS183">
+        <text id="hix01129s4" src="624755.html#hix01129s4" />
+        <audio id="audhix01129s4" clip-begin="npt=754.440s" clip-end="npt=755.080s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS184">
+        <text id="hix01129s5" src="624755.html#hix01129s5" />
+        <audio id="audhix01129s5" clip-begin="npt=755.080s" clip-end="npt=758.520s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS185">
+        <text id="hix01129s6" src="624755.html#hix01129s6" />
+        <audio id="audhix01129s6" clip-begin="npt=758.520s" clip-end="npt=762.883s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS186">
+        <text id="hix01130" src="624755.html#hix01130" />
+        <audio id="audhix01130" clip-begin="npt=762.883s" clip-end="npt=774.743s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par id="par65" system-required="pagenumber-on" endsync="last">
+        <text id="Page_168" src="624755.html#Page_168" />
+        <audio id="aud065" clip-begin="npt=774.743s" clip-end="npt=775.127s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS187">
+        <text id="hix01131" src="624755.html#hix01131" />
+        <audio id="audhix01131" clip-begin="npt=775.127s" clip-end="npt=782.431s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS188">
+        <text id="hix01132" src="624755.html#hix01132" />
+        <audio id="audhix01132" clip-begin="npt=782.431s" clip-end="npt=784.440s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS189">
+        <text id="hix01132s2" src="624755.html#hix01132s2" />
+        <audio id="audhix01132s2" clip-begin="npt=784.440s" clip-end="npt=786.120s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS190">
+        <text id="hix01132s3" src="624755.html#hix01132s3" />
+        <audio id="audhix01132s3" clip-begin="npt=786.120s" clip-end="npt=789.440s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS191">
+        <text id="hix01132s4" src="624755.html#hix01132s4" />
+        <audio id="audhix01132s4" clip-begin="npt=789.440s" clip-end="npt=790.439s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS192">
+        <text id="hix01133" src="624755.html#hix01133" />
+        <audio id="audhix01133" clip-begin="npt=790.439s" clip-end="npt=795.000s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS193">
+        <text id="hix01133s2" src="624755.html#hix01133s2" />
+        <audio id="audhix01133s2" clip-begin="npt=795.000s" clip-end="npt=795.840s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS194">
+        <text id="hix01133s3" src="624755.html#hix01133s3" />
+        <audio id="audhix01133s3" clip-begin="npt=795.840s" clip-end="npt=799.280s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS195">
+        <text id="hix01133s4" src="624755.html#hix01133s4" />
+        <audio id="audhix01133s4" clip-begin="npt=799.280s" clip-end="npt=801.998s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS196">
+        <text id="hix01134" src="624755.html#hix01134" />
+        <audio id="audhix01134" clip-begin="npt=801.998s" clip-end="npt=804.840s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS197">
+        <text id="hix01134s2" src="624755.html#hix01134s2" />
+        <audio id="audhix01134s2" clip-begin="npt=804.840s" clip-end="npt=807.720s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS198">
+        <text id="hix01134s3" src="624755.html#hix01134s3" />
+        <audio id="audhix01134s3" clip-begin="npt=807.720s" clip-end="npt=812.499s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS199">
+        <text id="hix01135" src="624755.html#hix01135" />
+        <audio id="audhix01135" clip-begin="npt=812.499s" clip-end="npt=814.040s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS200">
+        <text id="hix01135s2" src="624755.html#hix01135s2" />
+        <audio id="audhix01135s2" clip-begin="npt=814.040s" clip-end="npt=816.320s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS201">
+        <text id="hix01135s3" src="624755.html#hix01135s3" />
+        <audio id="audhix01135s3" clip-begin="npt=816.320s" clip-end="npt=820.434s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS202">
+        <text id="hix01136" src="624755.html#hix01136" />
+        <audio id="audhix01136" clip-begin="npt=820.434s" clip-end="npt=823.240s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS203">
+        <text id="hix01136s2" src="624755.html#hix01136s2" />
+        <audio id="audhix01136s2" clip-begin="npt=823.240s" clip-end="npt=825.122s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS204">
+        <text id="hix01137" src="624755.html#hix01137" />
+        <audio id="audhix01137" clip-begin="npt=825.122s" clip-end="npt=828.720s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS205">
+        <text id="hix01137s2" src="624755.html#hix01137s2" />
+        <audio id="audhix01137s2" clip-begin="npt=828.720s" clip-end="npt=837.119s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS206">
+        <text id="hix01138" src="624755.html#hix01138" />
+        <audio id="audhix01138" clip-begin="npt=837.119s" clip-end="npt=841.600s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS207">
+        <text id="hix01138s2" src="624755.html#hix01138s2" />
+        <audio id="audhix01138s2" clip-begin="npt=841.600s" clip-end="npt=844.440s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS208">
+        <text id="hix01138s3" src="624755.html#hix01138s3" />
+        <audio id="audhix01138s3" clip-begin="npt=844.440s" clip-end="npt=847.561s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS209">
+        <text id="hix01139" src="624755.html#hix01139" />
+        <audio id="audhix01139" clip-begin="npt=847.561s" clip-end="npt=850.720s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS210">
+        <text id="hix01139s2" src="624755.html#hix01139s2" />
+        <audio id="audhix01139s2" clip-begin="npt=850.720s" clip-end="npt=853.640s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS211">
+        <text id="hix01139s3" src="624755.html#hix01139s3" />
+        <audio id="audhix01139s3" clip-begin="npt=853.640s" clip-end="npt=855.200s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS212">
+        <text id="hix01139s4" src="624755.html#hix01139s4" />
+        <audio id="audhix01139s4" clip-begin="npt=855.200s" clip-end="npt=857.360s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS213">
+        <text id="hix01139s5" src="624755.html#hix01139s5" />
+        <audio id="audhix01139s5" clip-begin="npt=857.360s" clip-end="npt=859.240s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS214">
+        <text id="hix01139s6" src="624755.html#hix01139s6" />
+        <audio id="audhix01139s6" clip-begin="npt=859.240s" clip-end="npt=862.440s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS215">
+        <text id="hix01139s7" src="624755.html#hix01139s7" />
+        <audio id="audhix01139s7" clip-begin="npt=862.440s" clip-end="npt=863.320s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS216">
+        <text id="hix01139s8" src="624755.html#hix01139s8" />
+        <audio id="audhix01139s8" clip-begin="npt=863.320s" clip-end="npt=865.725s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par id="par75" system-required="pagenumber-on" endsync="last">
+        <text id="Page_169" src="624755.html#Page_169" />
+        <audio id="aud075" clip-begin="npt=865.725s" clip-end="npt=866.149s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS217">
+        <text id="hix01140" src="624755.html#hix01140" />
+        <audio id="audhix01140" clip-begin="npt=866.149s" clip-end="npt=867.320s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS218">
+        <text id="hix01140s2" src="624755.html#hix01140s2" />
+        <audio id="audhix01140s2" clip-begin="npt=867.320s" clip-end="npt=869.120s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS219">
+        <text id="hix01140s3" src="624755.html#hix01140s3" />
+        <audio id="audhix01140s3" clip-begin="npt=869.120s" clip-end="npt=873.000s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS220">
+        <text id="hix01140s4" src="624755.html#hix01140s4" />
+        <audio id="audhix01140s4" clip-begin="npt=873.000s" clip-end="npt=874.760s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS221">
+        <text id="hix01140s5" src="624755.html#hix01140s5" />
+        <audio id="audhix01140s5" clip-begin="npt=874.760s" clip-end="npt=880.957s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS222">
+        <text id="hix01141" src="624755.html#hix01141" />
+        <audio id="audhix01141" clip-begin="npt=880.957s" clip-end="npt=890.840s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS223">
+        <text id="hix01141s2" src="624755.html#hix01141s2" />
+        <audio id="audhix01141s2" clip-begin="npt=890.840s" clip-end="npt=895.920s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS224">
+        <text id="hix01141s3" src="624755.html#hix01141s3" />
+        <audio id="audhix01141s3" clip-begin="npt=895.920s" clip-end="npt=903.639s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS225">
+        <text id="hix01142" src="624755.html#hix01142" />
+        <audio id="audhix01142" clip-begin="npt=903.639s" clip-end="npt=905.280s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS226">
+        <text id="hix01142s2" src="624755.html#hix01142s2" />
+        <audio id="audhix01142s2" clip-begin="npt=905.280s" clip-end="npt=908.840s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS227">
+        <text id="hix01142s3" src="624755.html#hix01142s3" />
+        <audio id="audhix01142s3" clip-begin="npt=908.840s" clip-end="npt=911.015s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS228">
+        <text id="hix01143" src="624755.html#hix01143" />
+        <audio id="audhix01143" clip-begin="npt=911.015s" clip-end="npt=915.400s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS229">
+        <text id="hix01143s2" src="624755.html#hix01143s2" />
+        <audio id="audhix01143s2" clip-begin="npt=915.400s" clip-end="npt=916.480s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS230">
+        <text id="hix01143s3" src="624755.html#hix01143s3" />
+        <audio id="audhix01143s3" clip-begin="npt=916.480s" clip-end="npt=918.400s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS231">
+        <text id="hix01143s4" src="624755.html#hix01143s4" />
+        <audio id="audhix01143s4" clip-begin="npt=918.400s" clip-end="npt=919.397s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS232">
+        <text id="hix01144" src="624755.html#hix01144" />
+        <audio id="audhix01144" clip-begin="npt=919.397s" clip-end="npt=924.880s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS233">
+        <text id="hix01144s2" src="624755.html#hix01144s2" />
+        <audio id="audhix01144s2" clip-begin="npt=924.880s" clip-end="npt=933.400s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS234">
+        <text id="hix01144s3" src="624755.html#hix01144s3" />
+        <audio id="audhix01144s3" clip-begin="npt=933.400s" clip-end="npt=935.160s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS235">
+        <text id="hix01144s4" src="624755.html#hix01144s4" />
+        <audio id="audhix01144s4" clip-begin="npt=935.160s" clip-end="npt=937.720s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS236">
+        <text id="hix01144s5" src="624755.html#hix01144s5" />
+        <audio id="audhix01144s5" clip-begin="npt=937.720s" clip-end="npt=945.760s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS237">
+        <text id="hix01144s6" src="624755.html#hix01144s6" />
+        <audio id="audhix01144s6" clip-begin="npt=945.760s" clip-end="npt=947.560s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS238">
+        <text id="hix01144s7" src="624755.html#hix01144s7" />
+        <audio id="audhix01144s7" clip-begin="npt=947.560s" clip-end="npt=952.082s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS239">
+        <text id="hix01145" src="624755.html#hix01145" />
+        <audio id="audhix01145" clip-begin="npt=952.082s" clip-end="npt=956.000s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS240">
+        <text id="hix01145s2" src="624755.html#hix01145s2" />
+        <audio id="audhix01145s2" clip-begin="npt=956.000s" clip-end="npt=959.267s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS241">
+        <text id="hix01146" src="624755.html#hix01146" />
+        <audio id="audhix01146" clip-begin="npt=959.267s" clip-end="npt=967.194s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par id="par83" system-required="pagenumber-on" endsync="last">
+        <text id="Page_170" src="624755.html#Page_170" />
+        <audio id="aud083" clip-begin="npt=967.194s" clip-end="npt=967.576s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS242">
+        <text id="hix01147" src="624755.html#hix01147" />
+        <audio id="audhix01147" clip-begin="npt=967.576s" clip-end="npt=972.960s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS243">
+        <text id="hix01147s2" src="624755.html#hix01147s2" />
+        <audio id="audhix01147s2" clip-begin="npt=972.960s" clip-end="npt=976.137s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS244">
+        <text id="hix01148" src="624755.html#hix01148" />
+        <audio id="audhix01148" clip-begin="npt=976.137s" clip-end="npt=977.560s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS245">
+        <text id="hix01148s2" src="624755.html#hix01148s2" />
+        <audio id="audhix01148s2" clip-begin="npt=977.560s" clip-end="npt=979.840s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS246">
+        <text id="hix01148s3" src="624755.html#hix01148s3" />
+        <audio id="audhix01148s3" clip-begin="npt=979.840s" clip-end="npt=981.240s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS247">
+        <text id="hix01148s4" src="624755.html#hix01148s4" />
+        <audio id="audhix01148s4" clip-begin="npt=981.240s" clip-end="npt=981.887s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS248">
+        <text id="hix01149" src="624755.html#hix01149" />
+        <audio id="audhix01149" clip-begin="npt=981.887s" clip-end="npt=985.320s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS249">
+        <text id="hix01149s2" src="624755.html#hix01149s2" />
+        <audio id="audhix01149s2" clip-begin="npt=985.320s" clip-end="npt=986.480s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS250">
+        <text id="hix01149s3" src="624755.html#hix01149s3" />
+        <audio id="audhix01149s3" clip-begin="npt=986.480s" clip-end="npt=991.800s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS251">
+        <text id="hix01149s4" src="624755.html#hix01149s4" />
+        <audio id="audhix01149s4" clip-begin="npt=991.800s" clip-end="npt=1000.000s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS252">
+        <text id="hix01149s5" src="624755.html#hix01149s5" />
+        <audio id="audhix01149s5" clip-begin="npt=1000.000s" clip-end="npt=1003.447s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS253">
+        <text id="hix01150" src="624755.html#hix01150" />
+        <audio id="audhix01150" clip-begin="npt=1003.447s" clip-end="npt=1006.201s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS254">
+        <text id="hix01151" src="624755.html#hix01151" />
+        <audio id="audhix01151" clip-begin="npt=1006.201s" clip-end="npt=1013.760s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS255">
+        <text id="hix01151s2" src="624755.html#hix01151s2" />
+        <audio id="audhix01151s2" clip-begin="npt=1013.760s" clip-end="npt=1019.512s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS256">
+        <text id="hix01152" src="624755.html#hix01152" />
+        <audio id="audhix01152" clip-begin="npt=1019.512s" clip-end="npt=1023.440s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS257">
+        <text id="hix01152s2" src="624755.html#hix01152s2" />
+        <audio id="audhix01152s2" clip-begin="npt=1023.440s" clip-end="npt=1025.960s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS258">
+        <text id="hix01152s3" src="624755.html#hix01152s3" />
+        <audio id="audhix01152s3" clip-begin="npt=1025.960s" clip-end="npt=1027.840s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS259">
+        <text id="hix01152s4" src="624755.html#hix01152s4" />
+        <audio id="audhix01152s4" clip-begin="npt=1027.840s" clip-end="npt=1029.480s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS260">
+        <text id="hix01152s5" src="624755.html#hix01152s5" />
+        <audio id="audhix01152s5" clip-begin="npt=1029.480s" clip-end="npt=1031.450s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS261">
+        <text id="hix01153" src="624755.html#hix01153" />
+        <audio id="audhix01153" clip-begin="npt=1031.450s" clip-end="npt=1035.480s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS262">
+        <text id="hix01153s2" src="624755.html#hix01153s2" />
+        <audio id="audhix01153s2" clip-begin="npt=1035.480s" clip-end="npt=1039.445s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS263">
+        <text id="hix01154" src="624755.html#hix01154" />
+        <audio id="audhix01154" clip-begin="npt=1039.445s" clip-end="npt=1040.560s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS264">
+        <text id="hix01154s2" src="624755.html#hix01154s2" />
+        <audio id="audhix01154s2" clip-begin="npt=1040.560s" clip-end="npt=1041.840s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS265">
+        <text id="hix01154s3" src="624755.html#hix01154s3" />
+        <audio id="audhix01154s3" clip-begin="npt=1041.840s" clip-end="npt=1044.320s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS266">
+        <text id="hix01154s4" src="624755.html#hix01154s4" />
+        <audio id="audhix01154s4" clip-begin="npt=1044.320s" clip-end="npt=1048.560s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS267">
+        <text id="hix01154s5" src="624755.html#hix01154s5" />
+        <audio id="audhix01154s5" clip-begin="npt=1048.560s" clip-end="npt=1052.850s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS268">
+        <text id="hix01155" src="624755.html#hix01155" />
+        <audio id="audhix01155" clip-begin="npt=1052.850s" clip-end="npt=1056.920s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS269">
+        <text id="hix01155s2" src="624755.html#hix01155s2" />
+        <audio id="audhix01155s2" clip-begin="npt=1056.920s" clip-end="npt=1059.640s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS270">
+        <text id="hix01155s3" src="624755.html#hix01155s3" />
+        <audio id="audhix01155s3" clip-begin="npt=1059.640s" clip-end="npt=1060.440s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS271">
+        <text id="hix01155s4" src="624755.html#hix01155s4" />
+        <audio id="audhix01155s4" clip-begin="npt=1060.440s" clip-end="npt=1066.160s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS272">
+        <text id="hix01155s5" src="624755.html#hix01155s5" />
+        <audio id="audhix01155s5" clip-begin="npt=1066.160s" clip-end="npt=1069.320s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS273">
+        <text id="hix01155s6" src="624755.html#hix01155s6" />
+        <audio id="audhix01155s6" clip-begin="npt=1069.320s" clip-end="npt=1070.470s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS274">
+        <text id="hix01156" src="624755.html#hix01156" />
+        <audio id="audhix01156" clip-begin="npt=1070.470s" clip-end="npt=1077.480s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS275">
+        <text id="hix01156s2" src="624755.html#hix01156s2" />
+        <audio id="audhix01156s2" clip-begin="npt=1077.480s" clip-end="npt=1087.960s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS276">
+        <text id="hix01156s3" src="624755.html#hix01156s3" />
+        <audio id="audhix01156s3" clip-begin="npt=1087.960s" clip-end="npt=1095.463s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par id="par94" system-required="pagenumber-on" endsync="last">
+        <text id="Page_171" src="624755.html#Page_171" />
+        <audio id="aud094" clip-begin="npt=1095.463s" clip-end="npt=1095.959s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS277">
+        <text id="hix01157" src="624755.html#hix01157" />
+        <audio id="audhix01157" clip-begin="npt=1095.959s" clip-end="npt=1102.600s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS278">
+        <text id="hix01157s2" src="624755.html#hix01157s2" />
+        <audio id="audhix01157s2" clip-begin="npt=1102.600s" clip-end="npt=1105.586s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS279">
+        <text id="hix01158" src="624755.html#hix01158" />
+        <audio id="audhix01158" clip-begin="npt=1105.586s" clip-end="npt=1108.080s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS280">
+        <text id="hix01158s2" src="624755.html#hix01158s2" />
+        <audio id="audhix01158s2" clip-begin="npt=1108.080s" clip-end="npt=1111.360s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS281">
+        <text id="hix01158s3" src="624755.html#hix01158s3" />
+        <audio id="audhix01158s3" clip-begin="npt=1111.360s" clip-end="npt=1114.403s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS282">
+        <text id="hix01159" src="624755.html#hix01159" />
+        <audio id="audhix01159" clip-begin="npt=1114.403s" clip-end="npt=1119.480s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS283">
+        <text id="hix01159s2" src="624755.html#hix01159s2" />
+        <audio id="audhix01159s2" clip-begin="npt=1119.480s" clip-end="npt=1121.960s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS284">
+        <text id="hix01159s3" src="624755.html#hix01159s3" />
+        <audio id="audhix01159s3" clip-begin="npt=1121.960s" clip-end="npt=1124.080s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS285">
+        <text id="hix01159s4" src="624755.html#hix01159s4" />
+        <audio id="audhix01159s4" clip-begin="npt=1124.080s" clip-end="npt=1127.528s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS286">
+        <text id="hix01160" src="624755.html#hix01160" />
+        <audio id="audhix01160" clip-begin="npt=1127.528s" clip-end="npt=1132.320s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS287">
+        <text id="hix01160s2" src="624755.html#hix01160s2" />
+        <audio id="audhix01160s2" clip-begin="npt=1132.320s" clip-end="npt=1134.440s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS288">
+        <text id="hix01160s3" src="624755.html#hix01160s3" />
+        <audio id="audhix01160s3" clip-begin="npt=1134.440s" clip-end="npt=1146.586s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS289">
+        <text id="hix01161" src="624755.html#hix01161" />
+        <audio id="audhix01161" clip-begin="npt=1146.586s" clip-end="npt=1147.760s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS290">
+        <text id="hix01161s2" src="624755.html#hix01161s2" />
+        <audio id="audhix01161s2" clip-begin="npt=1147.760s" clip-end="npt=1150.280s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS291">
+        <text id="hix01161s3" src="624755.html#hix01161s3" />
+        <audio id="audhix01161s3" clip-begin="npt=1150.280s" clip-end="npt=1151.880s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS292">
+        <text id="hix01161s4" src="624755.html#hix01161s4" />
+        <audio id="audhix01161s4" clip-begin="npt=1151.880s" clip-end="npt=1155.018s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS293">
+        <text id="hix01162" src="624755.html#hix01162" />
+        <audio id="audhix01162" clip-begin="npt=1155.018s" clip-end="npt=1159.280s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS294">
+        <text id="hix01162s2" src="624755.html#hix01162s2" />
+        <audio id="audhix01162s2" clip-begin="npt=1159.280s" clip-end="npt=1161.480s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS295">
+        <text id="hix01162s3" src="624755.html#hix01162s3" />
+        <audio id="audhix01162s3" clip-begin="npt=1161.480s" clip-end="npt=1162.648s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS296">
+        <text id="hix01163" src="624755.html#hix01163" />
+        <audio id="audhix01163" clip-begin="npt=1162.648s" clip-end="npt=1168.080s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS297">
+        <text id="hix01163s2" src="624755.html#hix01163s2" />
+        <audio id="audhix01163s2" clip-begin="npt=1168.080s" clip-end="npt=1171.880s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS298">
+        <text id="hix01163s3" src="624755.html#hix01163s3" />
+        <audio id="audhix01163s3" clip-begin="npt=1171.880s" clip-end="npt=1174.080s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS299">
+        <text id="hix01163s4" src="624755.html#hix01163s4" />
+        <audio id="audhix01163s4" clip-begin="npt=1174.080s" clip-end="npt=1182.760s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS300">
+        <text id="hix01163s5" src="624755.html#hix01163s5" />
+        <audio id="audhix01163s5" clip-begin="npt=1182.760s" clip-end="npt=1188.000s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS301">
+        <text id="hix01163s6" src="624755.html#hix01163s6" />
+        <audio id="audhix01163s6" clip-begin="npt=1188.000s" clip-end="npt=1192.711s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par id="par102" system-required="pagenumber-on" endsync="last">
+        <text id="Page_172" src="624755.html#Page_172" />
+        <audio id="aud102" clip-begin="npt=1192.711s" clip-end="npt=1193.148s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS302">
+        <text id="hix01164" src="624755.html#hix01164" />
+        <audio id="audhix01164" clip-begin="npt=1193.148s" clip-end="npt=1202.960s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS303">
+        <text id="hix01164s2" src="624755.html#hix01164s2" />
+        <audio id="audhix01164s2" clip-begin="npt=1202.960s" clip-end="npt=1206.720s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS304">
+        <text id="hix01164s3" src="624755.html#hix01164s3" />
+        <audio id="audhix01164s3" clip-begin="npt=1206.720s" clip-end="npt=1211.960s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS305">
+        <text id="hix01164s4" src="624755.html#hix01164s4" />
+        <audio id="audhix01164s4" clip-begin="npt=1211.960s" clip-end="npt=1213.000s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS306">
+        <text id="hix01164s5" src="624755.html#hix01164s5" />
+        <audio id="audhix01164s5" clip-begin="npt=1213.000s" clip-end="npt=1216.880s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS307">
+        <text id="hix01164s6" src="624755.html#hix01164s6" />
+        <audio id="audhix01164s6" clip-begin="npt=1216.880s" clip-end="npt=1224.160s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS308">
+        <text id="hix01164s7" src="624755.html#hix01164s7" />
+        <audio id="audhix01164s7" clip-begin="npt=1224.160s" clip-end="npt=1228.720s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS309">
+        <text id="hix01164s8" src="624755.html#hix01164s8" />
+        <audio id="audhix01164s8" clip-begin="npt=1228.720s" clip-end="npt=1232.040s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS310">
+        <text id="hix01164s9" src="624755.html#hix01164s9" />
+        <audio id="audhix01164s9" clip-begin="npt=1232.040s" clip-end="npt=1233.085s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS311">
+        <text id="hix01165" src="624755.html#hix01165" />
+        <audio id="audhix01165" clip-begin="npt=1233.085s" clip-end="npt=1248.440s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS312">
+        <text id="hix01165s2" src="624755.html#hix01165s2" />
+        <audio id="audhix01165s2" clip-begin="npt=1248.440s" clip-end="npt=1250.400s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS313">
+        <text id="hix01165s3" src="624755.html#hix01165s3" />
+        <audio id="audhix01165s3" clip-begin="npt=1250.400s" clip-end="npt=1252.680s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS314">
+        <text id="hix01165s4" src="624755.html#hix01165s4" />
+        <audio id="audhix01165s4" clip-begin="npt=1252.680s" clip-end="npt=1254.582s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS315">
+        <text id="hix01166" src="624755.html#hix01166" />
+        <audio id="audhix01166" clip-begin="npt=1254.582s" clip-end="npt=1257.120s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS316">
+        <text id="hix01166s2" src="624755.html#hix01166s2" />
+        <audio id="audhix01166s2" clip-begin="npt=1257.120s" clip-end="npt=1259.520s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS317">
+        <text id="hix01166s3" src="624755.html#hix01166s3" />
+        <audio id="audhix01166s3" clip-begin="npt=1259.520s" clip-end="npt=1264.640s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS318">
+        <text id="hix01166s4" src="624755.html#hix01166s4" />
+        <audio id="audhix01166s4" clip-begin="npt=1264.640s" clip-end="npt=1279.609s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS319">
+        <text id="hix01167" src="624755.html#hix01167" />
+        <audio id="audhix01167" clip-begin="npt=1279.609s" clip-end="npt=1287.360s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS320">
+        <text id="hix01167s2" src="624755.html#hix01167s2" />
+        <audio id="audhix01167s2" clip-begin="npt=1287.360s" clip-end="npt=1293.240s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS321">
+        <text id="hix01167s3" src="624755.html#hix01167s3" />
+        <audio id="audhix01167s3" clip-begin="npt=1293.240s" clip-end="npt=1302.729s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par id="par107" system-required="pagenumber-on" endsync="last">
+        <text id="Page_173" src="624755.html#Page_173" />
+        <audio id="aud107" clip-begin="npt=1302.729s" clip-end="npt=1303.351s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS322">
+        <text id="hix01168" src="624755.html#hix01168" />
+        <audio id="audhix01168" clip-begin="npt=1303.351s" clip-end="npt=1312.480s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS323">
+        <text id="hix01168s2" src="624755.html#hix01168s2" />
+        <audio id="audhix01168s2" clip-begin="npt=1312.480s" clip-end="npt=1321.640s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS324">
+        <text id="hix01168s3" src="624755.html#hix01168s3" />
+        <audio id="audhix01168s3" clip-begin="npt=1321.640s" clip-end="npt=1328.915s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS325">
+        <text id="hix01169" src="624755.html#hix01169" />
+        <audio id="audhix01169" clip-begin="npt=1328.915s" clip-end="npt=1332.520s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS326">
+        <text id="hix01169s2" src="624755.html#hix01169s2" />
+        <audio id="audhix01169s2" clip-begin="npt=1332.520s" clip-end="npt=1336.400s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS327">
+        <text id="hix01169s3" src="624755.html#hix01169s3" />
+        <audio id="audhix01169s3" clip-begin="npt=1336.400s" clip-end="npt=1339.920s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS328">
+        <text id="hix01169s4" src="624755.html#hix01169s4" />
+        <audio id="audhix01169s4" clip-begin="npt=1339.920s" clip-end="npt=1348.040s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS329">
+        <text id="hix01169s5" src="624755.html#hix01169s5" />
+        <audio id="audhix01169s5" clip-begin="npt=1348.040s" clip-end="npt=1353.360s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS330">
+        <text id="hix01169s6" src="624755.html#hix01169s6" />
+        <audio id="audhix01169s6" clip-begin="npt=1353.360s" clip-end="npt=1359.108s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS331">
+        <text id="hix01170" src="624755.html#hix01170" />
+        <audio id="audhix01170" clip-begin="npt=1359.108s" clip-end="npt=1362.880s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS332">
+        <text id="hix01170s2" src="624755.html#hix01170s2" />
+        <audio id="audhix01170s2" clip-begin="npt=1362.880s" clip-end="npt=1364.800s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS333">
+        <text id="hix01170s3" src="624755.html#hix01170s3" />
+        <audio id="audhix01170s3" clip-begin="npt=1364.800s" clip-end="npt=1367.160s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS334">
+        <text id="hix01170s4" src="624755.html#hix01170s4" />
+        <audio id="audhix01170s4" clip-begin="npt=1367.160s" clip-end="npt=1369.200s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS335">
+        <text id="hix01170s5" src="624755.html#hix01170s5" />
+        <audio id="audhix01170s5" clip-begin="npt=1369.200s" clip-end="npt=1370.520s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS336">
+        <text id="hix01170s6" src="624755.html#hix01170s6" />
+        <audio id="audhix01170s6" clip-begin="npt=1370.520s" clip-end="npt=1372.360s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS337">
+        <text id="hix01170s7" src="624755.html#hix01170s7" />
+        <audio id="audhix01170s7" clip-begin="npt=1372.360s" clip-end="npt=1373.726s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS338">
+        <text id="hix01171" src="624755.html#hix01171" />
+        <audio id="audhix01171" clip-begin="npt=1373.726s" clip-end="npt=1377.760s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS339">
+        <text id="hix01171s2" src="624755.html#hix01171s2" />
+        <audio id="audhix01171s2" clip-begin="npt=1377.760s" clip-end="npt=1378.600s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS340">
+        <text id="hix01171s3" src="624755.html#hix01171s3" />
+        <audio id="audhix01171s3" clip-begin="npt=1378.600s" clip-end="npt=1384.600s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS341">
+        <text id="hix01171s4" src="624755.html#hix01171s4" />
+        <audio id="audhix01171s4" clip-begin="npt=1384.600s" clip-end="npt=1388.040s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS342">
+        <text id="hix01172" src="624755.html#hix01172" />
+        <audio id="audhix01172" clip-begin="npt=1388.040s" clip-end="npt=1394.920s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS343">
+        <text id="hix01172s2" src="624755.html#hix01172s2" />
+        <audio id="audhix01172s2" clip-begin="npt=1394.920s" clip-end="npt=1397.720s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS344">
+        <text id="hix01172s3" src="624755.html#hix01172s3" />
+        <audio id="audhix01172s3" clip-begin="npt=1397.720s" clip-end="npt=1400.914s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par id="par113" system-required="pagenumber-on" endsync="last">
+        <text id="Page_174" src="624755.html#Page_174" />
+        <audio id="aud113" clip-begin="npt=1400.914s" clip-end="npt=1401.602s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS345">
+        <text id="hix01173" src="624755.html#hix01173" />
+        <audio id="audhix01173" clip-begin="npt=1401.602s" clip-end="npt=1408.440s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS346">
+        <text id="hix01173s2" src="624755.html#hix01173s2" />
+        <audio id="audhix01173s2" clip-begin="npt=1408.440s" clip-end="npt=1409.729s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS347">
+        <text id="hix01174" src="624755.html#hix01174" />
+        <audio id="audhix01174" clip-begin="npt=1409.729s" clip-end="npt=1414.887s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS348">
+        <text id="hix01175" src="624755.html#hix01175" />
+        <audio id="audhix01175" clip-begin="npt=1414.887s" clip-end="npt=1417.233s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS349">
+        <text id="hix01176" src="624755.html#hix01176" />
+        <audio id="audhix01176" clip-begin="npt=1417.233s" clip-end="npt=1421.334s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS350">
+        <text id="hix01177" src="624755.html#hix01177" />
+        <audio id="audhix01177" clip-begin="npt=1421.334s" clip-end="npt=1422.960s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS351">
+        <text id="hix01177s2" src="624755.html#hix01177s2" />
+        <audio id="audhix01177s2" clip-begin="npt=1422.960s" clip-end="npt=1425.640s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS352">
+        <text id="hix01177s3" src="624755.html#hix01177s3" />
+        <audio id="audhix01177s3" clip-begin="npt=1425.640s" clip-end="npt=1428.240s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS353">
+        <text id="hix01177s4" src="624755.html#hix01177s4" />
+        <audio id="audhix01177s4" clip-begin="npt=1428.240s" clip-end="npt=1433.760s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS354">
+        <text id="hix01177s5" src="624755.html#hix01177s5" />
+        <audio id="audhix01177s5" clip-begin="npt=1433.760s" clip-end="npt=1436.680s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS355">
+        <text id="hix01177s6" src="624755.html#hix01177s6" />
+        <audio id="audhix01177s6" clip-begin="npt=1436.680s" clip-end="npt=1441.200s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS356">
+        <text id="hix01177s7" src="624755.html#hix01177s7" />
+        <audio id="audhix01177s7" clip-begin="npt=1441.200s" clip-end="npt=1442.880s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS357">
+        <text id="hix01177s8" src="624755.html#hix01177s8" />
+        <audio id="audhix01177s8" clip-begin="npt=1442.880s" clip-end="npt=1445.760s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS358">
+        <text id="hix01177s9" src="624755.html#hix01177s9" />
+        <audio id="audhix01177s9" clip-begin="npt=1445.760s" clip-end="npt=1450.040s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS359">
+        <text id="hix01177s10" src="624755.html#hix01177s10" />
+        <audio id="audhix01177s10" clip-begin="npt=1450.040s" clip-end="npt=1454.120s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS360">
+        <text id="hix01177s11" src="624755.html#hix01177s11" />
+        <audio id="audhix01177s11" clip-begin="npt=1454.120s" clip-end="npt=1454.440s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS361">
+        <text id="hix01177s12" src="624755.html#hix01177s12" />
+        <audio id="audhix01177s12" clip-begin="npt=1454.440s" clip-end="npt=1456.735s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS362">
+        <text id="hix01178" src="624755.html#hix01178" />
+        <audio id="audhix01178" clip-begin="npt=1456.735s" clip-end="npt=1459.160s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS363">
+        <text id="hix01178s2" src="624755.html#hix01178s2" />
+        <audio id="audhix01178s2" clip-begin="npt=1459.160s" clip-end="npt=1464.200s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS364">
+        <text id="hix01178s3" src="624755.html#hix01178s3" />
+        <audio id="audhix01178s3" clip-begin="npt=1464.200s" clip-end="npt=1468.440s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS365">
+        <text id="hix01178s4" src="624755.html#hix01178s4" />
+        <audio id="audhix01178s4" clip-begin="npt=1468.440s" clip-end="npt=1474.520s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS366">
+        <text id="hix01178s5" src="624755.html#hix01178s5" />
+        <audio id="audhix01178s5" clip-begin="npt=1474.520s" clip-end="npt=1479.640s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS367">
+        <text id="hix01178s6" src="624755.html#hix01178s6" />
+        <audio id="audhix01178s6" clip-begin="npt=1479.640s" clip-end="npt=1483.160s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS368">
+        <text id="hix01178s7" src="624755.html#hix01178s7" />
+        <audio id="audhix01178s7" clip-begin="npt=1483.160s" clip-end="npt=1488.908s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par endsync="last" id="parS369">
+        <text id="hix01179" src="624755.html#hix01179" />
+        <audio id="audhix01179" clip-begin="npt=1488.908s" clip-end="npt=1494.784s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+      <par id="par121" system-required="pagenumber-on" endsync="last">
+        <text id="Page_175" src="624755.html#Page_175" />
+        <audio id="aud121" clip-begin="npt=1494.784s" clip-end="npt=1495.565s" src="21_Chapter_Fifteen_Something_He_Shouldn_t.mp3" />
+      </par>
+    </seq>
+  </body>
+</smil>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd" []>
+<smil>
+   <head>
+      <meta name="ncc:generator" content="DMFC z3986-2005 to Daisy 2.02 (smil2smil v0.2)" />
+      <meta name="dc:format" content="Daisy 2.02" />
+      <meta name="dc:identifier" content="628810" />
+      <meta name="title" content="Fraktfører-forsikring" />
+      <meta name="dc:title" content="Veien til førerkortet: buss, lastebil, vogntog" />
+      <meta name="ncc:totalElapsedTime" content="14:41:32" />
+      <meta name="ncc:timeInThisSmil" content="0:00:45" />
+      <layout>
+         <region id="txtView" />
+      </layout>
+   </head>
+   <body>
+      <seq dur="45.257s">
+         <par endsync="last" id="tcp10276">
+            <text id="text10276" src="content.html#dtb9705" />
+            <audio src="speechgen0279.mp3" id="audd13512e13" clip-begin="npt=0.000s" clip-end="npt=4.714s" />
+         </par>
+         <par endsync="last" id="tcp10277">
+            <text id="text10277" src="content.html#dtb9706" />
+            <audio src="speechgen0279.mp3" id="audd13512e16" clip-begin="npt=4.714s" clip-end="npt=22.628s" />
+         </par>
+         <par endsync="last" id="tcp10278">
+            <text id="text10278" src="content.html#dtb9707" />
+            <audio src="speechgen0279.mp3" id="audd13512e19" clip-begin="npt=22.628s" clip-end="npt=29.065s" />
+         </par>
+         <par endsync="last" id="tcp10279" system-required="sidebar-on">
+            <text id="text10279" src="content.html#dtb9708" />
+            <audio src="speechgen0279.mp3" id="audd13512e23" clip-begin="npt=29.065s" clip-end="npt=33.174s" />
+         </par>
+         <par endsync="last" id="tcp10280" system-required="sidebar-on">
+            <text id="text10280" src="content.html#dtb9709" />
+            <audio src="speechgen0279.mp3" id="audd13512e26" clip-begin="npt=33.174s" clip-end="npt=43.120s" />
+         </par>
+         <par id="tcp10281" endsync="last" system-required="pagenumber-on">
+            <text id="text10281" src="content.html#Page_414" />
+            <audio src="speechgen0279.mp3" id="audd13512e29" clip-begin="npt=43.120s" clip-end="npt=45.257s" />
+         </par>
+      </seq>
+   </body>
+</smil>

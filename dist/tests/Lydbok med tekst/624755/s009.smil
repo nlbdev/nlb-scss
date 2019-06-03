@@ -1,0 +1,795 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd"[]>
+<smil>
+  <head>
+    <meta name="dc:title" content="THE BOY IN THE STRIPED PYJAMAS" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="dc:identifier" content="624755" />
+    <meta name="ncc:totalElapsedTime" content="00:36:32.819" />
+    <meta name="ncc:timeInThisSmil" content="00:13:41.613" />
+    <meta name="ncc:generator" content="Hindenburg ABC Studio 1.26.2164" />
+    <layout>
+      <region id="txtView" />
+    </layout>
+  </head>
+  <body>
+    <seq id="main" dur="821.613s">
+      <par endsync="last" id="parS1">
+        <text id="d1534e793-0" src="624755.html#d1534e793-0" />
+        <audio id="audd1534e793-0" clip-begin="npt=0.000s" clip-end="npt=6.808s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS2">
+        <text id="hix00177" src="624755.html#hix00177" />
+        <audio id="audhix00177" clip-begin="npt=6.808s" clip-end="npt=17.240s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS3">
+        <text id="hix00177s2" src="624755.html#hix00177s2" />
+        <audio id="audhix00177s2" clip-begin="npt=17.240s" clip-end="npt=24.748s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS4">
+        <text id="hix00178" src="624755.html#hix00178" />
+        <audio id="audhix00178" clip-begin="npt=24.748s" clip-end="npt=33.800s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS5">
+        <text id="hix00178s2" src="624755.html#hix00178s2" />
+        <audio id="audhix00178s2" clip-begin="npt=33.800s" clip-end="npt=39.280s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS6">
+        <text id="hix00178s3" src="624755.html#hix00178s3" />
+        <audio id="audhix00178s3" clip-begin="npt=39.280s" clip-end="npt=41.480s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS7">
+        <text id="hix00178s4" src="624755.html#hix00178s4" />
+        <audio id="audhix00178s4" clip-begin="npt=41.480s" clip-end="npt=45.200s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS8">
+        <text id="hix00178s5" src="624755.html#hix00178s5" />
+        <audio id="audhix00178s5" clip-begin="npt=45.200s" clip-end="npt=53.120s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS9">
+        <text id="hix00179" src="624755.html#hix00179" />
+        <audio id="audhix00179" clip-begin="npt=53.120s" clip-end="npt=56.960s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS10">
+        <text id="hix00179s2" src="624755.html#hix00179s2" />
+        <audio id="audhix00179s2" clip-begin="npt=56.960s" clip-end="npt=59.440s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS11">
+        <text id="hix00179s3" src="624755.html#hix00179s3" />
+        <audio id="audhix00179s3" clip-begin="npt=59.440s" clip-end="npt=63.080s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS12">
+        <text id="hix00179s4" src="624755.html#hix00179s4" />
+        <audio id="audhix00179s4" clip-begin="npt=63.080s" clip-end="npt=66.120s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS13">
+        <text id="hix00179s5" src="624755.html#hix00179s5" />
+        <audio id="audhix00179s5" clip-begin="npt=66.120s" clip-end="npt=68.000s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS14">
+        <text id="hix00179s6" src="624755.html#hix00179s6" />
+        <audio id="audhix00179s6" clip-begin="npt=68.000s" clip-end="npt=69.121s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS15">
+        <text id="hix00180" src="624755.html#hix00180" />
+        <audio id="audhix00180" clip-begin="npt=69.121s" clip-end="npt=79.040s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS16">
+        <text id="hix00180s2" src="624755.html#hix00180s2" />
+        <audio id="audhix00180s2" clip-begin="npt=79.040s" clip-end="npt=80.949s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par id="par6" system-required="pagenumber-on" endsync="last">
+        <text id="Page_22" src="624755.html#Page_22" />
+        <audio id="aud006" clip-begin="npt=80.949s" clip-end="npt=82.056s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS17">
+        <text id="hix00181" src="624755.html#hix00181" />
+        <audio id="audhix00181" clip-begin="npt=82.056s" clip-end="npt=87.560s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS18">
+        <text id="hix00181s2" src="624755.html#hix00181s2" />
+        <audio id="audhix00181s2" clip-begin="npt=87.560s" clip-end="npt=91.560s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS19">
+        <text id="hix00181s3" src="624755.html#hix00181s3" />
+        <audio id="audhix00181s3" clip-begin="npt=91.560s" clip-end="npt=94.160s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS20">
+        <text id="hix00181s4" src="624755.html#hix00181s4" />
+        <audio id="audhix00181s4" clip-begin="npt=94.160s" clip-end="npt=96.800s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS21">
+        <text id="hix00181s5" src="624755.html#hix00181s5" />
+        <audio id="audhix00181s5" clip-begin="npt=96.800s" clip-end="npt=103.240s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS22">
+        <text id="hix00181s6" src="624755.html#hix00181s6" />
+        <audio id="audhix00181s6" clip-begin="npt=103.240s" clip-end="npt=114.856s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS23">
+        <text id="hix00182" src="624755.html#hix00182" />
+        <audio id="audhix00182" clip-begin="npt=114.856s" clip-end="npt=116.920s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS24">
+        <text id="hix00182s2" src="624755.html#hix00182s2" />
+        <audio id="audhix00182s2" clip-begin="npt=116.920s" clip-end="npt=124.880s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS25">
+        <text id="hix00182s3" src="624755.html#hix00182s3" />
+        <audio id="audhix00182s3" clip-begin="npt=124.880s" clip-end="npt=128.133s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS26">
+        <text id="hix00183" src="624755.html#hix00183" />
+        <audio id="audhix00183" clip-begin="npt=128.133s" clip-end="npt=129.960s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS27">
+        <text id="hix00183s2" src="624755.html#hix00183s2" />
+        <audio id="audhix00183s2" clip-begin="npt=129.960s" clip-end="npt=132.320s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS28">
+        <text id="hix00183s3" src="624755.html#hix00183s3" />
+        <audio id="audhix00183s3" clip-begin="npt=132.320s" clip-end="npt=133.557s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS29">
+        <text id="hix00184" src="624755.html#hix00184" />
+        <audio id="audhix00184" clip-begin="npt=133.557s" clip-end="npt=137.760s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS30">
+        <text id="hix00184s2" src="624755.html#hix00184s2" />
+        <audio id="audhix00184s2" clip-begin="npt=137.760s" clip-end="npt=141.048s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS31">
+        <text id="hix00185" src="624755.html#hix00185" />
+        <audio id="audhix00185" clip-begin="npt=141.048s" clip-end="npt=144.080s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS32">
+        <text id="hix00185s2" src="624755.html#hix00185s2" />
+        <audio id="audhix00185s2" clip-begin="npt=144.080s" clip-end="npt=147.160s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS33">
+        <text id="hix00185s3" src="624755.html#hix00185s3" />
+        <audio id="audhix00185s3" clip-begin="npt=147.160s" clip-end="npt=153.760s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS34">
+        <text id="hix00185s4" src="624755.html#hix00185s4" />
+        <audio id="audhix00185s4" clip-begin="npt=153.760s" clip-end="npt=157.640s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS35">
+        <text id="hix00185s5" src="624755.html#hix00185s5" />
+        <audio id="audhix00185s5" clip-begin="npt=157.640s" clip-end="npt=160.280s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS36">
+        <text id="hix00185s6" src="624755.html#hix00185s6" />
+        <audio id="audhix00185s6" clip-begin="npt=160.280s" clip-end="npt=161.400s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS37">
+        <text id="hix00185s7" src="624755.html#hix00185s7" />
+        <audio id="audhix00185s7" clip-begin="npt=161.400s" clip-end="npt=168.420s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par id="par12" system-required="pagenumber-on" endsync="last">
+        <text id="Page_23" src="624755.html#Page_23" />
+        <audio id="aud012" clip-begin="npt=168.420s" clip-end="npt=168.793s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS38">
+        <text id="hix00186" src="624755.html#hix00186" />
+        <audio id="audhix00186" clip-begin="npt=168.793s" clip-end="npt=174.440s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS39">
+        <text id="hix00186s2" src="624755.html#hix00186s2" />
+        <audio id="audhix00186s2" clip-begin="npt=174.440s" clip-end="npt=184.426s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS40">
+        <text id="hix00187" src="624755.html#hix00187" />
+        <audio id="audhix00187" clip-begin="npt=184.426s" clip-end="npt=192.720s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS41">
+        <text id="hix00187s2" src="624755.html#hix00187s2" />
+        <audio id="audhix00187s2" clip-begin="npt=192.720s" clip-end="npt=196.160s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS42">
+        <text id="hix00187s3" src="624755.html#hix00187s3" />
+        <audio id="audhix00187s3" clip-begin="npt=196.160s" clip-end="npt=197.840s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS43">
+        <text id="hix00187s4" src="624755.html#hix00187s4" />
+        <audio id="audhix00187s4" clip-begin="npt=197.840s" clip-end="npt=204.000s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS44">
+        <text id="hix00187s5" src="624755.html#hix00187s5" />
+        <audio id="audhix00187s5" clip-begin="npt=204.000s" clip-end="npt=212.237s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS45">
+        <text id="hix00188" src="624755.html#hix00188" />
+        <audio id="audhix00188" clip-begin="npt=212.237s" clip-end="npt=222.045s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS46">
+        <text id="hix00189" src="624755.html#hix00189" />
+        <audio id="audhix00189" clip-begin="npt=222.045s" clip-end="npt=225.440s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS47">
+        <text id="hix00189s2" src="624755.html#hix00189s2" />
+        <audio id="audhix00189s2" clip-begin="npt=225.440s" clip-end="npt=226.200s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS48">
+        <text id="hix00189s3" src="624755.html#hix00189s3" />
+        <audio id="audhix00189s3" clip-begin="npt=226.200s" clip-end="npt=231.052s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS49">
+        <text id="hix00190" src="624755.html#hix00190" />
+        <audio id="audhix00190" clip-begin="npt=231.052s" clip-end="npt=234.680s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS50">
+        <text id="hix00190s2" src="624755.html#hix00190s2" />
+        <audio id="audhix00190s2" clip-begin="npt=234.680s" clip-end="npt=237.520s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS51">
+        <text id="hix00190s3" src="624755.html#hix00190s3" />
+        <audio id="audhix00190s3" clip-begin="npt=237.520s" clip-end="npt=244.417s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS52">
+        <text id="hix00191" src="624755.html#hix00191" />
+        <audio id="audhix00191" clip-begin="npt=244.417s" clip-end="npt=247.760s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS53">
+        <text id="hix00191s2" src="624755.html#hix00191s2" />
+        <audio id="audhix00191s2" clip-begin="npt=247.760s" clip-end="npt=250.760s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS54">
+        <text id="hix00191s3" src="624755.html#hix00191s3" />
+        <audio id="audhix00191s3" clip-begin="npt=250.760s" clip-end="npt=251.480s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS55">
+        <text id="hix00191s4" src="624755.html#hix00191s4" />
+        <audio id="audhix00191s4" clip-begin="npt=251.480s" clip-end="npt=254.111s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS56">
+        <text id="hix00192" src="624755.html#hix00192" />
+        <audio id="audhix00192" clip-begin="npt=254.111s" clip-end="npt=257.840s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS57">
+        <text id="hix00192s2" src="624755.html#hix00192s2" />
+        <audio id="audhix00192s2" clip-begin="npt=257.840s" clip-end="npt=265.980s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par id="par20" system-required="pagenumber-on" endsync="last">
+        <text id="Page_24" src="624755.html#Page_24" />
+        <audio id="aud020" clip-begin="npt=265.980s" clip-end="npt=267.919s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS58">
+        <text id="hix00193" src="624755.html#hix00193" />
+        <audio id="audhix00193" clip-begin="npt=267.919s" clip-end="npt=270.846s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS59">
+        <text id="hix00194" src="624755.html#hix00194" />
+        <audio id="audhix00194" clip-begin="npt=270.846s" clip-end="npt=272.240s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS60">
+        <text id="hix00194s2" src="624755.html#hix00194s2" />
+        <audio id="audhix00194s2" clip-begin="npt=272.240s" clip-end="npt=277.725s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS61">
+        <text id="hix00195" src="624755.html#hix00195" />
+        <audio id="audhix00195" clip-begin="npt=277.725s" clip-end="npt=283.480s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS62">
+        <text id="hix00195s2" src="624755.html#hix00195s2" />
+        <audio id="audhix00195s2" clip-begin="npt=283.480s" clip-end="npt=286.408s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS63">
+        <text id="hix00196" src="624755.html#hix00196" />
+        <audio id="audhix00196" clip-begin="npt=286.408s" clip-end="npt=292.360s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS64">
+        <text id="hix00196s2" src="624755.html#hix00196s2" />
+        <audio id="audhix00196s2" clip-begin="npt=292.360s" clip-end="npt=294.906s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS65">
+        <text id="hix00197" src="624755.html#hix00197" />
+        <audio id="audhix00197" clip-begin="npt=294.906s" clip-end="npt=297.840s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS66">
+        <text id="hix00197s2" src="624755.html#hix00197s2" />
+        <audio id="audhix00197s2" clip-begin="npt=297.840s" clip-end="npt=304.120s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS67">
+        <text id="hix00197s3" src="624755.html#hix00197s3" />
+        <audio id="audhix00197s3" clip-begin="npt=304.120s" clip-end="npt=305.534s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS68">
+        <text id="hix00198" src="624755.html#hix00198" />
+        <audio id="audhix00198" clip-begin="npt=305.534s" clip-end="npt=311.880s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS69">
+        <text id="hix00198s2" src="624755.html#hix00198s2" />
+        <audio id="audhix00198s2" clip-begin="npt=311.880s" clip-end="npt=315.520s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS70">
+        <text id="hix00198s3" src="624755.html#hix00198s3" />
+        <audio id="audhix00198s3" clip-begin="npt=315.520s" clip-end="npt=317.600s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS71">
+        <text id="hix00198s4" src="624755.html#hix00198s4" />
+        <audio id="audhix00198s4" clip-begin="npt=317.600s" clip-end="npt=318.848s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS72">
+        <text id="hix00199" src="624755.html#hix00199" />
+        <audio id="audhix00199" clip-begin="npt=318.848s" clip-end="npt=322.786s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS73">
+        <text id="hix00200" src="624755.html#hix00200" />
+        <audio id="audhix00200" clip-begin="npt=322.786s" clip-end="npt=324.160s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS74">
+        <text id="hix00200s2" src="624755.html#hix00200s2" />
+        <audio id="audhix00200s2" clip-begin="npt=324.160s" clip-end="npt=326.200s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS75">
+        <text id="hix00200s3" src="624755.html#hix00200s3" />
+        <audio id="audhix00200s3" clip-begin="npt=326.200s" clip-end="npt=327.280s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS76">
+        <text id="hix00200s4" src="624755.html#hix00200s4" />
+        <audio id="audhix00200s4" clip-begin="npt=327.280s" clip-end="npt=331.080s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS77">
+        <text id="hix00200s5" src="624755.html#hix00200s5" />
+        <audio id="audhix00200s5" clip-begin="npt=331.080s" clip-end="npt=335.920s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS78">
+        <text id="hix00200s6" src="624755.html#hix00200s6" />
+        <audio id="audhix00200s6" clip-begin="npt=335.920s" clip-end="npt=345.466s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS79">
+        <text id="hix00201" src="624755.html#hix00201" />
+        <audio id="audhix00201" clip-begin="npt=345.466s" clip-end="npt=349.240s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS80">
+        <text id="hix00201s2" src="624755.html#hix00201s2" />
+        <audio id="audhix00201s2" clip-begin="npt=349.240s" clip-end="npt=351.909s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS81">
+        <text id="hix00202" src="624755.html#hix00202" />
+        <audio id="audhix00202" clip-begin="npt=351.909s" clip-end="npt=355.200s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS82">
+        <text id="hix00202s2" src="624755.html#hix00202s2" />
+        <audio id="audhix00202s2" clip-begin="npt=355.200s" clip-end="npt=357.720s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS83">
+        <text id="hix00202s3" src="624755.html#hix00202s3" />
+        <audio id="audhix00202s3" clip-begin="npt=357.720s" clip-end="npt=360.661s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS84">
+        <text id="hix00203" src="624755.html#hix00203" />
+        <audio id="audhix00203" clip-begin="npt=360.661s" clip-end="npt=362.680s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS85">
+        <text id="hix00203s2" src="624755.html#hix00203s2" />
+        <audio id="audhix00203s2" clip-begin="npt=362.680s" clip-end="npt=365.880s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS86">
+        <text id="hix00203s3" src="624755.html#hix00203s3" />
+        <audio id="audhix00203s3" clip-begin="npt=365.880s" clip-end="npt=368.410s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par id="par32" system-required="pagenumber-on" endsync="last">
+        <text id="Page_25" src="624755.html#Page_25" />
+        <audio id="aud032" clip-begin="npt=368.410s" clip-end="npt=368.843s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS87">
+        <text id="hix00204" src="624755.html#hix00204" />
+        <audio id="audhix00204" clip-begin="npt=368.843s" clip-end="npt=373.360s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS88">
+        <text id="hix00204s2" src="624755.html#hix00204s2" />
+        <audio id="audhix00204s2" clip-begin="npt=373.360s" clip-end="npt=376.223s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS89">
+        <text id="hix00205" src="624755.html#hix00205" />
+        <audio id="audhix00205" clip-begin="npt=376.223s" clip-end="npt=379.760s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS90">
+        <text id="hix00205s2" src="624755.html#hix00205s2" />
+        <audio id="audhix00205s2" clip-begin="npt=379.760s" clip-end="npt=384.480s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS91">
+        <text id="hix00205s3" src="624755.html#hix00205s3" />
+        <audio id="audhix00205s3" clip-begin="npt=384.480s" clip-end="npt=387.560s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS92">
+        <text id="hix00205s4" src="624755.html#hix00205s4" />
+        <audio id="audhix00205s4" clip-begin="npt=387.560s" clip-end="npt=393.907s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS93">
+        <text id="hix00206" src="624755.html#hix00206" />
+        <audio id="audhix00206" clip-begin="npt=393.907s" clip-end="npt=399.920s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS94">
+        <text id="hix00206s2" src="624755.html#hix00206s2" />
+        <audio id="audhix00206s2" clip-begin="npt=399.920s" clip-end="npt=402.408s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS95">
+        <text id="hix00207" src="624755.html#hix00207" />
+        <audio id="audhix00207" clip-begin="npt=402.408s" clip-end="npt=406.800s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS96">
+        <text id="hix00207s2" src="624755.html#hix00207s2" />
+        <audio id="audhix00207s2" clip-begin="npt=406.800s" clip-end="npt=408.800s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS97">
+        <text id="hix00207s3" src="624755.html#hix00207s3" />
+        <audio id="audhix00207s3" clip-begin="npt=408.800s" clip-end="npt=418.287s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS98">
+        <text id="hix00208" src="624755.html#hix00208" />
+        <audio id="audhix00208" clip-begin="npt=418.287s" clip-end="npt=420.716s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS99">
+        <text id="hix00209" src="624755.html#hix00209" />
+        <audio id="audhix00209" clip-begin="npt=420.716s" clip-end="npt=423.840s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS100">
+        <text id="hix00209s2" src="624755.html#hix00209s2" />
+        <audio id="audhix00209s2" clip-begin="npt=423.840s" clip-end="npt=433.880s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS101">
+        <text id="hix00209s3" src="624755.html#hix00209s3" />
+        <audio id="audhix00209s3" clip-begin="npt=433.880s" clip-end="npt=439.720s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS102">
+        <text id="hix00209s4" src="624755.html#hix00209s4" />
+        <audio id="audhix00209s4" clip-begin="npt=439.720s" clip-end="npt=443.301s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS103">
+        <text id="hix00210" src="624755.html#hix00210" />
+        <audio id="audhix00210" clip-begin="npt=443.301s" clip-end="npt=450.040s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS104">
+        <text id="hix00211" src="624755.html#hix00211" />
+        <audio id="audhix00211" clip-begin="npt=450.040s" clip-end="npt=451.840s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS105">
+        <text id="hix00211s2" src="624755.html#hix00211s2" />
+        <audio id="audhix00211s2" clip-begin="npt=451.840s" clip-end="npt=453.280s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS106">
+        <text id="hix00211s3" src="624755.html#hix00211s3" />
+        <audio id="audhix00211s3" clip-begin="npt=453.280s" clip-end="npt=455.840s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS107">
+        <text id="hix00211s4" src="624755.html#hix00211s4" />
+        <audio id="audhix00211s4" clip-begin="npt=455.840s" clip-end="npt=458.534s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS108">
+        <text id="hix00212" src="624755.html#hix00212" />
+        <audio id="audhix00212" clip-begin="npt=458.534s" clip-end="npt=462.720s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS109">
+        <text id="hix00212s2" src="624755.html#hix00212s2" />
+        <audio id="audhix00212s2" clip-begin="npt=462.720s" clip-end="npt=465.000s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS110">
+        <text id="hix00212s3" src="624755.html#hix00212s3" />
+        <audio id="audhix00212s3" clip-begin="npt=465.000s" clip-end="npt=474.287s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par id="par42" system-required="pagenumber-on" endsync="last">
+        <text id="Page_26" src="624755.html#Page_26" />
+        <audio id="aud042" clip-begin="npt=474.287s" clip-end="npt=474.974s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS111">
+        <text id="hix00213" src="624755.html#hix00213" />
+        <audio id="audhix00213" clip-begin="npt=474.974s" clip-end="npt=480.475s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS112">
+        <text id="hix00214" src="624755.html#hix00214" />
+        <audio id="audhix00214" clip-begin="npt=480.475s" clip-end="npt=483.280s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS113">
+        <text id="hix00214s2" src="624755.html#hix00214s2" />
+        <audio id="audhix00214s2" clip-begin="npt=483.280s" clip-end="npt=485.800s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS114">
+        <text id="hix00214s3" src="624755.html#hix00214s3" />
+        <audio id="audhix00214s3" clip-begin="npt=485.800s" clip-end="npt=486.785s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS115">
+        <text id="hix00215" src="624755.html#hix00215" />
+        <audio id="audhix00215" clip-begin="npt=486.785s" clip-end="npt=492.408s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS116">
+        <text id="hix00216" src="624755.html#hix00216" />
+        <audio id="audhix00216" clip-begin="npt=492.408s" clip-end="npt=497.880s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS117">
+        <text id="hix00216s2" src="624755.html#hix00216s2" />
+        <audio id="audhix00216s2" clip-begin="npt=497.880s" clip-end="npt=503.095s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS118">
+        <text id="hix00217" src="624755.html#hix00217" />
+        <audio id="audhix00217" clip-begin="npt=503.095s" clip-end="npt=509.200s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS119">
+        <text id="hix00217s2" src="624755.html#hix00217s2" />
+        <audio id="audhix00217s2" clip-begin="npt=509.200s" clip-end="npt=516.950s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS120">
+        <text id="hix00218" src="624755.html#hix00218" />
+        <audio id="audhix00218" clip-begin="npt=516.950s" clip-end="npt=521.501s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS121">
+        <text id="hix00219" src="624755.html#hix00219" />
+        <audio id="audhix00219" clip-begin="npt=521.501s" clip-end="npt=526.943s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS122">
+        <text id="hix00220" src="624755.html#hix00220" />
+        <audio id="audhix00220" clip-begin="npt=526.943s" clip-end="npt=530.880s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS123">
+        <text id="hix00220s2" src="624755.html#hix00220s2" />
+        <audio id="audhix00220s2" clip-begin="npt=530.880s" clip-end="npt=532.040s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS124">
+        <text id="hix00220s3" src="624755.html#hix00220s3" />
+        <audio id="audhix00220s3" clip-begin="npt=532.040s" clip-end="npt=535.000s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS125">
+        <text id="hix00220s4" src="624755.html#hix00220s4" />
+        <audio id="audhix00220s4" clip-begin="npt=535.000s" clip-end="npt=537.755s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS126">
+        <text id="hix00221" src="624755.html#hix00221" />
+        <audio id="audhix00221" clip-begin="npt=537.755s" clip-end="npt=542.160s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS127">
+        <text id="hix00221s2" src="624755.html#hix00221s2" />
+        <audio id="audhix00221s2" clip-begin="npt=542.160s" clip-end="npt=545.840s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS128">
+        <text id="hix00221s3" src="624755.html#hix00221s3" />
+        <audio id="audhix00221s3" clip-begin="npt=545.840s" clip-end="npt=547.320s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS129">
+        <text id="hix00221s4" src="624755.html#hix00221s4" />
+        <audio id="audhix00221s4" clip-begin="npt=547.320s" clip-end="npt=551.280s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS130">
+        <text id="hix00221s5" src="624755.html#hix00221s5" />
+        <audio id="audhix00221s5" clip-begin="npt=551.280s" clip-end="npt=553.160s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS131">
+        <text id="hix00221s6" src="624755.html#hix00221s6" />
+        <audio id="audhix00221s6" clip-begin="npt=553.160s" clip-end="npt=556.440s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS132">
+        <text id="hix00221s7" src="624755.html#hix00221s7" />
+        <audio id="audhix00221s7" clip-begin="npt=556.440s" clip-end="npt=565.252s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par id="par52" system-required="pagenumber-on" endsync="last">
+        <text id="Page_27" src="624755.html#Page_27" />
+        <audio id="aud052" clip-begin="npt=565.252s" clip-end="npt=566.007s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS133">
+        <text id="hix00222" src="624755.html#hix00222" />
+        <audio id="audhix00222" clip-begin="npt=566.007s" clip-end="npt=569.440s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS134">
+        <text id="hix00222s2" src="624755.html#hix00222s2" />
+        <audio id="audhix00222s2" clip-begin="npt=569.440s" clip-end="npt=572.240s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS135">
+        <text id="hix00222s3" src="624755.html#hix00222s3" />
+        <audio id="audhix00222s3" clip-begin="npt=572.240s" clip-end="npt=574.006s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS136">
+        <text id="hix00223" src="624755.html#hix00223" />
+        <audio id="audhix00223" clip-begin="npt=574.006s" clip-end="npt=580.880s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS137">
+        <text id="hix00223s2" src="624755.html#hix00223s2" />
+        <audio id="audhix00223s2" clip-begin="npt=580.880s" clip-end="npt=581.560s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS138">
+        <text id="hix00223s3" src="624755.html#hix00223s3" />
+        <audio id="audhix00223s3" clip-begin="npt=581.560s" clip-end="npt=583.200s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS139">
+        <text id="hix00223s4" src="624755.html#hix00223s4" />
+        <audio id="audhix00223s4" clip-begin="npt=583.200s" clip-end="npt=587.640s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS140">
+        <text id="hix00223s5" src="624755.html#hix00223s5" />
+        <audio id="audhix00223s5" clip-begin="npt=587.640s" clip-end="npt=591.240s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS141">
+        <text id="hix00223s6" src="624755.html#hix00223s6" />
+        <audio id="audhix00223s6" clip-begin="npt=591.240s" clip-end="npt=596.120s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS142">
+        <text id="hix00223s7" src="624755.html#hix00223s7" />
+        <audio id="audhix00223s7" clip-begin="npt=596.120s" clip-end="npt=604.720s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS143">
+        <text id="hix00223s8" src="624755.html#hix00223s8" />
+        <audio id="audhix00223s8" clip-begin="npt=604.720s" clip-end="npt=612.376s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS144">
+        <text id="hix00224" src="624755.html#hix00224" />
+        <audio id="audhix00224" clip-begin="npt=612.376s" clip-end="npt=614.280s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS145">
+        <text id="hix00224s2" src="624755.html#hix00224s2" />
+        <audio id="audhix00224s2" clip-begin="npt=614.280s" clip-end="npt=620.502s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS146">
+        <text id="hix00225" src="624755.html#hix00225" />
+        <audio id="audhix00225" clip-begin="npt=620.502s" clip-end="npt=625.120s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS147">
+        <text id="hix00225s2" src="624755.html#hix00225s2" />
+        <audio id="audhix00225s2" clip-begin="npt=625.120s" clip-end="npt=626.383s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS148">
+        <text id="hix00226" src="624755.html#hix00226" />
+        <audio id="audhix00226" clip-begin="npt=626.383s" clip-end="npt=629.320s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS149">
+        <text id="hix00226s2" src="624755.html#hix00226s2" />
+        <audio id="audhix00226s2" clip-begin="npt=629.320s" clip-end="npt=635.193s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS150">
+        <text id="hix00227" src="624755.html#hix00227" />
+        <audio id="audhix00227" clip-begin="npt=635.193s" clip-end="npt=638.040s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS151">
+        <text id="hix00227s2" src="624755.html#hix00227s2" />
+        <audio id="audhix00227s2" clip-begin="npt=638.040s" clip-end="npt=641.129s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS152">
+        <text id="hix00228" src="624755.html#hix00228" />
+        <audio id="audhix00228" clip-begin="npt=641.129s" clip-end="npt=644.320s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS153">
+        <text id="hix00228s2" src="624755.html#hix00228s2" />
+        <audio id="audhix00228s2" clip-begin="npt=644.320s" clip-end="npt=647.501s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS154">
+        <text id="hix00229" src="624755.html#hix00229" />
+        <audio id="audhix00229" clip-begin="npt=647.501s" clip-end="npt=649.040s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS155">
+        <text id="hix00229s2" src="624755.html#hix00229s2" />
+        <audio id="audhix00229s2" clip-begin="npt=649.040s" clip-end="npt=651.240s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS156">
+        <text id="hix00229s3" src="624755.html#hix00229s3" />
+        <audio id="audhix00229s3" clip-begin="npt=651.240s" clip-end="npt=656.200s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS157">
+        <text id="hix00229s4" src="624755.html#hix00229s4" />
+        <audio id="audhix00229s4" clip-begin="npt=656.200s" clip-end="npt=660.252s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par id="par61" system-required="pagenumber-on" endsync="last">
+        <text id="Page_28" src="624755.html#Page_28" />
+        <audio id="aud061" clip-begin="npt=660.252s" clip-end="npt=660.817s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS158">
+        <text id="hix00230" src="624755.html#hix00230" />
+        <audio id="audhix00230" clip-begin="npt=660.817s" clip-end="npt=665.760s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS159">
+        <text id="hix00230s2" src="624755.html#hix00230s2" />
+        <audio id="audhix00230s2" clip-begin="npt=665.760s" clip-end="npt=668.377s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS160">
+        <text id="hix00231" src="624755.html#hix00231" />
+        <audio id="audhix00231" clip-begin="npt=668.377s" clip-end="npt=672.560s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS161">
+        <text id="hix00231s2" src="624755.html#hix00231s2" />
+        <audio id="audhix00231s2" clip-begin="npt=672.560s" clip-end="npt=675.640s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS162">
+        <text id="hix00231s3" src="624755.html#hix00231s3" />
+        <audio id="audhix00231s3" clip-begin="npt=675.640s" clip-end="npt=678.280s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS163">
+        <text id="hix00231s4" src="624755.html#hix00231s4" />
+        <audio id="audhix00231s4" clip-begin="npt=678.280s" clip-end="npt=688.760s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS164">
+        <text id="hix00231s5" src="624755.html#hix00231s5" />
+        <audio id="audhix00231s5" clip-begin="npt=688.760s" clip-end="npt=695.942s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS165">
+        <text id="hix00232" src="624755.html#hix00232" />
+        <audio id="audhix00232" clip-begin="npt=695.942s" clip-end="npt=700.760s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS166">
+        <text id="hix00232s2" src="624755.html#hix00232s2" />
+        <audio id="audhix00232s2" clip-begin="npt=700.760s" clip-end="npt=705.720s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS167">
+        <text id="hix00232s3" src="624755.html#hix00232s3" />
+        <audio id="audhix00232s3" clip-begin="npt=705.720s" clip-end="npt=713.760s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS168">
+        <text id="hix00232s4" src="624755.html#hix00232s4" />
+        <audio id="audhix00232s4" clip-begin="npt=713.760s" clip-end="npt=718.340s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS169">
+        <text id="hix00233" src="624755.html#hix00233" />
+        <audio id="audhix00233" clip-begin="npt=718.340s" clip-end="npt=725.240s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS170">
+        <text id="hix00233s2" src="624755.html#hix00233s2" />
+        <audio id="audhix00233s2" clip-begin="npt=725.240s" clip-end="npt=734.800s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS171">
+        <text id="hix00233s3" src="624755.html#hix00233s3" />
+        <audio id="audhix00233s3" clip-begin="npt=734.800s" clip-end="npt=743.920s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS172">
+        <text id="hix00233s4" src="624755.html#hix00233s4" />
+        <audio id="audhix00233s4" clip-begin="npt=743.920s" clip-end="npt=753.600s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS173">
+        <text id="hix00233s5" src="624755.html#hix00233s5" />
+        <audio id="audhix00233s5" clip-begin="npt=753.600s" clip-end="npt=765.221s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par id="par66" system-required="pagenumber-on" endsync="last">
+        <text id="Page_29" src="624755.html#Page_29" />
+        <audio id="aud066" clip-begin="npt=765.221s" clip-end="npt=765.907s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS174">
+        <text id="hix00234" src="624755.html#hix00234" />
+        <audio id="audhix00234" clip-begin="npt=765.907s" clip-end="npt=769.720s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS175">
+        <text id="hix00234s2" src="624755.html#hix00234s2" />
+        <audio id="audhix00234s2" clip-begin="npt=769.720s" clip-end="npt=773.400s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS176">
+        <text id="hix00234s3" src="624755.html#hix00234s3" />
+        <audio id="audhix00234s3" clip-begin="npt=773.400s" clip-end="npt=775.360s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS177">
+        <text id="hix00234s4" src="624755.html#hix00234s4" />
+        <audio id="audhix00234s4" clip-begin="npt=775.360s" clip-end="npt=779.520s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS178">
+        <text id="hix00234s5" src="624755.html#hix00234s5" />
+        <audio id="audhix00234s5" clip-begin="npt=779.520s" clip-end="npt=780.360s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS179">
+        <text id="hix00234s6" src="624755.html#hix00234s6" />
+        <audio id="audhix00234s6" clip-begin="npt=780.360s" clip-end="npt=784.657s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS180">
+        <text id="hix00235" src="624755.html#hix00235" />
+        <audio id="audhix00235" clip-begin="npt=784.657s" clip-end="npt=790.240s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS181">
+        <text id="hix00235s2" src="624755.html#hix00235s2" />
+        <audio id="audhix00235s2" clip-begin="npt=790.240s" clip-end="npt=794.520s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS182">
+        <text id="hix00235s3" src="624755.html#hix00235s3" />
+        <audio id="audhix00235s3" clip-begin="npt=794.520s" clip-end="npt=796.715s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS183">
+        <text id="hix00236" src="624755.html#hix00236" />
+        <audio id="audhix00236" clip-begin="npt=796.715s" clip-end="npt=801.680s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS184">
+        <text id="hix00236s2" src="624755.html#hix00236s2" />
+        <audio id="audhix00236s2" clip-begin="npt=801.680s" clip-end="npt=811.240s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par endsync="last" id="parS185">
+        <text id="hix00236s3" src="624755.html#hix00236s3" />
+        <audio id="audhix00236s3" clip-begin="npt=811.240s" clip-end="npt=820.989s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+      <par id="par70" system-required="pagenumber-on" endsync="last">
+        <text id="Page_30" src="624755.html#Page_30" />
+        <audio id="aud070" clip-begin="npt=820.989s" clip-end="npt=821.613s" src="09_Chapter_Three_The_Hopeless_Case.mp3" />
+      </par>
+    </seq>
+  </body>
+</smil>

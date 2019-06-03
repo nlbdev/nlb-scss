@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:04:25.918"/>
+		<meta name="ncc:totalElapsedTime" content="11:46:55.336"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300089122"/>
+		<meta name="title" content="Kapittel 93: Slå tilbake"/>
+		<meta name="dc:title" content="AARONS MASKIN"/>
+		<meta name="dc:identifier" content="616872"/>
+	</head>
+	<body>
+		<seq dur="265.918s">
+			<par endsync="last" id="ugkc_01f7">
+				<text src="ncc.html#ugkc_01f6" id="ugkc_01f6"/>
+				<seq>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=0.000s" clip-end="npt=4.924s" id="audio_0001"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=4.924s" clip-end="npt=12.304s" id="audio_0002"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=12.304s" clip-end="npt=22.922s" id="audio_0003"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=22.922s" clip-end="npt=31.203s" id="audio_0004"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=31.203s" clip-end="npt=39.602s" id="audio_0005"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=39.602s" clip-end="npt=46.080s" id="audio_0006"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=46.080s" clip-end="npt=52.595s" id="audio_0007"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=52.595s" clip-end="npt=57.989s" id="audio_0008"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=57.989s" clip-end="npt=62.783s" id="audio_0009"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=62.783s" clip-end="npt=68.101s" id="audio_0010"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=68.101s" clip-end="npt=73.733s" id="audio_0011"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=73.733s" clip-end="npt=81.434s" id="audio_0012"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vcoy_0001" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_024e" id="vcoy_0004"/>
+				<seq>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=81.434s" clip-end="npt=82.034s" id="audio_0013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vcoy_000a">
+				<text src="ncc.html#ugkc_01f6" id="vcoy_0005"/>
+				<seq>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=82.034s" clip-end="npt=89.350s" id="audio_0014"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=89.350s" clip-end="npt=93.908s" id="audio_0015"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=93.908s" clip-end="npt=104.410s" id="audio_0016"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=104.410s" clip-end="npt=110.445s" id="audio_0017"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=110.445s" clip-end="npt=115.905s" id="audio_0018"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=115.905s" clip-end="npt=119.927s" id="audio_0019"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=119.927s" clip-end="npt=124.251s" id="audio_0020"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=124.251s" clip-end="npt=131.095s" id="audio_0021"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=131.095s" clip-end="npt=144.469s" id="audio_0022"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=144.469s" clip-end="npt=153.342s" id="audio_0023"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=153.342s" clip-end="npt=162.589s" id="audio_0024"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=162.589s" clip-end="npt=166.689s" id="audio_0025"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=166.689s" clip-end="npt=170.947s" id="audio_0026"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=170.947s" clip-end="npt=175.740s" id="audio_0027"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vcoy_0002" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_024f" id="vcoy_0006"/>
+				<seq>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=175.740s" clip-end="npt=176.400s" id="audio_0028"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vcoy_000b">
+				<text src="ncc.html#ugkc_01f6" id="vcoy_0007"/>
+				<seq>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=176.400s" clip-end="npt=184.623s" id="audio_0029"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=184.623s" clip-end="npt=192.486s" id="audio_0030"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=192.486s" clip-end="npt=201.370s" id="audio_0031"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=201.370s" clip-end="npt=205.994s" id="audio_0032"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=205.994s" clip-end="npt=211.218s" id="audio_0033"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=211.218s" clip-end="npt=217.030s" id="audio_0034"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=217.030s" clip-end="npt=221.236s" id="audio_0035"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=221.236s" clip-end="npt=225.860s" id="audio_0036"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=225.860s" clip-end="npt=237.915s" id="audio_0037"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=237.915s" clip-end="npt=243.492s" id="audio_0038"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=243.492s" clip-end="npt=250.088s" id="audio_0039"/>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=250.088s" clip-end="npt=264.546s" id="audio_0040"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vcoy_0003" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_0250" id="vcoy_0008"/>
+				<seq>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=264.546s" clip-end="npt=265.206s" id="audio_0041"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vcoy_000c">
+				<text src="ncc.html#ugkc_01f6" id="vcoy_0009"/>
+				<seq>
+					<audio src="104_Kapittel_93_.mp3" clip-begin="npt=265.206s" clip-end="npt=265.918s" id="audio_0042"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd" []>
+<smil>
+   <head>
+      <meta name="ncc:generator" content="DMFC z3986-2005 to Daisy 2.02 (smil2smil v0.2)" />
+      <meta name="dc:format" content="Daisy 2.02" />
+      <meta name="dc:identifier" content="214286" />
+      <meta name="title" content="t-test for to stikkprøver" />
+      <meta name="dc:title" content="Metode og dataanalyse" />
+      <meta name="ncc:totalElapsedTime" content="10:03:27" />
+      <meta name="ncc:timeInThisSmil" content="0:01:12" />
+      <layout>
+         <region id="txtView" />
+      </layout>
+   </head>
+   <body>
+      <seq dur="72.170s">
+         <par endsync="last" id="tcp4508">
+            <text id="text4508" src="content.html#dtb4636" />
+            <audio src="speechgen0161.mp3" id="audd6026e10" clip-begin="npt=0.000s" clip-end="npt=5.479s" />
+         </par>
+         <par endsync="last" id="tcp4509">
+            <text id="text4509" src="content.html#dtb4637" />
+            <audio src="speechgen0161.mp3" id="audd6026e13" clip-begin="npt=5.479s" clip-end="npt=10.340s" />
+         </par>
+         <par endsync="last" id="tcp4510">
+            <text id="text4510" src="content.html#dtb4638" />
+            <audio src="speechgen0161.mp3" id="audd6026e16" clip-begin="npt=10.340s" clip-end="npt=36.142s" />
+         </par>
+         <par endsync="last" id="tcp4511">
+            <text id="text4511" src="content.html#dtb4639" />
+            <audio src="speechgen0161.mp3" id="audd6026e19" clip-begin="npt=36.142s" clip-end="npt=54.703s" />
+         </par>
+         <par endsync="last" id="tcp4512">
+            <text id="text4512" src="content.html#dtb4640" />
+            <audio src="speechgen0161.mp3" id="audd6026e22" clip-begin="npt=54.703s" clip-end="npt=66.213s" />
+         </par>
+         <par endsync="last" id="tcp4513">
+            <text id="text4513" src="content.html#dtb4641" />
+            <audio src="speechgen0161.mp3" id="audd6026e25" clip-begin="npt=66.213s" clip-end="npt=72.170s" />
+         </par>
+      </seq>
+   </body>
+</smil>

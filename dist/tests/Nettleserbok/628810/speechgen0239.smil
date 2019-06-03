@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd" []>
+<smil>
+   <head>
+      <meta name="ncc:generator" content="DMFC z3986-2005 to Daisy 2.02 (smil2smil v0.2)" />
+      <meta name="dc:format" content="Daisy 2.02" />
+      <meta name="dc:identifier" content="628810" />
+      <meta name="title" content="Levende dyr:" />
+      <meta name="dc:title" content="Veien til førerkortet: buss, lastebil, vogntog" />
+      <meta name="ncc:totalElapsedTime" content="13:17:48" />
+      <meta name="ncc:timeInThisSmil" content="0:00:14" />
+      <layout>
+         <region id="txtView" />
+      </layout>
+   </head>
+   <body>
+      <seq dur="14.237s">
+         <par endsync="last" id="tcp9418">
+            <text id="text9418" src="content.html#dtb8878" />
+            <audio src="speechgen0239.mp3" id="audd12309e10" clip-begin="npt=0.000s" clip-end="npt=4.187s" />
+         </par>
+         <par endsync="last" id="tcp9419">
+            <text id="text9419" src="content.html#dtb8879" />
+            <audio src="speechgen0239.mp3" id="audd12309e13" clip-begin="npt=4.187s" clip-end="npt=8.848s" />
+         </par>
+         <par endsync="last" id="tcp9420">
+            <text id="text9420" src="content.html#dtb8880" />
+            <audio src="speechgen0239.mp3" id="audd12309e16" clip-begin="npt=8.848s" clip-end="npt=14.237s" />
+         </par>
+      </seq>
+   </body>
+</smil>

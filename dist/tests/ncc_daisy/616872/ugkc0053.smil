@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:05:18.144"/>
+		<meta name="ncc:totalElapsedTime" content="09:06:03.374"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300089122"/>
+		<meta name="title" content="Kapittel 73: De som styrer"/>
+		<meta name="dc:title" content="AARONS MASKIN"/>
+		<meta name="dc:identifier" content="616872"/>
+	</head>
+	<body>
+		<seq dur="318.144s">
+			<par endsync="last" id="ugkc_01a6">
+				<text src="ncc.html#ugkc_01a5" id="ugkc_01a5"/>
+				<seq>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=0.000s" clip-end="npt=5.224s" id="audio_0001"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=5.224s" clip-end="npt=9.718s" id="audio_0002"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=9.718s" clip-end="npt=15.242s" id="audio_0003"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=15.242s" clip-end="npt=25.226s" id="audio_0004"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=25.226s" clip-end="npt=30.803s" id="audio_0005"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=30.803s" clip-end="npt=39.032s" id="audio_0006"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=39.032s" clip-end="npt=45.027s" id="audio_0007"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=45.027s" clip-end="npt=50.852s" id="audio_0008"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=50.852s" clip-end="npt=54.875s" id="audio_0009"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=54.875s" clip-end="npt=59.485s" id="audio_0010"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=59.485s" clip-end="npt=64.174s" id="audio_0011"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=64.174s" clip-end="npt=68.667s" id="audio_0012"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=68.667s" clip-end="npt=76.704s" id="audio_0013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jyzy_0001" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_01c9" id="jyzy_0005"/>
+				<seq>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=76.704s" clip-end="npt=77.304s" id="audio_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jyzy_000d">
+				<text src="ncc.html#ugkc_01a5" id="jyzy_0006"/>
+				<seq>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=77.304s" clip-end="npt=83.845s" id="audio_0015"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=83.845s" clip-end="npt=90.088s" id="audio_0016"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=90.088s" clip-end="npt=98.904s" id="audio_0017"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=98.904s" clip-end="npt=107.303s" id="audio_0018"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=107.303s" clip-end="npt=113.546s" id="audio_0019"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=113.546s" clip-end="npt=118.352s" id="audio_0020"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=118.352s" clip-end="npt=122.427s" id="audio_0021"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=122.427s" clip-end="npt=129.154s" id="audio_0022"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=129.154s" clip-end="npt=134.147s" id="audio_0023"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=134.147s" clip-end="npt=143.029s" id="audio_0024"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=143.029s" clip-end="npt=149.480s" id="audio_0025"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=149.480s" clip-end="npt=157.890s" id="audio_0026"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=157.890s" clip-end="npt=164.434s" id="audio_0027"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=164.434s" clip-end="npt=169.947s" id="audio_0028"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jyzy_0002" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_01ca" id="jyzy_0007"/>
+				<seq>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=169.947s" clip-end="npt=170.547s" id="audio_0029"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jyzy_000e">
+				<text src="ncc.html#ugkc_01a5" id="jyzy_0008"/>
+				<seq>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=170.547s" clip-end="npt=175.278s" id="audio_0030"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=175.278s" clip-end="npt=186.798s" id="audio_0031"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=186.798s" clip-end="npt=192.793s" id="audio_0032"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=192.793s" clip-end="npt=197.299s" id="audio_0033"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=197.299s" clip-end="npt=203.359s" id="audio_0034"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=203.359s" clip-end="npt=207.735s" id="audio_0035"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=207.735s" clip-end="npt=213.194s" id="audio_0036"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=213.194s" clip-end="npt=225.681s" id="audio_0037"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=225.681s" clip-end="npt=231.141s" id="audio_0038"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=231.141s" clip-end="npt=241.759s" id="audio_0039"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=241.759s" clip-end="npt=246.318s" id="audio_0040"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=246.318s" clip-end="npt=250.341s" id="audio_0041"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=250.341s" clip-end="npt=258.856s" id="audio_0042"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=258.856s" clip-end="npt=266.891s" id="audio_0043"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jyzy_0003" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_01cb" id="jyzy_0009"/>
+				<seq>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=266.891s" clip-end="npt=267.491s" id="audio_0044"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jyzy_000f">
+				<text src="ncc.html#ugkc_01a5" id="jyzy_000a"/>
+				<seq>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=267.491s" clip-end="npt=271.813s" id="audio_0045"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=271.813s" clip-end="npt=277.517s" id="audio_0046"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=277.517s" clip-end="npt=284.146s" id="audio_0047"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=284.146s" clip-end="npt=288.756s" id="audio_0048"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=288.756s" clip-end="npt=293.380s" id="audio_0049"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=293.380s" clip-end="npt=298.056s" id="audio_0050"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=298.056s" clip-end="npt=303.698s" id="audio_0051"/>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=303.698s" clip-end="npt=316.835s" id="audio_0052"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jyzy_0004" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_01cc" id="jyzy_000b"/>
+				<seq>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=316.835s" clip-end="npt=317.495s" id="audio_0053"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jyzy_0010">
+				<text src="ncc.html#ugkc_01a5" id="jyzy_000c"/>
+				<seq>
+					<audio src="083_Kapittel_73_.mp3" clip-begin="npt=317.495s" clip-end="npt=318.144s" id="audio_0054"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

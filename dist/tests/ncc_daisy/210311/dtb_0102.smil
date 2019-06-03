@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="210311"/>
+		<meta name="dc:title" content="Fra mottaker til aktør"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Kapittel 14 Forskningens forhold til svake grupper. Sturla Falck"/>
+		<meta name="ncc:totalElapsedTime" content="12:02:28"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:10"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="9.648s">
+			<par endsync="last" id="rgn_par_0101_0001">
+				<text src="ncc.html#text_0065" id="text_0065"/>
+				<seq>
+					<audio src="dtb_0102.mp3" clip-begin="npt=0.000s" clip-end="npt=9.648s" id="rgn_aud_0102_0001"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

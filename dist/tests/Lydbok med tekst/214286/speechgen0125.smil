@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd" []>
+<smil>
+   <head>
+      <meta name="ncc:generator" content="DMFC z3986-2005 to Daisy 2.02 (smil2smil v0.2)" />
+      <meta name="dc:format" content="Daisy 2.02" />
+      <meta name="dc:identifier" content="214286" />
+      <meta name="title" content="Målefeil" />
+      <meta name="dc:title" content="Metode og dataanalyse" />
+      <meta name="ncc:totalElapsedTime" content="7:52:12" />
+      <meta name="ncc:timeInThisSmil" content="0:01:12" />
+      <layout>
+         <region id="txtView" />
+      </layout>
+   </head>
+   <body>
+      <seq dur="72.095s">
+         <par endsync="last" id="tcp3452">
+            <text id="text3452" src="content.html#dtb3539" />
+            <audio src="speechgen0125.mp3" id="audd4631e10" clip-begin="npt=0.000s" clip-end="npt=3.981s" />
+         </par>
+         <par endsync="last" id="tcp3453">
+            <text id="text3453" src="content.html#dtb3540" />
+            <audio src="speechgen0125.mp3" id="audd4631e13" clip-begin="npt=3.981s" clip-end="npt=18.543s" />
+         </par>
+         <par endsync="last" id="tcp3454">
+            <text id="text3454" src="content.html#dtb3541" />
+            <audio src="speechgen0125.mp3" id="audd4631e16" clip-begin="npt=18.543s" clip-end="npt=40.117s" />
+         </par>
+         <par endsync="last" id="tcp3455">
+            <text id="text3455" src="content.html#dtb3542" />
+            <audio src="speechgen0125.mp3" id="audd4631e19" clip-begin="npt=40.117s" clip-end="npt=51.440s" />
+         </par>
+         <par endsync="last" id="tcp3456">
+            <text id="text3456" src="content.html#dtb3543" />
+            <audio src="speechgen0125.mp3" id="audd4631e22" clip-begin="npt=51.440s" clip-end="npt=58.635s" />
+         </par>
+         <par endsync="last" id="tcp3457">
+            <text id="text3457" src="content.html#dtb3544" />
+            <audio src="speechgen0125.mp3" id="audd4631e25" clip-begin="npt=58.635s" clip-end="npt=72.095s" />
+         </par>
+      </seq>
+   </body>
+</smil>

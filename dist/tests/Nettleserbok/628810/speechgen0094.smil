@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd" []>
+<smil>
+   <head>
+      <meta name="ncc:generator" content="DMFC z3986-2005 to Daisy 2.02 (smil2smil v0.2)" />
+      <meta name="dc:format" content="Daisy 2.02" />
+      <meta name="dc:identifier" content="628810" />
+      <meta name="title" content="Trykkluftmekaniske bremser – Sjåførens tilsyn og kontroll" />
+      <meta name="dc:title" content="Veien til førerkortet: buss, lastebil, vogntog" />
+      <meta name="ncc:totalElapsedTime" content="3:58:00" />
+      <meta name="ncc:timeInThisSmil" content="0:00:40" />
+      <layout>
+         <region id="txtView" />
+      </layout>
+   </head>
+   <body>
+      <seq dur="40.308s">
+         <par endsync="last" id="tcp2596">
+            <text id="text2596" src="content.html#dtb2373" />
+            <audio src="speechgen0094.mp3" id="audd3417e12" clip-begin="npt=0.000s" clip-end="npt=8.154s" />
+         </par>
+         <par endsync="last" id="tcp2597">
+            <text id="text2597" src="content.html#dtb2374" />
+            <audio src="speechgen0094.mp3" id="audd3417e15" clip-begin="npt=8.154s" clip-end="npt=11.984s" />
+         </par>
+         <par endsync="last" id="tcp2598">
+            <text id="text2598" src="content.html#dtb2375" />
+            <audio src="speechgen0094.mp3" id="audd3417e18" clip-begin="npt=11.984s" clip-end="npt=19.344s" />
+         </par>
+         <par endsync="last" id="tcp2599">
+            <text id="text2599" src="content.html#dtb2376" />
+            <audio src="speechgen0094.mp3" id="audd3417e21" clip-begin="npt=19.344s" clip-end="npt=27.663s" />
+         </par>
+         <par endsync="last" id="tcp2600" system-required="sidebar-on">
+            <text id="text2600" src="content.html#dtb2377" />
+            <audio src="speechgen0094.mp3" id="audd3417e25" clip-begin="npt=27.663s" clip-end="npt=30.449s" />
+         </par>
+         <par endsync="last" id="tcp2601" system-required="sidebar-on">
+            <text id="text2601" src="content.html#dtb2378" />
+            <audio src="speechgen0094.mp3" id="audd3417e28" clip-begin="npt=30.449s" clip-end="npt=40.308s" />
+         </par>
+      </seq>
+   </body>
+</smil>

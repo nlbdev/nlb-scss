@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:09.469"/>
+		<meta name="ncc:totalElapsedTime" content="00:03:24.778"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300089122"/>
+		<meta name="title" content="Del I: Libercasa"/>
+		<meta name="dc:title" content="AARONS MASKIN"/>
+		<meta name="dc:identifier" content="616872"/>
+	</head>
+	<body>
+		<seq dur="9.469s">
+			<par endsync="last" id="ugkc_0007">
+				<text src="ncc.html#ugkc_0006" id="ugkc_0006"/>
+				<seq>
+					<audio src="007_Del_I__Liber.mp3" clip-begin="npt=0.000s" clip-end="npt=6.251s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="hjhq_0001" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_0027" id="hjhq_0003"/>
+				<seq>
+					<audio src="007_Del_I__Liber.mp3" clip-begin="npt=6.251s" clip-end="npt=6.791s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="hjhq_0007">
+				<text src="ncc.html#ugkc_0006" id="hjhq_0004"/>
+				<seq>
+					<audio src="007_Del_I__Liber.mp3" clip-begin="npt=6.791s" clip-end="npt=7.571s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="hjhq_0002" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_0028" id="hjhq_0005"/>
+				<seq>
+					<audio src="007_Del_I__Liber.mp3" clip-begin="npt=7.571s" clip-end="npt=8.231s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="hjhq_0008">
+				<text src="ncc.html#ugkc_0006" id="hjhq_0006"/>
+				<seq>
+					<audio src="007_Del_I__Liber.mp3" clip-begin="npt=8.231s" clip-end="npt=9.469s" id="audio_0005"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

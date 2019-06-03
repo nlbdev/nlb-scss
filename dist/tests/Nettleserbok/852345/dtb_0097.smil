@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+   <head>
+      <meta name="dc:identifier" content="9788232302000"/>
+      <meta name="dc:title" content="Yrke =HO: Vg1 Helse- og oppvekstfag"/>
+      <meta name="dc:format" content="Daisy 2.02"/>
+      <meta name="title" content="Ordforklaringer:"/>
+      <meta name="ncc:totalElapsedTime" content="00:49:37"/>
+      <meta name="ncc:timeInThisSmil" content="00:00:18"/>
+      <meta name="ncc:generator" content="Regenerator 1.0.28"/>
+      <layout>
+			      <region id="txtView"/>
+		    </layout>
+   </head>
+   <body>
+      <seq dur="18.192s">
+         <par endsync="last" id="rgn_par_0097_0001">
+            <text src="innhold2345.html#rgn_cnt_0705" id="rgn_txt_0097_0001"/>
+            <seq>
+               <audio src="dtb_0097.mp3" clip-begin="npt=0.000s" clip-end="npt=1.199s"
+                      id="rgn_aud_0097_0001"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0097_0002">
+            <text src="innhold2345.html#rgn_cnt_0706" id="rgn_txt_0097_0002"/>
+            <seq>
+               <audio src="dtb_0097.mp3" clip-begin="npt=1.199s" clip-end="npt=8.998s"
+                      id="rgn_aud_0097_0002"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0097_0003">
+            <text src="innhold2345.html#rgn_cnt_0707" id="rgn_txt_0097_0003"/>
+            <seq>
+               <audio src="dtb_0097.mp3" clip-begin="npt=8.998s" clip-end="npt=15.398s"
+                      id="rgn_aud_0097_0003"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0097_0004">
+            <text src="innhold2345.html#rgn_cnt_0708" id="rgn_txt_0097_0004"/>
+            <seq>
+               <audio src="dtb_0097.mp3" clip-begin="npt=15.398s" clip-end="npt=18.192s"
+                      id="rgn_aud_0097_0004"/>
+            </seq>
+         </par>
+      </seq>
+   </body>
+</smil>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd" []>
+<smil>
+   <head>
+      <meta name="ncc:generator" content="DMFC z3986-2005 to Daisy 2.02 (smil2smil v0.2)" />
+      <meta name="dc:format" content="Daisy 2.02" />
+      <meta name="dc:identifier" content="628810" />
+      <meta name="title" content="§ 1 Hvem vilkårene gjelder for" />
+      <meta name="dc:title" content="Veien til førerkortet: buss, lastebil, vogntog" />
+      <meta name="ncc:totalElapsedTime" content="17:16:15" />
+      <meta name="ncc:timeInThisSmil" content="0:00:19" />
+      <layout>
+         <region id="txtView" />
+      </layout>
+   </head>
+   <body>
+      <seq dur="18.617s">
+         <par endsync="last" id="tcp11859">
+            <text id="text11859" src="content.html#dtb11022" />
+            <audio src="speechgen0369.mp3" id="audd15696e10" clip-begin="npt=0.000s" clip-end="npt=4.654s" />
+         </par>
+         <par endsync="last" id="tcp11860">
+            <text id="text11860" src="content.html#dtb11023" />
+            <audio src="speechgen0369.mp3" id="audd15696e13" clip-begin="npt=4.654s" clip-end="npt=18.617s" />
+         </par>
+      </seq>
+   </body>
+</smil>

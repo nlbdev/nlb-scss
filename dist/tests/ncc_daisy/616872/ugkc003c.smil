@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:10.671"/>
+		<meta name="ncc:totalElapsedTime" content="06:36:06.891"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300089122"/>
+		<meta name="title" content="Del III: Liberville"/>
+		<meta name="dc:title" content="AARONS MASKIN"/>
+		<meta name="dc:identifier" content="616872"/>
+	</head>
+	<body>
+		<seq dur="10.671s">
+			<par endsync="last" id="ugkc_00c3">
+				<text src="ncc.html#ugkc_00c2" id="ugkc_00c2"/>
+				<seq>
+					<audio src="060_Del_III__Lib.mp3" clip-begin="npt=0.000s" clip-end="npt=7.679s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ugkc_00c4" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_0153" id="ugkc_00c6"/>
+				<seq>
+					<audio src="060_Del_III__Lib.mp3" clip-begin="npt=7.679s" clip-end="npt=8.279s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ugkc_00ca">
+				<text src="ncc.html#ugkc_00c2" id="ugkc_00c7"/>
+				<seq>
+					<audio src="060_Del_III__Lib.mp3" clip-begin="npt=8.279s" clip-end="npt=8.999s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ugkc_00c5" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_0154" id="ugkc_00c8"/>
+				<seq>
+					<audio src="060_Del_III__Lib.mp3" clip-begin="npt=8.999s" clip-end="npt=9.719s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ugkc_00cb">
+				<text src="ncc.html#ugkc_00c2" id="ugkc_00c9"/>
+				<seq>
+					<audio src="060_Del_III__Lib.mp3" clip-begin="npt=9.719s" clip-end="npt=10.671s" id="audio_0005"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

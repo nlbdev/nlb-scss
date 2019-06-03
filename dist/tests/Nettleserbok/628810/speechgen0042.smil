@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd" []>
+<smil>
+   <head>
+      <meta name="ncc:generator" content="DMFC z3986-2005 to Daisy 2.02 (smil2smil v0.2)" />
+      <meta name="dc:format" content="Daisy 2.02" />
+      <meta name="dc:identifier" content="628810" />
+      <meta name="title" content="Regummiering" />
+      <meta name="dc:title" content="Veien til førerkortet: buss, lastebil, vogntog" />
+      <meta name="ncc:totalElapsedTime" content="1:50:40" />
+      <meta name="ncc:timeInThisSmil" content="0:00:50" />
+      <layout>
+         <region id="txtView" />
+      </layout>
+   </head>
+   <body>
+      <seq dur="49.712s">
+         <par endsync="last" id="tcp1232">
+            <text id="text1232" src="content.html#dtb1149" />
+            <audio src="speechgen0042.mp3" id="audd1666e10" clip-begin="npt=0.000s" clip-end="npt=4.372s" />
+         </par>
+         <par endsync="last" id="tcp1233">
+            <text id="text1233" src="content.html#dtb1150" />
+            <audio src="speechgen0042.mp3" id="audd1666e13" clip-begin="npt=4.372s" clip-end="npt=7.565s" />
+         </par>
+         <par endsync="last" id="tcp1234">
+            <text id="text1234" src="content.html#dtb1151" />
+            <audio src="speechgen0042.mp3" id="audd1666e16" clip-begin="npt=7.565s" clip-end="npt=13.171s" />
+         </par>
+         <par endsync="last" id="tcp1235">
+            <text id="text1235" src="content.html#dtb1152" />
+            <audio src="speechgen0042.mp3" id="audd1666e19" clip-begin="npt=13.171s" clip-end="npt=17.794s" />
+         </par>
+         <par endsync="last" id="tcp1236">
+            <text id="text1236" src="content.html#dtb1153" />
+            <audio src="speechgen0042.mp3" id="audd1666e22" clip-begin="npt=17.794s" clip-end="npt=24.268s" />
+         </par>
+         <par endsync="last" id="tcp1237">
+            <text id="text1237" src="content.html#dtb1154" />
+            <audio src="speechgen0042.mp3" id="audd1666e25" clip-begin="npt=24.268s" clip-end="npt=34.458s" />
+         </par>
+         <par endsync="last" id="tcp1238">
+            <text id="text1238" src="content.html#dtb1155" />
+            <audio src="speechgen0042.mp3" id="audd1666e28" clip-begin="npt=34.458s" clip-end="npt=44.920s" />
+         </par>
+         <par endsync="last" id="tcp1239">
+            <text id="text1239" src="content.html#dtb1156" />
+            <audio src="speechgen0042.mp3" id="audd1666e31" clip-begin="npt=44.920s" clip-end="npt=49.712s" />
+         </par>
+      </seq>
+   </body>
+</smil>

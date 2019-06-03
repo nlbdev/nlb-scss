@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd" []>
+<smil>
+   <head>
+      <meta name="ncc:generator" content="DMFC z3986-2005 to Daisy 2.02 (smil2smil v0.2)" />
+      <meta name="dc:format" content="Daisy 2.02" />
+      <meta name="dc:identifier" content="214286" />
+      <meta name="title" content="Del 1 Utforming av undersøkelsen" />
+      <meta name="dc:title" content="Metode og dataanalyse" />
+      <meta name="ncc:totalElapsedTime" content="0:18:21" />
+      <meta name="ncc:timeInThisSmil" content="0:00:09" />
+      <layout>
+         <region id="txtView" />
+      </layout>
+   </head>
+   <body>
+      <seq dur="9.029s">
+         <par endsync="last" id="tcp323">
+            <text id="text323" src="content.html#dtb341" />
+            <audio src="speechgen0006.mp3" id="audd379e12" clip-begin="npt=0.000s" clip-end="npt=6.511s" />
+         </par>
+         <par id="tcp324" endsync="last" system-required="pagenumber-on">
+            <text id="text324" src="content.html#page-12" />
+            <audio src="speechgen0006.mp3" id="audd379e15" clip-begin="npt=6.511s" clip-end="npt=7.567s" />
+         </par>
+         <par id="tcp325" endsync="last" system-required="pagenumber-on">
+            <text id="text325" src="content.html#page-13" />
+            <audio src="speechgen0006.mp3" id="audd379e18" clip-begin="npt=7.567s" clip-end="npt=9.029s" />
+         </par>
+      </seq>
+   </body>
+</smil>

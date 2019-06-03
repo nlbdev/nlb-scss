@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd" []>
+<smil>
+   <head>
+      <meta name="ncc:generator" content="DMFC z3986-2005 to Daisy 2.02 (smil2smil v0.2)" />
+      <meta name="dc:format" content="Daisy 2.02" />
+      <meta name="dc:identifier" content="628810" />
+      <meta name="title" content="Ansvar og erstatning for tap eller skade på reisegods:" />
+      <meta name="dc:title" content="Veien til førerkortet: buss, lastebil, vogntog" />
+      <meta name="ncc:totalElapsedTime" content="13:18:02" />
+      <meta name="ncc:timeInThisSmil" content="0:00:46" />
+      <layout>
+         <region id="txtView" />
+      </layout>
+   </head>
+   <body>
+      <seq dur="45.873s">
+         <par endsync="last" id="tcp9421">
+            <text id="text9421" src="content.html#dtb8881" />
+            <audio src="speechgen0240.mp3" id="audd12318e10" clip-begin="npt=0.000s" clip-end="npt=8.184s" />
+         </par>
+         <par endsync="last" id="tcp9422">
+            <text id="text9422" src="content.html#dtb8882" />
+            <audio src="speechgen0240.mp3" id="audd12318e13" clip-begin="npt=8.184s" clip-end="npt=20.860s" />
+         </par>
+         <par endsync="last" id="tcp9423">
+            <text id="text9423" src="content.html#dtb8883" />
+            <audio src="speechgen0240.mp3" id="audd12318e16" clip-begin="npt=20.860s" clip-end="npt=25.909s" />
+         </par>
+         <par endsync="last" id="tcp9424">
+            <text id="text9424" src="content.html#dtb8884" />
+            <audio src="speechgen0240.mp3" id="audd12318e19" clip-begin="npt=25.909s" clip-end="npt=32.494s" />
+         </par>
+         <par endsync="last" id="tcp9425">
+            <text id="text9425" src="content.html#dtb8885" />
+            <audio src="speechgen0240.mp3" id="audd12318e22" clip-begin="npt=32.494s" clip-end="npt=40.117s" />
+         </par>
+         <par endsync="last" id="tcp9426">
+            <text id="text9426" src="content.html#dtb8886" />
+            <audio src="speechgen0240.mp3" id="audd12318e25" clip-begin="npt=40.117s" clip-end="npt=45.873s" />
+         </par>
+      </seq>
+   </body>
+</smil>

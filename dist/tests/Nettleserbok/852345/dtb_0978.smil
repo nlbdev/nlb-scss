@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+   <head>
+      <meta name="dc:identifier" content="9788232302000"/>
+      <meta name="dc:title" content="Yrke =HO: Vg1 Helse- og oppvekstfag"/>
+      <meta name="dc:format" content="Daisy 2.02"/>
+      <meta name="title" content="Figur: Ulike behov"/>
+      <meta name="ncc:totalElapsedTime" content="06:40:01"/>
+      <meta name="ncc:timeInThisSmil" content="00:00:44"/>
+      <meta name="ncc:generator" content="Regenerator 1.0.28"/>
+      <layout>
+			      <region id="txtView"/>
+		    </layout>
+   </head>
+   <body>
+      <seq dur="43.65s">
+         <par endsync="last" id="rgn_par_0978_0001">
+            <text src="innhold2345.html#rgn_cnt_5904" id="rgn_txt_0978_0001"/>
+            <seq>
+               <audio src="dtb_0978.mp3" clip-begin="npt=0.000s" clip-end="npt=3.999s"
+                      id="rgn_aud_0978_0001"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0978_0002">
+            <text src="innhold2345.html#rgn_cnt_5905" id="rgn_txt_0978_0002"/>
+            <seq>
+               <audio src="dtb_0978.mp3" clip-begin="npt=3.999s" clip-end="npt=7.996s"
+                      id="rgn_aud_0978_0002"/>
+               <audio src="dtb_0978.mp3" clip-begin="npt=7.996s" clip-end="npt=11.862s"
+                      id="rgn_aud_0978_0003"/>
+               <audio src="dtb_0978.mp3" clip-begin="npt=11.862s" clip-end="npt=24.112s"
+                      id="rgn_aud_0978_0004"/>
+               <audio src="dtb_0978.mp3" clip-begin="npt=24.112s" clip-end="npt=28.852s"
+                      id="rgn_aud_0978_0005"/>
+               <audio src="dtb_0978.mp3" clip-begin="npt=28.852s" clip-end="npt=40.851s"
+                      id="rgn_aud_0978_0006"/>
+            </seq>
+         </par>
+         <par endsync="last" id="rgn_par_0978_0003">
+            <text src="innhold2345.html#rgn_cnt_5906" id="rgn_txt_0978_0003"/>
+            <seq>
+               <audio src="dtb_0978.mp3" clip-begin="npt=40.851s" clip-end="npt=43.650s"
+                      id="rgn_aud_0978_0007"/>
+            </seq>
+         </par>
+      </seq>
+   </body>
+</smil>

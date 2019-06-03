@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+  <head>
+    <meta name="dc:title" content="THE BOY IN THE STRIPED PYJAMAS" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="dc:identifier" content="624755" />
+    <meta name="ncc:totalElapsedTime" content="00:00:00.000" />
+    <meta name="ncc:timeInThisSmil" content="05:48:26.765" />
+    <meta name="ncc:generator" content="Hindenburg ABC Studio 1.26.2164" />
+    <layout>
+      <region id="txtView" />
+    </layout>
+  </head>
+  <body>
+    <ref title="THE BOY IN THE STRIPED PYJAMAS" src="s001.smil" id="smil001" />
+    <ref title="The Audiobook Agreement" src="s002.smil" id="smil002" />
+    <ref title="Book information" src="s003.smil" id="smil003" />
+    <ref title="DAISY-book information" src="s004.smil" id="smil004" />
+    <ref title="Book jacket" src="s005.smil" id="smil005" />
+    <ref title="Acknowledgements" src="s006.smil" id="smil006" />
+    <ref title="Chapter One Bruno Makes a Discovery" src="s007.smil" id="smil007" />
+    <ref title="Chapter Two The New House" src="s008.smil" id="smil008" />
+    <ref title="Chapter Three The Hopeless Case" src="s009.smil" id="smil009" />
+    <ref title="Chapter Four What They Saw Through the Window" src="s010.smil" id="smil010" />
+    <ref title="Chapter Five Out Of Bounds At All Times And No Exceptions" src="s011.smil" id="smil011" />
+    <ref title="Chapter Six The Overpaid Maid" src="s012.smil" id="smil012" />
+    <ref title="Chapter Seven How Mother Took Credit for Something That She Hadn&#8217;t Done" src="s013.smil" id="smil013" />
+    <ref title="Chapter Eight Why Grandmother Stormed Out" src="s014.smil" id="smil014" />
+    <ref title="Chapter Nine Bruno Remembers That He Used to Enjoy Exploration" src="s015.smil" id="smil015" />
+    <ref title="Chapter Ten The Dot That Became a Speck That Became a Blob That Became a Figure That  Became a Boy" src="s016.smil" id="smil016" />
+    <ref title="Chapter Eleven The Fury" src="s017.smil" id="smil017" />
+    <ref title="Chapter Twelve Shmuel Thinks of an Answer to Bruno&#8217;s Question" src="s018.smil" id="smil018" />
+    <ref title="Chapter Thirteen The Bottle of Wine" src="s019.smil" id="smil019" />
+    <ref title="Chapter Fourteen Bruno Tells a Perfectly Reasonable Lie" src="s020.smil" id="smil020" />
+    <ref title="Chapter Fifteen Something He Shouldn&#8217;t Have Done" src="s021.smil" id="smil021" />
+    <ref title="Chapter Sixteen The Haircut" src="s022.smil" id="smil022" />
+    <ref title="Chapter Seventeen Mother Gets Her Own Way" src="s023.smil" id="smil023" />
+    <ref title="Chapter Eighteen Thinking Up the Final Adventure" src="s024.smil" id="smil024" />
+    <ref title="Chapter Nineteen What Happened the Next Day" src="s025.smil" id="smil025" />
+    <ref title="Chapter Twenty The Last Chapter" src="s026.smil" id="smil026" />
+    <ref title="THE END" src="s027.smil" id="smil027" />
+  </body>
+</smil>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd" []>
+<smil>
+   <head>
+      <meta name="ncc:generator" content="DMFC z3986-2005 to Daisy 2.02 (smil2smil v0.2)" />
+      <meta name="dc:format" content="Daisy 2.02" />
+      <meta name="dc:identifier" content="214286" />
+      <meta name="title" content="8.6 Analyseteknikker for sammenheng mellom variabler" />
+      <meta name="dc:title" content="Metode og dataanalyse" />
+      <meta name="ncc:totalElapsedTime" content="9:08:57" />
+      <meta name="ncc:timeInThisSmil" content="0:00:08" />
+      <layout>
+         <region id="txtView" />
+      </layout>
+   </head>
+   <body>
+      <seq dur="8.467s">
+         <par endsync="last" id="tcp4041">
+            <text id="text4041" src="content.html#dtb4136" />
+            <audio src="speechgen0147.mp3" id="audd5398e10" clip-begin="npt=0.000s" clip-end="npt=8.467s" />
+         </par>
+      </seq>
+   </body>
+</smil>

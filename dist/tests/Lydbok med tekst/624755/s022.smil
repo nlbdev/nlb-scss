@@ -1,0 +1,939 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd"[]>
+<smil>
+  <head>
+    <meta name="dc:title" content="THE BOY IN THE STRIPED PYJAMAS" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="dc:identifier" content="624755" />
+    <meta name="ncc:totalElapsedTime" content="04:44:13.489" />
+    <meta name="ncc:timeInThisSmil" content="00:15:10.747" />
+    <meta name="ncc:generator" content="Hindenburg ABC Studio 1.26.2164" />
+    <layout>
+      <region id="txtView" />
+    </layout>
+  </head>
+  <body>
+    <seq id="main" dur="910.747s">
+      <par endsync="last" id="parS1">
+        <text id="d1534e4522-0" src="624755.html#d1534e4522-0" />
+        <audio id="audd1534e4522-0" clip-begin="npt=0.000s" clip-end="npt=5.178s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS2">
+        <text id="hix01180" src="624755.html#hix01180" />
+        <audio id="audhix01180" clip-begin="npt=5.178s" clip-end="npt=11.600s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS3">
+        <text id="hix01180s2" src="624755.html#hix01180s2" />
+        <audio id="audhix01180s2" clip-begin="npt=11.600s" clip-end="npt=16.280s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS4">
+        <text id="hix01180s3" src="624755.html#hix01180s3" />
+        <audio id="audhix01180s3" clip-begin="npt=16.280s" clip-end="npt=22.760s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS5">
+        <text id="hix01180s4" src="624755.html#hix01180s4" />
+        <audio id="audhix01180s4" clip-begin="npt=22.760s" clip-end="npt=27.840s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS6">
+        <text id="hix01180s5" src="624755.html#hix01180s5" />
+        <audio id="audhix01180s5" clip-begin="npt=27.840s" clip-end="npt=40.645s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS7">
+        <text id="hix01181" src="624755.html#hix01181" />
+        <audio id="audhix01181" clip-begin="npt=40.645s" clip-end="npt=43.160s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS8">
+        <text id="hix01181s2" src="624755.html#hix01181s2" />
+        <audio id="audhix01181s2" clip-begin="npt=43.160s" clip-end="npt=51.520s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS9">
+        <text id="hix01181s3" src="624755.html#hix01181s3" />
+        <audio id="audhix01181s3" clip-begin="npt=51.520s" clip-end="npt=60.142s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS10">
+        <text id="hix01182" src="624755.html#hix01182" />
+        <audio id="audhix01182" clip-begin="npt=60.142s" clip-end="npt=67.440s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS11">
+        <text id="hix01182s2" src="624755.html#hix01182s2" />
+        <audio id="audhix01182s2" clip-begin="npt=67.440s" clip-end="npt=82.272s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par id="par5" system-required="pagenumber-on" endsync="last">
+        <text id="Page_176" src="624755.html#Page_176" />
+        <audio id="aud005" clip-begin="npt=82.272s" clip-end="npt=82.642s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS12">
+        <text id="hix01183" src="624755.html#hix01183" />
+        <audio id="audhix01183" clip-begin="npt=82.642s" clip-end="npt=91.383s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS13">
+        <text id="hix01184" src="624755.html#hix01184" />
+        <audio id="audhix01184" clip-begin="npt=91.383s" clip-end="npt=96.880s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS14">
+        <text id="hix01184s2" src="624755.html#hix01184s2" />
+        <audio id="audhix01184s2" clip-begin="npt=96.880s" clip-end="npt=98.360s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS15">
+        <text id="hix01184s3" src="624755.html#hix01184s3" />
+        <audio id="audhix01184s3" clip-begin="npt=98.360s" clip-end="npt=103.960s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS16">
+        <text id="hix01184s4" src="624755.html#hix01184s4" />
+        <audio id="audhix01184s4" clip-begin="npt=103.960s" clip-end="npt=106.280s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS17">
+        <text id="hix01184s5" src="624755.html#hix01184s5" />
+        <audio id="audhix01184s5" clip-begin="npt=106.280s" clip-end="npt=110.520s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS18">
+        <text id="hix01184s6" src="624755.html#hix01184s6" />
+        <audio id="audhix01184s6" clip-begin="npt=110.520s" clip-end="npt=113.200s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS19">
+        <text id="hix01184s7" src="624755.html#hix01184s7" />
+        <audio id="audhix01184s7" clip-begin="npt=113.200s" clip-end="npt=115.000s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS20">
+        <text id="hix01184s8" src="624755.html#hix01184s8" />
+        <audio id="audhix01184s8" clip-begin="npt=115.000s" clip-end="npt=120.317s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS21">
+        <text id="hix01185" src="624755.html#hix01185" />
+        <audio id="audhix01185" clip-begin="npt=120.317s" clip-end="npt=129.080s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS22">
+        <text id="hix01185s2" src="624755.html#hix01185s2" />
+        <audio id="audhix01185s2" clip-begin="npt=129.080s" clip-end="npt=136.852s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS23">
+        <text id="hix01186" src="624755.html#hix01186" />
+        <audio id="audhix01186" clip-begin="npt=136.852s" clip-end="npt=140.760s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS24">
+        <text id="hix01186s2" src="624755.html#hix01186s2" />
+        <audio id="audhix01186s2" clip-begin="npt=140.760s" clip-end="npt=150.680s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS25">
+        <text id="hix01186s3" src="624755.html#hix01186s3" />
+        <audio id="audhix01186s3" clip-begin="npt=150.680s" clip-end="npt=156.840s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS26">
+        <text id="hix01186s4" src="624755.html#hix01186s4" />
+        <audio id="audhix01186s4" clip-begin="npt=156.840s" clip-end="npt=161.880s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS27">
+        <text id="hix01186s5" src="624755.html#hix01186s5" />
+        <audio id="audhix01186s5" clip-begin="npt=161.880s" clip-end="npt=165.360s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS28">
+        <text id="hix01186s6" src="624755.html#hix01186s6" />
+        <audio id="audhix01186s6" clip-begin="npt=165.360s" clip-end="npt=169.040s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS29">
+        <text id="hix01186s7" src="624755.html#hix01186s7" />
+        <audio id="audhix01186s7" clip-begin="npt=169.040s" clip-end="npt=177.731s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par id="par10" system-required="pagenumber-on" endsync="last">
+        <text id="Page_177" src="624755.html#Page_177" />
+        <audio id="aud010" clip-begin="npt=177.731s" clip-end="npt=178.225s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS30">
+        <text id="hix01187" src="624755.html#hix01187" />
+        <audio id="audhix01187" clip-begin="npt=178.225s" clip-end="npt=186.794s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS31">
+        <text id="hix01188" src="624755.html#hix01188" />
+        <audio id="audhix01188" clip-begin="npt=186.794s" clip-end="npt=197.720s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS32">
+        <text id="hix01188s2" src="624755.html#hix01188s2" />
+        <audio id="audhix01188s2" clip-begin="npt=197.720s" clip-end="npt=206.640s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS33">
+        <text id="hix01188s3" src="624755.html#hix01188s3" />
+        <audio id="audhix01188s3" clip-begin="npt=206.640s" clip-end="npt=207.960s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS34">
+        <text id="hix01188s4" src="624755.html#hix01188s4" />
+        <audio id="audhix01188s4" clip-begin="npt=207.960s" clip-end="npt=209.400s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS35">
+        <text id="hix01188s5" src="624755.html#hix01188s5" />
+        <audio id="audhix01188s5" clip-begin="npt=209.400s" clip-end="npt=220.789s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS36">
+        <text id="hix01189" src="624755.html#hix01189" />
+        <audio id="audhix01189" clip-begin="npt=220.789s" clip-end="npt=227.228s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS37">
+        <text id="hix01190" src="624755.html#hix01190" />
+        <audio id="audhix01190" clip-begin="npt=227.228s" clip-end="npt=237.680s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS38">
+        <text id="hix01190s2" src="624755.html#hix01190s2" />
+        <audio id="audhix01190s2" clip-begin="npt=237.680s" clip-end="npt=243.685s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS39">
+        <text id="hix01191" src="624755.html#hix01191" />
+        <audio id="audhix01191" clip-begin="npt=243.685s" clip-end="npt=245.960s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS40">
+        <text id="hix01191s2" src="624755.html#hix01191s2" />
+        <audio id="audhix01191s2" clip-begin="npt=245.960s" clip-end="npt=249.280s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS41">
+        <text id="hix01191s3" src="624755.html#hix01191s3" />
+        <audio id="audhix01191s3" clip-begin="npt=249.280s" clip-end="npt=250.080s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS42">
+        <text id="hix01191s4" src="624755.html#hix01191s4" />
+        <audio id="audhix01191s4" clip-begin="npt=250.080s" clip-end="npt=254.245s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS43">
+        <text id="hix01192" src="624755.html#hix01192" />
+        <audio id="audhix01192" clip-begin="npt=254.245s" clip-end="npt=257.685s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS44">
+        <text id="hix01193" src="624755.html#hix01193" />
+        <audio id="audhix01193" clip-begin="npt=257.685s" clip-end="npt=264.880s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS45">
+        <text id="hix01193s2" src="624755.html#hix01193s2" />
+        <audio id="audhix01193s2" clip-begin="npt=264.880s" clip-end="npt=267.438s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par id="par18" system-required="pagenumber-on" endsync="last">
+        <text id="Page_178" src="624755.html#Page_178" />
+        <audio id="aud018" clip-begin="npt=267.438s" clip-end="npt=267.806s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS46">
+        <text id="hix01194" src="624755.html#hix01194" />
+        <audio id="audhix01194" clip-begin="npt=267.806s" clip-end="npt=272.059s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS47">
+        <text id="hix01195" src="624755.html#hix01195" />
+        <audio id="audhix01195" clip-begin="npt=272.059s" clip-end="npt=277.060s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS48">
+        <text id="hix01196" src="624755.html#hix01196" />
+        <audio id="audhix01196" clip-begin="npt=277.060s" clip-end="npt=278.440s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS49">
+        <text id="hix01196s2" src="624755.html#hix01196s2" />
+        <audio id="audhix01196s2" clip-begin="npt=278.440s" clip-end="npt=280.880s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS50">
+        <text id="hix01196s3" src="624755.html#hix01196s3" />
+        <audio id="audhix01196s3" clip-begin="npt=280.880s" clip-end="npt=285.960s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS51">
+        <text id="hix01196s4" src="624755.html#hix01196s4" />
+        <audio id="audhix01196s4" clip-begin="npt=285.960s" clip-end="npt=287.120s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS52">
+        <text id="hix01196s5" src="624755.html#hix01196s5" />
+        <audio id="audhix01196s5" clip-begin="npt=287.120s" clip-end="npt=288.400s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS53">
+        <text id="hix01196s6" src="624755.html#hix01196s6" />
+        <audio id="audhix01196s6" clip-begin="npt=288.400s" clip-end="npt=290.440s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS54">
+        <text id="hix01196s7" src="624755.html#hix01196s7" />
+        <audio id="audhix01196s7" clip-begin="npt=290.440s" clip-end="npt=295.309s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS55">
+        <text id="hix01197" src="624755.html#hix01197" />
+        <audio id="audhix01197" clip-begin="npt=295.309s" clip-end="npt=308.160s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS56">
+        <text id="hix01197s2" src="624755.html#hix01197s2" />
+        <audio id="audhix01197s2" clip-begin="npt=308.160s" clip-end="npt=312.400s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS57">
+        <text id="hix01197s3" src="624755.html#hix01197s3" />
+        <audio id="audhix01197s3" clip-begin="npt=312.400s" clip-end="npt=313.200s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS58">
+        <text id="hix01197s4" src="624755.html#hix01197s4" />
+        <audio id="audhix01197s4" clip-begin="npt=313.200s" clip-end="npt=315.000s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS59">
+        <text id="hix01197s5" src="624755.html#hix01197s5" />
+        <audio id="audhix01197s5" clip-begin="npt=315.000s" clip-end="npt=317.807s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS60">
+        <text id="hix01198" src="624755.html#hix01198" />
+        <audio id="audhix01198" clip-begin="npt=317.807s" clip-end="npt=322.160s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS61">
+        <text id="hix01198s2" src="624755.html#hix01198s2" />
+        <audio id="audhix01198s2" clip-begin="npt=322.160s" clip-end="npt=325.308s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS62">
+        <text id="hix01199" src="624755.html#hix01199" />
+        <audio id="audhix01199" clip-begin="npt=325.308s" clip-end="npt=335.240s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS63">
+        <text id="hix01199s2" src="624755.html#hix01199s2" />
+        <audio id="audhix01199s2" clip-begin="npt=335.240s" clip-end="npt=346.160s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS64">
+        <text id="hix01199s3" src="624755.html#hix01199s3" />
+        <audio id="audhix01199s3" clip-begin="npt=346.160s" clip-end="npt=350.000s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS65">
+        <text id="hix01199s4" src="624755.html#hix01199s4" />
+        <audio id="audhix01199s4" clip-begin="npt=350.000s" clip-end="npt=353.060s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS66">
+        <text id="hix01200" src="624755.html#hix01200" />
+        <audio id="audhix01200" clip-begin="npt=353.060s" clip-end="npt=360.760s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS67">
+        <text id="hix01200s2" src="624755.html#hix01200s2" />
+        <audio id="audhix01200s2" clip-begin="npt=360.760s" clip-end="npt=364.720s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS68">
+        <text id="hix01200s3" src="624755.html#hix01200s3" />
+        <audio id="audhix01200s3" clip-begin="npt=364.720s" clip-end="npt=366.400s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS69">
+        <text id="hix01200s4" src="624755.html#hix01200s4" />
+        <audio id="audhix01200s4" clip-begin="npt=366.400s" clip-end="npt=370.920s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS70">
+        <text id="hix01200s5" src="624755.html#hix01200s5" />
+        <audio id="audhix01200s5" clip-begin="npt=370.920s" clip-end="npt=378.935s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par id="par26" system-required="pagenumber-on" endsync="last">
+        <text id="Page_179" src="624755.html#Page_179" />
+        <audio id="aud026" clip-begin="npt=378.935s" clip-end="npt=379.373s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS71">
+        <text id="hix01201" src="624755.html#hix01201" />
+        <audio id="audhix01201" clip-begin="npt=379.373s" clip-end="npt=385.880s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS72">
+        <text id="hix01201s2" src="624755.html#hix01201s2" />
+        <audio id="audhix01201s2" clip-begin="npt=385.880s" clip-end="npt=394.000s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS73">
+        <text id="hix01201s3" src="624755.html#hix01201s3" />
+        <audio id="audhix01201s3" clip-begin="npt=394.000s" clip-end="npt=396.960s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS74">
+        <text id="hix01201s4" src="624755.html#hix01201s4" />
+        <audio id="audhix01201s4" clip-begin="npt=396.960s" clip-end="npt=398.120s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS75">
+        <text id="hix01201s5" src="624755.html#hix01201s5" />
+        <audio id="audhix01201s5" clip-begin="npt=398.120s" clip-end="npt=401.760s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS76">
+        <text id="hix01201s6" src="624755.html#hix01201s6" />
+        <audio id="audhix01201s6" clip-begin="npt=401.760s" clip-end="npt=404.618s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS77">
+        <text id="hix01202" src="624755.html#hix01202" />
+        <audio id="audhix01202" clip-begin="npt=404.618s" clip-end="npt=408.200s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS78">
+        <text id="hix01202s2" src="624755.html#hix01202s2" />
+        <audio id="audhix01202s2" clip-begin="npt=408.200s" clip-end="npt=414.188s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS79">
+        <text id="hix01203" src="624755.html#hix01203" />
+        <audio id="audhix01203" clip-begin="npt=414.188s" clip-end="npt=417.560s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS80">
+        <text id="hix01203s2" src="624755.html#hix01203s2" />
+        <audio id="audhix01203s2" clip-begin="npt=417.560s" clip-end="npt=419.480s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS81">
+        <text id="hix01203s3" src="624755.html#hix01203s3" />
+        <audio id="audhix01203s3" clip-begin="npt=419.480s" clip-end="npt=421.617s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS82">
+        <text id="hix01204" src="624755.html#hix01204" />
+        <audio id="audhix01204" clip-begin="npt=421.617s" clip-end="npt=424.810s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS83">
+        <text id="hix01205" src="624755.html#hix01205" />
+        <audio id="audhix01205" clip-begin="npt=424.810s" clip-end="npt=427.244s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS84">
+        <text id="hix01206" src="624755.html#hix01206" />
+        <audio id="audhix01206" clip-begin="npt=427.244s" clip-end="npt=434.200s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS85">
+        <text id="hix01206s2" src="624755.html#hix01206s2" />
+        <audio id="audhix01206s2" clip-begin="npt=434.200s" clip-end="npt=438.872s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS86">
+        <text id="hix01207" src="624755.html#hix01207" />
+        <audio id="audhix01207" clip-begin="npt=438.872s" clip-end="npt=442.120s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS87">
+        <text id="hix01207s2" src="624755.html#hix01207s2" />
+        <audio id="audhix01207s2" clip-begin="npt=442.120s" clip-end="npt=444.870s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS88">
+        <text id="hix01208" src="624755.html#hix01208" />
+        <audio id="audhix01208" clip-begin="npt=444.870s" clip-end="npt=448.184s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS89">
+        <text id="hix01209" src="624755.html#hix01209" />
+        <audio id="audhix01209" clip-begin="npt=448.184s" clip-end="npt=452.240s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS90">
+        <text id="hix01209s2" src="624755.html#hix01209s2" />
+        <audio id="audhix01209s2" clip-begin="npt=452.240s" clip-end="npt=454.808s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS91">
+        <text id="hix01210" src="624755.html#hix01210" />
+        <audio id="audhix01210" clip-begin="npt=454.808s" clip-end="npt=457.400s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS92">
+        <text id="hix01210s2" src="624755.html#hix01210s2" />
+        <audio id="audhix01210s2" clip-begin="npt=457.400s" clip-end="npt=460.040s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS93">
+        <text id="hix01210s3" src="624755.html#hix01210s3" />
+        <audio id="audhix01210s3" clip-begin="npt=460.040s" clip-end="npt=464.869s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par id="par37" system-required="pagenumber-on" endsync="last">
+        <text id="Page_180" src="624755.html#Page_180" />
+        <audio id="aud037" clip-begin="npt=464.869s" clip-end="npt=465.617s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS94">
+        <text id="hix01211" src="624755.html#hix01211" />
+        <audio id="audhix01211" clip-begin="npt=465.617s" clip-end="npt=468.435s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS95">
+        <text id="hix01212" src="624755.html#hix01212" />
+        <audio id="audhix01212" clip-begin="npt=468.435s" clip-end="npt=472.185s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS96">
+        <text id="hix01213" src="624755.html#hix01213" />
+        <audio id="audhix01213" clip-begin="npt=472.185s" clip-end="npt=474.760s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS97">
+        <text id="hix01213s2" src="624755.html#hix01213s2" />
+        <audio id="audhix01213s2" clip-begin="npt=474.760s" clip-end="npt=477.680s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS98">
+        <text id="hix01214" src="624755.html#hix01214" />
+        <audio id="audhix01214" clip-begin="npt=477.680s" clip-end="npt=481.400s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS99">
+        <text id="hix01214s2" src="624755.html#hix01214s2" />
+        <audio id="audhix01214s2" clip-begin="npt=481.400s" clip-end="npt=484.800s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS100">
+        <text id="hix01215" src="624755.html#hix01215" />
+        <audio id="audhix01215" clip-begin="npt=484.800s" clip-end="npt=487.800s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS101">
+        <text id="hix01215s2" src="624755.html#hix01215s2" />
+        <audio id="audhix01215s2" clip-begin="npt=487.800s" clip-end="npt=488.240s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS102">
+        <text id="hix01215s3" src="624755.html#hix01215s3" />
+        <audio id="audhix01215s3" clip-begin="npt=488.240s" clip-end="npt=491.520s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS103">
+        <text id="hix01215s4" src="624755.html#hix01215s4" />
+        <audio id="audhix01215s4" clip-begin="npt=491.520s" clip-end="npt=492.960s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS104">
+        <text id="hix01215s5" src="624755.html#hix01215s5" />
+        <audio id="audhix01215s5" clip-begin="npt=492.960s" clip-end="npt=495.480s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS105">
+        <text id="hix01215s6" src="624755.html#hix01215s6" />
+        <audio id="audhix01215s6" clip-begin="npt=495.480s" clip-end="npt=498.800s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS106">
+        <text id="hix01215s7" src="624755.html#hix01215s7" />
+        <audio id="audhix01215s7" clip-begin="npt=498.800s" clip-end="npt=500.472s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS107">
+        <text id="hix01216" src="624755.html#hix01216" />
+        <audio id="audhix01216" clip-begin="npt=500.472s" clip-end="npt=505.880s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS108">
+        <text id="hix01216s2" src="624755.html#hix01216s2" />
+        <audio id="audhix01216s2" clip-begin="npt=505.880s" clip-end="npt=508.080s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS109">
+        <text id="hix01216s3" src="624755.html#hix01216s3" />
+        <audio id="audhix01216s3" clip-begin="npt=508.080s" clip-end="npt=511.349s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS110">
+        <text id="hix01217" src="624755.html#hix01217" />
+        <audio id="audhix01217" clip-begin="npt=511.349s" clip-end="npt=516.200s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS111">
+        <text id="hix01217s2" src="624755.html#hix01217s2" />
+        <audio id="audhix01217s2" clip-begin="npt=516.200s" clip-end="npt=520.596s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS112">
+        <text id="hix01218" src="624755.html#hix01218" />
+        <audio id="audhix01218" clip-begin="npt=520.596s" clip-end="npt=523.760s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS113">
+        <text id="hix01218s2" src="624755.html#hix01218s2" />
+        <audio id="audhix01218s2" clip-begin="npt=523.760s" clip-end="npt=528.400s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS114">
+        <text id="hix01218s3" src="624755.html#hix01218s3" />
+        <audio id="audhix01218s3" clip-begin="npt=528.400s" clip-end="npt=533.318s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS115">
+        <text id="hix01219" src="624755.html#hix01219" />
+        <audio id="audhix01219" clip-begin="npt=533.318s" clip-end="npt=538.520s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS116">
+        <text id="hix01219s2" src="624755.html#hix01219s2" />
+        <audio id="audhix01219s2" clip-begin="npt=538.520s" clip-end="npt=542.004s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS117">
+        <text id="hix01220" src="624755.html#hix01220" />
+        <audio id="audhix01220" clip-begin="npt=542.004s" clip-end="npt=547.840s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS118">
+        <text id="hix01220s2" src="624755.html#hix01220s2" />
+        <audio id="audhix01220s2" clip-begin="npt=547.840s" clip-end="npt=550.400s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS119">
+        <text id="hix01220s3" src="624755.html#hix01220s3" />
+        <audio id="audhix01220s3" clip-begin="npt=550.400s" clip-end="npt=556.400s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS120">
+        <text id="hix01220s4" src="624755.html#hix01220s4" />
+        <audio id="audhix01220s4" clip-begin="npt=556.400s" clip-end="npt=559.756s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS121">
+        <text id="hix01221" src="624755.html#hix01221" />
+        <audio id="audhix01221" clip-begin="npt=559.756s" clip-end="npt=566.160s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS122">
+        <text id="hix01221s2" src="624755.html#hix01221s2" />
+        <audio id="audhix01221s2" clip-begin="npt=566.160s" clip-end="npt=569.504s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par id="par49" system-required="pagenumber-on" endsync="last">
+        <text id="Page_181" src="624755.html#Page_181" />
+        <audio id="aud049" clip-begin="npt=569.504s" clip-end="npt=569.815s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS123">
+        <text id="hix01222" src="624755.html#hix01222" />
+        <audio id="audhix01222" clip-begin="npt=569.815s" clip-end="npt=574.939s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS124">
+        <text id="hix01223" src="624755.html#hix01223" />
+        <audio id="audhix01223" clip-begin="npt=574.939s" clip-end="npt=576.720s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS125">
+        <text id="hix01223s2" src="624755.html#hix01223s2" />
+        <audio id="audhix01223s2" clip-begin="npt=576.720s" clip-end="npt=577.564s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS126">
+        <text id="hix01224" src="624755.html#hix01224" />
+        <audio id="audhix01224" clip-begin="npt=577.564s" clip-end="npt=578.600s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS127">
+        <text id="hix01224s2" src="624755.html#hix01224s2" />
+        <audio id="audhix01224s2" clip-begin="npt=578.600s" clip-end="npt=579.120s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS128">
+        <text id="hix01224s3" src="624755.html#hix01224s3" />
+        <audio id="audhix01224s3" clip-begin="npt=579.120s" clip-end="npt=581.240s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS129">
+        <text id="hix01224s4" src="624755.html#hix01224s4" />
+        <audio id="audhix01224s4" clip-begin="npt=581.240s" clip-end="npt=583.253s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS130">
+        <text id="hix01225" src="624755.html#hix01225" />
+        <audio id="audhix01225" clip-begin="npt=583.253s" clip-end="npt=586.280s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS131">
+        <text id="hix01225s2" src="624755.html#hix01225s2" />
+        <audio id="audhix01225s2" clip-begin="npt=586.280s" clip-end="npt=587.195s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS132">
+        <text id="hix01226" src="624755.html#hix01226" />
+        <audio id="audhix01226" clip-begin="npt=587.195s" clip-end="npt=590.600s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS133">
+        <text id="hix01226s2" src="624755.html#hix01226s2" />
+        <audio id="audhix01226s2" clip-begin="npt=590.600s" clip-end="npt=593.920s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS134">
+        <text id="hix01226s3" src="624755.html#hix01226s3" />
+        <audio id="audhix01226s3" clip-begin="npt=593.920s" clip-end="npt=594.360s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS135">
+        <text id="hix01226s4" src="624755.html#hix01226s4" />
+        <audio id="audhix01226s4" clip-begin="npt=594.360s" clip-end="npt=597.280s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS136">
+        <text id="hix01226s5" src="624755.html#hix01226s5" />
+        <audio id="audhix01226s5" clip-begin="npt=597.280s" clip-end="npt=599.760s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS137">
+        <text id="hix01226s6" src="624755.html#hix01226s6" />
+        <audio id="audhix01226s6" clip-begin="npt=599.760s" clip-end="npt=604.480s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS138">
+        <text id="hix01226s7" src="624755.html#hix01226s7" />
+        <audio id="audhix01226s7" clip-begin="npt=604.480s" clip-end="npt=606.720s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS139">
+        <text id="hix01226s8" src="624755.html#hix01226s8" />
+        <audio id="audhix01226s8" clip-begin="npt=606.720s" clip-end="npt=608.080s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS140">
+        <text id="hix01226s9" src="624755.html#hix01226s9" />
+        <audio id="audhix01226s9" clip-begin="npt=608.080s" clip-end="npt=611.240s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS141">
+        <text id="hix01226s10" src="624755.html#hix01226s10" />
+        <audio id="audhix01226s10" clip-begin="npt=611.240s" clip-end="npt=615.690s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS142">
+        <text id="hix01227" src="624755.html#hix01227" />
+        <audio id="audhix01227" clip-begin="npt=615.690s" clip-end="npt=617.200s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS143">
+        <text id="hix01227s2" src="624755.html#hix01227s2" />
+        <audio id="audhix01227s2" clip-begin="npt=617.200s" clip-end="npt=619.128s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS144">
+        <text id="hix01228" src="624755.html#hix01228" />
+        <audio id="audhix01228" clip-begin="npt=619.128s" clip-end="npt=621.502s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS145">
+        <text id="hix01229" src="624755.html#hix01229" />
+        <audio id="audhix01229" clip-begin="npt=621.502s" clip-end="npt=624.120s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS146">
+        <text id="hix01229s2" src="624755.html#hix01229s2" />
+        <audio id="audhix01229s2" clip-begin="npt=624.120s" clip-end="npt=626.840s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS147">
+        <text id="hix01229s3" src="624755.html#hix01229s3" />
+        <audio id="audhix01229s3" clip-begin="npt=626.840s" clip-end="npt=628.000s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS148">
+        <text id="hix01229s4" src="624755.html#hix01229s4" />
+        <audio id="audhix01229s4" clip-begin="npt=628.000s" clip-end="npt=629.400s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS149">
+        <text id="hix01229s5" src="624755.html#hix01229s5" />
+        <audio id="audhix01229s5" clip-begin="npt=629.400s" clip-end="npt=630.200s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS150">
+        <text id="hix01229s6" src="624755.html#hix01229s6" />
+        <audio id="audhix01229s6" clip-begin="npt=630.200s" clip-end="npt=633.040s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS151">
+        <text id="hix01229s7" src="624755.html#hix01229s7" />
+        <audio id="audhix01229s7" clip-begin="npt=633.040s" clip-end="npt=635.695s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS152">
+        <text id="hix01230" src="624755.html#hix01230" />
+        <audio id="audhix01230" clip-begin="npt=635.695s" clip-end="npt=638.960s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS153">
+        <text id="hix01230s2" src="624755.html#hix01230s2" />
+        <audio id="audhix01230s2" clip-begin="npt=638.960s" clip-end="npt=640.129s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS154">
+        <text id="hix01231" src="624755.html#hix01231" />
+        <audio id="audhix01231" clip-begin="npt=640.129s" clip-end="npt=643.560s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS155">
+        <text id="hix01231s2" src="624755.html#hix01231s2" />
+        <audio id="audhix01231s2" clip-begin="npt=643.560s" clip-end="npt=645.200s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS156">
+        <text id="hix01231s3" src="624755.html#hix01231s3" />
+        <audio id="audhix01231s3" clip-begin="npt=645.200s" clip-end="npt=648.480s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS157">
+        <text id="hix01231s4" src="624755.html#hix01231s4" />
+        <audio id="audhix01231s4" clip-begin="npt=648.480s" clip-end="npt=652.480s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS158">
+        <text id="hix01231s5" src="624755.html#hix01231s5" />
+        <audio id="audhix01231s5" clip-begin="npt=652.480s" clip-end="npt=658.005s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS159">
+        <text id="hix01232" src="624755.html#hix01232" />
+        <audio id="audhix01232" clip-begin="npt=658.005s" clip-end="npt=662.760s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS160">
+        <text id="hix01232s2" src="624755.html#hix01232s2" />
+        <audio id="audhix01232s2" clip-begin="npt=662.760s" clip-end="npt=665.280s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS161">
+        <text id="hix01232s3" src="624755.html#hix01232s3" />
+        <audio id="audhix01232s3" clip-begin="npt=665.280s" clip-end="npt=667.400s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS162">
+        <text id="hix01232s4" src="624755.html#hix01232s4" />
+        <audio id="audhix01232s4" clip-begin="npt=667.400s" clip-end="npt=673.520s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS163">
+        <text id="hix01232s5" src="624755.html#hix01232s5" />
+        <audio id="audhix01232s5" clip-begin="npt=673.520s" clip-end="npt=676.680s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS164">
+        <text id="hix01232s6" src="624755.html#hix01232s6" />
+        <audio id="audhix01232s6" clip-begin="npt=676.680s" clip-end="npt=678.120s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS165">
+        <text id="hix01232s7" src="624755.html#hix01232s7" />
+        <audio id="audhix01232s7" clip-begin="npt=678.120s" clip-end="npt=679.560s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS166">
+        <text id="hix01232s8" src="624755.html#hix01232s8" />
+        <audio id="audhix01232s8" clip-begin="npt=679.560s" clip-end="npt=681.548s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par id="par61" system-required="pagenumber-on" endsync="last">
+        <text id="Page_182" src="624755.html#Page_182" />
+        <audio id="aud061" clip-begin="npt=681.548s" clip-end="npt=682.611s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS167">
+        <text id="hix01233" src="624755.html#hix01233" />
+        <audio id="audhix01233" clip-begin="npt=682.611s" clip-end="npt=685.000s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS168">
+        <text id="hix01233s2" src="624755.html#hix01233s2" />
+        <audio id="audhix01233s2" clip-begin="npt=685.000s" clip-end="npt=688.000s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS169">
+        <text id="hix01233s3" src="624755.html#hix01233s3" />
+        <audio id="audhix01233s3" clip-begin="npt=688.000s" clip-end="npt=693.671s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS170">
+        <text id="hix01234" src="624755.html#hix01234" />
+        <audio id="audhix01234" clip-begin="npt=693.671s" clip-end="npt=695.160s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS171">
+        <text id="hix01234s2" src="624755.html#hix01234s2" />
+        <audio id="audhix01234s2" clip-begin="npt=695.160s" clip-end="npt=695.670s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS172">
+        <text id="hix01235" src="624755.html#hix01235" />
+        <audio id="audhix01235" clip-begin="npt=695.670s" clip-end="npt=699.450s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS173">
+        <text id="hix01236" src="624755.html#hix01236" />
+        <audio id="audhix01236" clip-begin="npt=699.450s" clip-end="npt=701.320s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS174">
+        <text id="hix01236s2" src="624755.html#hix01236s2" />
+        <audio id="audhix01236s2" clip-begin="npt=701.320s" clip-end="npt=704.160s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS175">
+        <text id="hix01236s3" src="624755.html#hix01236s3" />
+        <audio id="audhix01236s3" clip-begin="npt=704.160s" clip-end="npt=705.538s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS176">
+        <text id="hix01237" src="624755.html#hix01237" />
+        <audio id="audhix01237" clip-begin="npt=705.538s" clip-end="npt=708.800s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS177">
+        <text id="hix01237s2" src="624755.html#hix01237s2" />
+        <audio id="audhix01237s2" clip-begin="npt=708.800s" clip-end="npt=715.478s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS178">
+        <text id="hix01238" src="624755.html#hix01238" />
+        <audio id="audhix01238" clip-begin="npt=715.478s" clip-end="npt=717.680s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS179">
+        <text id="hix01238s2" src="624755.html#hix01238s2" />
+        <audio id="audhix01238s2" clip-begin="npt=717.680s" clip-end="npt=720.098s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS180">
+        <text id="hix01239" src="624755.html#hix01239" />
+        <audio id="audhix01239" clip-begin="npt=720.098s" clip-end="npt=723.475s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS181">
+        <text id="hix01240" src="624755.html#hix01240" />
+        <audio id="audhix01240" clip-begin="npt=723.475s" clip-end="npt=726.720s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS182">
+        <text id="hix01240s2" src="624755.html#hix01240s2" />
+        <audio id="audhix01240s2" clip-begin="npt=726.720s" clip-end="npt=730.223s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS183">
+        <text id="hix01241" src="624755.html#hix01241" />
+        <audio id="audhix01241" clip-begin="npt=730.223s" clip-end="npt=731.880s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS184">
+        <text id="hix01241s2" src="624755.html#hix01241s2" />
+        <audio id="audhix01241s2" clip-begin="npt=731.880s" clip-end="npt=734.560s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS185">
+        <text id="hix01241s3" src="624755.html#hix01241s3" />
+        <audio id="audhix01241s3" clip-begin="npt=734.560s" clip-end="npt=742.227s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS186">
+        <text id="hix01242" src="624755.html#hix01242" />
+        <audio id="audhix01242" clip-begin="npt=742.227s" clip-end="npt=743.960s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS187">
+        <text id="hix01242s2" src="624755.html#hix01242s2" />
+        <audio id="audhix01242s2" clip-begin="npt=743.960s" clip-end="npt=747.166s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS188">
+        <text id="hix01243" src="624755.html#hix01243" />
+        <audio id="audhix01243" clip-begin="npt=747.166s" clip-end="npt=761.916s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS189">
+        <text id="hix01244" src="624755.html#hix01244" />
+        <audio id="audhix01244" clip-begin="npt=761.916s" clip-end="npt=768.400s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS190">
+        <text id="hix01244s2" src="624755.html#hix01244s2" />
+        <audio id="audhix01244s2" clip-begin="npt=768.400s" clip-end="npt=771.560s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS191">
+        <text id="hix01244s3" src="624755.html#hix01244s3" />
+        <audio id="audhix01244s3" clip-begin="npt=771.560s" clip-end="npt=772.680s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS192">
+        <text id="hix01244s4" src="624755.html#hix01244s4" />
+        <audio id="audhix01244s4" clip-begin="npt=772.680s" clip-end="npt=774.120s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS193">
+        <text id="hix01244s5" src="624755.html#hix01244s5" />
+        <audio id="audhix01244s5" clip-begin="npt=774.120s" clip-end="npt=776.920s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS194">
+        <text id="hix01244s6" src="624755.html#hix01244s6" />
+        <audio id="audhix01244s6" clip-begin="npt=776.920s" clip-end="npt=780.910s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par id="par74" system-required="pagenumber-on" endsync="last">
+        <text id="Page_183" src="624755.html#Page_183" />
+        <audio id="aud074" clip-begin="npt=780.910s" clip-end="npt=781.352s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS195">
+        <text id="hix01245" src="624755.html#hix01245" />
+        <audio id="audhix01245" clip-begin="npt=781.352s" clip-end="npt=783.360s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS196">
+        <text id="hix01245s2" src="624755.html#hix01245s2" />
+        <audio id="audhix01245s2" clip-begin="npt=783.360s" clip-end="npt=786.400s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS197">
+        <text id="hix01245s3" src="624755.html#hix01245s3" />
+        <audio id="audhix01245s3" clip-begin="npt=786.400s" clip-end="npt=790.723s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS198">
+        <text id="hix01246" src="624755.html#hix01246" />
+        <audio id="audhix01246" clip-begin="npt=790.723s" clip-end="npt=796.520s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS199">
+        <text id="hix01246s2" src="624755.html#hix01246s2" />
+        <audio id="audhix01246s2" clip-begin="npt=796.520s" clip-end="npt=805.440s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS200">
+        <text id="hix01246s3" src="624755.html#hix01246s3" />
+        <audio id="audhix01246s3" clip-begin="npt=805.440s" clip-end="npt=807.227s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS201">
+        <text id="hix01247" src="624755.html#hix01247" />
+        <audio id="audhix01247" clip-begin="npt=807.227s" clip-end="npt=810.320s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS202">
+        <text id="hix01247s2" src="624755.html#hix01247s2" />
+        <audio id="audhix01247s2" clip-begin="npt=810.320s" clip-end="npt=819.120s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS203">
+        <text id="hix01247s3" src="624755.html#hix01247s3" />
+        <audio id="audhix01247s3" clip-begin="npt=819.120s" clip-end="npt=821.720s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS204">
+        <text id="hix01247s4" src="624755.html#hix01247s4" />
+        <audio id="audhix01247s4" clip-begin="npt=821.720s" clip-end="npt=829.600s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS205">
+        <text id="hix01247s5" src="624755.html#hix01247s5" />
+        <audio id="audhix01247s5" clip-begin="npt=829.600s" clip-end="npt=832.661s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS206">
+        <text id="hix01248" src="624755.html#hix01248" />
+        <audio id="audhix01248" clip-begin="npt=832.661s" clip-end="npt=839.440s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS207">
+        <text id="hix01248s2" src="624755.html#hix01248s2" />
+        <audio id="audhix01248s2" clip-begin="npt=839.440s" clip-end="npt=846.360s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS208">
+        <text id="hix01248s3" src="624755.html#hix01248s3" />
+        <audio id="audhix01248s3" clip-begin="npt=846.360s" clip-end="npt=850.686s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS209">
+        <text id="hix01249" src="624755.html#hix01249" />
+        <audio id="audhix01249" clip-begin="npt=850.686s" clip-end="npt=854.320s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS210">
+        <text id="hix01249s2" src="624755.html#hix01249s2" />
+        <audio id="audhix01249s2" clip-begin="npt=854.320s" clip-end="npt=856.440s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS211">
+        <text id="hix01249s3" src="624755.html#hix01249s3" />
+        <audio id="audhix01249s3" clip-begin="npt=856.440s" clip-end="npt=859.689s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS212">
+        <text id="hix01250" src="624755.html#hix01250" />
+        <audio id="audhix01250" clip-begin="npt=859.689s" clip-end="npt=863.680s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS213">
+        <text id="hix01250s2" src="624755.html#hix01250s2" />
+        <audio id="audhix01250s2" clip-begin="npt=863.680s" clip-end="npt=869.370s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS214">
+        <text id="hix01251" src="624755.html#hix01251" />
+        <audio id="audhix01251" clip-begin="npt=869.370s" clip-end="npt=877.640s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS215">
+        <text id="hix01251s2" src="624755.html#hix01251s2" />
+        <audio id="audhix01251s2" clip-begin="npt=877.640s" clip-end="npt=887.063s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par id="par82" system-required="pagenumber-on" endsync="last">
+        <text id="Page_184" src="624755.html#Page_184" />
+        <audio id="aud082" clip-begin="npt=887.063s" clip-end="npt=887.746s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS216">
+        <text id="hix01252" src="624755.html#hix01252" />
+        <audio id="audhix01252" clip-begin="npt=887.746s" clip-end="npt=894.000s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS217">
+        <text id="hix01252s2" src="624755.html#hix01252s2" />
+        <audio id="audhix01252s2" clip-begin="npt=894.000s" clip-end="npt=897.438s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS218">
+        <text id="hix01253" src="624755.html#hix01253" />
+        <audio id="audhix01253" clip-begin="npt=897.438s" clip-end="npt=903.280s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS219">
+        <text id="hix01253s2" src="624755.html#hix01253s2" />
+        <audio id="audhix01253s2" clip-begin="npt=903.280s" clip-end="npt=905.752s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par endsync="last" id="parS220">
+        <text id="hix01254" src="624755.html#hix01254" />
+        <audio id="audhix01254" clip-begin="npt=905.752s" clip-end="npt=910.184s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+      <par id="par86" system-required="pagenumber-on" endsync="last">
+        <text id="Page_185" src="624755.html#Page_185" />
+        <audio id="aud086" clip-begin="npt=910.184s" clip-end="npt=910.747s" src="22_Chapter_Sixteen_The_Haircut.mp3" />
+      </par>
+    </seq>
+  </body>
+</smil>

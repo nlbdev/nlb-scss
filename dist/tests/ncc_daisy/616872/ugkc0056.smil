@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:06:19.806"/>
+		<meta name="ncc:totalElapsedTime" content="09:23:27.698"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300089122"/>
+		<meta name="title" content="Kapittel 76: En bitte liten maskin"/>
+		<meta name="dc:title" content="AARONS MASKIN"/>
+		<meta name="dc:identifier" content="616872"/>
+	</head>
+	<body>
+		<seq dur="379.806s">
+			<par endsync="last" id="ugkc_01a9">
+				<text src="ncc.html#ugkc_01a8" id="ugkc_01a8"/>
+				<seq>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=0.000s" clip-end="npt=6.609s" id="audio_0001"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=6.609s" clip-end="npt=11.167s" id="audio_0002"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=11.167s" clip-end="npt=19.265s" id="audio_0003"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=19.265s" clip-end="npt=24.490s" id="audio_0004"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=24.490s" clip-end="npt=29.100s" id="audio_0005"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=29.100s" clip-end="npt=33.358s" id="audio_0006"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=33.358s" clip-end="npt=37.747s" id="audio_0007"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=37.747s" clip-end="npt=46.563s" id="audio_0008"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=46.563s" clip-end="npt=51.370s" id="audio_0009"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=51.370s" clip-end="npt=55.830s" id="audio_0010"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=55.830s" clip-end="npt=63.092s" id="audio_0011"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=63.092s" clip-end="npt=71.739s" id="audio_0012"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=71.739s" clip-end="npt=77.476s" id="audio_0013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xgef_0001" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_01d6" id="xgef_0005"/>
+				<seq>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=77.476s" clip-end="npt=78.076s" id="audio_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xgef_000d">
+				<text src="ncc.html#ugkc_01a8" id="xgef_0006"/>
+				<seq>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=78.076s" clip-end="npt=84.292s" id="audio_0015"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=84.292s" clip-end="npt=89.919s" id="audio_0016"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=89.919s" clip-end="npt=95.326s" id="audio_0017"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=95.326s" clip-end="npt=100.668s" id="audio_0018"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=100.668s" clip-end="npt=107.865s" id="audio_0019"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=107.865s" clip-end="npt=112.907s" id="audio_0020"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=112.907s" clip-end="npt=117.465s" id="audio_0021"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=117.465s" clip-end="npt=128.149s" id="audio_0022"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=128.149s" clip-end="npt=144.162s" id="audio_0023"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=144.162s" clip-end="npt=150.340s" id="audio_0024"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=150.340s" clip-end="npt=154.546s" id="audio_0025"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=154.546s" clip-end="npt=164.198s" id="audio_0026"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=164.198s" clip-end="npt=168.221s" id="audio_0027"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=168.221s" clip-end="npt=175.214s" id="audio_0028"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=175.214s" clip-end="npt=183.193s" id="audio_0029"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xgef_0002" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_01d7" id="xgef_0007"/>
+				<seq>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=183.193s" clip-end="npt=183.733s" id="audio_0030"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xgef_000e">
+				<text src="ncc.html#ugkc_01a8" id="xgef_0008"/>
+				<seq>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=183.733s" clip-end="npt=189.503s" id="audio_0031"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=189.503s" clip-end="npt=194.179s" id="audio_0032"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=194.179s" clip-end="npt=199.148s" id="audio_0033"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=199.148s" clip-end="npt=204.072s" id="audio_0034"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=204.072s" clip-end="npt=209.297s" id="audio_0035"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=209.297s" clip-end="npt=220.986s" id="audio_0036"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=220.986s" clip-end="npt=230.690s" id="audio_0037"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=230.690s" clip-end="npt=235.849s" id="audio_0038"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=235.849s" clip-end="npt=242.328s" id="audio_0039"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=242.328s" clip-end="npt=248.871s" id="audio_0040"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=248.871s" clip-end="npt=254.096s" id="audio_0041"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=254.096s" clip-end="npt=260.757s" id="audio_0042"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=260.757s" clip-end="npt=265.856s" id="audio_0043"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=265.856s" clip-end="npt=269.944s" id="audio_0044"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=269.944s" clip-end="npt=276.175s" id="audio_0045"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xgef_0003" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_01d8" id="xgef_0009"/>
+				<seq>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=276.175s" clip-end="npt=276.835s" id="audio_0046"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xgef_000f">
+				<text src="ncc.html#ugkc_01a8" id="xgef_000a"/>
+				<seq>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=276.835s" clip-end="npt=283.166s" id="audio_0047"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=283.166s" clip-end="npt=287.972s" id="audio_0048"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=287.972s" clip-end="npt=293.131s" id="audio_0049"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=293.131s" clip-end="npt=308.008s" id="audio_0050"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=308.008s" clip-end="npt=313.768s" id="audio_0051"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=313.768s" clip-end="npt=321.513s" id="audio_0052"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=321.513s" clip-end="npt=325.588s" id="audio_0053"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=325.588s" clip-end="npt=329.794s" id="audio_0054"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=329.794s" clip-end="npt=337.711s" id="audio_0055"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=337.711s" clip-end="npt=345.743s" id="audio_0056"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=345.743s" clip-end="npt=349.883s" id="audio_0057"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=349.883s" clip-end="npt=355.277s" id="audio_0058"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=355.277s" clip-end="npt=365.243s" id="audio_0059"/>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=365.243s" clip-end="npt=378.374s" id="audio_0060"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xgef_0004" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_01d9" id="xgef_000b"/>
+				<seq>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=378.374s" clip-end="npt=379.034s" id="audio_0061"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xgef_0010">
+				<text src="ncc.html#ugkc_01a8" id="xgef_000c"/>
+				<seq>
+					<audio src="086_Kapittel_76_.mp3" clip-begin="npt=379.034s" clip-end="npt=379.806s" id="audio_0062"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

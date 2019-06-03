@@ -1,0 +1,919 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd"[]>
+<smil>
+  <head>
+    <meta name="dc:title" content="THE BOY IN THE STRIPED PYJAMAS" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="dc:identifier" content="624755" />
+    <meta name="ncc:totalElapsedTime" content="00:19:58.006" />
+    <meta name="ncc:timeInThisSmil" content="00:16:34.813" />
+    <meta name="ncc:generator" content="Hindenburg ABC Studio 1.26.2164" />
+    <layout>
+      <region id="txtView" />
+    </layout>
+  </head>
+  <body>
+    <seq id="main" dur="994.813s">
+      <par endsync="last" id="parS1">
+        <text id="d1534e628-0" src="624755.html#d1534e628-0" />
+        <audio id="audd1534e628-0" clip-begin="npt=0.000s" clip-end="npt=4.119s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS2">
+        <text id="hix00134" src="624755.html#hix00134" />
+        <audio id="audhix00134" clip-begin="npt=4.119s" clip-end="npt=11.120s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS3">
+        <text id="hix00134s2" src="624755.html#hix00134s2" />
+        <audio id="audhix00134s2" clip-begin="npt=11.120s" clip-end="npt=18.560s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS4">
+        <text id="hix00134s3" src="624755.html#hix00134s3" />
+        <audio id="audhix00134s3" clip-begin="npt=18.560s" clip-end="npt=27.136s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS5">
+        <text id="hix00135" src="624755.html#hix00135" />
+        <audio id="audhix00135" clip-begin="npt=27.136s" clip-end="npt=36.320s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS6">
+        <text id="hix00135s2" src="624755.html#hix00135s2" />
+        <audio id="audhix00135s2" clip-begin="npt=36.320s" clip-end="npt=42.920s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS7">
+        <text id="hix00135s3" src="624755.html#hix00135s3" />
+        <audio id="audhix00135s3" clip-begin="npt=42.920s" clip-end="npt=52.160s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS8">
+        <text id="hix00135s4" src="624755.html#hix00135s4" />
+        <audio id="audhix00135s4" clip-begin="npt=52.160s" clip-end="npt=53.520s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS9">
+        <text id="hix00135s5" src="624755.html#hix00135s5" />
+        <audio id="audhix00135s5" clip-begin="npt=53.520s" clip-end="npt=54.760s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS10">
+        <text id="hix00135s6" src="624755.html#hix00135s6" />
+        <audio id="audhix00135s6" clip-begin="npt=54.760s" clip-end="npt=58.520s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS11">
+        <text id="hix00135s7" src="624755.html#hix00135s7" />
+        <audio id="audhix00135s7" clip-begin="npt=58.520s" clip-end="npt=62.920s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS12">
+        <text id="hix00135s8" src="624755.html#hix00135s8" />
+        <audio id="audhix00135s8" clip-begin="npt=62.920s" clip-end="npt=69.120s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS13">
+        <text id="hix00135s9" src="624755.html#hix00135s9" />
+        <audio id="audhix00135s9" clip-begin="npt=69.120s" clip-end="npt=72.055s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS14">
+        <text id="hix00136" src="624755.html#hix00136" />
+        <audio id="audhix00136" clip-begin="npt=72.055s" clip-end="npt=75.680s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS15">
+        <text id="hix00136s2" src="624755.html#hix00136s2" />
+        <audio id="audhix00136s2" clip-begin="npt=75.680s" clip-end="npt=84.493s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par id="par5" system-required="pagenumber-on" endsync="last">
+        <text id="Page_12" src="624755.html#Page_12" />
+        <audio id="aud005" clip-begin="npt=84.493s" clip-end="npt=85.738s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS16">
+        <text id="hix00137" src="624755.html#hix00137" />
+        <audio id="audhix00137" clip-begin="npt=85.738s" clip-end="npt=90.760s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS17">
+        <text id="hix00137s2" src="624755.html#hix00137s2" />
+        <audio id="audhix00137s2" clip-begin="npt=90.760s" clip-end="npt=97.880s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS18">
+        <text id="hix00137s3" src="624755.html#hix00137s3" />
+        <audio id="audhix00137s3" clip-begin="npt=97.880s" clip-end="npt=98.360s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS19">
+        <text id="hix00137s4" src="624755.html#hix00137s4" />
+        <audio id="audhix00137s4" clip-begin="npt=98.360s" clip-end="npt=106.720s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS20">
+        <text id="hix00137s5" src="624755.html#hix00137s5" />
+        <audio id="audhix00137s5" clip-begin="npt=106.720s" clip-end="npt=108.720s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS21">
+        <text id="hix00137s6" src="624755.html#hix00137s6" />
+        <audio id="audhix00137s6" clip-begin="npt=108.720s" clip-end="npt=112.200s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS22">
+        <text id="hix00137s7" src="624755.html#hix00137s7" />
+        <audio id="audhix00137s7" clip-begin="npt=112.200s" clip-end="npt=113.280s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS23">
+        <text id="hix00137s8" src="624755.html#hix00137s8" />
+        <audio id="audhix00137s8" clip-begin="npt=113.280s" clip-end="npt=116.680s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS24">
+        <text id="hix00137s9" src="624755.html#hix00137s9" />
+        <audio id="audhix00137s9" clip-begin="npt=116.680s" clip-end="npt=121.099s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS25">
+        <text id="hix00138" src="624755.html#hix00138" />
+        <audio id="audhix00138" clip-begin="npt=121.099s" clip-end="npt=125.960s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS26">
+        <text id="hix00138s2" src="624755.html#hix00138s2" />
+        <audio id="audhix00138s2" clip-begin="npt=125.960s" clip-end="npt=136.720s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS27">
+        <text id="hix00138s3" src="624755.html#hix00138s3" />
+        <audio id="audhix00138s3" clip-begin="npt=136.720s" clip-end="npt=137.680s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS28">
+        <text id="hix00138s4" src="624755.html#hix00138s4" />
+        <audio id="audhix00138s4" clip-begin="npt=137.680s" clip-end="npt=140.280s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS29">
+        <text id="hix00138s5" src="624755.html#hix00138s5" />
+        <audio id="audhix00138s5" clip-begin="npt=140.280s" clip-end="npt=143.720s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS30">
+        <text id="hix00138s6" src="624755.html#hix00138s6" />
+        <audio id="audhix00138s6" clip-begin="npt=143.720s" clip-end="npt=149.000s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS31">
+        <text id="hix00138s7" src="624755.html#hix00138s7" />
+        <audio id="audhix00138s7" clip-begin="npt=149.000s" clip-end="npt=149.560s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS32">
+        <text id="hix00138s8" src="624755.html#hix00138s8" />
+        <audio id="audhix00138s8" clip-begin="npt=149.560s" clip-end="npt=152.040s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS33">
+        <text id="hix00138s9" src="624755.html#hix00138s9" />
+        <audio id="audhix00138s9" clip-begin="npt=152.040s" clip-end="npt=155.240s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS34">
+        <text id="hix00138s10" src="624755.html#hix00138s10" />
+        <audio id="audhix00138s10" clip-begin="npt=155.240s" clip-end="npt=159.760s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS35">
+        <text id="hix00138s11" src="624755.html#hix00138s11" />
+        <audio id="audhix00138s11" clip-begin="npt=159.760s" clip-end="npt=162.480s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS36">
+        <text id="hix00138s12" src="624755.html#hix00138s12" />
+        <audio id="audhix00138s12" clip-begin="npt=162.480s" clip-end="npt=170.480s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS37">
+        <text id="hix00138s13" src="624755.html#hix00138s13" />
+        <audio id="audhix00138s13" clip-begin="npt=170.480s" clip-end="npt=177.720s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS38">
+        <text id="hix00138s14" src="624755.html#hix00138s14" />
+        <audio id="audhix00138s14" clip-begin="npt=177.720s" clip-end="npt=180.960s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS39">
+        <text id="hix00138s15" src="624755.html#hix00138s15" />
+        <audio id="audhix00138s15" clip-begin="npt=180.960s" clip-end="npt=183.280s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS40">
+        <text id="hix00138s16" src="624755.html#hix00138s16" />
+        <audio id="audhix00138s16" clip-begin="npt=183.280s" clip-end="npt=189.966s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par id="par8" system-required="pagenumber-on" endsync="last">
+        <text id="Page_13" src="624755.html#Page_13" />
+        <audio id="aud008" clip-begin="npt=189.966s" clip-end="npt=190.646s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS41">
+        <text id="hix00139" src="624755.html#hix00139" />
+        <audio id="audhix00139" clip-begin="npt=190.646s" clip-end="npt=194.440s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS42">
+        <text id="hix00139s2" src="624755.html#hix00139s2" />
+        <audio id="audhix00139s2" clip-begin="npt=194.440s" clip-end="npt=198.360s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS43">
+        <text id="hix00139s3" src="624755.html#hix00139s3" />
+        <audio id="audhix00139s3" clip-begin="npt=198.360s" clip-end="npt=202.520s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS44">
+        <text id="hix00139s4" src="624755.html#hix00139s4" />
+        <audio id="audhix00139s4" clip-begin="npt=202.520s" clip-end="npt=204.147s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS45">
+        <text id="hix00140" src="624755.html#hix00140" />
+        <audio id="audhix00140" clip-begin="npt=204.147s" clip-end="npt=209.280s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS46">
+        <text id="hix00140s2" src="624755.html#hix00140s2" />
+        <audio id="audhix00140s2" clip-begin="npt=209.280s" clip-end="npt=212.480s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS47">
+        <text id="hix00140s3" src="624755.html#hix00140s3" />
+        <audio id="audhix00140s3" clip-begin="npt=212.480s" clip-end="npt=216.520s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS48">
+        <text id="hix00140s4" src="624755.html#hix00140s4" />
+        <audio id="audhix00140s4" clip-begin="npt=216.520s" clip-end="npt=224.440s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS49">
+        <text id="hix00140s5" src="624755.html#hix00140s5" />
+        <audio id="audhix00140s5" clip-begin="npt=224.440s" clip-end="npt=225.640s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS50">
+        <text id="hix00140s6" src="624755.html#hix00140s6" />
+        <audio id="audhix00140s6" clip-begin="npt=225.640s" clip-end="npt=227.480s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS51">
+        <text id="hix00140s7" src="624755.html#hix00140s7" />
+        <audio id="audhix00140s7" clip-begin="npt=227.480s" clip-end="npt=229.320s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS52">
+        <text id="hix00140s8" src="624755.html#hix00140s8" />
+        <audio id="audhix00140s8" clip-begin="npt=229.320s" clip-end="npt=242.397s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS53">
+        <text id="hix00141" src="624755.html#hix00141" />
+        <audio id="audhix00141" clip-begin="npt=242.397s" clip-end="npt=248.880s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS54">
+        <text id="hix00141s2" src="624755.html#hix00141s2" />
+        <audio id="audhix00141s2" clip-begin="npt=248.880s" clip-end="npt=252.400s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS55">
+        <text id="hix00141s3" src="624755.html#hix00141s3" />
+        <audio id="audhix00141s3" clip-begin="npt=252.400s" clip-end="npt=263.640s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS56">
+        <text id="hix00141s4" src="624755.html#hix00141s4" />
+        <audio id="audhix00141s4" clip-begin="npt=263.640s" clip-end="npt=268.680s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS57">
+        <text id="hix00141s5" src="624755.html#hix00141s5" />
+        <audio id="audhix00141s5" clip-begin="npt=268.680s" clip-end="npt=269.880s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS58">
+        <text id="hix00141s6" src="624755.html#hix00141s6" />
+        <audio id="audhix00141s6" clip-begin="npt=269.880s" clip-end="npt=276.960s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS59">
+        <text id="hix00141s7" src="624755.html#hix00141s7" />
+        <audio id="audhix00141s7" clip-begin="npt=276.960s" clip-end="npt=281.875s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS60">
+        <text id="hix00142" src="624755.html#hix00142" />
+        <audio id="audhix00142" clip-begin="npt=281.875s" clip-end="npt=286.360s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS61">
+        <text id="hix00142s2" src="624755.html#hix00142s2" />
+        <audio id="audhix00142s2" clip-begin="npt=286.360s" clip-end="npt=293.997s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par id="par13" system-required="pagenumber-on" endsync="last">
+        <text id="Page_14" src="624755.html#Page_14" />
+        <audio id="aud013" clip-begin="npt=293.997s" clip-end="npt=294.627s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS62">
+        <text id="hix00143" src="624755.html#hix00143" />
+        <audio id="audhix00143" clip-begin="npt=294.627s" clip-end="npt=298.557s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS63">
+        <text id="hix00144" src="624755.html#hix00144" />
+        <audio id="audhix00144" clip-begin="npt=298.557s" clip-end="npt=306.040s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS64">
+        <text id="hix00144s2" src="624755.html#hix00144s2" />
+        <audio id="audhix00144s2" clip-begin="npt=306.040s" clip-end="npt=311.520s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS65">
+        <text id="hix00144s3" src="624755.html#hix00144s3" />
+        <audio id="audhix00144s3" clip-begin="npt=311.520s" clip-end="npt=318.200s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS66">
+        <text id="hix00144s4" src="624755.html#hix00144s4" />
+        <audio id="audhix00144s4" clip-begin="npt=318.200s" clip-end="npt=321.760s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS67">
+        <text id="hix00144s5" src="624755.html#hix00144s5" />
+        <audio id="audhix00144s5" clip-begin="npt=321.760s" clip-end="npt=327.244s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS68">
+        <text id="hix00145" src="624755.html#hix00145" />
+        <audio id="audhix00145" clip-begin="npt=327.244s" clip-end="npt=332.280s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS69">
+        <text id="hix00145s2" src="624755.html#hix00145s2" />
+        <audio id="audhix00145s2" clip-begin="npt=332.280s" clip-end="npt=336.680s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS70">
+        <text id="hix00145s3" src="624755.html#hix00145s3" />
+        <audio id="audhix00145s3" clip-begin="npt=336.680s" clip-end="npt=342.433s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS71">
+        <text id="hix00146" src="624755.html#hix00146" />
+        <audio id="audhix00146" clip-begin="npt=342.433s" clip-end="npt=344.240s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS72">
+        <text id="hix00146s2" src="624755.html#hix00146s2" />
+        <audio id="audhix00146s2" clip-begin="npt=344.240s" clip-end="npt=346.680s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS73">
+        <text id="hix00146s3" src="624755.html#hix00146s3" />
+        <audio id="audhix00146s3" clip-begin="npt=346.680s" clip-end="npt=352.480s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS74">
+        <text id="hix00146s4" src="624755.html#hix00146s4" />
+        <audio id="audhix00146s4" clip-begin="npt=352.480s" clip-end="npt=353.720s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS75">
+        <text id="hix00146s5" src="624755.html#hix00146s5" />
+        <audio id="audhix00146s5" clip-begin="npt=353.720s" clip-end="npt=360.920s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS76">
+        <text id="hix00146s6" src="624755.html#hix00146s6" />
+        <audio id="audhix00146s6" clip-begin="npt=360.920s" clip-end="npt=362.800s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS77">
+        <text id="hix00146s7" src="624755.html#hix00146s7" />
+        <audio id="audhix00146s7" clip-begin="npt=362.800s" clip-end="npt=369.439s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS78">
+        <text id="hix00147" src="624755.html#hix00147" />
+        <audio id="audhix00147" clip-begin="npt=369.439s" clip-end="npt=371.320s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS79">
+        <text id="hix00147s2" src="624755.html#hix00147s2" />
+        <audio id="audhix00147s2" clip-begin="npt=371.320s" clip-end="npt=374.800s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS80">
+        <text id="hix00147s3" src="624755.html#hix00147s3" />
+        <audio id="audhix00147s3" clip-begin="npt=374.800s" clip-end="npt=381.053s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS81">
+        <text id="hix00148" src="624755.html#hix00148" />
+        <audio id="audhix00148" clip-begin="npt=381.053s" clip-end="npt=385.980s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS82">
+        <text id="hix00149" src="624755.html#hix00149" />
+        <audio id="audhix00149" clip-begin="npt=385.980s" clip-end="npt=387.280s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS83">
+        <text id="hix00149s2" src="624755.html#hix00149s2" />
+        <audio id="audhix00149s2" clip-begin="npt=387.280s" clip-end="npt=387.800s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS84">
+        <text id="hix00149s3" src="624755.html#hix00149s3" />
+        <audio id="audhix00149s3" clip-begin="npt=387.800s" clip-end="npt=390.560s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS85">
+        <text id="hix00149s4" src="624755.html#hix00149s4" />
+        <audio id="audhix00149s4" clip-begin="npt=390.560s" clip-end="npt=395.880s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS86">
+        <text id="hix00149s5" src="624755.html#hix00149s5" />
+        <audio id="audhix00149s5" clip-begin="npt=395.880s" clip-end="npt=397.200s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS87">
+        <text id="hix00149s6" src="624755.html#hix00149s6" />
+        <audio id="audhix00149s6" clip-begin="npt=397.200s" clip-end="npt=398.240s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS88">
+        <text id="hix00149s7" src="624755.html#hix00149s7" />
+        <audio id="audhix00149s7" clip-begin="npt=398.240s" clip-end="npt=405.785s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par id="par21" system-required="pagenumber-on" endsync="last">
+        <text id="Page_15" src="624755.html#Page_15" />
+        <audio id="aud021" clip-begin="npt=405.785s" clip-end="npt=406.468s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS89">
+        <text id="hix00150" src="624755.html#hix00150" />
+        <audio id="audhix00150" clip-begin="npt=406.468s" clip-end="npt=409.594s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS90">
+        <text id="hix00151" src="624755.html#hix00151" />
+        <audio id="audhix00151" clip-begin="npt=409.594s" clip-end="npt=417.460s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS91">
+        <text id="hix00152" src="624755.html#hix00152" />
+        <audio id="audhix00152" clip-begin="npt=417.460s" clip-end="npt=420.320s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS92">
+        <text id="hix00152s2" src="624755.html#hix00152s2" />
+        <audio id="audhix00152s2" clip-begin="npt=420.320s" clip-end="npt=422.080s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS93">
+        <text id="hix00152s3" src="624755.html#hix00152s3" />
+        <audio id="audhix00152s3" clip-begin="npt=422.080s" clip-end="npt=423.589s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS94">
+        <text id="hix00153" src="624755.html#hix00153" />
+        <audio id="audhix00153" clip-begin="npt=423.589s" clip-end="npt=429.520s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS95">
+        <text id="hix00153s2" src="624755.html#hix00153s2" />
+        <audio id="audhix00153s2" clip-begin="npt=429.520s" clip-end="npt=446.640s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS96">
+        <text id="hix00153s3" src="624755.html#hix00153s3" />
+        <audio id="audhix00153s3" clip-begin="npt=446.640s" clip-end="npt=450.400s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS97">
+        <text id="hix00153s4" src="624755.html#hix00153s4" />
+        <audio id="audhix00153s4" clip-begin="npt=450.400s" clip-end="npt=454.720s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS98">
+        <text id="hix00153s5" src="624755.html#hix00153s5" />
+        <audio id="audhix00153s5" clip-begin="npt=454.720s" clip-end="npt=457.200s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS99">
+        <text id="hix00153s6" src="624755.html#hix00153s6" />
+        <audio id="audhix00153s6" clip-begin="npt=457.200s" clip-end="npt=458.960s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS100">
+        <text id="hix00153s7" src="624755.html#hix00153s7" />
+        <audio id="audhix00153s7" clip-begin="npt=458.960s" clip-end="npt=461.720s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS101">
+        <text id="hix00153s8" src="624755.html#hix00153s8" />
+        <audio id="audhix00153s8" clip-begin="npt=461.720s" clip-end="npt=462.760s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS102">
+        <text id="hix00153s9" src="624755.html#hix00153s9" />
+        <audio id="audhix00153s9" clip-begin="npt=462.760s" clip-end="npt=465.640s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS103">
+        <text id="hix00153s10" src="624755.html#hix00153s10" />
+        <audio id="audhix00153s10" clip-begin="npt=465.640s" clip-end="npt=467.320s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS104">
+        <text id="hix00153s11" src="624755.html#hix00153s11" />
+        <audio id="audhix00153s11" clip-begin="npt=467.320s" clip-end="npt=470.120s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS105">
+        <text id="hix00153s12" src="624755.html#hix00153s12" />
+        <audio id="audhix00153s12" clip-begin="npt=470.120s" clip-end="npt=473.907s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS106">
+        <text id="hix00154" src="624755.html#hix00154" />
+        <audio id="audhix00154" clip-begin="npt=473.907s" clip-end="npt=475.160s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS107">
+        <text id="hix00154s2" src="624755.html#hix00154s2" />
+        <audio id="audhix00154s2" clip-begin="npt=475.160s" clip-end="npt=489.600s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS108">
+        <text id="hix00154s3" src="624755.html#hix00154s3" />
+        <audio id="audhix00154s3" clip-begin="npt=489.600s" clip-end="npt=498.720s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS109">
+        <text id="hix00154s4" src="624755.html#hix00154s4" />
+        <audio id="audhix00154s4" clip-begin="npt=498.720s" clip-end="npt=506.588s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par id="par27" system-required="pagenumber-on" endsync="last">
+        <text id="Page_16" src="624755.html#Page_16" />
+        <audio id="aud027" clip-begin="npt=506.588s" clip-end="npt=507.471s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS110">
+        <text id="hix00155" src="624755.html#hix00155" />
+        <audio id="audhix00155" clip-begin="npt=507.471s" clip-end="npt=513.160s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS111">
+        <text id="hix00155s2" src="624755.html#hix00155s2" />
+        <audio id="audhix00155s2" clip-begin="npt=513.160s" clip-end="npt=519.800s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS112">
+        <text id="hix00155s3" src="624755.html#hix00155s3" />
+        <audio id="audhix00155s3" clip-begin="npt=519.800s" clip-end="npt=523.640s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS113">
+        <text id="hix00155s4" src="624755.html#hix00155s4" />
+        <audio id="audhix00155s4" clip-begin="npt=523.640s" clip-end="npt=527.080s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS114">
+        <text id="hix00155s5" src="624755.html#hix00155s5" />
+        <audio id="audhix00155s5" clip-begin="npt=527.080s" clip-end="npt=529.200s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS115">
+        <text id="hix00155s6" src="624755.html#hix00155s6" />
+        <audio id="audhix00155s6" clip-begin="npt=529.200s" clip-end="npt=531.280s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS116">
+        <text id="hix00155s7" src="624755.html#hix00155s7" />
+        <audio id="audhix00155s7" clip-begin="npt=531.280s" clip-end="npt=533.600s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS117">
+        <text id="hix00155s8" src="624755.html#hix00155s8" />
+        <audio id="audhix00155s8" clip-begin="npt=533.600s" clip-end="npt=535.760s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS118">
+        <text id="hix00155s9" src="624755.html#hix00155s9" />
+        <audio id="audhix00155s9" clip-begin="npt=535.760s" clip-end="npt=538.280s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS119">
+        <text id="hix00155s10" src="624755.html#hix00155s10" />
+        <audio id="audhix00155s10" clip-begin="npt=538.280s" clip-end="npt=540.341s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS120">
+        <text id="hix00156" src="624755.html#hix00156" />
+        <audio id="audhix00156" clip-begin="npt=540.341s" clip-end="npt=557.360s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS121">
+        <text id="hix00156s2" src="624755.html#hix00156s2" />
+        <audio id="audhix00156s2" clip-begin="npt=557.360s" clip-end="npt=560.762s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS122">
+        <text id="hix00157" src="624755.html#hix00157" />
+        <audio id="audhix00157" clip-begin="npt=560.762s" clip-end="npt=565.720s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS123">
+        <text id="hix00157s2" src="624755.html#hix00157s2" />
+        <audio id="audhix00157s2" clip-begin="npt=565.720s" clip-end="npt=573.815s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS124">
+        <text id="hix00158" src="624755.html#hix00158" />
+        <audio id="audhix00158" clip-begin="npt=573.815s" clip-end="npt=576.880s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS125">
+        <text id="hix00158s2" src="624755.html#hix00158s2" />
+        <audio id="audhix00158s2" clip-begin="npt=576.880s" clip-end="npt=580.520s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS126">
+        <text id="hix00158s3" src="624755.html#hix00158s3" />
+        <audio id="audhix00158s3" clip-begin="npt=580.520s" clip-end="npt=586.946s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS127">
+        <text id="hix00159" src="624755.html#hix00159" />
+        <audio id="audhix00159" clip-begin="npt=586.946s" clip-end="npt=603.880s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS128">
+        <text id="hix00160" src="624755.html#hix00160" />
+        <audio id="audhix00160" clip-begin="npt=603.880s" clip-end="npt=607.200s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS129">
+        <text id="hix00160s2" src="624755.html#hix00160s2" />
+        <audio id="audhix00160s2" clip-begin="npt=607.200s" clip-end="npt=616.560s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS130">
+        <text id="hix00160s3" src="624755.html#hix00160s3" />
+        <audio id="audhix00160s3" clip-begin="npt=616.560s" clip-end="npt=621.190s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par id="par34" system-required="pagenumber-on" endsync="last">
+        <text id="Page_17" src="624755.html#Page_17" />
+        <audio id="aud034" clip-begin="npt=621.190s" clip-end="npt=621.943s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS131">
+        <text id="hix00161" src="624755.html#hix00161" />
+        <audio id="audhix00161" clip-begin="npt=621.943s" clip-end="npt=625.816s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS132">
+        <text id="hix00162" src="624755.html#hix00162" />
+        <audio id="audhix00162" clip-begin="npt=625.816s" clip-end="npt=631.040s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS133">
+        <text id="hix00162s2" src="624755.html#hix00162s2" />
+        <audio id="audhix00162s2" clip-begin="npt=631.040s" clip-end="npt=634.000s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS134">
+        <text id="hix00162s3" src="624755.html#hix00162s3" />
+        <audio id="audhix00162s3" clip-begin="npt=634.000s" clip-end="npt=638.182s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS135">
+        <text id="hix00163" src="624755.html#hix00163" />
+        <audio id="audhix00163" clip-begin="npt=638.182s" clip-end="npt=640.880s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS136">
+        <text id="hix00163s2" src="624755.html#hix00163s2" />
+        <audio id="audhix00163s2" clip-begin="npt=640.880s" clip-end="npt=643.040s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS137">
+        <text id="hix00163s3" src="624755.html#hix00163s3" />
+        <audio id="audhix00163s3" clip-begin="npt=643.040s" clip-end="npt=646.991s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS138">
+        <text id="hix00164" src="624755.html#hix00164" />
+        <audio id="audhix00164" clip-begin="npt=646.991s" clip-end="npt=647.600s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS139">
+        <text id="hix00164s2" src="624755.html#hix00164s2" />
+        <audio id="audhix00164s2" clip-begin="npt=647.600s" clip-end="npt=651.480s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS140">
+        <text id="hix00164s3" src="624755.html#hix00164s3" />
+        <audio id="audhix00164s3" clip-begin="npt=651.480s" clip-end="npt=652.320s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS141">
+        <text id="hix00164s4" src="624755.html#hix00164s4" />
+        <audio id="audhix00164s4" clip-begin="npt=652.320s" clip-end="npt=654.240s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS142">
+        <text id="hix00164s5" src="624755.html#hix00164s5" />
+        <audio id="audhix00164s5" clip-begin="npt=654.240s" clip-end="npt=655.240s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS143">
+        <text id="hix00164s6" src="624755.html#hix00164s6" />
+        <audio id="audhix00164s6" clip-begin="npt=655.240s" clip-end="npt=658.160s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS144">
+        <text id="hix00164s7" src="624755.html#hix00164s7" />
+        <audio id="audhix00164s7" clip-begin="npt=658.160s" clip-end="npt=658.560s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS145">
+        <text id="hix00164s8" src="624755.html#hix00164s8" />
+        <audio id="audhix00164s8" clip-begin="npt=658.560s" clip-end="npt=665.960s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS146">
+        <text id="hix00164s9" src="624755.html#hix00164s9" />
+        <audio id="audhix00164s9" clip-begin="npt=665.960s" clip-end="npt=669.720s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS147">
+        <text id="hix00164s10" src="624755.html#hix00164s10" />
+        <audio id="audhix00164s10" clip-begin="npt=669.720s" clip-end="npt=670.930s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS148">
+        <text id="hix00165" src="624755.html#hix00165" />
+        <audio id="audhix00165" clip-begin="npt=670.930s" clip-end="npt=682.800s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS149">
+        <text id="hix00165s2" src="624755.html#hix00165s2" />
+        <audio id="audhix00165s2" clip-begin="npt=682.800s" clip-end="npt=684.120s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS150">
+        <text id="hix00165s3" src="624755.html#hix00165s3" />
+        <audio id="audhix00165s3" clip-begin="npt=684.120s" clip-end="npt=686.960s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS151">
+        <text id="hix00165s4" src="624755.html#hix00165s4" />
+        <audio id="audhix00165s4" clip-begin="npt=686.960s" clip-end="npt=688.880s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS152">
+        <text id="hix00165s5" src="624755.html#hix00165s5" />
+        <audio id="audhix00165s5" clip-begin="npt=688.880s" clip-end="npt=695.800s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS153">
+        <text id="hix00165s6" src="624755.html#hix00165s6" />
+        <audio id="audhix00165s6" clip-begin="npt=695.800s" clip-end="npt=697.480s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS154">
+        <text id="hix00165s7" src="624755.html#hix00165s7" />
+        <audio id="audhix00165s7" clip-begin="npt=697.480s" clip-end="npt=698.600s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS155">
+        <text id="hix00165s8" src="624755.html#hix00165s8" />
+        <audio id="audhix00165s8" clip-begin="npt=698.600s" clip-end="npt=706.495s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS156">
+        <text id="hix00166" src="624755.html#hix00166" />
+        <audio id="audhix00166" clip-begin="npt=706.495s" clip-end="npt=714.280s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS157">
+        <text id="hix00166s2" src="624755.html#hix00166s2" />
+        <audio id="audhix00166s2" clip-begin="npt=714.280s" clip-end="npt=715.741s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par id="par41" system-required="pagenumber-on" endsync="last">
+        <text id="Page_18" src="624755.html#Page_18" />
+        <audio id="aud041" clip-begin="npt=715.741s" clip-end="npt=716.304s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS158">
+        <text id="hix00167" src="624755.html#hix00167" />
+        <audio id="audhix00167" clip-begin="npt=716.304s" clip-end="npt=720.080s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS159">
+        <text id="hix00167s2" src="624755.html#hix00167s2" />
+        <audio id="audhix00167s2" clip-begin="npt=720.080s" clip-end="npt=722.600s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS160">
+        <text id="hix00167s3" src="624755.html#hix00167s3" />
+        <audio id="audhix00167s3" clip-begin="npt=722.600s" clip-end="npt=724.880s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS161">
+        <text id="hix00167s4" src="624755.html#hix00167s4" />
+        <audio id="audhix00167s4" clip-begin="npt=724.880s" clip-end="npt=728.400s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS162">
+        <text id="hix00167s5" src="624755.html#hix00167s5" />
+        <audio id="audhix00167s5" clip-begin="npt=728.400s" clip-end="npt=734.360s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS163">
+        <text id="hix00167s6" src="624755.html#hix00167s6" />
+        <audio id="audhix00167s6" clip-begin="npt=734.360s" clip-end="npt=739.680s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS164">
+        <text id="hix00167s7" src="624755.html#hix00167s7" />
+        <audio id="audhix00167s7" clip-begin="npt=739.680s" clip-end="npt=743.680s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS165">
+        <text id="hix00167s8" src="624755.html#hix00167s8" />
+        <audio id="audhix00167s8" clip-begin="npt=743.680s" clip-end="npt=749.120s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS166">
+        <text id="hix00167s9" src="624755.html#hix00167s9" />
+        <audio id="audhix00167s9" clip-begin="npt=749.120s" clip-end="npt=755.200s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS167">
+        <text id="hix00167s10" src="624755.html#hix00167s10" />
+        <audio id="audhix00167s10" clip-begin="npt=755.200s" clip-end="npt=764.880s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS168">
+        <text id="hix00167s11" src="624755.html#hix00167s11" />
+        <audio id="audhix00167s11" clip-begin="npt=764.880s" clip-end="npt=770.240s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS169">
+        <text id="hix00167s12" src="624755.html#hix00167s12" />
+        <audio id="audhix00167s12" clip-begin="npt=770.240s" clip-end="npt=775.008s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS170">
+        <text id="hix00168" src="624755.html#hix00168" />
+        <audio id="audhix00168" clip-begin="npt=775.008s" clip-end="npt=780.520s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS171">
+        <text id="hix00168s2" src="624755.html#hix00168s2" />
+        <audio id="audhix00168s2" clip-begin="npt=780.520s" clip-end="npt=787.501s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS172">
+        <text id="hix00169" src="624755.html#hix00169" />
+        <audio id="audhix00169" clip-begin="npt=787.501s" clip-end="npt=791.600s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS173">
+        <text id="hix00169s2" src="624755.html#hix00169s2" />
+        <audio id="audhix00169s2" clip-begin="npt=791.600s" clip-end="npt=793.640s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS174">
+        <text id="hix00169s3" src="624755.html#hix00169s3" />
+        <audio id="audhix00169s3" clip-begin="npt=793.640s" clip-end="npt=800.680s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS175">
+        <text id="hix00169s4" src="624755.html#hix00169s4" />
+        <audio id="audhix00169s4" clip-begin="npt=800.680s" clip-end="npt=804.520s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS176">
+        <text id="hix00169s5" src="624755.html#hix00169s5" />
+        <audio id="audhix00169s5" clip-begin="npt=804.520s" clip-end="npt=812.600s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS177">
+        <text id="hix00169s6" src="624755.html#hix00169s6" />
+        <audio id="audhix00169s6" clip-begin="npt=812.600s" clip-end="npt=816.694s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS178">
+        <text id="hix00170" src="624755.html#hix00170" />
+        <audio id="audhix00170" clip-begin="npt=816.694s" clip-end="npt=820.800s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS179">
+        <text id="hix00170s2" src="624755.html#hix00170s2" />
+        <audio id="audhix00170s2" clip-begin="npt=820.800s" clip-end="npt=823.693s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par id="par46" system-required="pagenumber-on" endsync="last">
+        <text id="Page_19" src="624755.html#Page_19" />
+        <audio id="aud046" clip-begin="npt=823.693s" clip-end="npt=824.196s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS180">
+        <text id="hix00171" src="624755.html#hix00171" />
+        <audio id="audhix00171" clip-begin="npt=824.196s" clip-end="npt=829.943s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS181">
+        <text id="hix00172" src="624755.html#hix00172" />
+        <audio id="audhix00172" clip-begin="npt=829.943s" clip-end="npt=831.200s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS182">
+        <text id="hix00172s2" src="624755.html#hix00172s2" />
+        <audio id="audhix00172s2" clip-begin="npt=831.200s" clip-end="npt=834.000s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS183">
+        <text id="hix00172s3" src="624755.html#hix00172s3" />
+        <audio id="audhix00172s3" clip-begin="npt=834.000s" clip-end="npt=837.200s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS184">
+        <text id="hix00172s4" src="624755.html#hix00172s4" />
+        <audio id="audhix00172s4" clip-begin="npt=837.200s" clip-end="npt=843.440s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS185">
+        <text id="hix00172s5" src="624755.html#hix00172s5" />
+        <audio id="audhix00172s5" clip-begin="npt=843.440s" clip-end="npt=846.120s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS186">
+        <text id="hix00172s6" src="624755.html#hix00172s6" />
+        <audio id="audhix00172s6" clip-begin="npt=846.120s" clip-end="npt=851.320s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS187">
+        <text id="hix00172s7" src="624755.html#hix00172s7" />
+        <audio id="audhix00172s7" clip-begin="npt=851.320s" clip-end="npt=856.160s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS188">
+        <text id="hix00172s8" src="624755.html#hix00172s8" />
+        <audio id="audhix00172s8" clip-begin="npt=856.160s" clip-end="npt=858.960s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS189">
+        <text id="hix00172s9" src="624755.html#hix00172s9" />
+        <audio id="audhix00172s9" clip-begin="npt=858.960s" clip-end="npt=860.303s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS190">
+        <text id="hix00173" src="624755.html#hix00173" />
+        <audio id="audhix00173" clip-begin="npt=860.303s" clip-end="npt=861.480s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS191">
+        <text id="hix00173s2" src="624755.html#hix00173s2" />
+        <audio id="audhix00173s2" clip-begin="npt=861.480s" clip-end="npt=866.120s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS192">
+        <text id="hix00173s3" src="624755.html#hix00173s3" />
+        <audio id="audhix00173s3" clip-begin="npt=866.120s" clip-end="npt=870.880s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS193">
+        <text id="hix00173s4" src="624755.html#hix00173s4" />
+        <audio id="audhix00173s4" clip-begin="npt=870.880s" clip-end="npt=876.632s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS194">
+        <text id="hix00174" src="624755.html#hix00174" />
+        <audio id="audhix00174" clip-begin="npt=876.632s" clip-end="npt=882.560s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS195">
+        <text id="hix00174s2" src="624755.html#hix00174s2" />
+        <audio id="audhix00174s2" clip-begin="npt=882.560s" clip-end="npt=888.200s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS196">
+        <text id="hix00174s3" src="624755.html#hix00174s3" />
+        <audio id="audhix00174s3" clip-begin="npt=888.200s" clip-end="npt=891.000s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS197">
+        <text id="hix00174s4" src="624755.html#hix00174s4" />
+        <audio id="audhix00174s4" clip-begin="npt=891.000s" clip-end="npt=893.317s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS198">
+        <text id="hix00175" src="624755.html#hix00175" />
+        <audio id="audhix00175" clip-begin="npt=893.317s" clip-end="npt=899.600s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS199">
+        <text id="hix00175s2" src="624755.html#hix00175s2" />
+        <audio id="audhix00175s2" clip-begin="npt=899.600s" clip-end="npt=903.120s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS200">
+        <text id="hix00175s3" src="624755.html#hix00175s3" />
+        <audio id="audhix00175s3" clip-begin="npt=903.120s" clip-end="npt=906.520s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS201">
+        <text id="hix00175s4" src="624755.html#hix00175s4" />
+        <audio id="audhix00175s4" clip-begin="npt=906.520s" clip-end="npt=911.400s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS202">
+        <text id="hix00175s5" src="624755.html#hix00175s5" />
+        <audio id="audhix00175s5" clip-begin="npt=911.400s" clip-end="npt=913.840s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS203">
+        <text id="hix00175s6" src="624755.html#hix00175s6" />
+        <audio id="audhix00175s6" clip-begin="npt=913.840s" clip-end="npt=917.160s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS204">
+        <text id="hix00175s7" src="624755.html#hix00175s7" />
+        <audio id="audhix00175s7" clip-begin="npt=917.160s" clip-end="npt=919.680s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS205">
+        <text id="hix00175s8" src="624755.html#hix00175s8" />
+        <audio id="audhix00175s8" clip-begin="npt=919.680s" clip-end="npt=927.760s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS206">
+        <text id="hix00175s9" src="624755.html#hix00175s9" />
+        <audio id="audhix00175s9" clip-begin="npt=927.760s" clip-end="npt=931.280s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS207">
+        <text id="hix00175s10" src="624755.html#hix00175s10" />
+        <audio id="audhix00175s10" clip-begin="npt=931.280s" clip-end="npt=934.000s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS208">
+        <text id="hix00175s11" src="624755.html#hix00175s11" />
+        <audio id="audhix00175s11" clip-begin="npt=934.000s" clip-end="npt=941.812s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par id="par52" system-required="pagenumber-on" endsync="last">
+        <text id="Page_20" src="624755.html#Page_20" />
+        <audio id="aud052" clip-begin="npt=941.812s" clip-end="npt=942.683s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS209">
+        <text id="hix00176" src="624755.html#hix00176" />
+        <audio id="audhix00176" clip-begin="npt=942.683s" clip-end="npt=945.720s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS210">
+        <text id="hix00176s2" src="624755.html#hix00176s2" />
+        <audio id="audhix00176s2" clip-begin="npt=945.720s" clip-end="npt=959.360s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS211">
+        <text id="hix00176s3" src="624755.html#hix00176s3" />
+        <audio id="audhix00176s3" clip-begin="npt=959.360s" clip-end="npt=964.360s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS212">
+        <text id="hix00176s4" src="624755.html#hix00176s4" />
+        <audio id="audhix00176s4" clip-begin="npt=964.360s" clip-end="npt=972.520s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS213">
+        <text id="hix00176s5" src="624755.html#hix00176s5" />
+        <audio id="audhix00176s5" clip-begin="npt=972.520s" clip-end="npt=977.840s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS214">
+        <text id="hix00176s6" src="624755.html#hix00176s6" />
+        <audio id="audhix00176s6" clip-begin="npt=977.840s" clip-end="npt=985.400s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par endsync="last" id="parS215">
+        <text id="hix00176s7" src="624755.html#hix00176s7" />
+        <audio id="audhix00176s7" clip-begin="npt=985.400s" clip-end="npt=994.002s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+      <par id="par54" system-required="pagenumber-on" endsync="last">
+        <text id="Page_21" src="624755.html#Page_21" />
+        <audio id="aud054" clip-begin="npt=994.002s" clip-end="npt=994.813s" src="08_Chapter_Two_The_New_House.mp3" />
+      </par>
+    </seq>
+  </body>
+</smil>

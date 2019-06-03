@@ -1,0 +1,1919 @@
+<?xml version='1.0' encoding='utf-8'?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+<trackList>
+<track>
+<location>speechgen0001.mp3</location>
+<title>Metode og dataanalyse</title>
+<trackNum>1</trackNum>
+<duration>10318</duration>
+</track>
+<track>
+<location>speechgen0002.mp3</location>
+<title>Lydbokavtalen</title>
+<trackNum>2</trackNum>
+<duration>59324</duration>
+</track>
+<track>
+<location>speechgen0003.mp3</location>
+<title>Bokinformasjon</title>
+<trackNum>3</trackNum>
+<duration>179278</duration>
+</track>
+<track>
+<location>speechgen0004.mp3</location>
+<title>Innhold</title>
+<trackNum>4</trackNum>
+<duration>618579</duration>
+</track>
+<track>
+<location>speechgen0005.mp3</location>
+<title>Forord</title>
+<trackNum>5</trackNum>
+<duration>228179</duration>
+</track>
+<track>
+<location>speechgen0006.mp3</location>
+<title>Del 1 Utforming av undersøkelsen</title>
+<trackNum>6</trackNum>
+<duration>7575</duration>
+</track>
+<track>
+<location>speechgen0007.mp3</location>
+<title>Kapittel 1 Metode og vitenskapsteori</title>
+<trackNum>7</trackNum>
+<duration>5668</duration>
+</track>
+<track>
+<location>speechgen0008.mp3</location>
+<title>1.1 Innledning</title>
+<trackNum>8</trackNum>
+<duration>42840</duration>
+</track>
+<track>
+<location>speechgen0009.mp3</location>
+<title>1.2 Vitenskapsteoretisk tilnærming</title>
+<trackNum>9</trackNum>
+<duration>1908636</duration>
+</track>
+<track>
+<location>speechgen0010.mp3</location>
+<title>1.3 Beslutningsprosesser</title>
+<trackNum>10</trackNum>
+<duration>266213</duration>
+</track>
+<track>
+<location>speechgen0011.mp3</location>
+<title>Individmodeller</title>
+<trackNum>11</trackNum>
+<duration>388597</duration>
+</track>
+<track>
+<location>speechgen0012.mp3</location>
+<title>Modell for politikk og maktutøvelse</title>
+<trackNum>12</trackNum>
+<duration>82390</duration>
+</track>
+<track>
+<location>speechgen0013.mp3</location>
+<title>Modell for uklare mål og flytende deltakelse</title>
+<trackNum>13</trackNum>
+<duration>149681</duration>
+</track>
+<track>
+<location>speechgen0014.mp3</location>
+<title>Kapittel 2 Forskningsprosess og problemformulering</title>
+<trackNum>14</trackNum>
+<duration>6321</duration>
+</track>
+<track>
+<location>speechgen0015.mp3</location>
+<title>2.1 Innledning</title>
+<trackNum>15</trackNum>
+<duration>119875</duration>
+</track>
+<track>
+<location>speechgen0016.mp3</location>
+<title>2.2 Problemer, muligheter og symptomer</title>
+<trackNum>16</trackNum>
+<duration>596689</duration>
+</track>
+<track>
+<location>speechgen0017.mp3</location>
+<title>2.3 Analyseformål og undersøkelsesspørsmål</title>
+<trackNum>17</trackNum>
+<duration>385671</duration>
+</track>
+<track>
+<location>speechgen0018.mp3</location>
+<title>EKSEMPEL 2.1</title>
+<trackNum>18</trackNum>
+<duration>328933</duration>
+</track>
+<track>
+<location>speechgen0019.mp3</location>
+<title>EKSEMPEL 2.2</title>
+<trackNum>19</trackNum>
+<duration>529058</duration>
+</track>
+<track>
+<location>speechgen0020.mp3</location>
+<title>EKSEMPEL 2.3</title>
+<trackNum>20</trackNum>
+<duration>205479</duration>
+</track>
+<track>
+<location>speechgen0021.mp3</location>
+<title>EKSEMPEL 2.4</title>
+<trackNum>21</trackNum>
+<duration>315219</duration>
+</track>
+<track>
+<location>speechgen0022.mp3</location>
+<title>2.4 Forskningsprosessen</title>
+<trackNum>22</trackNum>
+<duration>244244</duration>
+</track>
+<track>
+<location>speechgen0023.mp3</location>
+<title>Kapittel 3 Undersøkelsesdesign</title>
+<trackNum>23</trackNum>
+<duration>4911</duration>
+</track>
+<track>
+<location>speechgen0024.mp3</location>
+<title>3.1 Innledning</title>
+<trackNum>24</trackNum>
+<duration>139755</duration>
+</track>
+<track>
+<location>speechgen0025.mp3</location>
+<title>3.2 Eksplorativt design</title>
+<trackNum>25</trackNum>
+<duration>222720</duration>
+</track>
+<track>
+<location>speechgen0026.mp3</location>
+<title>Fokusgrupper</title>
+<trackNum>26</trackNum>
+<duration>130298</duration>
+</track>
+<track>
+<location>speechgen0027.mp3</location>
+<title>Individuelle dybdeintervjuer</title>
+<trackNum>27</trackNum>
+<duration>117786</duration>
+</track>
+<track>
+<location>speechgen0028.mp3</location>
+<title>Andre teknikker</title>
+<trackNum>28</trackNum>
+<duration>131787</duration>
+</track>
+<track>
+<location>speechgen0029.mp3</location>
+<title>3.3 Deskriptivt design</title>
+<trackNum>29</trackNum>
+<duration>171363</duration>
+</track>
+<track>
+<location>speechgen0030.mp3</location>
+<title>Spørreskjemaundersøkelser</title>
+<trackNum>30</trackNum>
+<duration>182334</duration>
+</track>
+<track>
+<location>speechgen0031.mp3</location>
+<title>Observasjon og dagbokmetoden</title>
+<trackNum>31</trackNum>
+<duration>413152</duration>
+</track>
+<track>
+<location>speechgen0032.mp3</location>
+<title>3.4 Kausalt design</title>
+<trackNum>32</trackNum>
+<duration>147487</duration>
+</track>
+<track>
+<location>speechgen0033.mp3</location>
+<title>Ekte eksperiment (laboratorie- eller felteksperiment)</title>
+<trackNum>33</trackNum>
+<duration>222484</duration>
+</track>
+<track>
+<location>speechgen0034.mp3</location>
+<title>Kvasieksperiment</title>
+<trackNum>34</trackNum>
+<duration>84480</duration>
+</track>
+<track>
+<location>speechgen0035.mp3</location>
+<title>Laboratorieeksperiment</title>
+<trackNum>35</trackNum>
+<duration>172146</duration>
+</track>
+<track>
+<location>speechgen0036.mp3</location>
+<title>Felteksperiment</title>
+<trackNum>36</trackNum>
+<duration>128391</duration>
+</track>
+<track>
+<location>speechgen0037.mp3</location>
+<title>Intern og ekstern validitet i eksperimenter</title>
+<trackNum>37</trackNum>
+<duration>103627</duration>
+</track>
+<track>
+<location>speechgen0038.mp3</location>
+<title>3.5 Valg av design</title>
+<trackNum>38</trackNum>
+<duration>102582</duration>
+</track>
+<track>
+<location>speechgen0039.mp3</location>
+<title>Bruk av teori</title>
+<trackNum>39</trackNum>
+<duration>205113</duration>
+</track>
+<track>
+<location>speechgen0040.mp3</location>
+<title>Validitet og reliabilitet i undersøkelser</title>
+<trackNum>40</trackNum>
+<duration>446981</duration>
+</track>
+<track>
+<location>speechgen0041.mp3</location>
+<title>Del 2 Innsamling av data</title>
+<trackNum>41</trackNum>
+<duration>7627</duration>
+</track>
+<track>
+<location>speechgen0042.mp3</location>
+<title>Kapittel 4 Sekundærdata og observasjonsdata</title>
+<trackNum>42</trackNum>
+<duration>6400</duration>
+</track>
+<track>
+<location>speechgen0043.mp3</location>
+<title>4.1 Innledning</title>
+<trackNum>43</trackNum>
+<duration>161358</duration>
+</track>
+<track>
+<location>speechgen0044.mp3</location>
+<title>Feilkilder til sekundærdata</title>
+<trackNum>44</trackNum>
+<duration>100231</duration>
+</track>
+<track>
+<location>speechgen0045.mp3</location>
+<title>4.2 Hovedtyper av sekundærdata</title>
+<trackNum>45</trackNum>
+<duration>123637</duration>
+</track>
+<track>
+<location>speechgen0046.mp3</location>
+<title>4.3 Interne kilder</title>
+<trackNum>46</trackNum>
+<duration>78288</duration>
+</track>
+<track>
+<location>speechgen0047.mp3</location>
+<title>4.4 Offentlige kilder</title>
+<trackNum>47</trackNum>
+<duration>211853</duration>
+</track>
+<track>
+<location>speechgen0048.mp3</location>
+<title>4.5 Faglitteratur</title>
+<trackNum>48</trackNum>
+<duration>91480</duration>
+</track>
+<track>
+<location>speechgen0049.mp3</location>
+<title>4.6 Markedsanalysebransjen</title>
+<trackNum>49</trackNum>
+<duration>148532</duration>
+</track>
+<track>
+<location>speechgen0050.mp3</location>
+<title>4.7 Standardiserte undersøkelser</title>
+<trackNum>50</trackNum>
+<duration>45818</duration>
+</track>
+<track>
+<location>speechgen0051.mp3</location>
+<title>Hva menes med standardisering</title>
+<trackNum>51</trackNum>
+<duration>244088</duration>
+</track>
+<track>
+<location>speechgen0052.mp3</location>
+<title>4.8 Butikkmålinger</title>
+<trackNum>52</trackNum>
+<duration>229616</duration>
+</track>
+<track>
+<location>speechgen0053.mp3</location>
+<title>4.9 Forbrukerpanel</title>
+<trackNum>53</trackNum>
+<duration>190981</duration>
+</track>
+<track>
+<location>speechgen0054.mp3</location>
+<title>4.10 Medieundersøkelser</title>
+<trackNum>54</trackNum>
+<duration>595095</duration>
+</track>
+<track>
+<location>speechgen0055.mp3</location>
+<title>4.11 Sosiokulturelle undersøkelser</title>
+<trackNum>55</trackNum>
+<duration>610821</duration>
+</track>
+<track>
+<location>speechgen0056.mp3</location>
+<title>4.12 Observasjonsdata</title>
+<trackNum>56</trackNum>
+<duration>144404</duration>
+</track>
+<track>
+<location>speechgen0057.mp3</location>
+<title>4.13 Typer av observasjoner</title>
+<trackNum>57</trackNum>
+<duration>219768</duration>
+</track>
+<track>
+<location>speechgen0058.mp3</location>
+<title>4.14 Følelser målt ved hjelp av observasjon</title>
+<trackNum>58</trackNum>
+<duration>227056</duration>
+</track>
+<track>
+<location>speechgen0059.mp3</location>
+<title>4.15 Bruk av observasjonsmetoden</title>
+<trackNum>59</trackNum>
+<duration>602279</duration>
+</track>
+<track>
+<location>speechgen0060.mp3</location>
+<title>Kapittel 5 Kvalitative metoder</title>
+<trackNum>60</trackNum>
+<duration>4728</duration>
+</track>
+<track>
+<location>speechgen0061.mp3</location>
+<title>5.1 Innledning</title>
+<trackNum>61</trackNum>
+<duration>441417</duration>
+</track>
+<track>
+<location>speechgen0062.mp3</location>
+<title>5.2 Fokusgrupper Gjennomføring av fokusgruppe</title>
+<trackNum>62</trackNum>
+<duration>212793</duration>
+</track>
+<track>
+<location>speechgen0063.mp3</location>
+<title>Hovedtyper av fokusgrupper</title>
+<trackNum>63</trackNum>
+<duration>322638</duration>
+</track>
+<track>
+<location>speechgen0064.mp3</location>
+<title>Opplegg og gjennomføring av fokusgrupper</title>
+<trackNum>64</trackNum>
+<duration>106004</duration>
+</track>
+<track>
+<location>speechgen0065.mp3</location>
+<title>1 Problemformulering</title>
+<trackNum>65</trackNum>
+<duration>350537</duration>
+</track>
+<track>
+<location>speechgen0066.mp3</location>
+<title>2 Tilrettelegging</title>
+<trackNum>66</trackNum>
+<duration>280058</duration>
+</track>
+<track>
+<location>speechgen0067.mp3</location>
+<title>3 Gjennomføring</title>
+<trackNum>67</trackNum>
+<duration>256757</duration>
+</track>
+<track>
+<location>speechgen0068.mp3</location>
+<title>4 Dataanalyse</title>
+<trackNum>68</trackNum>
+<duration>78262</duration>
+</track>
+<track>
+<location>speechgen0069.mp3</location>
+<title>5 Rapport og presentasjon</title>
+<trackNum>69</trackNum>
+<duration>54073</duration>
+</track>
+<track>
+<location>speechgen0070.mp3</location>
+<title>5.3 Individuelle dybdeintervjuer</title>
+<trackNum>70</trackNum>
+<duration>185364</duration>
+</track>
+<track>
+<location>speechgen0071.mp3</location>
+<title>5.4 Projektive teknikker</title>
+<trackNum>71</trackNum>
+<duration>312868</duration>
+</track>
+<track>
+<location>speechgen0072.mp3</location>
+<title>5.5 Sosiale medier</title>
+<trackNum>72</trackNum>
+<duration>420362</duration>
+</track>
+<track>
+<location>speechgen0073.mp3</location>
+<title>Kapittel 6 Spørreskjemaundersøkelser</title>
+<trackNum>73</trackNum>
+<duration>5355</duration>
+</track>
+<track>
+<location>speechgen0074.mp3</location>
+<title>6.1 Innledning</title>
+<trackNum>74</trackNum>
+<duration>108460</duration>
+</track>
+<track>
+<location>speechgen0075.mp3</location>
+<title>6.2 Begrepsanalyse og operasjonalisering</title>
+<trackNum>75</trackNum>
+<duration>1121071</duration>
+</track>
+<track>
+<location>speechgen0076.mp3</location>
+<title>6.3 Validitet</title>
+<trackNum>76</trackNum>
+<duration>60107</duration>
+</track>
+<track>
+<location>speechgen0077.mp3</location>
+<title>Innholdsvaliditet («content validity»)</title>
+<trackNum>77</trackNum>
+<duration>122122</duration>
+</track>
+<track>
+<location>speechgen0078.mp3</location>
+<title>Begrepsvaliditet («construct validity»)</title>
+<trackNum>78</trackNum>
+<duration>188107</duration>
+</track>
+<track>
+<location>speechgen0079.mp3</location>
+<title>Overflatevaliditet («face validity»)</title>
+<trackNum>79</trackNum>
+<duration>69459</duration>
+</track>
+<track>
+<location>speechgen0080.mp3</location>
+<title>Statistisk konklusjonsvaliditet</title>
+<trackNum>80</trackNum>
+<duration>81475</duration>
+</track>
+<track>
+<location>speechgen0081.mp3</location>
+<title>Reliabilitet</title>
+<trackNum>81</trackNum>
+<duration>356702</duration>
+</track>
+<track>
+<location>speechgen0082.mp3</location>
+<title>6.4 Skalabruk</title>
+<trackNum>82</trackNum>
+<duration>130977</duration>
+</track>
+<track>
+<location>speechgen0083.mp3</location>
+<title>Nominalnivå</title>
+<trackNum>83</trackNum>
+<duration>63764</duration>
+</track>
+<track>
+<location>speechgen0084.mp3</location>
+<title>Ordinalnivå</title>
+<trackNum>84</trackNum>
+<duration>105874</duration>
+</track>
+<track>
+<location>speechgen0085.mp3</location>
+<title>Intervallnivå</title>
+<trackNum>85</trackNum>
+<duration>217051</duration>
+</track>
+<track>
+<location>speechgen0086.mp3</location>
+<title>Forholdstallsnivå</title>
+<trackNum>86</trackNum>
+<duration>156499</duration>
+</track>
+<track>
+<location>speechgen0087.mp3</location>
+<title>6.5 Holdnings- og profilmåling</title>
+<trackNum>87</trackNum>
+<duration>84924</duration>
+</track>
+<track>
+<location>speechgen0088.mp3</location>
+<title>Likert-skalaen</title>
+<trackNum>88</trackNum>
+<duration>580937</duration>
+</track>
+<track>
+<location>speechgen0089.mp3</location>
+<title>Semantisk differensialskala</title>
+<trackNum>89</trackNum>
+<duration>272535</duration>
+</track>
+<track>
+<location>speechgen0090.mp3</location>
+<title>6.6 Skalaverdier</title>
+<trackNum>90</trackNum>
+<duration>219062</duration>
+</track>
+<track>
+<location>speechgen0091.mp3</location>
+<title>Komparative skalaer</title>
+<trackNum>91</trackNum>
+<duration>249626</duration>
+</track>
+<track>
+<location>speechgen0092.mp3</location>
+<title>Ikke-komparative skalaer</title>
+<trackNum>92</trackNum>
+<duration>289933</duration>
+</track>
+<track>
+<location>speechgen0093.mp3</location>
+<title>6.7 Spørsmålsutforming og rekkefølge</title>
+<trackNum>93</trackNum>
+<duration>417149</duration>
+</track>
+<track>
+<location>speechgen0094.mp3</location>
+<title>Fysisk utforming</title>
+<trackNum>94</trackNum>
+<duration>712280</duration>
+</track>
+<track>
+<location>speechgen0095.mp3</location>
+<title>Pretest</title>
+<trackNum>95</trackNum>
+<duration>30824</duration>
+</track>
+<track>
+<location>speechgen0096.mp3</location>
+<title>6.8 Innhenting av data fra spørreskjemaundersøkelser</title>
+<trackNum>96</trackNum>
+<duration>76277</duration>
+</track>
+<track>
+<location>speechgen0097.mp3</location>
+<title>Personlige intervjuer</title>
+<trackNum>97</trackNum>
+<duration>94641</duration>
+</track>
+<track>
+<location>speechgen0098.mp3</location>
+<title>Postale spørreskjemaer</title>
+<trackNum>98</trackNum>
+<duration>167157</duration>
+</track>
+<track>
+<location>speechgen0099.mp3</location>
+<title>Telefonintervjuer</title>
+<trackNum>99</trackNum>
+<duration>406804</duration>
+</track>
+<track>
+<location>speechgen0100.mp3</location>
+<title>Web-baserte løsninger</title>
+<trackNum>100</trackNum>
+<duration>693524</duration>
+</track>
+<track>
+<location>speechgen0101.mp3</location>
+<title>Kapittel 7 Utvalgstyper og utvalgsstørrelser</title>
+<trackNum>101</trackNum>
+<duration>6478</duration>
+</track>
+<track>
+<location>speechgen0102.mp3</location>
+<title>7.1 Innledning</title>
+<trackNum>102</trackNum>
+<duration>68806</duration>
+</track>
+<track>
+<location>speechgen0103.mp3</location>
+<title>7.2 Definere populasjonen og bestemme utvalgsrammen</title>
+<trackNum>103</trackNum>
+<duration>377913</duration>
+</track>
+<track>
+<location>speechgen0104.mp3</location>
+<title>Utvalgsramme</title>
+<trackNum>104</trackNum>
+<duration>390008</duration>
+</track>
+<track>
+<location>speechgen0105.mp3</location>
+<title>7.3 Velge utvalgsmetode</title>
+<trackNum>105</trackNum>
+<duration>5146</duration>
+</track>
+<track>
+<location>speechgen0106.mp3</location>
+<title>a) Sannsynlighetsutvalg</title>
+<trackNum>106</trackNum>
+<duration>4414</duration>
+</track>
+<track>
+<location>speechgen0107.mp3</location>
+<title>Enkelt tilfeldig utvalg</title>
+<trackNum>107</trackNum>
+<duration>192966</duration>
+</track>
+<track>
+<location>speechgen0108.mp3</location>
+<title>Stratifisert utvalg</title>
+<trackNum>108</trackNum>
+<duration>284395</duration>
+</track>
+<track>
+<location>speechgen0109.mp3</location>
+<title>Klyngeutvalg</title>
+<trackNum>109</trackNum>
+<duration>379115</duration>
+</track>
+<track>
+<location>speechgen0110.mp3</location>
+<title>b) Ikke-sannsynlighetsutvalg</title>
+<trackNum>110</trackNum>
+<duration>4963</duration>
+</track>
+<track>
+<location>speechgen0111.mp3</location>
+<title>Bekvemmelighetsutvalg</title>
+<trackNum>111</trackNum>
+<duration>285204</duration>
+</track>
+<track>
+<location>speechgen0112.mp3</location>
+<title>Kvoteutvalg</title>
+<trackNum>112</trackNum>
+<duration>482507</duration>
+</track>
+<track>
+<location>speechgen0113.mp3</location>
+<title>Vurderingsutvalg</title>
+<trackNum>113</trackNum>
+<duration>222302</duration>
+</track>
+<track>
+<location>speechgen0114.mp3</location>
+<title>7.4 Bestemme utvalgsstørrelsen</title>
+<trackNum>114</trackNum>
+<duration>136672</duration>
+</track>
+<track>
+<location>speechgen0115.mp3</location>
+<title>Antallet grupper</title>
+<trackNum>115</trackNum>
+<duration>131631</duration>
+</track>
+<track>
+<location>speechgen0116.mp3</location>
+<title>Ressurser</title>
+<trackNum>116</trackNum>
+<duration>51382</duration>
+</track>
+<track>
+<location>speechgen0117.mp3</location>
+<title>Variansen i populasjonen</title>
+<trackNum>117</trackNum>
+<duration>50964</duration>
+</track>
+<track>
+<location>speechgen0118.mp3</location>
+<title>Egenskap ved populasjonen</title>
+<trackNum>118</trackNum>
+<duration>59506</duration>
+</track>
+<track>
+<location>speechgen0119.mp3</location>
+<title>Presisjon og konfidensgrad</title>
+<trackNum>119</trackNum>
+<duration>856764</duration>
+</track>
+<track>
+<location>speechgen0120.mp3</location>
+<title>7.5 Feilkilder</title>
+<trackNum>120</trackNum>
+<duration>34925</duration>
+</track>
+<track>
+<location>speechgen0121.mp3</location>
+<title>Manglende observasjoner</title>
+<trackNum>121</trackNum>
+<duration>25364</duration>
+</track>
+<track>
+<location>speechgen0122.mp3</location>
+<title>a) Dekningsfeil</title>
+<trackNum>122</trackNum>
+<duration>41874</duration>
+</track>
+<track>
+<location>speechgen0123.mp3</location>
+<title>b) Ikke-responsfeil</title>
+<trackNum>123</trackNum>
+<duration>166086</duration>
+</track>
+<track>
+<location>speechgen0124.mp3</location>
+<title>c) Utvalgsfeil</title>
+<trackNum>124</trackNum>
+<duration>65149</duration>
+</track>
+<track>
+<location>speechgen0125.mp3</location>
+<title>Målefeil</title>
+<trackNum>125</trackNum>
+<duration>70974</duration>
+</track>
+<track>
+<location>speechgen0126.mp3</location>
+<title>a) Spørreskjemaet</title>
+<trackNum>126</trackNum>
+<duration>27376</duration>
+</track>
+<track>
+<location>speechgen0127.mp3</location>
+<title>b) Interaksjonen</title>
+<trackNum>127</trackNum>
+<duration>394657</duration>
+</track>
+<track>
+<location>speechgen0128.mp3</location>
+<title>Del 3 Analyseteknikker</title>
+<trackNum>128</trackNum>
+<duration>8594</duration>
+</track>
+<track>
+<location>speechgen0129.mp3</location>
+<title>Kapittel 8 Enkle analyseteknikker</title>
+<trackNum>129</trackNum>
+<duration>5355</duration>
+</track>
+<track>
+<location>speechgen0130.mp3</location>
+<title>8.1 Introduksjon</title>
+<trackNum>130</trackNum>
+<duration>30537</duration>
+</track>
+<track>
+<location>speechgen0131.mp3</location>
+<title>8.2 Starte å bruke JMP</title>
+<trackNum>131</trackNum>
+<duration>371983</duration>
+</track>
+<track>
+<location>speechgen0132.mp3</location>
+<title>8.3 Innledning om enkle analyseteknikker</title>
+<trackNum>132</trackNum>
+<duration>166112</duration>
+</track>
+<track>
+<location>speechgen0133.mp3</location>
+<title>8.4 Datarensing</title>
+<trackNum>133</trackNum>
+<duration>443480</duration>
+</track>
+<track>
+<location>speechgen0134.mp3</location>
+<title>8.5 Analyseteknikker for enkeltvariabler</title>
+<trackNum>134</trackNum>
+<duration>68257</duration>
+</track>
+<track>
+<location>speechgen0135.mp3</location>
+<title>Frekvens og stolpediagram</title>
+<trackNum>135</trackNum>
+<duration>568424</duration>
+</track>
+<track>
+<location>speechgen0136.mp3</location>
+<title>Beliggenhetsmål</title>
+<trackNum>136</trackNum>
+<duration>17266</duration>
+</track>
+<track>
+<location>speechgen0137.mp3</location>
+<title>a) Gjennomsnitt</title>
+<trackNum>137</trackNum>
+<duration>298527</duration>
+</track>
+<track>
+<location>speechgen0138.mp3</location>
+<title>b) Medianen</title>
+<trackNum>138</trackNum>
+<duration>271177</duration>
+</track>
+<track>
+<location>speechgen0139.mp3</location>
+<title>Spredningsmål</title>
+<trackNum>139</trackNum>
+<duration>40855</duration>
+</track>
+<track>
+<location>speechgen0140.mp3</location>
+<title>a) Variasjonsbredden og kvartilbredden</title>
+<trackNum>140</trackNum>
+<duration>127764</duration>
+</track>
+<track>
+<location>speechgen0141.mp3</location>
+<title>b) Varians og standardavvik</title>
+<trackNum>141</trackNum>
+<duration>609462</duration>
+</track>
+<track>
+<location>speechgen0142.mp3</location>
+<title>Måling av reliabilitet</title>
+<trackNum>142</trackNum>
+<duration>65253</duration>
+</track>
+<track>
+<location>speechgen0143.mp3</location>
+<title>a) Stabilitet over tid</title>
+<trackNum>143</trackNum>
+<duration>249835</duration>
+</track>
+<track>
+<location>speechgen0144.mp3</location>
+<title>b) Intern konsistens</title>
+<trackNum>144</trackNum>
+<duration>322664</duration>
+</track>
+<track>
+<location>speechgen0145.mp3</location>
+<title>c) Cronbachs alfa</title>
+<trackNum>145</trackNum>
+<duration>372610</duration>
+</track>
+<track>
+<location>speechgen0146.mp3</location>
+<title>Lage nye variabler</title>
+<trackNum>146</trackNum>
+<duration>63660</duration>
+</track>
+<track>
+<location>speechgen0147.mp3</location>
+<title>8.6 Analyseteknikker for sammenheng mellom variabler</title>
+<trackNum>147</trackNum>
+<duration>7026</duration>
+</track>
+<track>
+<location>speechgen0148.mp3</location>
+<title>Krysstabuleringer</title>
+<trackNum>148</trackNum>
+<duration>236303</duration>
+</track>
+<track>
+<location>speechgen0149.mp3</location>
+<title>Kovarians og korrelasjon</title>
+<trackNum>149</trackNum>
+<duration>750001</duration>
+</track>
+<track>
+<location>speechgen0150.mp3</location>
+<title>Rangkorrelasjon</title>
+<trackNum>150</trackNum>
+<duration>796342</duration>
+</track>
+<track>
+<location>speechgen0151.mp3</location>
+<title>Kapittel 9 Hypotesetesting</title>
+<trackNum>151</trackNum>
+<duration>4571</duration>
+</track>
+<track>
+<location>speechgen0152.mp3</location>
+<title>9.1 Innledning</title>
+<trackNum>152</trackNum>
+<duration>254066</duration>
+</track>
+<track>
+<location>speechgen0153.mp3</location>
+<title>9.2 Feil ved hypotesetester</title>
+<trackNum>153</trackNum>
+<duration>47986</duration>
+</track>
+<track>
+<location>speechgen0154.mp3</location>
+<title>Type I- og Type II-feil</title>
+<trackNum>154</trackNum>
+<duration>354638</duration>
+</track>
+<track>
+<location>speechgen0155.mp3</location>
+<title>Type I-feil: Vi forkaster en sann H0</title>
+<trackNum>155</trackNum>
+<duration>88163</duration>
+</track>
+<track>
+<location>speechgen0156.mp3</location>
+<title>Type II-feil: Vi beholder en usann H0</title>
+<trackNum>156</trackNum>
+<duration>68597</duration>
+</track>
+<track>
+<location>speechgen0157.mp3</location>
+<title>Teoretisk signifikans og statistisk signifikans</title>
+<trackNum>157</trackNum>
+<duration>151823</duration>
+</track>
+<track>
+<location>speechgen0158.mp3</location>
+<title>Forstå signifikansnivå</title>
+<trackNum>158</trackNum>
+<duration>89155</duration>
+</track>
+<track>
+<location>speechgen0159.mp3</location>
+<title>9.3 Student t-test</title>
+<trackNum>159</trackNum>
+<duration>4545</duration>
+</track>
+<track>
+<location>speechgen0160.mp3</location>
+<title>t-test for én stikkprøve</title>
+<trackNum>160</trackNum>
+<duration>411611</duration>
+</track>
+<track>
+<location>speechgen0161.mp3</location>
+<title>t-test for to stikkprøver</title>
+<trackNum>161</trackNum>
+<duration>71026</duration>
+</track>
+<track>
+<location>speechgen0162.mp3</location>
+<title>a) t-testen av to avhengige stikkprøver</title>
+<trackNum>162</trackNum>
+<duration>414955</duration>
+</track>
+<track>
+<location>speechgen0319.mp3</location>
+<title>a) t-testen av to avhengige stikkprøver</title>
+<trackNum>163</trackNum>
+<duration>2248516</duration>
+</track>
+<track>
+<location>speechgen0163.mp3</location>
+<title>a) t-testen for to uavhengige stikkprøver</title>
+<trackNum>164</trackNum>
+<duration>319320</duration>
+</track>
+<track>
+<location>speechgen0164.mp3</location>
+<title>9.4 Variansanalyse</title>
+<trackNum>165</trackNum>
+<duration>445936</duration>
+</track>
+<track>
+<location>speechgen0165.mp3</location>
+<title>a) Variabilitet innenfor gruppene</title>
+<trackNum>166</trackNum>
+<duration>81684</duration>
+</track>
+<track>
+<location>speechgen0166.mp3</location>
+<title>b) Variabiliteten mellom gruppene</title>
+<trackNum>167</trackNum>
+<duration>110236</duration>
+</track>
+<track>
+<location>speechgen0167.mp3</location>
+<title>Testobservatoren F-fordelingen</title>
+<trackNum>168</trackNum>
+<duration>526968</duration>
+</track>
+<track>
+<location>speechgen0168.mp3</location>
+<title>9.5 Kji-kvadrattesten (Kji2)</title>
+<trackNum>169</trackNum>
+<duration>155350</duration>
+</track>
+<track>
+<location>speechgen0169.mp3</location>
+<title>Frekvensvise forskjeller</title>
+<trackNum>170</trackNum>
+<duration>156734</duration>
+</track>
+<track>
+<location>speechgen0170.mp3</location>
+<title>Prosentvise forskjeller</title>
+<trackNum>171</trackNum>
+<duration>110315</duration>
+</track>
+<track>
+<location>speechgen0171.mp3</location>
+<title>Signifikante forskjeller</title>
+<trackNum>172</trackNum>
+<duration>49658</duration>
+</track>
+<track>
+<location>speechgen0172.mp3</location>
+<title>1 Hypoteseformulering</title>
+<trackNum>173</trackNum>
+<duration>29857</duration>
+</track>
+<track>
+<location>speechgen0173.mp3</location>
+<title>2 Beregne forventningsverdi</title>
+<trackNum>174</trackNum>
+<duration>63634</duration>
+</track>
+<track>
+<location>speechgen0174.mp3</location>
+<title>3 Beregne relativ kvadrert differanse</title>
+<trackNum>175</trackNum>
+<duration>67082</duration>
+</track>
+<track>
+<location>speechgen0175.mp3</location>
+<title>4 Beregne Kji-kvadratet</title>
+<trackNum>176</trackNum>
+<duration>362866</duration>
+</track>
+<track>
+<location>speechgen0176.mp3</location>
+<title>9.6 Testing av korrelasjonskoeffisienten</title>
+<trackNum>177</trackNum>
+<duration>55954</duration>
+</track>
+<track>
+<location>speechgen0177.mp3</location>
+<title>Pearson-korrelasjonen</title>
+<trackNum>178</trackNum>
+<duration>363206</duration>
+</track>
+<track>
+<location>speechgen0178.mp3</location>
+<title>Spearmans rangkorrelasjon</title>
+<trackNum>179</trackNum>
+<duration>372558</duration>
+</track>
+<track>
+<location>speechgen0179.mp3</location>
+<title>Kapittel 10 Regresjonsanalyse</title>
+<trackNum>180</trackNum>
+<duration>4702</duration>
+</track>
+<track>
+<location>speechgen0180.mp3</location>
+<title>10.1 Innledning</title>
+<trackNum>181</trackNum>
+<duration>721606</duration>
+</track>
+<track>
+<location>speechgen0181.mp3</location>
+<title>10.2 Enkel regresjonsanalyse</title>
+<trackNum>182</trackNum>
+<duration>173322</duration>
+</track>
+<track>
+<location>speechgen0182.mp3</location>
+<title>10.3 Estimering av regresjonsparametrene</title>
+<trackNum>183</trackNum>
+<duration>715650</duration>
+</track>
+<track>
+<location>speechgen0183.mp3</location>
+<title>10.4 t-testen</title>
+<trackNum>184</trackNum>
+<duration>309368</duration>
+</track>
+<track>
+<location>speechgen0184.mp3</location>
+<title>1 Tosidig test positiv eller negativ (=)</title>
+<trackNum>185</trackNum>
+<duration>67395</duration>
+</track>
+<track>
+<location>speechgen0185.mp3</location>
+<title>2 Ensidig test positiv (>)</title>
+<trackNum>186</trackNum>
+<duration>31346</duration>
+</track>
+<track>
+<location>speechgen0186.mp3</location>
+<title>3 Ensidig test negativ ( &lt; )</title>
+<trackNum>187</trackNum>
+<duration>404689</duration>
+</track>
+<track>
+<location>speechgen0187.mp3</location>
+<title>10.5 Multippel regresjonsanalyse</title>
+<trackNum>188</trackNum>
+<duration>335777</duration>
+</track>
+<track>
+<location>speechgen0188.mp3</location>
+<title>I de påfølgende avsnittene skal vi tolke denne regresjonsutskriften mer inngående.</title>
+<trackNum>189</trackNum>
+<duration>8672</duration>
+</track>
+<track>
+<location>speechgen0189.mp3</location>
+<title>10.6 Regresjonsligningens forklaringskraft, R2</title>
+<trackNum>190</trackNum>
+<duration>568241</duration>
+</track>
+<track>
+<location>speechgen0190.mp3</location>
+<title>10.7 Test av den multiple regresjonsmodellen</title>
+<trackNum>191</trackNum>
+<duration>50285</duration>
+</track>
+<track>
+<location>speechgen0191.mp3</location>
+<title>F-testen for multippel regresjonsmodell</title>
+<trackNum>192</trackNum>
+<duration>168542</duration>
+</track>
+<track>
+<location>speechgen0192.mp3</location>
+<title>t-testen for multippel regresjonsmodell</title>
+<trackNum>193</trackNum>
+<duration>359444</duration>
+</track>
+<track>
+<location>speechgen0193.mp3</location>
+<title>Standardisert beta</title>
+<trackNum>194</trackNum>
+<duration>126850</duration>
+</track>
+<track>
+<location>speechgen0194.mp3</location>
+<title>10.8 For mange eller for få forklaringsvariabler</title>
+<trackNum>195</trackNum>
+<duration>147017</duration>
+</track>
+<track>
+<location>speechgen0195.mp3</location>
+<title>Konsekvens av «for lang» modell</title>
+<trackNum>196</trackNum>
+<duration>85289</duration>
+</track>
+<track>
+<location>speechgen0196.mp3</location>
+<title>Konsekvens av «for kort» modell</title>
+<trackNum>197</trackNum>
+<duration>454582</duration>
+</track>
+<track>
+<location>speechgen0197.mp3</location>
+<title>10.9 Dummy-regresjon</title>
+<trackNum>198</trackNum>
+<duration>545018</duration>
+</track>
+<track>
+<location>speechgen0198.mp3</location>
+<title>10.10 Eksempel på multippel regresjonsanalyse ved hjelp av JMP</title>
+<trackNum>199</trackNum>
+<duration>1096986</duration>
+</track>
+<track>
+<location>speechgen0199.mp3</location>
+<title>VEDLEGG</title>
+<trackNum>200</trackNum>
+<duration>2403</duration>
+</track>
+<track>
+<location>speechgen0200.mp3</location>
+<title>Klassiske antakelser:</title>
+<trackNum>201</trackNum>
+<duration>83617</duration>
+</track>
+<track>
+<location>speechgen0201.mp3</location>
+<title>Gauss-Markov-teoremet</title>
+<trackNum>202</trackNum>
+<duration>144117</duration>
+</track>
+<track>
+<location>speechgen0202.mp3</location>
+<title>Test av antakelse 2 – residualanalyse</title>
+<trackNum>203</trackNum>
+<duration>29962</duration>
+</track>
+<track>
+<location>speechgen0203.mp3</location>
+<title>Normalitetsantakelsen</title>
+<trackNum>204</trackNum>
+<duration>258403</duration>
+</track>
+<track>
+<location>speechgen0204.mp3</location>
+<title>Test av antakelse 4 – konstant varians</title>
+<trackNum>205</trackNum>
+<duration>246125</duration>
+</track>
+<track>
+<location>speechgen0205.mp3</location>
+<title>Test av antakelse 6 – Modellen skal være lineær i parametrene</title>
+<trackNum>206</trackNum>
+<duration>156917</duration>
+</track>
+<track>
+<location>speechgen0206.mp3</location>
+<title>Test av antakelse 7 – kollinearitet (multikollinearitet)</title>
+<trackNum>207</trackNum>
+<duration>138893</duration>
+</track>
+<track>
+<location>speechgen0207.mp3</location>
+<title>Måling av kollinearitet</title>
+<trackNum>208</trackNum>
+<duration>494027</duration>
+</track>
+<track>
+<location>speechgen0208.mp3</location>
+<title>Minste kvadraters metode</title>
+<trackNum>209</trackNum>
+<duration>721841</duration>
+</track>
+<track>
+<location>speechgen0209.mp3</location>
+<title>Kapittel 11 Segmentering og clustering</title>
+<trackNum>210</trackNum>
+<duration>5433</duration>
+</track>
+<track>
+<location>speechgen0210.mp3</location>
+<title>11.1 Innledning</title>
+<trackNum>211</trackNum>
+<duration>251115</duration>
+</track>
+<track>
+<location>speechgen0211.mp3</location>
+<title>11.2 Likhet mellom grupper i dataene</title>
+<trackNum>212</trackNum>
+<duration>524329</duration>
+</track>
+<track>
+<location>speechgen0212.mp3</location>
+<title>11.3 Ulike metodikker innenfor clustering</title>
+<trackNum>213</trackNum>
+<duration>45426</duration>
+</track>
+<track>
+<location>speechgen0213.mp3</location>
+<title>11.4 Ikke-hierarkisk clustering</title>
+<trackNum>214</trackNum>
+<duration>459520</duration>
+</track>
+<track>
+<location>speechgen0214.mp3</location>
+<title>11.5 Fortolkning og videre bruk av clustre</title>
+<trackNum>215</trackNum>
+<duration>649795</duration>
+</track>
+<track>
+<location>speechgen0215.mp3</location>
+<title>11.6 Hierarkisk clustering</title>
+<trackNum>216</trackNum>
+<duration>391810</duration>
+</track>
+<track>
+<location>speechgen0216.mp3</location>
+<title>11.7 Variabel clustering</title>
+<trackNum>217</trackNum>
+<duration>217808</duration>
+</track>
+<track>
+<location>speechgen0217.mp3</location>
+<title>Kapittel 12 Faktoranalyse</title>
+<trackNum>218</trackNum>
+<duration>4388</duration>
+</track>
+<track>
+<location>speechgen0218.mp3</location>
+<title>12.1 Innledning</title>
+<trackNum>219</trackNum>
+<duration>191608</duration>
+</track>
+<track>
+<location>speechgen0219.mp3</location>
+<title>12.2 Faktoranalyse</title>
+<trackNum>220</trackNum>
+<duration>282488</duration>
+</track>
+<track>
+<location>speechgen0220.mp3</location>
+<title>12.3 Eksplorerende og bekreftende faktoranalyse</title>
+<trackNum>221</trackNum>
+<duration>173583</duration>
+</track>
+<track>
+<location>speechgen0221.mp3</location>
+<title>Hvilke faktorer er avgjørende ved kjøp av ny bil?</title>
+<trackNum>222</trackNum>
+<duration>72620</duration>
+</track>
+<track>
+<location>speechgen0222.mp3</location>
+<title>12.4 Faktoranalyse</title>
+<trackNum>223</trackNum>
+<duration>587572</duration>
+</track>
+<track>
+<location>speechgen0223.mp3</location>
+<title>12.5 Rotasjon</title>
+<trackNum>224</trackNum>
+<duration>343327</duration>
+</track>
+<track>
+<location>speechgen0224.mp3</location>
+<title>12.6 Forskjellen mellom faktoranalyse og prinsipal komponent-analyse</title>
+<trackNum>225</trackNum>
+<duration>297351</duration>
+</track>
+<track>
+<location>speechgen0225.mp3</location>
+<title>12.7 Faktorscorer</title>
+<trackNum>226</trackNum>
+<duration>305737</duration>
+</track>
+<track>
+<location>speechgen0226.mp3</location>
+<title>Rotasjon</title>
+<trackNum>227</trackNum>
+<duration>2481</duration>
+</track>
+<track>
+<location>speechgen0227.mp3</location>
+<title>Vi klikker på</title>
+<trackNum>228</trackNum>
+<duration>495203</duration>
+</track>
+<track>
+<location>speechgen0228.mp3</location>
+<title>12.8 Reliabilitet</title>
+<trackNum>229</trackNum>
+<duration>205348</duration>
+</track>
+<track>
+<location>speechgen0229.mp3</location>
+<title>12.9 Lage indekser basert på faktoranalysen</title>
+<trackNum>230</trackNum>
+<duration>146285</duration>
+</track>
+<track>
+<location>speechgen0230.mp3</location>
+<title>Del 4 Rapportering</title>
+<trackNum>231</trackNum>
+<duration>8620</duration>
+</track>
+<track>
+<location>speechgen0231.mp3</location>
+<title>Kapittel 13 Konklusjon, rapportering og implementering</title>
+<trackNum>232</trackNum>
+<duration>6974</duration>
+</track>
+<track>
+<location>speechgen0232.mp3</location>
+<title>13.1 Innledning</title>
+<trackNum>233</trackNum>
+<duration>101015</duration>
+</track>
+<track>
+<location>speechgen0233.mp3</location>
+<title>13.2 Konklusjon</title>
+<trackNum>234</trackNum>
+<duration>83252</duration>
+</track>
+<track>
+<location>speechgen0234.mp3</location>
+<title>13.3 Rapportering</title>
+<trackNum>235</trackNum>
+<duration>4205</duration>
+</track>
+<track>
+<location>speechgen0235.mp3</location>
+<title>Tilpasse til mottaker</title>
+<trackNum>236</trackNum>
+<duration>81397</duration>
+</track>
+<track>
+<location>speechgen0236.mp3</location>
+<title>Viktig informasjon</title>
+<trackNum>237</trackNum>
+<duration>219898</duration>
+</track>
+<track>
+<location>speechgen0237.mp3</location>
+<title>Referansebruk</title>
+<trackNum>238</trackNum>
+<duration>198713</duration>
+</track>
+<track>
+<location>speechgen0238.mp3</location>
+<title>Artikkel i journal, én forfatter</title>
+<trackNum>239</trackNum>
+<duration>28421</duration>
+</track>
+<track>
+<location>speechgen0239.mp3</location>
+<title>Artikkel i journal, to forfattere</title>
+<trackNum>240</trackNum>
+<duration>26801</duration>
+</track>
+<track>
+<location>speechgen0240.mp3</location>
+<title>Artikkel i journal, tre eller flere forfattere</title>
+<trackNum>241</trackNum>
+<duration>29492</duration>
+</track>
+<track>
+<location>speechgen0241.mp3</location>
+<title>Bok, en forfatter</title>
+<trackNum>242</trackNum>
+<duration>17920</duration>
+</track>
+<track>
+<location>speechgen0242.mp3</location>
+<title>Bok, to forfattere</title>
+<trackNum>243</trackNum>
+<duration>17136</duration>
+</track>
+<track>
+<location>speechgen0243.mp3</location>
+<title>Bok, tre eller flere forfattere</title>
+<trackNum>244</trackNum>
+<duration>24816</duration>
+</track>
+<track>
+<location>speechgen0244.mp3</location>
+<title>Kapitler og artikler i bøker, en forfatter</title>
+<trackNum>245</trackNum>
+<duration>30615</duration>
+</track>
+<track>
+<location>speechgen0245.mp3</location>
+<title>Kapitler og artikler i bøker, to forfattere</title>
+<trackNum>246</trackNum>
+<duration>38608</duration>
+</track>
+<track>
+<location>speechgen0246.mp3</location>
+<title>Studentarbeider</title>
+<trackNum>247</trackNum>
+<duration>28160</duration>
+</track>
+<track>
+<location>speechgen0247.mp3</location>
+<title>Elektroniske kilder</title>
+<trackNum>248</trackNum>
+<duration>30876</duration>
+</track>
+<track>
+<location>speechgen0248.mp3</location>
+<title>Etterprøvbarhet</title>
+<trackNum>249</trackNum>
+<duration>91924</duration>
+</track>
+<track>
+<location>speechgen0249.mp3</location>
+<title>Svakheter</title>
+<trackNum>250</trackNum>
+<duration>35552</duration>
+</track>
+<track>
+<location>speechgen0250.mp3</location>
+<title>Stil og skriveform</title>
+<trackNum>251</trackNum>
+<duration>90618</duration>
+</track>
+<track>
+<location>speechgen0251.mp3</location>
+<title>13.4 Formelt oppsett på rapporten</title>
+<trackNum>252</trackNum>
+<duration>418873</duration>
+</track>
+<track>
+<location>speechgen0252.mp3</location>
+<title>13.5 Implementering</title>
+<trackNum>253</trackNum>
+<duration>102008</duration>
+</track>
+<track>
+<location>speechgen0253.mp3</location>
+<title>Mer utbytte av undersøkelser</title>
+<trackNum>254</trackNum>
+<duration>176927</duration>
+</track>
+<track>
+<location>speechgen0254.mp3</location>
+<title>Litteraturliste</title>
+<trackNum>255</trackNum>
+<duration>585613</duration>
+</track>
+<track>
+<location>speechgen0255.mp3</location>
+<title>Del 5 Vedlegg</title>
+<trackNum>256</trackNum>
+<duration>5746</duration>
+</track>
+<track>
+<location>speechgen0256.mp3</location>
+<title>Nyttige linker</title>
+<trackNum>257</trackNum>
+<duration>16248</duration>
+</track>
+<track>
+<location>speechgen0257.mp3</location>
+<title>Analysebyråer, fullservice</title>
+<trackNum>258</trackNum>
+<duration>223529</duration>
+</track>
+<track>
+<location>speechgen0258.mp3</location>
+<title>Norske markedsanalyseinstitutter (nisjer)</title>
+<trackNum>259</trackNum>
+<duration>63895</duration>
+</track>
+<track>
+<location>speechgen0259.mp3</location>
+<title>Spesialister på kvalitative undersøkelser</title>
+<trackNum>260</trackNum>
+<duration>33593</duration>
+</track>
+<track>
+<location>speechgen0260.mp3</location>
+<title>Spesialister på datainnsamling</title>
+<trackNum>261</trackNum>
+<duration>64182</duration>
+</track>
+<track>
+<location>speechgen0261.mp3</location>
+<title>Gjennomfører analyser kun på web</title>
+<trackNum>262</trackNum>
+<duration>47986</duration>
+</track>
+<track>
+<location>speechgen0262.mp3</location>
+<title>Softwareselskaper</title>
+<trackNum>263</trackNum>
+<duration>93570</duration>
+</track>
+<track>
+<location>speechgen0263.mp3</location>
+<title>Markedsstrategisk rådgivning</title>
+<trackNum>264</trackNum>
+<duration>26462</duration>
+</track>
+<track>
+<location>speechgen0264.mp3</location>
+<title>Utenlandske analyseinstitutter</title>
+<trackNum>265</trackNum>
+<duration>50050</duration>
+</track>
+<track>
+<location>speechgen0265.mp3</location>
+<title>Utenlandske nettsteder av interesse</title>
+<trackNum>266</trackNum>
+<duration>40176</duration>
+</track>
+<track>
+<location>speechgen0266.mp3</location>
+<title>Læresteder</title>
+<trackNum>267</trackNum>
+<duration>55379</duration>
+</track>
+<track>
+<location>speechgen0267.mp3</location>
+<title>Vedlegg 1</title>
+<trackNum>268</trackNum>
+<duration>2768</duration>
+</track>
+<track>
+<location>speechgen0268.mp3</location>
+<title>NKB-spørreskjema</title>
+<trackNum>269</trackNum>
+<duration>3631</duration>
+</track>
+<track>
+<location>speechgen0269.mp3</location>
+<title>NORSK KUNDEBAROMETER – BOLIGALARM</title>
+<trackNum>270</trackNum>
+<duration>27768</duration>
+</track>
+<track>
+<location>speechgen0270.mp3</location>
+<title>Screening</title>
+<trackNum>271</trackNum>
+<duration>79986</duration>
+</track>
+<track>
+<location>speechgen0271.mp3</location>
+<title>Tilfredshet</title>
+<trackNum>272</trackNum>
+<duration>95843</duration>
+</track>
+<track>
+<location>speechgen0272.mp3</location>
+<title>Pris</title>
+<trackNum>273</trackNum>
+<duration>67787</duration>
+</track>
+<track>
+<location>speechgen0273.mp3</location>
+<title>Materiell kvalitet/faktura/produkt</title>
+<trackNum>274</trackNum>
+<duration>141113</duration>
+</track>
+<track>
+<location>speechgen0274.mp3</location>
+<title>Reaksjonsdyktighet</title>
+<trackNum>275</trackNum>
+<duration>108277</duration>
+</track>
+<track>
+<location>speechgen0275.mp3</location>
+<title>Personlig behandling</title>
+<trackNum>276</trackNum>
+<duration>124395</duration>
+</track>
+<track>
+<location>speechgen0276.mp3</location>
+<title>Rettferdighet</title>
+<trackNum>277</trackNum>
+<duration>80613</duration>
+</track>
+<track>
+<location>speechgen0277.mp3</location>
+<title>Klagebehandling</title>
+<trackNum>278</trackNum>
+<duration>34638</duration>
+</track>
+<track>
+<location>speechgen0278.mp3</location>
+<title>Omdømme</title>
+<trackNum>279</trackNum>
+<duration>63895</duration>
+</track>
+<track>
+<location>speechgen0279.mp3</location>
+<title>Tillit</title>
+<trackNum>280</trackNum>
+<duration>102817</duration>
+</track>
+<track>
+<location>speechgen0280.mp3</location>
+<title>Affektiv tilknytning</title>
+<trackNum>281</trackNum>
+<duration>83278</duration>
+</track>
+<track>
+<location>speechgen0281.mp3</location>
+<title>Kalkulativ tilknytning</title>
+<trackNum>282</trackNum>
+<duration>92604</duration>
+</track>
+<track>
+<location>speechgen0282.mp3</location>
+<title>Atferdsmessige intensjoner</title>
+<trackNum>283</trackNum>
+<duration>150909</duration>
+</track>
+<track>
+<location>speechgen0283.mp3</location>
+<title>Vedlegg 2A</title>
+<trackNum>284</trackNum>
+<duration>3160</duration>
+</track>
+<track>
+<location>speechgen0284.mp3</location>
+<title>Case Dagbladet</title>
+<trackNum>285</trackNum>
+<duration>3056</duration>
+</track>
+<track>
+<location>speechgen0285.mp3</location>
+<title>Verveguide for fokusgruppe</title>
+<trackNum>286</trackNum>
+<duration>530494</duration>
+</track>
+<track>
+<location>speechgen0286.mp3</location>
+<title>Vedlegg 2B</title>
+<trackNum>287</trackNum>
+<duration>3186</duration>
+</track>
+<track>
+<location>speechgen0287.mp3</location>
+<title>Samtaleguide for fokusgruppe1</title>
+<trackNum>288</trackNum>
+<duration>9717</duration>
+</track>
+<track>
+<location>speechgen0288.mp3</location>
+<title>Samtaleguide DAG13395</title>
+<trackNum>289</trackNum>
+<duration>4153</duration>
+</track>
+<track>
+<location>speechgen0289.mp3</location>
+<title>Oppvarming (10 min)</title>
+<trackNum>290</trackNum>
+<duration>243435</duration>
+</track>
+<track>
+<location>speechgen0290.mp3</location>
+<title>Innledning (15 min)</title>
+<trackNum>291</trackNum>
+<duration>41586</duration>
+</track>
+<track>
+<location>speechgen0291.mp3</location>
+<title>Forholdet til produktkategorien (X min)</title>
+<trackNum>292</trackNum>
+<duration>81763</duration>
+</track>
+<track>
+<location>speechgen0292.mp3</location>
+<title>Oppfatning av Dagbladet (X min)</title>
+<trackNum>293</trackNum>
+<duration>71418</duration>
+</track>
+<track>
+<location>speechgen0293.mp3</location>
+<title>Konkurrenter (X min)</title>
+<trackNum>294</trackNum>
+<duration>10788</duration>
+</track>
+<track>
+<location>speechgen0294.mp3</location>
+<title>Helgemagasinene (X min)</title>
+<trackNum>295</trackNum>
+<duration>114494</duration>
+</track>
+<track>
+<location>speechgen0295.mp3</location>
+<title>Nye magasin (X min)</title>
+<trackNum>296</trackNum>
+<duration>61622</duration>
+</track>
+<track>
+<location>speechgen0296.mp3</location>
+<title>Pris (X min)</title>
+<trackNum>297</trackNum>
+<duration>102426</duration>
+</track>
+<track>
+<location>speechgen0297.mp3</location>
+<title>Reklameinnstikk (X min)</title>
+<trackNum>298</trackNum>
+<duration>109244</duration>
+</track>
+<track>
+<location>speechgen0298.mp3</location>
+<title>Avslutning</title>
+<trackNum>299</trackNum>
+<duration>14497</duration>
+</track>
+<track>
+<location>speechgen0299.mp3</location>
+<title>Vedlegg 2C</title>
+<trackNum>300</trackNum>
+<duration>1227</duration>
+</track>
+<track>
+<location>speechgen0300.mp3</location>
+<title>Spørreskjemaundersøkelse</title>
+<trackNum>301</trackNum>
+<duration>634253</duration>
+</track>
+<track>
+<location>speechgen0301.mp3</location>
+<title>Vedlegg 3</title>
+<trackNum>302</trackNum>
+<duration>626</duration>
+</track>
+<track>
+<location>speechgen0302.mp3</location>
+<title>Tabeller</title>
+<trackNum>303</trackNum>
+<duration>208</duration>
+</track>
+<track>
+<location>speechgen0303.mp3</location>
+<title>Tabell 3A Kji-kvadratfordelingen</title>
+<trackNum>304</trackNum>
+<duration>861727</duration>
+</track>
+<track>
+<location>speechgen0304.mp3</location>
+<title>Tabell 3B t-fordelingen</title>
+<trackNum>305</trackNum>
+<duration>522004</duration>
+</track>
+<track>
+<location>speechgen0305.mp3</location>
+<title>Tabell 3C F-fordelingen</title>
+<trackNum>306</trackNum>
+<duration>2437538</duration>
+</track>
+<track>
+<location>speechgen0306.mp3</location>
+<title>Tabell 3D Shapiro-Wilks-tabellen</title>
+<trackNum>307</trackNum>
+<duration>84532</duration>
+</track>
+<track>
+<location>speechgen0307.mp3</location>
+<title>Vedlegg 4</title>
+<trackNum>308</trackNum>
+<duration>2899</duration>
+</track>
+<track>
+<location>speechgen0308.mp3</location>
+<title>Hotelldataene</title>
+<trackNum>309</trackNum>
+<duration>4335856</duration>
+</track>
+<track>
+<location>speechgen0309.mp3</location>
+<title>Vedlegg 5</title>
+<trackNum>310</trackNum>
+<duration>653</duration>
+</track>
+<track>
+<location>speechgen0310.mp3</location>
+<title>Eksamensoppgaver fra Handelshøyskolen BI</title>
+<trackNum>311</trackNum>
+<duration>41404</duration>
+</track>
+<track>
+<location>speechgen0311.mp3</location>
+<title>Bergby Kaffebar</title>
+<trackNum>312</trackNum>
+<duration>593084</duration>
+</track>
+<track>
+<location>speechgen0312.mp3</location>
+<title>AB Bank</title>
+<trackNum>313</trackNum>
+<duration>521717</duration>
+</track>
+<track>
+<location>speechgen0313.mp3</location>
+<title>Peunault Jeunesse</title>
+<trackNum>314</trackNum>
+<duration>632685</duration>
+</track>
+<track>
+<location>speechgen0314.mp3</location>
+<title>Diamond Gym Inc</title>
+<trackNum>315</trackNum>
+<duration>568529</duration>
+</track>
+<track>
+<location>speechgen0315.mp3</location>
+<title>TIURTOPPEN HOTELL</title>
+<trackNum>316</trackNum>
+<duration>598726</duration>
+</track>
+<track>
+<location>speechgen0316.mp3</location>
+<title>Eksamensoppgave i Markedsanalyse ved Handelshøyskolen BI, 1998</title>
+<trackNum>317</trackNum>
+<duration>417332</duration>
+</track>
+<track>
+<location>speechgen0317.mp3</location>
+<title>Fagoppgave MET2360 Metode og dataanalyse, Høsten 2003</title>
+<trackNum>318</trackNum>
+<duration>310465</duration>
+</track>
+<track>
+<location>speechgen0318.mp3</location>
+<title>Spørreskjemaundersøkelse for ansatte ved Cure helseforetak.</title>
+<trackNum>319</trackNum>
+<duration>448313</duration>
+</track>
+</trackList>
+</playlist>

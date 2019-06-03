@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<validator xmlns="http://www.daisy.org/ns/pipeline/validator/">&#xd;
+<head xmlns="http://www.daisy.org/ns/pipeline/validator/">&#xd;
+<pipelineVersion xmlns="http://www.daisy.org/ns/pipeline/validator/">20111215</pipelineVersion>&#xd;
+<javaVersion xmlns="http://www.daisy.org/ns/pipeline/validator/">1.8.0_131</javaVersion>&#xd;
+</head>&#xd;
+<body xmlns="http://www.daisy.org/ns/pipeline/validator/">&#xd;
+</body>&#xd;
+<foot xmlns="http://www.daisy.org/ns/pipeline/validator/">&#xd;
+<executionTime xmlns="http://www.daisy.org/ns/pipeline/validator/">0:00:00.379</executionTime>&#xd;
+</foot>&#xd;
+</validator>

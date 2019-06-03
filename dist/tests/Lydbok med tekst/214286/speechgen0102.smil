@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd" []>
+<smil>
+   <head>
+      <meta name="ncc:generator" content="DMFC z3986-2005 to Daisy 2.02 (smil2smil v0.2)" />
+      <meta name="dc:format" content="Daisy 2.02" />
+      <meta name="dc:identifier" content="214286" />
+      <meta name="title" content="7.1 Innledning" />
+      <meta name="dc:title" content="Metode og dataanalyse" />
+      <meta name="ncc:totalElapsedTime" content="6:40:00" />
+      <meta name="ncc:timeInThisSmil" content="0:01:10" />
+      <layout>
+         <region id="txtView" />
+      </layout>
+   </head>
+   <body>
+      <seq dur="69.965s">
+         <par endsync="last" id="tcp2867">
+            <text id="text2867" src="content.html#dtb2944" />
+            <audio src="speechgen0102.mp3" id="audd3865e10" clip-begin="npt=0.000s" clip-end="npt=5.123s" />
+         </par>
+         <par endsync="last" id="tcp2868">
+            <text id="text2868" src="content.html#dtb2945" />
+            <audio src="speechgen0102.mp3" id="audd3865e13" clip-begin="npt=5.123s" clip-end="npt=17.565s" />
+         </par>
+         <par endsync="last" id="tcp2869">
+            <text id="text2869" src="content.html#dtb2946" />
+            <audio src="speechgen0102.mp3" id="audd3865e16" clip-begin="npt=17.565s" clip-end="npt=29.501s" />
+         </par>
+         <par endsync="last" id="tcp2870">
+            <text id="text2870" src="content.html#dtb2947" />
+            <audio src="speechgen0102.mp3" id="audd3865e19" clip-begin="npt=29.501s" clip-end="npt=46.329s" />
+         </par>
+         <par endsync="last" id="tcp2871">
+            <text id="text2871" src="content.html#dtb2948" />
+            <audio src="speechgen0102.mp3" id="audd3865e22" clip-begin="npt=46.329s" clip-end="npt=56.376s" />
+         </par>
+         <par endsync="last" id="tcp2872">
+            <text id="text2872" src="content.html#dtb2949" />
+            <audio src="speechgen0102.mp3" id="audd3865e25" clip-begin="npt=56.376s" clip-end="npt=62.849s" />
+         </par>
+         <par endsync="last" id="tcp2873">
+            <text id="text2873" src="content.html#dtb2950" />
+            <audio src="speechgen0102.mp3" id="audd3865e28" clip-begin="npt=62.849s" clip-end="npt=69.965s" />
+         </par>
+      </seq>
+   </body>
+</smil>

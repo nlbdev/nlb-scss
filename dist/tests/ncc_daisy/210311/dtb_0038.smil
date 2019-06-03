@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="210311"/>
+		<meta name="dc:title" content="Fra mottaker til aktør"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Kapittel 4 Sosialhjelp, sjølrespekt og meistring, Om institusjonell audmjuking og krav til eit anstendig hjelpeapparat. Liv Johanne Solheim"/>
+		<meta name="ncc:totalElapsedTime" content="03:57:42"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:29"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="29.393s">
+			<par endsync="last" id="rgn_par_0037_0001">
+				<text src="ncc.html#text_0025" id="text_0025"/>
+				<seq>
+					<audio src="dtb_0038.mp3" clip-begin="npt=0.000s" clip-end="npt=7.776s" id="rgn_aud_0038_0001"/>
+					<audio src="dtb_0038.mp3" clip-begin="npt=7.776s" clip-end="npt=10.439s" id="rgn_aud_0038_0002"/>
+					<audio src="dtb_0038.mp3" clip-begin="npt=10.439s" clip-end="npt=17.045s" id="rgn_aud_0038_0003"/>
+					<audio src="dtb_0038.mp3" clip-begin="npt=17.045s" clip-end="npt=20.520s" id="rgn_aud_0038_0004"/>
+					<audio src="dtb_0038.mp3" clip-begin="npt=20.520s" clip-end="npt=26.297s" id="rgn_aud_0038_0005"/>
+					<audio src="dtb_0038.mp3" clip-begin="npt=26.297s" clip-end="npt=29.393s" id="rgn_aud_0038_0006"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

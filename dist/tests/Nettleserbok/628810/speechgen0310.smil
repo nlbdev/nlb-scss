@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd" []>
+<smil>
+   <head>
+      <meta name="ncc:generator" content="DMFC z3986-2005 to Daisy 2.02 (smil2smil v0.2)" />
+      <meta name="dc:format" content="Daisy 2.02" />
+      <meta name="dc:identifier" content="628810" />
+      <meta name="title" content="§ 18. Særlige bestemmelser for syklende" />
+      <meta name="dc:title" content="Veien til førerkortet: buss, lastebil, vogntog" />
+      <meta name="ncc:totalElapsedTime" content="15:28:01" />
+      <meta name="ncc:timeInThisSmil" content="0:01:42" />
+      <layout>
+         <region id="txtView" />
+      </layout>
+   </head>
+   <body>
+      <seq dur="101.885s">
+         <par endsync="last" id="tcp10725">
+            <text id="text10725" src="content.html#dtb10165" />
+            <audio src="speechgen0310.mp3" id="audd14185e12" clip-begin="npt=0.000s" clip-end="npt=2.326s" />
+         </par>
+         <par endsync="last" id="tcp10726">
+            <text id="text10726" src="content.html#dtb10166" />
+            <audio src="speechgen0310.mp3" id="audd14185e15" clip-begin="npt=2.326s" clip-end="npt=5.237s" />
+         </par>
+         <par endsync="last" id="tcp10727">
+            <text id="text10727" src="content.html#dtb10168" />
+            <audio src="speechgen0310.mp3" id="audd14185e19" clip-begin="npt=5.237s" clip-end="npt=5.830s" />
+         </par>
+         <par endsync="last" id="tcp10728">
+            <text id="text10728" src="content.html#dtb10169" />
+            <audio src="speechgen0310.mp3" id="audd14185e22" clip-begin="npt=5.830s" clip-end="npt=14.279s" />
+         </par>
+         <par endsync="last" id="tcp10729">
+            <text id="text10729" src="content.html#dtb10170" />
+            <audio src="speechgen0310.mp3" id="audd14185e25" clip-begin="npt=14.279s" clip-end="npt=14.943s" />
+         </par>
+         <par endsync="last" id="tcp10730">
+            <text id="text10730" src="content.html#dtb10171" />
+            <audio src="speechgen0310.mp3" id="audd14185e28" clip-begin="npt=14.943s" clip-end="npt=24.809s" />
+         </par>
+         <par endsync="last" id="tcp10731">
+            <text id="text10731" src="content.html#dtb10172" />
+            <audio src="speechgen0310.mp3" id="audd14185e31" clip-begin="npt=24.809s" clip-end="npt=29.232s" />
+         </par>
+         <par endsync="last" id="tcp10732">
+            <text id="text10732" src="content.html#dtb10173" />
+            <audio src="speechgen0310.mp3" id="audd14185e34" clip-begin="npt=29.232s" clip-end="npt=45.143s" />
+         </par>
+         <par endsync="last" id="tcp10733">
+            <text id="text10733" src="content.html#dtb10174" />
+            <audio src="speechgen0310.mp3" id="audd14185e37" clip-begin="npt=45.143s" clip-end="npt=45.899s" />
+         </par>
+         <par endsync="last" id="tcp10734">
+            <text id="text10734" src="content.html#dtb10175" />
+            <audio src="speechgen0310.mp3" id="audd14185e40" clip-begin="npt=45.899s" clip-end="npt=59.705s" />
+         </par>
+         <par endsync="last" id="tcp10735">
+            <text id="text10735" src="content.html#dtb10176" />
+            <audio src="speechgen0310.mp3" id="audd14185e43" clip-begin="npt=59.705s" clip-end="npt=67.420s" />
+         </par>
+         <par endsync="last" id="tcp10736">
+            <text id="text10736" src="content.html#dtb10177" />
+            <audio src="speechgen0310.mp3" id="audd14185e46" clip-begin="npt=67.420s" clip-end="npt=68.263s" />
+         </par>
+         <par endsync="last" id="tcp10737">
+            <text id="text10737" src="content.html#dtb10178" />
+            <audio src="speechgen0310.mp3" id="audd14185e49" clip-begin="npt=68.263s" clip-end="npt=83.001s" />
+         </par>
+         <par endsync="last" id="tcp10738">
+            <text id="text10738" src="content.html#dtb10179" />
+            <audio src="speechgen0310.mp3" id="audd14185e52" clip-begin="npt=83.001s" clip-end="npt=97.667s" />
+         </par>
+         <par id="tcp10739" endsync="last" system-required="pagenumber-on">
+            <text id="text10739" src="content.html#Page_422" />
+            <audio src="speechgen0310.mp3" id="audd14185e55" clip-begin="npt=97.667s" clip-end="npt=101.885s" />
+         </par>
+      </seq>
+   </body>
+</smil>

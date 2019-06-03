@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd" []>
+<smil>
+   <head>
+      <meta name="ncc:generator" content="DMFC z3986-2005 to Daisy 2.02 (smil2smil v0.2)" />
+      <meta name="dc:format" content="Daisy 2.02" />
+      <meta name="dc:identifier" content="214286" />
+      <meta name="title" content="Kapittel 9 Hypotesetesting" />
+      <meta name="dc:title" content="Metode og dataanalyse" />
+      <meta name="ncc:totalElapsedTime" content="9:38:45" />
+      <meta name="ncc:timeInThisSmil" content="0:00:06" />
+      <layout>
+         <region id="txtView" />
+      </layout>
+   </head>
+   <body>
+      <seq dur="6.031s">
+         <par endsync="last" id="tcp4319">
+            <text id="text4319" src="content.html#dtb4433" />
+            <audio src="speechgen0151.mp3" id="audd5755e10" clip-begin="npt=0.000s" clip-end="npt=6.031s" />
+         </par>
+      </seq>
+   </body>
+</smil>

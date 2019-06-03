@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="210311"/>
+		<meta name="dc:title" content="Fra mottaker til aktør"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Del 4 Forholdet mellom forskning og praksis"/>
+		<meta name="ncc:totalElapsedTime" content="11:08:58"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:08"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="7.65s">
+			<par endsync="last" id="rgn_par_0094_0001">
+				<text src="ncc.html#text_005e" id="text_005e"/>
+				<seq>
+					<audio src="dtb_0095.mp3" clip-begin="npt=0.000s" clip-end="npt=7.650s" id="rgn_aud_0095_0001"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,659 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd"[]>
+<smil>
+  <head>
+    <meta name="dc:title" content="THE BOY IN THE STRIPED PYJAMAS" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="dc:identifier" content="624755" />
+    <meta name="ncc:totalElapsedTime" content="04:59:24.236" />
+    <meta name="ncc:timeInThisSmil" content="00:10:35.684" />
+    <meta name="ncc:generator" content="Hindenburg ABC Studio 1.26.2164" />
+    <layout>
+      <region id="txtView" />
+    </layout>
+  </head>
+  <body>
+    <seq id="main" dur="635.684s">
+      <par endsync="last" id="parS1">
+        <text id="d1534e4790-0" src="624755.html#d1534e4790-0" />
+        <audio id="audd1534e4790-0" clip-begin="npt=0.000s" clip-end="npt=7.256s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS2">
+        <text id="hix01255" src="624755.html#hix01255" />
+        <audio id="audhix01255" clip-begin="npt=7.256s" clip-end="npt=19.480s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS3">
+        <text id="hix01255s2" src="624755.html#hix01255s2" />
+        <audio id="audhix01255s2" clip-begin="npt=19.480s" clip-end="npt=20.120s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS4">
+        <text id="hix01255s3" src="624755.html#hix01255s3" />
+        <audio id="audhix01255s3" clip-begin="npt=20.120s" clip-end="npt=22.960s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS5">
+        <text id="hix01255s4" src="624755.html#hix01255s4" />
+        <audio id="audhix01255s4" clip-begin="npt=22.960s" clip-end="npt=30.280s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS6">
+        <text id="hix01255s5" src="624755.html#hix01255s5" />
+        <audio id="audhix01255s5" clip-begin="npt=30.280s" clip-end="npt=32.840s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS7">
+        <text id="hix01255s6" src="624755.html#hix01255s6" />
+        <audio id="audhix01255s6" clip-begin="npt=32.840s" clip-end="npt=34.840s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS8">
+        <text id="hix01255s7" src="624755.html#hix01255s7" />
+        <audio id="audhix01255s7" clip-begin="npt=34.840s" clip-end="npt=41.480s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS9">
+        <text id="hix01255s8" src="624755.html#hix01255s8" />
+        <audio id="audhix01255s8" clip-begin="npt=41.480s" clip-end="npt=43.480s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS10">
+        <text id="hix01255s9" src="624755.html#hix01255s9" />
+        <audio id="audhix01255s9" clip-begin="npt=43.480s" clip-end="npt=45.960s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS11">
+        <text id="hix01255s10" src="624755.html#hix01255s10" />
+        <audio id="audhix01255s10" clip-begin="npt=45.960s" clip-end="npt=54.249s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS12">
+        <text id="hix01256" src="624755.html#hix01256" />
+        <audio id="audhix01256" clip-begin="npt=54.249s" clip-end="npt=62.200s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS13">
+        <text id="hix01256s2" src="624755.html#hix01256s2" />
+        <audio id="audhix01256s2" clip-begin="npt=62.200s" clip-end="npt=70.560s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS14">
+        <text id="hix01256s3" src="624755.html#hix01256s3" />
+        <audio id="audhix01256s3" clip-begin="npt=70.560s" clip-end="npt=72.520s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS15">
+        <text id="hix01256s4" src="624755.html#hix01256s4" />
+        <audio id="audhix01256s4" clip-begin="npt=72.520s" clip-end="npt=78.194s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par id="par4" system-required="pagenumber-on" endsync="last">
+        <text id="Page_186" src="624755.html#Page_186" />
+        <audio id="aud004" clip-begin="npt=78.194s" clip-end="npt=78.571s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS16">
+        <text id="hix01257" src="624755.html#hix01257" />
+        <audio id="audhix01257" clip-begin="npt=78.571s" clip-end="npt=81.840s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS17">
+        <text id="hix01257s2" src="624755.html#hix01257s2" />
+        <audio id="audhix01257s2" clip-begin="npt=81.840s" clip-end="npt=83.240s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS18">
+        <text id="hix01257s3" src="624755.html#hix01257s3" />
+        <audio id="audhix01257s3" clip-begin="npt=83.240s" clip-end="npt=85.133s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS19">
+        <text id="hix01258" src="624755.html#hix01258" />
+        <audio id="audhix01258" clip-begin="npt=85.133s" clip-end="npt=92.920s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS20">
+        <text id="hix01258s2" src="624755.html#hix01258s2" />
+        <audio id="audhix01258s2" clip-begin="npt=92.920s" clip-end="npt=98.717s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS21">
+        <text id="hix01260" src="624755.html#hix01260" />
+        <audio id="audhix01260" clip-begin="npt=98.717s" clip-end="npt=102.200s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS22">
+        <text id="hix01260s2" src="624755.html#hix01260s2" />
+        <audio id="audhix01260s2" clip-begin="npt=102.200s" clip-end="npt=106.720s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS23">
+        <text id="hix01260s3" src="624755.html#hix01260s3" />
+        <audio id="audhix01260s3" clip-begin="npt=106.720s" clip-end="npt=109.907s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS24">
+        <text id="hix01261" src="624755.html#hix01261" />
+        <audio id="audhix01261" clip-begin="npt=109.907s" clip-end="npt=112.480s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS25">
+        <text id="hix01261s2" src="624755.html#hix01261s2" />
+        <audio id="audhix01261s2" clip-begin="npt=112.480s" clip-end="npt=127.200s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS26">
+        <text id="hix01261s3" src="624755.html#hix01261s3" />
+        <audio id="audhix01261s3" clip-begin="npt=127.200s" clip-end="npt=130.440s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS27">
+        <text id="hix01261s4" src="624755.html#hix01261s4" />
+        <audio id="audhix01261s4" clip-begin="npt=130.440s" clip-end="npt=131.720s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS28">
+        <text id="hix01261s5" src="624755.html#hix01261s5" />
+        <audio id="audhix01261s5" clip-begin="npt=131.720s" clip-end="npt=137.800s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS29">
+        <text id="hix01261s6" src="624755.html#hix01261s6" />
+        <audio id="audhix01261s6" clip-begin="npt=137.800s" clip-end="npt=141.533s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS30">
+        <text id="hix01262" src="624755.html#hix01262" />
+        <audio id="audhix01262" clip-begin="npt=141.533s" clip-end="npt=148.120s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS31">
+        <text id="hix01262s2" src="624755.html#hix01262s2" />
+        <audio id="audhix01262s2" clip-begin="npt=148.120s" clip-end="npt=150.760s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS32">
+        <text id="hix01262s3" src="624755.html#hix01262s3" />
+        <audio id="audhix01262s3" clip-begin="npt=150.760s" clip-end="npt=165.520s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS33">
+        <text id="hix01262s4" src="624755.html#hix01262s4" />
+        <audio id="audhix01262s4" clip-begin="npt=165.520s" clip-end="npt=172.680s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS34">
+        <text id="hix01262s5" src="624755.html#hix01262s5" />
+        <audio id="audhix01262s5" clip-begin="npt=172.680s" clip-end="npt=175.020s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par id="par10" system-required="pagenumber-on" endsync="last">
+        <text id="Page_187" src="624755.html#Page_187" />
+        <audio id="aud010" clip-begin="npt=175.020s" clip-end="npt=175.648s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS35">
+        <text id="hix01263" src="624755.html#hix01263" />
+        <audio id="audhix01263" clip-begin="npt=175.648s" clip-end="npt=181.600s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS36">
+        <text id="hix01263s2" src="624755.html#hix01263s2" />
+        <audio id="audhix01263s2" clip-begin="npt=181.600s" clip-end="npt=187.040s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS37">
+        <text id="hix01263s3" src="624755.html#hix01263s3" />
+        <audio id="audhix01263s3" clip-begin="npt=187.040s" clip-end="npt=201.080s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS38">
+        <text id="hix01264" src="624755.html#hix01264" />
+        <audio id="audhix01264" clip-begin="npt=201.080s" clip-end="npt=207.160s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS39">
+        <text id="hix01264s2" src="624755.html#hix01264s2" />
+        <audio id="audhix01264s2" clip-begin="npt=207.160s" clip-end="npt=210.893s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS40">
+        <text id="hix01265" src="624755.html#hix01265" />
+        <audio id="audhix01265" clip-begin="npt=210.893s" clip-end="npt=216.920s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS41">
+        <text id="hix01265s2" src="624755.html#hix01265s2" />
+        <audio id="audhix01265s2" clip-begin="npt=216.920s" clip-end="npt=222.640s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS42">
+        <text id="hix01265s3" src="624755.html#hix01265s3" />
+        <audio id="audhix01265s3" clip-begin="npt=222.640s" clip-end="npt=228.640s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS43">
+        <text id="hix01265s4" src="624755.html#hix01265s4" />
+        <audio id="audhix01265s4" clip-begin="npt=228.640s" clip-end="npt=232.640s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS44">
+        <text id="hix01265s5" src="624755.html#hix01265s5" />
+        <audio id="audhix01265s5" clip-begin="npt=232.640s" clip-end="npt=239.680s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS45">
+        <text id="hix01265s6" src="624755.html#hix01265s6" />
+        <audio id="audhix01265s6" clip-begin="npt=239.680s" clip-end="npt=250.840s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS46">
+        <text id="hix01265s7" src="624755.html#hix01265s7" />
+        <audio id="audhix01265s7" clip-begin="npt=250.840s" clip-end="npt=255.767s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS47">
+        <text id="hix01266" src="624755.html#hix01266" />
+        <audio id="audhix01266" clip-begin="npt=255.767s" clip-end="npt=267.510s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS48">
+        <text id="hix01267" src="624755.html#hix01267" />
+        <audio id="audhix01267" clip-begin="npt=267.510s" clip-end="npt=276.879s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par id="par16" system-required="pagenumber-on" endsync="last">
+        <text id="Page_188" src="624755.html#Page_188" />
+        <audio id="aud016" clip-begin="npt=276.879s" clip-end="npt=277.256s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS49">
+        <text id="hix01268" src="624755.html#hix01268" />
+        <audio id="audhix01268" clip-begin="npt=277.256s" clip-end="npt=279.360s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS50">
+        <text id="hix01268s2" src="624755.html#hix01268s2" />
+        <audio id="audhix01268s2" clip-begin="npt=279.360s" clip-end="npt=281.280s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS51">
+        <text id="hix01268s3" src="624755.html#hix01268s3" />
+        <audio id="audhix01268s3" clip-begin="npt=281.280s" clip-end="npt=291.880s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS52">
+        <text id="hix01268s4" src="624755.html#hix01268s4" />
+        <audio id="audhix01268s4" clip-begin="npt=291.880s" clip-end="npt=293.680s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS53">
+        <text id="hix01268s5" src="624755.html#hix01268s5" />
+        <audio id="audhix01268s5" clip-begin="npt=293.680s" clip-end="npt=298.760s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS54">
+        <text id="hix01268s6" src="624755.html#hix01268s6" />
+        <audio id="audhix01268s6" clip-begin="npt=298.760s" clip-end="npt=300.400s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS55">
+        <text id="hix01268s7" src="624755.html#hix01268s7" />
+        <audio id="audhix01268s7" clip-begin="npt=300.400s" clip-end="npt=305.356s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS56">
+        <text id="hix01269" src="624755.html#hix01269" />
+        <audio id="audhix01269" clip-begin="npt=305.356s" clip-end="npt=306.560s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS57">
+        <text id="hix01269s2" src="624755.html#hix01269s2" />
+        <audio id="audhix01269s2" clip-begin="npt=306.560s" clip-end="npt=307.040s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS58">
+        <text id="hix01269s3" src="624755.html#hix01269s3" />
+        <audio id="audhix01269s3" clip-begin="npt=307.040s" clip-end="npt=308.791s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS59">
+        <text id="hix01270" src="624755.html#hix01270" />
+        <audio id="audhix01270" clip-begin="npt=308.791s" clip-end="npt=309.920s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS60">
+        <text id="hix01270s2" src="624755.html#hix01270s2" />
+        <audio id="audhix01270s2" clip-begin="npt=309.920s" clip-end="npt=311.613s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS61">
+        <text id="hix01271" src="624755.html#hix01271" />
+        <audio id="audhix01271" clip-begin="npt=311.613s" clip-end="npt=314.610s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS62">
+        <text id="hix01272" src="624755.html#hix01272" />
+        <audio id="audhix01272" clip-begin="npt=314.610s" clip-end="npt=319.040s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS63">
+        <text id="hix01272s2" src="624755.html#hix01272s2" />
+        <audio id="audhix01272s2" clip-begin="npt=319.040s" clip-end="npt=322.280s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS64">
+        <text id="hix01272s3" src="624755.html#hix01272s3" />
+        <audio id="audhix01272s3" clip-begin="npt=322.280s" clip-end="npt=324.000s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS65">
+        <text id="hix01272s4" src="624755.html#hix01272s4" />
+        <audio id="audhix01272s4" clip-begin="npt=324.000s" clip-end="npt=327.080s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS66">
+        <text id="hix01272s5" src="624755.html#hix01272s5" />
+        <audio id="audhix01272s5" clip-begin="npt=327.080s" clip-end="npt=330.612s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS67">
+        <text id="hix01273" src="624755.html#hix01273" />
+        <audio id="audhix01273" clip-begin="npt=330.612s" clip-end="npt=333.520s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS68">
+        <text id="hix01273s2" src="624755.html#hix01273s2" />
+        <audio id="audhix01273s2" clip-begin="npt=333.520s" clip-end="npt=335.479s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS69">
+        <text id="hix01274" src="624755.html#hix01274" />
+        <audio id="audhix01274" clip-begin="npt=335.479s" clip-end="npt=339.520s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS70">
+        <text id="hix01274s2" src="624755.html#hix01274s2" />
+        <audio id="audhix01274s2" clip-begin="npt=339.520s" clip-end="npt=340.360s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS71">
+        <text id="hix01274s3" src="624755.html#hix01274s3" />
+        <audio id="audhix01274s3" clip-begin="npt=340.360s" clip-end="npt=341.880s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS72">
+        <text id="hix01274s4" src="624755.html#hix01274s4" />
+        <audio id="audhix01274s4" clip-begin="npt=341.880s" clip-end="npt=344.200s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS73">
+        <text id="hix01274s5" src="624755.html#hix01274s5" />
+        <audio id="audhix01274s5" clip-begin="npt=344.200s" clip-end="npt=346.889s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS74">
+        <text id="hix01275" src="624755.html#hix01275" />
+        <audio id="audhix01275" clip-begin="npt=346.889s" clip-end="npt=351.480s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS75">
+        <text id="hix01275s2" src="624755.html#hix01275s2" />
+        <audio id="audhix01275s2" clip-begin="npt=351.480s" clip-end="npt=354.000s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS76">
+        <text id="hix01275s3" src="624755.html#hix01275s3" />
+        <audio id="audhix01275s3" clip-begin="npt=354.000s" clip-end="npt=356.800s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS77">
+        <text id="hix01275s4" src="624755.html#hix01275s4" />
+        <audio id="audhix01275s4" clip-begin="npt=356.800s" clip-end="npt=357.920s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS78">
+        <text id="hix01275s5" src="624755.html#hix01275s5" />
+        <audio id="audhix01275s5" clip-begin="npt=357.920s" clip-end="npt=361.060s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS79">
+        <text id="hix01276" src="624755.html#hix01276" />
+        <audio id="audhix01276" clip-begin="npt=361.060s" clip-end="npt=362.760s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS80">
+        <text id="hix01276s2" src="624755.html#hix01276s2" />
+        <audio id="audhix01276s2" clip-begin="npt=362.760s" clip-end="npt=364.600s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS81">
+        <text id="hix01276s3" src="624755.html#hix01276s3" />
+        <audio id="audhix01276s3" clip-begin="npt=364.600s" clip-end="npt=366.600s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS82">
+        <text id="hix01276s4" src="624755.html#hix01276s4" />
+        <audio id="audhix01276s4" clip-begin="npt=366.600s" clip-end="npt=379.300s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par id="par26" system-required="pagenumber-on" endsync="last">
+        <text id="Page_189" src="624755.html#Page_189" />
+        <audio id="aud026" clip-begin="npt=379.300s" clip-end="npt=379.614s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS83">
+        <text id="hix01277" src="624755.html#hix01277" />
+        <audio id="audhix01277" clip-begin="npt=379.614s" clip-end="npt=384.800s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS84">
+        <text id="hix01277s2" src="624755.html#hix01277s2" />
+        <audio id="audhix01277s2" clip-begin="npt=384.800s" clip-end="npt=387.742s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS85">
+        <text id="hix01278" src="624755.html#hix01278" />
+        <audio id="audhix01278" clip-begin="npt=387.742s" clip-end="npt=390.810s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS86">
+        <text id="hix01279" src="624755.html#hix01279" />
+        <audio id="audhix01279" clip-begin="npt=390.810s" clip-end="npt=393.480s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS87">
+        <text id="hix01279s2" src="624755.html#hix01279s2" />
+        <audio id="audhix01279s2" clip-begin="npt=393.480s" clip-end="npt=396.880s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS88">
+        <text id="hix01279s3" src="624755.html#hix01279s3" />
+        <audio id="audhix01279s3" clip-begin="npt=396.880s" clip-end="npt=400.000s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS89">
+        <text id="hix01279s4" src="624755.html#hix01279s4" />
+        <audio id="audhix01279s4" clip-begin="npt=400.000s" clip-end="npt=401.242s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS90">
+        <text id="hix01280" src="624755.html#hix01280" />
+        <audio id="audhix01280" clip-begin="npt=401.242s" clip-end="npt=403.520s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS91">
+        <text id="hix01280s2" src="624755.html#hix01280s2" />
+        <audio id="audhix01280s2" clip-begin="npt=403.520s" clip-end="npt=405.880s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS92">
+        <text id="hix01280s3" src="624755.html#hix01280s3" />
+        <audio id="audhix01280s3" clip-begin="npt=405.880s" clip-end="npt=409.400s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS93">
+        <text id="hix01280s4" src="624755.html#hix01280s4" />
+        <audio id="audhix01280s4" clip-begin="npt=409.400s" clip-end="npt=411.432s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS94">
+        <text id="hix01281" src="624755.html#hix01281" />
+        <audio id="audhix01281" clip-begin="npt=411.432s" clip-end="npt=415.116s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS95">
+        <text id="hix01282" src="624755.html#hix01282" />
+        <audio id="audhix01282" clip-begin="npt=415.116s" clip-end="npt=419.920s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS96">
+        <text id="hix01282s2" src="624755.html#hix01282s2" />
+        <audio id="audhix01282s2" clip-begin="npt=419.920s" clip-end="npt=421.880s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS97">
+        <text id="hix01282s3" src="624755.html#hix01282s3" />
+        <audio id="audhix01282s3" clip-begin="npt=421.880s" clip-end="npt=426.551s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS98">
+        <text id="hix01283" src="624755.html#hix01283" />
+        <audio id="audhix01283" clip-begin="npt=426.551s" clip-end="npt=428.000s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS99">
+        <text id="hix01283s2" src="624755.html#hix01283s2" />
+        <audio id="audhix01283s2" clip-begin="npt=428.000s" clip-end="npt=431.320s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS100">
+        <text id="hix01283s3" src="624755.html#hix01283s3" />
+        <audio id="audhix01283s3" clip-begin="npt=431.320s" clip-end="npt=443.622s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS101">
+        <text id="hix01284" src="624755.html#hix01284" />
+        <audio id="audhix01284" clip-begin="npt=443.622s" clip-end="npt=445.320s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS102">
+        <text id="hix01284s2" src="624755.html#hix01284s2" />
+        <audio id="audhix01284s2" clip-begin="npt=445.320s" clip-end="npt=449.240s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS103">
+        <text id="hix01284s3" src="624755.html#hix01284s3" />
+        <audio id="audhix01284s3" clip-begin="npt=449.240s" clip-end="npt=455.800s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS104">
+        <text id="hix01284s4" src="624755.html#hix01284s4" />
+        <audio id="audhix01284s4" clip-begin="npt=455.800s" clip-end="npt=456.440s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS105">
+        <text id="hix01284s5" src="624755.html#hix01284s5" />
+        <audio id="audhix01284s5" clip-begin="npt=456.440s" clip-end="npt=457.400s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS106">
+        <text id="hix01284s6" src="624755.html#hix01284s6" />
+        <audio id="audhix01284s6" clip-begin="npt=457.400s" clip-end="npt=464.280s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS107">
+        <text id="hix01284s7" src="624755.html#hix01284s7" />
+        <audio id="audhix01284s7" clip-begin="npt=464.280s" clip-end="npt=475.400s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS108">
+        <text id="hix01284s8" src="624755.html#hix01284s8" />
+        <audio id="audhix01284s8" clip-begin="npt=475.400s" clip-end="npt=478.080s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS109">
+        <text id="hix01284s9" src="624755.html#hix01284s9" />
+        <audio id="audhix01284s9" clip-begin="npt=478.080s" clip-end="npt=480.280s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS110">
+        <text id="hix01284s10" src="624755.html#hix01284s10" />
+        <audio id="audhix01284s10" clip-begin="npt=480.280s" clip-end="npt=484.926s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par id="par35" system-required="pagenumber-on" endsync="last">
+        <text id="Page_190" src="624755.html#Page_190" />
+        <audio id="aud035" clip-begin="npt=484.926s" clip-end="npt=485.995s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS111">
+        <text id="hix01285" src="624755.html#hix01285" />
+        <audio id="audhix01285" clip-begin="npt=485.995s" clip-end="npt=490.680s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS112">
+        <text id="hix01285s2" src="624755.html#hix01285s2" />
+        <audio id="audhix01285s2" clip-begin="npt=490.680s" clip-end="npt=494.200s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS113">
+        <text id="hix01285s3" src="624755.html#hix01285s3" />
+        <audio id="audhix01285s3" clip-begin="npt=494.200s" clip-end="npt=497.803s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS114">
+        <text id="hix01286" src="624755.html#hix01286" />
+        <audio id="audhix01286" clip-begin="npt=497.803s" clip-end="npt=502.080s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS115">
+        <text id="hix01286s2" src="624755.html#hix01286s2" />
+        <audio id="audhix01286s2" clip-begin="npt=502.080s" clip-end="npt=507.560s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS116">
+        <text id="hix01286s3" src="624755.html#hix01286s3" />
+        <audio id="audhix01286s3" clip-begin="npt=507.560s" clip-end="npt=511.640s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS117">
+        <text id="hix01286s4" src="624755.html#hix01286s4" />
+        <audio id="audhix01286s4" clip-begin="npt=511.640s" clip-end="npt=515.302s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS118">
+        <text id="hix01287" src="624755.html#hix01287" />
+        <audio id="audhix01287" clip-begin="npt=515.302s" clip-end="npt=521.840s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS119">
+        <text id="hix01287s2" src="624755.html#hix01287s2" />
+        <audio id="audhix01287s2" clip-begin="npt=521.840s" clip-end="npt=525.967s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS120">
+        <text id="hix01288" src="624755.html#hix01288" />
+        <audio id="audhix01288" clip-begin="npt=525.967s" clip-end="npt=534.080s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS121">
+        <text id="hix01288s2" src="624755.html#hix01288s2" />
+        <audio id="audhix01288s2" clip-begin="npt=534.080s" clip-end="npt=539.280s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS122">
+        <text id="hix01288s3" src="624755.html#hix01288s3" />
+        <audio id="audhix01288s3" clip-begin="npt=539.280s" clip-end="npt=542.600s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS123">
+        <text id="hix01288s4" src="624755.html#hix01288s4" />
+        <audio id="audhix01288s4" clip-begin="npt=542.600s" clip-end="npt=545.280s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS124">
+        <text id="hix01288s5" src="624755.html#hix01288s5" />
+        <audio id="audhix01288s5" clip-begin="npt=545.280s" clip-end="npt=547.462s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS125">
+        <text id="hix01289" src="624755.html#hix01289" />
+        <audio id="audhix01289" clip-begin="npt=547.462s" clip-end="npt=550.760s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS126">
+        <text id="hix01289s2" src="624755.html#hix01289s2" />
+        <audio id="audhix01289s2" clip-begin="npt=550.760s" clip-end="npt=553.000s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS127">
+        <text id="hix01289s3" src="624755.html#hix01289s3" />
+        <audio id="audhix01289s3" clip-begin="npt=553.000s" clip-end="npt=553.800s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS128">
+        <text id="hix01289s4" src="624755.html#hix01289s4" />
+        <audio id="audhix01289s4" clip-begin="npt=553.800s" clip-end="npt=557.320s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS129">
+        <text id="hix01289s5" src="624755.html#hix01289s5" />
+        <audio id="audhix01289s5" clip-begin="npt=557.320s" clip-end="npt=558.462s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS130">
+        <text id="hix01290" src="624755.html#hix01290" />
+        <audio id="audhix01290" clip-begin="npt=558.462s" clip-end="npt=560.680s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS131">
+        <text id="hix01290s2" src="624755.html#hix01290s2" />
+        <audio id="audhix01290s2" clip-begin="npt=560.680s" clip-end="npt=563.160s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS132">
+        <text id="hix01290s3" src="624755.html#hix01290s3" />
+        <audio id="audhix01290s3" clip-begin="npt=563.160s" clip-end="npt=567.022s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS133">
+        <text id="hix01291" src="624755.html#hix01291" />
+        <audio id="audhix01291" clip-begin="npt=567.022s" clip-end="npt=567.000s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS134">
+        <text id="hix01291s2" src="624755.html#hix01291s2" />
+        <audio id="audhix01291s2" clip-begin="npt=567.000s" clip-end="npt=571.360s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS135">
+        <text id="hix01291s3" src="624755.html#hix01291s3" />
+        <audio id="audhix01291s3" clip-begin="npt=571.360s" clip-end="npt=573.880s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS136">
+        <text id="hix01291s4" src="624755.html#hix01291s4" />
+        <audio id="audhix01291s4" clip-begin="npt=573.880s" clip-end="npt=577.480s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS137">
+        <text id="hix01291s5" src="624755.html#hix01291s5" />
+        <audio id="audhix01291s5" clip-begin="npt=577.480s" clip-end="npt=584.280s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS138">
+        <text id="hix01291s6" src="624755.html#hix01291s6" />
+        <audio id="audhix01291s6" clip-begin="npt=584.280s" clip-end="npt=587.143s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS139">
+        <text id="hix01292" src="624755.html#hix01292" />
+        <audio id="audhix01292" clip-begin="npt=587.143s" clip-end="npt=588.600s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS140">
+        <text id="hix01292s2" src="624755.html#hix01292s2" />
+        <audio id="audhix01292s2" clip-begin="npt=588.600s" clip-end="npt=590.640s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS141">
+        <text id="hix01292s3" src="624755.html#hix01292s3" />
+        <audio id="audhix01292s3" clip-begin="npt=590.640s" clip-end="npt=593.840s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS142">
+        <text id="hix01292s4" src="624755.html#hix01292s4" />
+        <audio id="audhix01292s4" clip-begin="npt=593.840s" clip-end="npt=596.395s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par id="par44" system-required="pagenumber-on" endsync="last">
+        <text id="Page_191" src="624755.html#Page_191" />
+        <audio id="aud044" clip-begin="npt=596.395s" clip-end="npt=596.711s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS143">
+        <text id="hix01293" src="624755.html#hix01293" />
+        <audio id="audhix01293" clip-begin="npt=596.711s" clip-end="npt=600.680s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS144">
+        <text id="hix01293s2" src="624755.html#hix01293s2" />
+        <audio id="audhix01293s2" clip-begin="npt=600.680s" clip-end="npt=603.147s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS145">
+        <text id="hix01294" src="624755.html#hix01294" />
+        <audio id="audhix01294" clip-begin="npt=603.147s" clip-end="npt=607.200s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS146">
+        <text id="hix01294s2" src="624755.html#hix01294s2" />
+        <audio id="audhix01294s2" clip-begin="npt=607.200s" clip-end="npt=609.640s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS147">
+        <text id="hix01294s3" src="624755.html#hix01294s3" />
+        <audio id="audhix01294s3" clip-begin="npt=609.640s" clip-end="npt=611.560s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS148">
+        <text id="hix01294s4" src="624755.html#hix01294s4" />
+        <audio id="audhix01294s4" clip-begin="npt=611.560s" clip-end="npt=612.680s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS149">
+        <text id="hix01294s5" src="624755.html#hix01294s5" />
+        <audio id="audhix01294s5" clip-begin="npt=612.680s" clip-end="npt=614.520s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS150">
+        <text id="hix01294s6" src="624755.html#hix01294s6" />
+        <audio id="audhix01294s6" clip-begin="npt=614.520s" clip-end="npt=615.800s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS151">
+        <text id="hix01294s7" src="624755.html#hix01294s7" />
+        <audio id="audhix01294s7" clip-begin="npt=615.800s" clip-end="npt=619.080s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS152">
+        <text id="hix01294s8" src="624755.html#hix01294s8" />
+        <audio id="audhix01294s8" clip-begin="npt=619.080s" clip-end="npt=621.574s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par endsync="last" id="parS153">
+        <text id="hix01295" src="624755.html#hix01295" />
+        <audio id="audhix01295" clip-begin="npt=621.574s" clip-end="npt=634.505s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+      <par id="par48" system-required="pagenumber-on" endsync="last">
+        <text id="Page_192" src="624755.html#Page_192" />
+        <audio id="aud048" clip-begin="npt=634.505s" clip-end="npt=635.684s" src="23_Chapter_Seventeen_Mother_Gets_Her_Own.mp3" />
+      </par>
+    </seq>
+  </body>
+</smil>

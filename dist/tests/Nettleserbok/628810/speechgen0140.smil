@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd" []>
+<smil>
+   <head>
+      <meta name="ncc:generator" content="DMFC z3986-2005 to Daisy 2.02 (smil2smil v0.2)" />
+      <meta name="dc:format" content="Daisy 2.02" />
+      <meta name="dc:identifier" content="628810" />
+      <meta name="title" content="Prinsippskisse for EBS-bremser på tilhenger." />
+      <meta name="dc:title" content="Veien til førerkortet: buss, lastebil, vogntog" />
+      <meta name="ncc:totalElapsedTime" content="5:36:43" />
+      <meta name="ncc:timeInThisSmil" content="0:00:09" />
+      <layout>
+         <region id="txtView" />
+      </layout>
+   </head>
+   <body>
+      <seq dur="8.655s">
+         <par endsync="last" id="tcp3649">
+            <text id="text3649" src="content.html#dtb3318" />
+            <audio src="speechgen0140.mp3" id="audd4825e12" clip-begin="npt=0.000s" clip-end="npt=6.235s" />
+         </par>
+         <par endsync="last" id="tcp3650">
+            <text id="text3650" src="content.html#img_285" />
+            <audio src="speechgen0140.mp3" id="audd4825e15" clip-begin="npt=6.235s" clip-end="npt=6.435s" />
+         </par>
+         <par id="tcp3651" endsync="last" system-required="pagenumber-on">
+            <text id="text3651" src="content.html#Page_151" />
+            <audio src="speechgen0140.mp3" id="audd4825e18" clip-begin="npt=6.435s" clip-end="npt=8.655s" />
+         </par>
+      </seq>
+   </body>
+</smil>

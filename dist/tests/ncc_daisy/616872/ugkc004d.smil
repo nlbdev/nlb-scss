@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:06:08.649"/>
+		<meta name="ncc:totalElapsedTime" content="08:26:57.431"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.01 Build 211 # 044FSI300089122"/>
+		<meta name="title" content="Kapittel 67: Granulog von Bhull"/>
+		<meta name="dc:title" content="AARONS MASKIN"/>
+		<meta name="dc:identifier" content="616872"/>
+	</head>
+	<body>
+		<seq dur="368.649s">
+			<par endsync="last" id="ugkc_01a0">
+				<text src="ncc.html#ugkc_019f" id="ugkc_019f"/>
+				<seq>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=0.000s" clip-end="npt=6.008s" id="audio_0001"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=6.008s" clip-end="npt=10.749s" id="audio_0002"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=10.749s" clip-end="npt=18.900s" id="audio_0003"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=18.900s" clip-end="npt=24.231s" id="audio_0004"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=24.231s" clip-end="npt=30.808s" id="audio_0005"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=30.808s" clip-end="npt=39.990s" id="audio_0006"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=39.990s" clip-end="npt=46.857s" id="audio_0007"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=46.857s" clip-end="npt=52.289s" id="audio_0008"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=52.289s" clip-end="npt=57.866s" id="audio_0009"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=57.866s" clip-end="npt=63.326s" id="audio_0010"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=63.326s" clip-end="npt=70.535s" id="audio_0011"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=70.535s" clip-end="npt=79.104s" id="audio_0012"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=79.104s" clip-end="npt=84.685s" id="audio_0013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="dvab_0001" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_01ae" id="dvab_0005"/>
+				<seq>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=84.685s" clip-end="npt=85.345s" id="audio_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="dvab_000d">
+				<text src="ncc.html#ugkc_019f" id="dvab_0006"/>
+				<seq>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=85.345s" clip-end="npt=93.284s" id="audio_0015"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=93.284s" clip-end="npt=102.113s" id="audio_0016"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=102.113s" clip-end="npt=107.142s" id="audio_0017"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=107.142s" clip-end="npt=113.033s" id="audio_0018"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=113.033s" clip-end="npt=118.662s" id="audio_0019"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=118.662s" clip-end="npt=123.952s" id="audio_0020"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=123.952s" clip-end="npt=129.228s" id="audio_0021"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=129.228s" clip-end="npt=136.974s" id="audio_0022"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=136.974s" clip-end="npt=151.903s" id="audio_0023"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=151.903s" clip-end="npt=159.282s" id="audio_0024"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=159.282s" clip-end="npt=169.302s" id="audio_0025"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=169.302s" clip-end="npt=174.109s" id="audio_0026"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=174.109s" clip-end="npt=180.051s" id="audio_0027"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=180.051s" clip-end="npt=185.801s" id="audio_0028"/>
+				</seq>
+			</par>
+			<par endsync="last" id="dvab_0002" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_01af" id="dvab_0007"/>
+				<seq>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=185.801s" clip-end="npt=186.401s" id="audio_0029"/>
+				</seq>
+			</par>
+			<par endsync="last" id="dvab_000e">
+				<text src="ncc.html#ugkc_019f" id="dvab_0008"/>
+				<seq>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=186.401s" clip-end="npt=191.924s" id="audio_0030"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=191.924s" clip-end="npt=197.023s" id="audio_0031"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=197.023s" clip-end="npt=206.740s" id="audio_0032"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=206.740s" clip-end="npt=212.996s" id="audio_0033"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=212.996s" clip-end="npt=217.546s" id="audio_0034"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=217.546s" clip-end="npt=221.622s" id="audio_0035"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=221.622s" clip-end="npt=225.812s" id="audio_0036"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=225.812s" clip-end="npt=231.817s" id="audio_0037"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=231.817s" clip-end="npt=238.884s" id="audio_0038"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=238.884s" clip-end="npt=244.043s" id="audio_0039"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=244.043s" clip-end="npt=252.742s" id="audio_0040"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=252.742s" clip-end="npt=258.750s" id="audio_0041"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=258.750s" clip-end="npt=264.562s" id="audio_0042"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=264.562s" clip-end="npt=272.059s" id="audio_0043"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=272.059s" clip-end="npt=280.523s" id="audio_0044"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=280.523s" clip-end="npt=286.038s" id="audio_0045"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=286.038s" clip-end="npt=292.441s" id="audio_0046"/>
+				</seq>
+			</par>
+			<par endsync="last" id="dvab_0003" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_01b0" id="dvab_0009"/>
+				<seq>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=292.441s" clip-end="npt=292.981s" id="audio_0047"/>
+				</seq>
+			</par>
+			<par endsync="last" id="dvab_000f">
+				<text src="ncc.html#ugkc_019f" id="dvab_000a"/>
+				<seq>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=292.981s" clip-end="npt=303.069s" id="audio_0048"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=303.069s" clip-end="npt=311.820s" id="audio_0049"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=311.820s" clip-end="npt=316.715s" id="audio_0050"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=316.715s" clip-end="npt=321.939s" id="audio_0051"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=321.939s" clip-end="npt=330.756s" id="audio_0052"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=330.756s" clip-end="npt=342.459s" id="audio_0053"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=342.459s" clip-end="npt=348.219s" id="audio_0054"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=348.219s" clip-end="npt=355.287s" id="audio_0055"/>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=355.287s" clip-end="npt=367.159s" id="audio_0056"/>
+				</seq>
+			</par>
+			<par endsync="last" id="dvab_0004" system-required="pagenumber-on">
+				<text src="ncc.html#ugkc_01b1" id="dvab_000b"/>
+				<seq>
+					<audio src="077_Kapittel_67_.mp3" clip-begin="npt=367.159s" clip-end="npt=368.649s" id="audio_0057"/>
+				</seq>
+			</par>
+			<par endsync="last" id="dvab_0010">
+				<text src="ncc.html#ugkc_019f" id="dvab_000c"/>
+			</par>
+		</seq>
+	</body>
+</smil>

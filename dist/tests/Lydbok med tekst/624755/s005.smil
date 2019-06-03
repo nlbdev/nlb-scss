@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd"[]>
+<smil>
+  <head>
+    <meta name="dc:title" content="THE BOY IN THE STRIPED PYJAMAS" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="dc:identifier" content="624755" />
+    <meta name="ncc:totalElapsedTime" content="00:02:00.384" />
+    <meta name="ncc:timeInThisSmil" content="00:01:05.427" />
+    <meta name="ncc:generator" content="Hindenburg ABC Studio 1.26.2164" />
+    <layout>
+      <region id="txtView" />
+    </layout>
+  </head>
+  <body>
+    <seq id="main" dur="65.427s">
+      <par endsync="last" id="parS1">
+        <text id="d1534e72-0" src="624755.html#d1534e72-0" />
+        <audio id="audd1534e72-0" clip-begin="npt=0.000s" clip-end="npt=2.497s" src="05_Book_jacket.mp3" />
+      </par>
+      <par id="par2" endsync="last">
+        <text id="hix00006" src="624755.html#hix00006" />
+        <audio id="aud002" clip-begin="npt=2.497s" clip-end="npt=8.221s" src="05_Book_jacket.mp3" />
+      </par>
+      <par id="par3" system-required="pagenumber-on" endsync="last">
+        <text id="hix00003" src="624755.html#hix00003" />
+        <audio id="aud003" clip-begin="npt=8.221s" clip-end="npt=8.698s" src="05_Book_jacket.mp3" />
+      </par>
+      <par id="par4" system-required="pagenumber-on" endsync="last">
+        <text id="hix00004" src="624755.html#hix00004" />
+        <audio id="aud004" clip-begin="npt=8.698s" clip-end="npt=9.207s" src="05_Book_jacket.mp3" />
+      </par>
+      <par id="par5" system-required="pagenumber-on" endsync="last">
+        <text id="Page_iii" src="624755.html#Page_iii" />
+        <audio id="aud005" clip-begin="npt=9.207s" clip-end="npt=9.747s" src="05_Book_jacket.mp3" />
+      </par>
+      <par endsync="last" id="parS2">
+        <text id="hix01466" src="624755.html#hix01466" />
+        <audio id="audhix01466" clip-begin="npt=9.747s" clip-end="npt=12.433s" src="05_Book_jacket.mp3" />
+      </par>
+      <par endsync="last" id="parS3">
+        <text id="hix00007" src="624755.html#hix00007" />
+        <audio id="audhix00007" clip-begin="npt=12.433s" clip-end="npt=17.200s" src="05_Book_jacket.mp3" />
+      </par>
+      <par endsync="last" id="parS4">
+        <text id="hix00007s2" src="624755.html#hix00007s2" />
+        <audio id="audhix00007s2" clip-begin="npt=17.200s" clip-end="npt=21.520s" src="05_Book_jacket.mp3" />
+      </par>
+      <par endsync="last" id="parS5">
+        <text id="hix00007s3" src="624755.html#hix00007s3" />
+        <audio id="audhix00007s3" clip-begin="npt=21.520s" clip-end="npt=29.680s" src="05_Book_jacket.mp3" />
+      </par>
+      <par endsync="last" id="parS6">
+        <text id="hix00007s4" src="624755.html#hix00007s4" />
+        <audio id="audhix00007s4" clip-begin="npt=29.680s" clip-end="npt=31.280s" src="05_Book_jacket.mp3" />
+      </par>
+      <par endsync="last" id="parS7">
+        <text id="hix00007s5" src="624755.html#hix00007s5" />
+        <audio id="audhix00007s5" clip-begin="npt=31.280s" clip-end="npt=32.600s" src="05_Book_jacket.mp3" />
+      </par>
+      <par endsync="last" id="parS8">
+        <text id="hix00007s6" src="624755.html#hix00007s6" />
+        <audio id="audhix00007s6" clip-begin="npt=32.600s" clip-end="npt=41.160s" src="05_Book_jacket.mp3" />
+      </par>
+      <par endsync="last" id="parS9">
+        <text id="hix00007s7" src="624755.html#hix00007s7" />
+        <audio id="audhix00007s7" clip-begin="npt=41.160s" clip-end="npt=44.117s" src="05_Book_jacket.mp3" />
+      </par>
+      <par id="par8" system-required="pagenumber-on" endsync="last">
+        <text id="Page_iv" src="624755.html#Page_iv" />
+        <audio id="aud008" clip-begin="npt=44.117s" clip-end="npt=45.550s" src="05_Book_jacket.mp3" />
+      </par>
+      <par id="par9" system-required="pagenumber-on" endsync="last">
+        <text id="Page_v" src="624755.html#Page_v" />
+        <audio id="aud009" clip-begin="npt=45.550s" clip-end="npt=46.987s" src="05_Book_jacket.mp3" />
+      </par>
+      <par id="par10" system-required="pagenumber-on" endsync="last">
+        <text id="Page_vi" src="624755.html#Page_vi" />
+        <audio id="aud010" clip-begin="npt=46.987s" clip-end="npt=48.179s" src="05_Book_jacket.mp3" />
+      </par>
+      <par id="par11" endsync="last">
+        <text id="hix00072" src="624755.html#hix00072" />
+        <audio id="aud011" clip-begin="npt=48.179s" clip-end="npt=57.681s" src="05_Book_jacket.mp3" />
+      </par>
+      <par id="par12" system-required="pagenumber-on" endsync="last">
+        <text id="Page_vii" src="624755.html#Page_vii" />
+        <audio id="aud012" clip-begin="npt=57.681s" clip-end="npt=59.118s" src="05_Book_jacket.mp3" />
+      </par>
+      <par endsync="last" id="parS10">
+        <text id="hix01468" src="624755.html#hix01468" />
+        <audio id="audhix01468" clip-begin="npt=59.118s" clip-end="npt=61.300s" src="05_Book_jacket.mp3" />
+      </par>
+      <par endsync="last" id="parS11">
+        <text id="hix00073" src="624755.html#hix00073" />
+        <audio id="audhix00073" clip-begin="npt=61.300s" clip-end="npt=63.801s" src="05_Book_jacket.mp3" />
+      </par>
+      <par id="par15" system-required="pagenumber-on" endsync="last">
+        <text id="Page_viii" src="624755.html#Page_viii" />
+        <audio id="aud015" clip-begin="npt=63.801s" clip-end="npt=64.994s" src="05_Book_jacket.mp3" />
+      </par>
+      <par id="par16" system-required="pagenumber-on" endsync="last">
+        <text id="Page_ix" src="624755.html#Page_ix" />
+        <audio id="aud016" clip-begin="npt=64.994s" clip-end="npt=65.427s" src="05_Book_jacket.mp3" />
+      </par>
+    </seq>
+  </body>
+</smil>

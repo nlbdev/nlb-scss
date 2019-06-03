@@ -1,0 +1,1315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd"[]>
+<smil>
+  <head>
+    <meta name="dc:title" content="THE BOY IN THE STRIPED PYJAMAS" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="dc:identifier" content="624755" />
+    <meta name="ncc:totalElapsedTime" content="01:32:14.002" />
+    <meta name="ncc:timeInThisSmil" content="00:19:21.584" />
+    <meta name="ncc:generator" content="Hindenburg ABC Studio 1.26.2164" />
+    <layout>
+      <region id="txtView" />
+    </layout>
+  </head>
+  <body>
+    <seq id="main" dur="1161.584s">
+      <par endsync="last" id="parS1">
+        <text id="d1534e1562-0" src="624755.html#d1534e1562-0" />
+        <audio id="audd1534e1562-0" clip-begin="npt=0.000s" clip-end="npt=5.748s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS2">
+        <text id="hix00382" src="624755.html#hix00382" />
+        <audio id="audhix00382" clip-begin="npt=5.748s" clip-end="npt=10.520s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS3">
+        <text id="hix00382s2" src="624755.html#hix00382s2" />
+        <audio id="audhix00382s2" clip-begin="npt=10.520s" clip-end="npt=12.560s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS4">
+        <text id="hix00382s3" src="624755.html#hix00382s3" />
+        <audio id="audhix00382s3" clip-begin="npt=12.560s" clip-end="npt=19.360s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS5">
+        <text id="hix00382s4" src="624755.html#hix00382s4" />
+        <audio id="audhix00382s4" clip-begin="npt=19.360s" clip-end="npt=21.960s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS6">
+        <text id="hix00382s5" src="624755.html#hix00382s5" />
+        <audio id="audhix00382s5" clip-begin="npt=21.960s" clip-end="npt=29.280s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS7">
+        <text id="hix00382s6" src="624755.html#hix00382s6" />
+        <audio id="audhix00382s6" clip-begin="npt=29.280s" clip-end="npt=34.280s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS8">
+        <text id="hix00382s7" src="624755.html#hix00382s7" />
+        <audio id="audhix00382s7" clip-begin="npt=34.280s" clip-end="npt=38.480s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS9">
+        <text id="hix00382s8" src="624755.html#hix00382s8" />
+        <audio id="audhix00382s8" clip-begin="npt=38.480s" clip-end="npt=46.080s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS10">
+        <text id="hix00382s9" src="624755.html#hix00382s9" />
+        <audio id="audhix00382s9" clip-begin="npt=46.080s" clip-end="npt=47.520s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS11">
+        <text id="hix00382s10" src="624755.html#hix00382s10" />
+        <audio id="audhix00382s10" clip-begin="npt=47.520s" clip-end="npt=49.000s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS12">
+        <text id="hix00382s11" src="624755.html#hix00382s11" />
+        <audio id="audhix00382s11" clip-begin="npt=49.000s" clip-end="npt=58.280s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS13">
+        <text id="hix00382s12" src="624755.html#hix00382s12" />
+        <audio id="audhix00382s12" clip-begin="npt=58.280s" clip-end="npt=58.720s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS14">
+        <text id="hix00382s13" src="624755.html#hix00382s13" />
+        <audio id="audhix00382s13" clip-begin="npt=58.720s" clip-end="npt=60.880s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS15">
+        <text id="hix00382s14" src="624755.html#hix00382s14" />
+        <audio id="audhix00382s14" clip-begin="npt=60.880s" clip-end="npt=62.640s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS16">
+        <text id="hix00382s15" src="624755.html#hix00382s15" />
+        <audio id="audhix00382s15" clip-begin="npt=62.640s" clip-end="npt=66.491s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS17">
+        <text id="hix00383" src="624755.html#hix00383" />
+        <audio id="audhix00383" clip-begin="npt=66.491s" clip-end="npt=71.120s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS18">
+        <text id="hix00383s2" src="624755.html#hix00383s2" />
+        <audio id="audhix00383s2" clip-begin="npt=71.120s" clip-end="npt=74.280s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS19">
+        <text id="hix00383s3" src="624755.html#hix00383s3" />
+        <audio id="audhix00383s3" clip-begin="npt=74.280s" clip-end="npt=79.491s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par id="par4" system-required="pagenumber-on" endsync="last">
+        <text id="Page_56" src="624755.html#Page_56" />
+        <audio id="aud004" clip-begin="npt=79.491s" clip-end="npt=79.925s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS20">
+        <text id="hix00384" src="624755.html#hix00384" />
+        <audio id="audhix00384" clip-begin="npt=79.925s" clip-end="npt=82.600s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS21">
+        <text id="hix00384s2" src="624755.html#hix00384s2" />
+        <audio id="audhix00384s2" clip-begin="npt=82.600s" clip-end="npt=86.240s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS22">
+        <text id="hix00384s3" src="624755.html#hix00384s3" />
+        <audio id="audhix00384s3" clip-begin="npt=86.240s" clip-end="npt=87.880s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS23">
+        <text id="hix00384s4" src="624755.html#hix00384s4" />
+        <audio id="audhix00384s4" clip-begin="npt=87.880s" clip-end="npt=89.680s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS24">
+        <text id="hix00385" src="624755.html#hix00385" />
+        <audio id="audhix00385" clip-begin="npt=89.680s" clip-end="npt=98.000s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS25">
+        <text id="hix00385s2" src="624755.html#hix00385s2" />
+        <audio id="audhix00385s2" clip-begin="npt=98.000s" clip-end="npt=100.920s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS26">
+        <text id="hix00385s3" src="624755.html#hix00385s3" />
+        <audio id="audhix00385s3" clip-begin="npt=100.920s" clip-end="npt=108.865s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS27">
+        <text id="hix00386" src="624755.html#hix00386" />
+        <audio id="audhix00386" clip-begin="npt=108.865s" clip-end="npt=113.240s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS28">
+        <text id="hix00386s2" src="624755.html#hix00386s2" />
+        <audio id="audhix00386s2" clip-begin="npt=113.240s" clip-end="npt=118.920s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS29">
+        <text id="hix00386s3" src="624755.html#hix00386s3" />
+        <audio id="audhix00386s3" clip-begin="npt=118.920s" clip-end="npt=126.600s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS30">
+        <text id="hix00386s4" src="624755.html#hix00386s4" />
+        <audio id="audhix00386s4" clip-begin="npt=126.600s" clip-end="npt=132.110s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS31">
+        <text id="hix00387" src="624755.html#hix00387" />
+        <audio id="audhix00387" clip-begin="npt=132.110s" clip-end="npt=136.840s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS32">
+        <text id="hix00387s2" src="624755.html#hix00387s2" />
+        <audio id="audhix00387s2" clip-begin="npt=136.840s" clip-end="npt=143.799s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS33">
+        <text id="hix00388" src="624755.html#hix00388" />
+        <audio id="audhix00388" clip-begin="npt=143.799s" clip-end="npt=150.720s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS34">
+        <text id="hix00388s2" src="624755.html#hix00388s2" />
+        <audio id="audhix00388s2" clip-begin="npt=150.720s" clip-end="npt=156.000s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS35">
+        <text id="hix00388s3" src="624755.html#hix00388s3" />
+        <audio id="audhix00388s3" clip-begin="npt=156.000s" clip-end="npt=160.040s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS36">
+        <text id="hix00388s4" src="624755.html#hix00388s4" />
+        <audio id="audhix00388s4" clip-begin="npt=160.040s" clip-end="npt=161.440s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS37">
+        <text id="hix00388s5" src="624755.html#hix00388s5" />
+        <audio id="audhix00388s5" clip-begin="npt=161.440s" clip-end="npt=164.720s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS38">
+        <text id="hix00388s6" src="624755.html#hix00388s6" />
+        <audio id="audhix00388s6" clip-begin="npt=164.720s" clip-end="npt=165.240s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS39">
+        <text id="hix00388s7" src="624755.html#hix00388s7" />
+        <audio id="audhix00388s7" clip-begin="npt=165.240s" clip-end="npt=165.640s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS40">
+        <text id="hix00388s8" src="624755.html#hix00388s8" />
+        <audio id="audhix00388s8" clip-begin="npt=165.640s" clip-end="npt=169.113s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS41">
+        <text id="hix00389" src="624755.html#hix00389" />
+        <audio id="audhix00389" clip-begin="npt=169.113s" clip-end="npt=175.740s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par id="par11" system-required="pagenumber-on" endsync="last">
+        <text id="Page_57" src="624755.html#Page_57" />
+        <audio id="aud011" clip-begin="npt=175.740s" clip-end="npt=176.112s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS42">
+        <text id="hix00390" src="624755.html#hix00390" />
+        <audio id="audhix00390" clip-begin="npt=176.112s" clip-end="npt=180.440s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS43">
+        <text id="hix00390s2" src="624755.html#hix00390s2" />
+        <audio id="audhix00390s2" clip-begin="npt=180.440s" clip-end="npt=182.360s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS44">
+        <text id="hix00390s3" src="624755.html#hix00390s3" />
+        <audio id="audhix00390s3" clip-begin="npt=182.360s" clip-end="npt=184.000s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS45">
+        <text id="hix00390s4" src="624755.html#hix00390s4" />
+        <audio id="audhix00390s4" clip-begin="npt=184.000s" clip-end="npt=187.880s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS46">
+        <text id="hix00390s5" src="624755.html#hix00390s5" />
+        <audio id="audhix00390s5" clip-begin="npt=187.880s" clip-end="npt=197.840s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS47">
+        <text id="hix00390s6" src="624755.html#hix00390s6" />
+        <audio id="audhix00390s6" clip-begin="npt=197.840s" clip-end="npt=203.120s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS48">
+        <text id="hix00390s7" src="624755.html#hix00390s7" />
+        <audio id="audhix00390s7" clip-begin="npt=203.120s" clip-end="npt=205.120s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS49">
+        <text id="hix00390s8" src="624755.html#hix00390s8" />
+        <audio id="audhix00390s8" clip-begin="npt=205.120s" clip-end="npt=206.560s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS50">
+        <text id="hix00390s9" src="624755.html#hix00390s9" />
+        <audio id="audhix00390s9" clip-begin="npt=206.560s" clip-end="npt=208.040s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS51">
+        <text id="hix00390s10" src="624755.html#hix00390s10" />
+        <audio id="audhix00390s10" clip-begin="npt=208.040s" clip-end="npt=210.120s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS52">
+        <text id="hix00390s11" src="624755.html#hix00390s11" />
+        <audio id="audhix00390s11" clip-begin="npt=210.120s" clip-end="npt=213.080s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS53">
+        <text id="hix00390s12" src="624755.html#hix00390s12" />
+        <audio id="audhix00390s12" clip-begin="npt=213.080s" clip-end="npt=223.617s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS54">
+        <text id="hix00391" src="624755.html#hix00391" />
+        <audio id="audhix00391" clip-begin="npt=223.617s" clip-end="npt=229.348s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS55">
+        <text id="hix00392" src="624755.html#hix00392" />
+        <audio id="audhix00392" clip-begin="npt=229.348s" clip-end="npt=233.360s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS56">
+        <text id="hix00392s2" src="624755.html#hix00392s2" />
+        <audio id="audhix00392s2" clip-begin="npt=233.360s" clip-end="npt=236.320s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS57">
+        <text id="hix00392s3" src="624755.html#hix00392s3" />
+        <audio id="audhix00392s3" clip-begin="npt=236.320s" clip-end="npt=237.320s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS58">
+        <text id="hix00392s4" src="624755.html#hix00392s4" />
+        <audio id="audhix00392s4" clip-begin="npt=237.320s" clip-end="npt=240.840s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS59">
+        <text id="hix00392s5" src="624755.html#hix00392s5" />
+        <audio id="audhix00392s5" clip-begin="npt=240.840s" clip-end="npt=241.520s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS60">
+        <text id="hix00392s6" src="624755.html#hix00392s6" />
+        <audio id="audhix00392s6" clip-begin="npt=241.520s" clip-end="npt=243.440s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS61">
+        <text id="hix00392s7" src="624755.html#hix00392s7" />
+        <audio id="audhix00392s7" clip-begin="npt=243.440s" clip-end="npt=245.040s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS62">
+        <text id="hix00392s8" src="624755.html#hix00392s8" />
+        <audio id="audhix00392s8" clip-begin="npt=245.040s" clip-end="npt=247.080s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS63">
+        <text id="hix00392s9" src="624755.html#hix00392s9" />
+        <audio id="audhix00392s9" clip-begin="npt=247.080s" clip-end="npt=249.280s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS64">
+        <text id="hix00392s10" src="624755.html#hix00392s10" />
+        <audio id="audhix00392s10" clip-begin="npt=249.280s" clip-end="npt=250.621s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS65">
+        <text id="hix00393" src="624755.html#hix00393" />
+        <audio id="audhix00393" clip-begin="npt=250.621s" clip-end="npt=256.640s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS66">
+        <text id="hix00393s2" src="624755.html#hix00393s2" />
+        <audio id="audhix00393s2" clip-begin="npt=256.640s" clip-end="npt=258.760s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS67">
+        <text id="hix00393s3" src="624755.html#hix00393s3" />
+        <audio id="audhix00393s3" clip-begin="npt=258.760s" clip-end="npt=260.840s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS68">
+        <text id="hix00393s4" src="624755.html#hix00393s4" />
+        <audio id="audhix00393s4" clip-begin="npt=260.840s" clip-end="npt=261.960s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS69">
+        <text id="hix00393s5" src="624755.html#hix00393s5" />
+        <audio id="audhix00393s5" clip-begin="npt=261.960s" clip-end="npt=266.960s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS70">
+        <text id="hix00393s6" src="624755.html#hix00393s6" />
+        <audio id="audhix00393s6" clip-begin="npt=266.960s" clip-end="npt=270.440s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS71">
+        <text id="hix00393s7" src="624755.html#hix00393s7" />
+        <audio id="audhix00393s7" clip-begin="npt=270.440s" clip-end="npt=272.662s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par id="par16" system-required="pagenumber-on" endsync="last">
+        <text id="Page_58" src="624755.html#Page_58" />
+        <audio id="aud016" clip-begin="npt=272.662s" clip-end="npt=273.507s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS72">
+        <text id="hix00394" src="624755.html#hix00394" />
+        <audio id="audhix00394" clip-begin="npt=273.507s" clip-end="npt=280.252s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS73">
+        <text id="hix00395" src="624755.html#hix00395" />
+        <audio id="audhix00395" clip-begin="npt=280.252s" clip-end="npt=284.960s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS74">
+        <text id="hix00395s2" src="624755.html#hix00395s2" />
+        <audio id="audhix00395s2" clip-begin="npt=284.960s" clip-end="npt=288.068s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS75">
+        <text id="hix00396" src="624755.html#hix00396" />
+        <audio id="audhix00396" clip-begin="npt=288.068s" clip-end="npt=289.920s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS76">
+        <text id="hix00396s2" src="624755.html#hix00396s2" />
+        <audio id="audhix00396s2" clip-begin="npt=289.920s" clip-end="npt=293.720s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS77">
+        <text id="hix00396s3" src="624755.html#hix00396s3" />
+        <audio id="audhix00396s3" clip-begin="npt=293.720s" clip-end="npt=296.626s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS78">
+        <text id="hix00397" src="624755.html#hix00397" />
+        <audio id="audhix00397" clip-begin="npt=296.626s" clip-end="npt=299.379s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS79">
+        <text id="hix00398" src="624755.html#hix00398" />
+        <audio id="audhix00398" clip-begin="npt=299.379s" clip-end="npt=300.440s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS80">
+        <text id="hix00398s2" src="624755.html#hix00398s2" />
+        <audio id="audhix00398s2" clip-begin="npt=300.440s" clip-end="npt=304.520s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS81">
+        <text id="hix00398s3" src="624755.html#hix00398s3" />
+        <audio id="audhix00398s3" clip-begin="npt=304.520s" clip-end="npt=307.160s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS82">
+        <text id="hix00398s4" src="624755.html#hix00398s4" />
+        <audio id="audhix00398s4" clip-begin="npt=307.160s" clip-end="npt=310.120s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS83">
+        <text id="hix00398s5" src="624755.html#hix00398s5" />
+        <audio id="audhix00398s5" clip-begin="npt=310.120s" clip-end="npt=310.932s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS84">
+        <text id="hix00399" src="624755.html#hix00399" />
+        <audio id="audhix00399" clip-begin="npt=310.932s" clip-end="npt=316.440s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS85">
+        <text id="hix00399s2" src="624755.html#hix00399s2" />
+        <audio id="audhix00399s2" clip-begin="npt=316.440s" clip-end="npt=320.478s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS86">
+        <text id="hix00400" src="624755.html#hix00400" />
+        <audio id="audhix00400" clip-begin="npt=320.478s" clip-end="npt=321.840s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS87">
+        <text id="hix00400s2" src="624755.html#hix00400s2" />
+        <audio id="audhix00400s2" clip-begin="npt=321.840s" clip-end="npt=323.680s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS88">
+        <text id="hix00400s3" src="624755.html#hix00400s3" />
+        <audio id="audhix00400s3" clip-begin="npt=323.680s" clip-end="npt=325.520s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS89">
+        <text id="hix00400s4" src="624755.html#hix00400s4" />
+        <audio id="audhix00400s4" clip-begin="npt=325.520s" clip-end="npt=326.640s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS90">
+        <text id="hix00400s5" src="624755.html#hix00400s5" />
+        <audio id="audhix00400s5" clip-begin="npt=326.640s" clip-end="npt=329.160s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS91">
+        <text id="hix00400s6" src="624755.html#hix00400s6" />
+        <audio id="audhix00400s6" clip-begin="npt=329.160s" clip-end="npt=330.342s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS92">
+        <text id="hix00401" src="624755.html#hix00401" />
+        <audio id="audhix00401" clip-begin="npt=330.342s" clip-end="npt=338.280s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS93">
+        <text id="hix00401s2" src="624755.html#hix00401s2" />
+        <audio id="audhix00401s2" clip-begin="npt=338.280s" clip-end="npt=343.400s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS94">
+        <text id="hix00401s3" src="624755.html#hix00401s3" />
+        <audio id="audhix00401s3" clip-begin="npt=343.400s" clip-end="npt=346.720s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS95">
+        <text id="hix00401s4" src="624755.html#hix00401s4" />
+        <audio id="audhix00401s4" clip-begin="npt=346.720s" clip-end="npt=350.040s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS96">
+        <text id="hix00401s5" src="624755.html#hix00401s5" />
+        <audio id="audhix00401s5" clip-begin="npt=350.040s" clip-end="npt=355.745s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS97">
+        <text id="hix00402" src="624755.html#hix00402" />
+        <audio id="audhix00402" clip-begin="npt=355.745s" clip-end="npt=357.640s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS98">
+        <text id="hix00402s2" src="624755.html#hix00402s2" />
+        <audio id="audhix00402s2" clip-begin="npt=357.640s" clip-end="npt=359.400s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS99">
+        <text id="hix00402s3" src="624755.html#hix00402s3" />
+        <audio id="audhix00402s3" clip-begin="npt=359.400s" clip-end="npt=365.801s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS100">
+        <text id="hix00403" src="624755.html#hix00403" />
+        <audio id="audhix00403" clip-begin="npt=365.801s" clip-end="npt=374.551s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par id="par27" system-required="pagenumber-on" endsync="last">
+        <text id="Page_59" src="624755.html#Page_59" />
+        <audio id="aud027" clip-begin="npt=374.551s" clip-end="npt=375.552s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS101">
+        <text id="hix00404" src="624755.html#hix00404" />
+        <audio id="audhix00404" clip-begin="npt=375.552s" clip-end="npt=380.360s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS102">
+        <text id="hix00404s2" src="624755.html#hix00404s2" />
+        <audio id="audhix00404s2" clip-begin="npt=380.360s" clip-end="npt=383.738s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS103">
+        <text id="hix00405" src="624755.html#hix00405" />
+        <audio id="audhix00405" clip-begin="npt=383.738s" clip-end="npt=387.440s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS104">
+        <text id="hix00405s2" src="624755.html#hix00405s2" />
+        <audio id="audhix00405s2" clip-begin="npt=387.440s" clip-end="npt=390.745s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS105">
+        <text id="hix00406" src="624755.html#hix00406" />
+        <audio id="audhix00406" clip-begin="npt=390.745s" clip-end="npt=394.931s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS106">
+        <text id="hix00407" src="624755.html#hix00407" />
+        <audio id="audhix00407" clip-begin="npt=394.931s" clip-end="npt=399.520s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS107">
+        <text id="hix00407s2" src="624755.html#hix00407s2" />
+        <audio id="audhix00407s2" clip-begin="npt=399.520s" clip-end="npt=411.800s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS108">
+        <text id="hix00407s3" src="624755.html#hix00407s3" />
+        <audio id="audhix00407s3" clip-begin="npt=411.800s" clip-end="npt=415.963s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS109">
+        <text id="hix00408" src="624755.html#hix00408" />
+        <audio id="audhix00408" clip-begin="npt=415.963s" clip-end="npt=420.800s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS110">
+        <text id="hix00408s2" src="624755.html#hix00408s2" />
+        <audio id="audhix00408s2" clip-begin="npt=420.800s" clip-end="npt=424.200s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS111">
+        <text id="hix00408s3" src="624755.html#hix00408s3" />
+        <audio id="audhix00408s3" clip-begin="npt=424.200s" clip-end="npt=429.120s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS112">
+        <text id="hix00408s4" src="624755.html#hix00408s4" />
+        <audio id="audhix00408s4" clip-begin="npt=429.120s" clip-end="npt=432.040s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS113">
+        <text id="hix00408s5" src="624755.html#hix00408s5" />
+        <audio id="audhix00408s5" clip-begin="npt=432.040s" clip-end="npt=435.462s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS114">
+        <text id="hix00409" src="624755.html#hix00409" />
+        <audio id="audhix00409" clip-begin="npt=435.462s" clip-end="npt=442.680s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS115">
+        <text id="hix00409s2" src="624755.html#hix00409s2" />
+        <audio id="audhix00409s2" clip-begin="npt=442.680s" clip-end="npt=450.395s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS116">
+        <text id="hix00410" src="624755.html#hix00410" />
+        <audio id="audhix00410" clip-begin="npt=450.395s" clip-end="npt=454.920s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS117">
+        <text id="hix00410s2" src="624755.html#hix00410s2" />
+        <audio id="audhix00410s2" clip-begin="npt=454.920s" clip-end="npt=457.600s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS118">
+        <text id="hix00410s3" src="624755.html#hix00410s3" />
+        <audio id="audhix00410s3" clip-begin="npt=457.600s" clip-end="npt=459.961s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS119">
+        <text id="hix00411" src="624755.html#hix00411" />
+        <audio id="audhix00411" clip-begin="npt=459.961s" clip-end="npt=463.840s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS120">
+        <text id="hix00411s2" src="624755.html#hix00411s2" />
+        <audio id="audhix00411s2" clip-begin="npt=463.840s" clip-end="npt=465.240s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS121">
+        <text id="hix00411s3" src="624755.html#hix00411s3" />
+        <audio id="audhix00411s3" clip-begin="npt=465.240s" clip-end="npt=466.240s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS122">
+        <text id="hix00411s4" src="624755.html#hix00411s4" />
+        <audio id="audhix00411s4" clip-begin="npt=466.240s" clip-end="npt=468.152s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS123">
+        <text id="hix00412" src="624755.html#hix00412" />
+        <audio id="audhix00412" clip-begin="npt=468.152s" clip-end="npt=472.340s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par id="par37" system-required="pagenumber-on" endsync="last">
+        <text id="Page_60" src="624755.html#Page_60" />
+        <audio id="aud037" clip-begin="npt=472.340s" clip-end="npt=472.711s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS124">
+        <text id="hix00413" src="624755.html#hix00413" />
+        <audio id="audhix00413" clip-begin="npt=472.711s" clip-end="npt=477.440s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS125">
+        <text id="hix00413s2" src="624755.html#hix00413s2" />
+        <audio id="audhix00413s2" clip-begin="npt=477.440s" clip-end="npt=478.840s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS126">
+        <text id="hix00413s3" src="624755.html#hix00413s3" />
+        <audio id="audhix00413s3" clip-begin="npt=478.840s" clip-end="npt=481.394s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS127">
+        <text id="hix00414" src="624755.html#hix00414" />
+        <audio id="audhix00414" clip-begin="npt=481.394s" clip-end="npt=483.280s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS128">
+        <text id="hix00414s2" src="624755.html#hix00414s2" />
+        <audio id="audhix00414s2" clip-begin="npt=483.280s" clip-end="npt=485.080s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS129">
+        <text id="hix00414s3" src="624755.html#hix00414s3" />
+        <audio id="audhix00414s3" clip-begin="npt=485.080s" clip-end="npt=487.200s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS130">
+        <text id="hix00414s4" src="624755.html#hix00414s4" />
+        <audio id="audhix00414s4" clip-begin="npt=487.200s" clip-end="npt=491.026s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS131">
+        <text id="hix00415" src="624755.html#hix00415" />
+        <audio id="audhix00415" clip-begin="npt=491.026s" clip-end="npt=494.600s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS132">
+        <text id="hix00415s2" src="624755.html#hix00415s2" />
+        <audio id="audhix00415s2" clip-begin="npt=494.600s" clip-end="npt=497.320s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS133">
+        <text id="hix00415s3" src="624755.html#hix00415s3" />
+        <audio id="audhix00415s3" clip-begin="npt=497.320s" clip-end="npt=499.960s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS134">
+        <text id="hix00415s4" src="624755.html#hix00415s4" />
+        <audio id="audhix00415s4" clip-begin="npt=499.960s" clip-end="npt=501.840s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS135">
+        <text id="hix00415s5" src="624755.html#hix00415s5" />
+        <audio id="audhix00415s5" clip-begin="npt=501.840s" clip-end="npt=504.560s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS136">
+        <text id="hix00415s6" src="624755.html#hix00415s6" />
+        <audio id="audhix00415s6" clip-begin="npt=504.560s" clip-end="npt=506.680s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS137">
+        <text id="hix00415s7" src="624755.html#hix00415s7" />
+        <audio id="audhix00415s7" clip-begin="npt=506.680s" clip-end="npt=510.800s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS138">
+        <text id="hix00415s8" src="624755.html#hix00415s8" />
+        <audio id="audhix00415s8" clip-begin="npt=510.800s" clip-end="npt=512.040s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS139">
+        <text id="hix00415s9" src="624755.html#hix00415s9" />
+        <audio id="audhix00415s9" clip-begin="npt=512.040s" clip-end="npt=513.880s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS140">
+        <text id="hix00415s10" src="624755.html#hix00415s10" />
+        <audio id="audhix00415s10" clip-begin="npt=513.880s" clip-end="npt=516.200s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS141">
+        <text id="hix00415s11" src="624755.html#hix00415s11" />
+        <audio id="audhix00415s11" clip-begin="npt=516.200s" clip-end="npt=520.800s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS142">
+        <text id="hix00415s12" src="624755.html#hix00415s12" />
+        <audio id="audhix00415s12" clip-begin="npt=520.800s" clip-end="npt=522.160s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS143">
+        <text id="hix00415s13" src="624755.html#hix00415s13" />
+        <audio id="audhix00415s13" clip-begin="npt=522.160s" clip-end="npt=523.208s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS144">
+        <text id="hix00416" src="624755.html#hix00416" />
+        <audio id="audhix00416" clip-begin="npt=523.208s" clip-end="npt=525.200s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS145">
+        <text id="hix00416s2" src="624755.html#hix00416s2" />
+        <audio id="audhix00416s2" clip-begin="npt=525.200s" clip-end="npt=531.440s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS146">
+        <text id="hix00416s3" src="624755.html#hix00416s3" />
+        <audio id="audhix00416s3" clip-begin="npt=531.440s" clip-end="npt=543.120s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS147">
+        <text id="hix00416s4" src="624755.html#hix00416s4" />
+        <audio id="audhix00416s4" clip-begin="npt=543.120s" clip-end="npt=544.640s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS148">
+        <text id="hix00416s5" src="624755.html#hix00416s5" />
+        <audio id="audhix00416s5" clip-begin="npt=544.640s" clip-end="npt=551.680s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS149">
+        <text id="hix00416s6" src="624755.html#hix00416s6" />
+        <audio id="audhix00416s6" clip-begin="npt=551.680s" clip-end="npt=559.080s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS150">
+        <text id="hix00416s7" src="624755.html#hix00416s7" />
+        <audio id="audhix00416s7" clip-begin="npt=559.080s" clip-end="npt=561.280s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS151">
+        <text id="hix00416s8" src="624755.html#hix00416s8" />
+        <audio id="audhix00416s8" clip-begin="npt=561.280s" clip-end="npt=563.200s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS152">
+        <text id="hix00416s9" src="624755.html#hix00416s9" />
+        <audio id="audhix00416s9" clip-begin="npt=563.200s" clip-end="npt=570.320s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS153">
+        <text id="hix00416s10" src="624755.html#hix00416s10" />
+        <audio id="audhix00416s10" clip-begin="npt=570.320s" clip-end="npt=573.320s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS154">
+        <text id="hix00416s11" src="624755.html#hix00416s11" />
+        <audio id="audhix00416s11" clip-begin="npt=573.320s" clip-end="npt=575.160s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS155">
+        <text id="hix00416s12" src="624755.html#hix00416s12" />
+        <audio id="audhix00416s12" clip-begin="npt=575.160s" clip-end="npt=577.320s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS156">
+        <text id="hix00416s13" src="624755.html#hix00416s13" />
+        <audio id="audhix00416s13" clip-begin="npt=577.320s" clip-end="npt=580.120s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS157">
+        <text id="hix00416s14" src="624755.html#hix00416s14" />
+        <audio id="audhix00416s14" clip-begin="npt=580.120s" clip-end="npt=582.400s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS158">
+        <text id="hix00416s15" src="624755.html#hix00416s15" />
+        <audio id="audhix00416s15" clip-begin="npt=582.400s" clip-end="npt=587.360s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS159">
+        <text id="hix00416s16" src="624755.html#hix00416s16" />
+        <audio id="audhix00416s16" clip-begin="npt=587.360s" clip-end="npt=592.151s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par id="par42" system-required="pagenumber-on" endsync="last">
+        <text id="Page_61" src="624755.html#Page_61" />
+        <audio id="aud042" clip-begin="npt=592.151s" clip-end="npt=592.708s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS160">
+        <text id="hix00417" src="624755.html#hix00417" />
+        <audio id="audhix00417" clip-begin="npt=592.708s" clip-end="npt=596.400s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS161">
+        <text id="hix00417s2" src="624755.html#hix00417s2" />
+        <audio id="audhix00417s2" clip-begin="npt=596.400s" clip-end="npt=597.520s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS162">
+        <text id="hix00417s3" src="624755.html#hix00417s3" />
+        <audio id="audhix00417s3" clip-begin="npt=597.520s" clip-end="npt=600.523s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS163">
+        <text id="hix00418" src="624755.html#hix00418" />
+        <audio id="audhix00418" clip-begin="npt=600.523s" clip-end="npt=608.200s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS164">
+        <text id="hix00418s2" src="624755.html#hix00418s2" />
+        <audio id="audhix00418s2" clip-begin="npt=608.200s" clip-end="npt=611.040s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS165">
+        <text id="hix00418s3" src="624755.html#hix00418s3" />
+        <audio id="audhix00418s3" clip-begin="npt=611.040s" clip-end="npt=614.720s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS166">
+        <text id="hix00418s4" src="624755.html#hix00418s4" />
+        <audio id="audhix00418s4" clip-begin="npt=614.720s" clip-end="npt=617.840s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS167">
+        <text id="hix00419" src="624755.html#hix00419" />
+        <audio id="audhix00419" clip-begin="npt=617.840s" clip-end="npt=619.640s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS168">
+        <text id="hix00419s2" src="624755.html#hix00419s2" />
+        <audio id="audhix00419s2" clip-begin="npt=619.640s" clip-end="npt=620.560s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS169">
+        <text id="hix00419s3" src="624755.html#hix00419s3" />
+        <audio id="audhix00419s3" clip-begin="npt=620.560s" clip-end="npt=622.160s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS170">
+        <text id="hix00419s4" src="624755.html#hix00419s4" />
+        <audio id="audhix00419s4" clip-begin="npt=622.160s" clip-end="npt=623.480s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS171">
+        <text id="hix00419s5" src="624755.html#hix00419s5" />
+        <audio id="audhix00419s5" clip-begin="npt=623.480s" clip-end="npt=623.920s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS172">
+        <text id="hix00419s6" src="624755.html#hix00419s6" />
+        <audio id="audhix00419s6" clip-begin="npt=623.920s" clip-end="npt=625.480s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS173">
+        <text id="hix00419s7" src="624755.html#hix00419s7" />
+        <audio id="audhix00419s7" clip-begin="npt=625.480s" clip-end="npt=626.720s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS174">
+        <text id="hix00419s8" src="624755.html#hix00419s8" />
+        <audio id="audhix00419s8" clip-begin="npt=626.720s" clip-end="npt=627.720s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS175">
+        <text id="hix00419s9" src="624755.html#hix00419s9" />
+        <audio id="audhix00419s9" clip-begin="npt=627.720s" clip-end="npt=628.200s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS176">
+        <text id="hix00419s10" src="624755.html#hix00419s10" />
+        <audio id="audhix00419s10" clip-begin="npt=628.200s" clip-end="npt=637.960s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS177">
+        <text id="hix00419s11" src="624755.html#hix00419s11" />
+        <audio id="audhix00419s11" clip-begin="npt=637.960s" clip-end="npt=646.240s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS178">
+        <text id="hix00419s12" src="624755.html#hix00419s12" />
+        <audio id="audhix00419s12" clip-begin="npt=646.240s" clip-end="npt=648.240s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS179">
+        <text id="hix00419s13" src="624755.html#hix00419s13" />
+        <audio id="audhix00419s13" clip-begin="npt=648.240s" clip-end="npt=653.400s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS180">
+        <text id="hix00419s14" src="624755.html#hix00419s14" />
+        <audio id="audhix00419s14" clip-begin="npt=653.400s" clip-end="npt=657.120s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS181">
+        <text id="hix00419s15" src="624755.html#hix00419s15" />
+        <audio id="audhix00419s15" clip-begin="npt=657.120s" clip-end="npt=661.400s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS182">
+        <text id="hix00419s16" src="624755.html#hix00419s16" />
+        <audio id="audhix00419s16" clip-begin="npt=661.400s" clip-end="npt=668.920s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS183">
+        <text id="hix00419s17" src="624755.html#hix00419s17" />
+        <audio id="audhix00419s17" clip-begin="npt=668.920s" clip-end="npt=671.600s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS184">
+        <text id="hix00419s18" src="624755.html#hix00419s18" />
+        <audio id="audhix00419s18" clip-begin="npt=671.600s" clip-end="npt=676.880s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS185">
+        <text id="hix00419s19" src="624755.html#hix00419s19" />
+        <audio id="audhix00419s19" clip-begin="npt=676.880s" clip-end="npt=680.880s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS186">
+        <text id="hix00419s20" src="624755.html#hix00419s20" />
+        <audio id="audhix00419s20" clip-begin="npt=680.880s" clip-end="npt=685.480s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS187">
+        <text id="hix00419s21" src="624755.html#hix00419s21" />
+        <audio id="audhix00419s21" clip-begin="npt=685.480s" clip-end="npt=688.920s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS188">
+        <text id="hix00419s22" src="624755.html#hix00419s22" />
+        <audio id="audhix00419s22" clip-begin="npt=688.920s" clip-end="npt=689.939s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par id="par46" system-required="pagenumber-on" endsync="last">
+        <text id="Page_62" src="624755.html#Page_62" />
+        <audio id="aud046" clip-begin="npt=689.939s" clip-end="npt=690.378s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS189">
+        <text id="hix00420" src="624755.html#hix00420" />
+        <audio id="audhix00420" clip-begin="npt=690.378s" clip-end="npt=693.240s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS190">
+        <text id="hix00420s2" src="624755.html#hix00420s2" />
+        <audio id="audhix00420s2" clip-begin="npt=693.240s" clip-end="npt=698.880s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS191">
+        <text id="hix00420s3" src="624755.html#hix00420s3" />
+        <audio id="audhix00420s3" clip-begin="npt=698.880s" clip-end="npt=709.320s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS192">
+        <text id="hix00420s4" src="624755.html#hix00420s4" />
+        <audio id="audhix00420s4" clip-begin="npt=709.320s" clip-end="npt=714.816s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS193">
+        <text id="hix00421" src="624755.html#hix00421" />
+        <audio id="audhix00421" clip-begin="npt=714.816s" clip-end="npt=718.600s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS194">
+        <text id="hix00421s2" src="624755.html#hix00421s2" />
+        <audio id="audhix00421s2" clip-begin="npt=718.600s" clip-end="npt=721.040s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS195">
+        <text id="hix00421s3" src="624755.html#hix00421s3" />
+        <audio id="audhix00421s3" clip-begin="npt=721.040s" clip-end="npt=724.508s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS196">
+        <text id="hix00422" src="624755.html#hix00422" />
+        <audio id="audhix00422" clip-begin="npt=724.508s" clip-end="npt=727.320s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS197">
+        <text id="hix00422s2" src="624755.html#hix00422s2" />
+        <audio id="audhix00422s2" clip-begin="npt=727.320s" clip-end="npt=729.760s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS198">
+        <text id="hix00422s3" src="624755.html#hix00422s3" />
+        <audio id="audhix00422s3" clip-begin="npt=729.760s" clip-end="npt=734.520s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS199">
+        <text id="hix00422s4" src="624755.html#hix00422s4" />
+        <audio id="audhix00422s4" clip-begin="npt=734.520s" clip-end="npt=739.920s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS200">
+        <text id="hix00422s5" src="624755.html#hix00422s5" />
+        <audio id="audhix00422s5" clip-begin="npt=739.920s" clip-end="npt=747.520s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS201">
+        <text id="hix00422s6" src="624755.html#hix00422s6" />
+        <audio id="audhix00422s6" clip-begin="npt=747.520s" clip-end="npt=752.560s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS202">
+        <text id="hix00422s7" src="624755.html#hix00422s7" />
+        <audio id="audhix00422s7" clip-begin="npt=752.560s" clip-end="npt=754.920s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS203">
+        <text id="hix00422s8" src="624755.html#hix00422s8" />
+        <audio id="audhix00422s8" clip-begin="npt=754.920s" clip-end="npt=757.800s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS204">
+        <text id="hix00422s9" src="624755.html#hix00422s9" />
+        <audio id="audhix00422s9" clip-begin="npt=757.800s" clip-end="npt=765.210s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS205">
+        <text id="hix00423" src="624755.html#hix00423" />
+        <audio id="audhix00423" clip-begin="npt=765.210s" clip-end="npt=769.010s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS206">
+        <text id="hix00424" src="624755.html#hix00424" />
+        <audio id="audhix00424" clip-begin="npt=769.010s" clip-end="npt=773.640s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS207">
+        <text id="hix00424s2" src="624755.html#hix00424s2" />
+        <audio id="audhix00424s2" clip-begin="npt=773.640s" clip-end="npt=774.821s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS208">
+        <text id="hix00425" src="624755.html#hix00425" />
+        <audio id="audhix00425" clip-begin="npt=774.821s" clip-end="npt=780.006s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS209">
+        <text id="hix00426" src="624755.html#hix00426" />
+        <audio id="audhix00426" clip-begin="npt=780.006s" clip-end="npt=793.440s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS210">
+        <text id="hix00426s2" src="624755.html#hix00426s2" />
+        <audio id="audhix00426s2" clip-begin="npt=793.440s" clip-end="npt=796.800s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS211">
+        <text id="hix00426s3" src="624755.html#hix00426s3" />
+        <audio id="audhix00426s3" clip-begin="npt=796.800s" clip-end="npt=798.440s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS212">
+        <text id="hix00426s4" src="624755.html#hix00426s4" />
+        <audio id="audhix00426s4" clip-begin="npt=798.440s" clip-end="npt=800.320s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS213">
+        <text id="hix00426s5" src="624755.html#hix00426s5" />
+        <audio id="audhix00426s5" clip-begin="npt=800.320s" clip-end="npt=802.680s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS214">
+        <text id="hix00426s6" src="624755.html#hix00426s6" />
+        <audio id="audhix00426s6" clip-begin="npt=802.680s" clip-end="npt=805.634s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par id="par54" system-required="pagenumber-on" endsync="last">
+        <text id="Page_63" src="624755.html#Page_63" />
+        <audio id="aud054" clip-begin="npt=805.634s" clip-end="npt=806.127s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS215">
+        <text id="hix00427" src="624755.html#hix00427" />
+        <audio id="audhix00427" clip-begin="npt=806.127s" clip-end="npt=807.800s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS216">
+        <text id="hix00427s2" src="624755.html#hix00427s2" />
+        <audio id="audhix00427s2" clip-begin="npt=807.800s" clip-end="npt=810.720s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS217">
+        <text id="hix00427s3" src="624755.html#hix00427s3" />
+        <audio id="audhix00427s3" clip-begin="npt=810.720s" clip-end="npt=811.680s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS218">
+        <text id="hix00427s4" src="624755.html#hix00427s4" />
+        <audio id="audhix00427s4" clip-begin="npt=811.680s" clip-end="npt=814.200s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS219">
+        <text id="hix00427s5" src="624755.html#hix00427s5" />
+        <audio id="audhix00427s5" clip-begin="npt=814.200s" clip-end="npt=821.068s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS220">
+        <text id="hix00428" src="624755.html#hix00428" />
+        <audio id="audhix00428" clip-begin="npt=821.068s" clip-end="npt=825.008s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS221">
+        <text id="hix00429" src="624755.html#hix00429" />
+        <audio id="audhix00429" clip-begin="npt=825.008s" clip-end="npt=828.440s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS222">
+        <text id="hix00429s2" src="624755.html#hix00429s2" />
+        <audio id="audhix00429s2" clip-begin="npt=828.440s" clip-end="npt=830.600s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS223">
+        <text id="hix00429s3" src="624755.html#hix00429s3" />
+        <audio id="audhix00429s3" clip-begin="npt=830.600s" clip-end="npt=831.380s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS224">
+        <text id="hix00430" src="624755.html#hix00430" />
+        <audio id="audhix00430" clip-begin="npt=831.380s" clip-end="npt=836.280s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS225">
+        <text id="hix00430s2" src="624755.html#hix00430s2" />
+        <audio id="audhix00430s2" clip-begin="npt=836.280s" clip-end="npt=837.960s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS226">
+        <text id="hix00430s3" src="624755.html#hix00430s3" />
+        <audio id="audhix00430s3" clip-begin="npt=837.960s" clip-end="npt=840.880s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS227">
+        <text id="hix00430s4" src="624755.html#hix00430s4" />
+        <audio id="audhix00430s4" clip-begin="npt=840.880s" clip-end="npt=843.160s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS228">
+        <text id="hix00430s5" src="624755.html#hix00430s5" />
+        <audio id="audhix00430s5" clip-begin="npt=843.160s" clip-end="npt=843.640s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS229">
+        <text id="hix00430s6" src="624755.html#hix00430s6" />
+        <audio id="audhix00430s6" clip-begin="npt=843.640s" clip-end="npt=845.501s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS230">
+        <text id="hix00431" src="624755.html#hix00431" />
+        <audio id="audhix00431" clip-begin="npt=845.501s" clip-end="npt=849.566s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS231">
+        <text id="hix00432" src="624755.html#hix00432" />
+        <audio id="audhix00432" clip-begin="npt=849.566s" clip-end="npt=853.840s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS232">
+        <text id="hix00432s2" src="624755.html#hix00432s2" />
+        <audio id="audhix00432s2" clip-begin="npt=853.840s" clip-end="npt=854.520s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS233">
+        <text id="hix00432s3" src="624755.html#hix00432s3" />
+        <audio id="audhix00432s3" clip-begin="npt=854.520s" clip-end="npt=857.757s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS234">
+        <text id="hix00433" src="624755.html#hix00433" />
+        <audio id="audhix00433" clip-begin="npt=857.757s" clip-end="npt=862.000s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS235">
+        <text id="hix00433s2" src="624755.html#hix00433s2" />
+        <audio id="audhix00433s2" clip-begin="npt=862.000s" clip-end="npt=863.800s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS236">
+        <text id="hix00433s3" src="624755.html#hix00433s3" />
+        <audio id="audhix00433s3" clip-begin="npt=863.800s" clip-end="npt=866.960s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS237">
+        <text id="hix00433s4" src="624755.html#hix00433s4" />
+        <audio id="audhix00433s4" clip-begin="npt=866.960s" clip-end="npt=867.720s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS238">
+        <text id="hix00433s5" src="624755.html#hix00433s5" />
+        <audio id="audhix00433s5" clip-begin="npt=867.720s" clip-end="npt=871.501s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS239">
+        <text id="hix00434" src="624755.html#hix00434" />
+        <audio id="audhix00434" clip-begin="npt=871.501s" clip-end="npt=876.720s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS240">
+        <text id="hix00434s2" src="624755.html#hix00434s2" />
+        <audio id="audhix00434s2" clip-begin="npt=876.720s" clip-end="npt=880.314s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS241">
+        <text id="hix00435" src="624755.html#hix00435" />
+        <audio id="audhix00435" clip-begin="npt=880.314s" clip-end="npt=882.520s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS242">
+        <text id="hix00435s2" src="624755.html#hix00435s2" />
+        <audio id="audhix00435s2" clip-begin="npt=882.520s" clip-end="npt=884.320s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS243">
+        <text id="hix00435s3" src="624755.html#hix00435s3" />
+        <audio id="audhix00435s3" clip-begin="npt=884.320s" clip-end="npt=889.564s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS244">
+        <text id="hix00436" src="624755.html#hix00436" />
+        <audio id="audhix00436" clip-begin="npt=889.564s" clip-end="npt=890.520s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS245">
+        <text id="hix00436s2" src="624755.html#hix00436s2" />
+        <audio id="audhix00436s2" clip-begin="npt=890.520s" clip-end="npt=906.954s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par id="par65" system-required="pagenumber-on" endsync="last">
+        <text id="Page_64" src="624755.html#Page_64" />
+        <audio id="aud065" clip-begin="npt=906.954s" clip-end="npt=907.382s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS246">
+        <text id="hix00437" src="624755.html#hix00437" />
+        <audio id="audhix00437" clip-begin="npt=907.382s" clip-end="npt=914.198s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS247">
+        <text id="hix00438" src="624755.html#hix00438" />
+        <audio id="audhix00438" clip-begin="npt=914.198s" clip-end="npt=929.760s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS248">
+        <text id="hix00438s2" src="624755.html#hix00438s2" />
+        <audio id="audhix00438s2" clip-begin="npt=929.760s" clip-end="npt=933.440s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS249">
+        <text id="hix00438s3" src="624755.html#hix00438s3" />
+        <audio id="audhix00438s3" clip-begin="npt=933.440s" clip-end="npt=934.920s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS250">
+        <text id="hix00438s4" src="624755.html#hix00438s4" />
+        <audio id="audhix00438s4" clip-begin="npt=934.920s" clip-end="npt=940.080s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS251">
+        <text id="hix00438s5" src="624755.html#hix00438s5" />
+        <audio id="audhix00438s5" clip-begin="npt=940.080s" clip-end="npt=942.680s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS252">
+        <text id="hix00438s6" src="624755.html#hix00438s6" />
+        <audio id="audhix00438s6" clip-begin="npt=942.680s" clip-end="npt=946.156s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS253">
+        <text id="hix00439" src="624755.html#hix00439" />
+        <audio id="audhix00439" clip-begin="npt=946.156s" clip-end="npt=947.760s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS254">
+        <text id="hix00439s2" src="624755.html#hix00439s2" />
+        <audio id="audhix00439s2" clip-begin="npt=947.760s" clip-end="npt=951.240s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS255">
+        <text id="hix00439s3" src="624755.html#hix00439s3" />
+        <audio id="audhix00439s3" clip-begin="npt=951.240s" clip-end="npt=955.800s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS256">
+        <text id="hix00439s4" src="624755.html#hix00439s4" />
+        <audio id="audhix00439s4" clip-begin="npt=955.800s" clip-end="npt=958.518s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS257">
+        <text id="hix00440" src="624755.html#hix00440" />
+        <audio id="audhix00440" clip-begin="npt=958.518s" clip-end="npt=961.520s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS258">
+        <text id="hix00440s2" src="624755.html#hix00440s2" />
+        <audio id="audhix00440s2" clip-begin="npt=961.520s" clip-end="npt=962.000s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS259">
+        <text id="hix00440s3" src="624755.html#hix00440s3" />
+        <audio id="audhix00440s3" clip-begin="npt=962.000s" clip-end="npt=964.680s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS260">
+        <text id="hix00440s4" src="624755.html#hix00440s4" />
+        <audio id="audhix00440s4" clip-begin="npt=964.680s" clip-end="npt=967.240s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS261">
+        <text id="hix00440s5" src="624755.html#hix00440s5" />
+        <audio id="audhix00440s5" clip-begin="npt=967.240s" clip-end="npt=968.260s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS262">
+        <text id="hix00441" src="624755.html#hix00441" />
+        <audio id="audhix00441" clip-begin="npt=968.260s" clip-end="npt=970.480s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS263">
+        <text id="hix00441s2" src="624755.html#hix00441s2" />
+        <audio id="audhix00441s2" clip-begin="npt=970.480s" clip-end="npt=971.000s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS264">
+        <text id="hix00441s3" src="624755.html#hix00441s3" />
+        <audio id="audhix00441s3" clip-begin="npt=971.000s" clip-end="npt=971.827s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS265">
+        <text id="hix00442" src="624755.html#hix00442" />
+        <audio id="audhix00442" clip-begin="npt=971.827s" clip-end="npt=975.840s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS266">
+        <text id="hix00442s2" src="624755.html#hix00442s2" />
+        <audio id="audhix00442s2" clip-begin="npt=975.840s" clip-end="npt=976.698s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS267">
+        <text id="hix00443" src="624755.html#hix00443" />
+        <audio id="audhix00443" clip-begin="npt=976.698s" clip-end="npt=979.120s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS268">
+        <text id="hix00443s2" src="624755.html#hix00443s2" />
+        <audio id="audhix00443s2" clip-begin="npt=979.120s" clip-end="npt=981.360s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS269">
+        <text id="hix00443s3" src="624755.html#hix00443s3" />
+        <audio id="audhix00443s3" clip-begin="npt=981.360s" clip-end="npt=983.680s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS270">
+        <text id="hix00443s4" src="624755.html#hix00443s4" />
+        <audio id="audhix00443s4" clip-begin="npt=983.680s" clip-end="npt=983.800s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS271">
+        <text id="hix00443s5" src="624755.html#hix00443s5" />
+        <audio id="audhix00443s5" clip-begin="npt=983.800s" clip-end="npt=988.160s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS272">
+        <text id="hix00443s6" src="624755.html#hix00443s6" />
+        <audio id="audhix00443s6" clip-begin="npt=988.160s" clip-end="npt=989.768s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS273">
+        <text id="hix00444" src="624755.html#hix00444" />
+        <audio id="audhix00444" clip-begin="npt=989.768s" clip-end="npt=992.680s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS274">
+        <text id="hix00444s2" src="624755.html#hix00444s2" />
+        <audio id="audhix00444s2" clip-begin="npt=992.680s" clip-end="npt=996.120s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS275">
+        <text id="hix00444s3" src="624755.html#hix00444s3" />
+        <audio id="audhix00444s3" clip-begin="npt=996.120s" clip-end="npt=997.720s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS276">
+        <text id="hix00444s4" src="624755.html#hix00444s4" />
+        <audio id="audhix00444s4" clip-begin="npt=997.720s" clip-end="npt=1002.541s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par id="par74" system-required="pagenumber-on" endsync="last">
+        <text id="Page_65" src="624755.html#Page_65" />
+        <audio id="aud074" clip-begin="npt=1002.541s" clip-end="npt=1002.850s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS277">
+        <text id="hix00445" src="624755.html#hix00445" />
+        <audio id="audhix00445" clip-begin="npt=1002.850s" clip-end="npt=1006.960s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS278">
+        <text id="hix00445s2" src="624755.html#hix00445s2" />
+        <audio id="audhix00445s2" clip-begin="npt=1006.960s" clip-end="npt=1010.160s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS279">
+        <text id="hix00445s3" src="624755.html#hix00445s3" />
+        <audio id="audhix00445s3" clip-begin="npt=1010.160s" clip-end="npt=1012.200s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS280">
+        <text id="hix00445s4" src="624755.html#hix00445s4" />
+        <audio id="audhix00445s4" clip-begin="npt=1012.200s" clip-end="npt=1015.320s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS281">
+        <text id="hix00445s5" src="624755.html#hix00445s5" />
+        <audio id="audhix00445s5" clip-begin="npt=1015.320s" clip-end="npt=1016.840s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS282">
+        <text id="hix00445s6" src="624755.html#hix00445s6" />
+        <audio id="audhix00445s6" clip-begin="npt=1016.840s" clip-end="npt=1020.840s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS283">
+        <text id="hix00445s7" src="624755.html#hix00445s7" />
+        <audio id="audhix00445s7" clip-begin="npt=1020.840s" clip-end="npt=1023.960s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS284">
+        <text id="hix00445s8" src="624755.html#hix00445s8" />
+        <audio id="audhix00445s8" clip-begin="npt=1023.960s" clip-end="npt=1029.033s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS285">
+        <text id="hix00446" src="624755.html#hix00446" />
+        <audio id="audhix00446" clip-begin="npt=1029.033s" clip-end="npt=1033.840s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS286">
+        <text id="hix00446s2" src="624755.html#hix00446s2" />
+        <audio id="audhix00446s2" clip-begin="npt=1033.840s" clip-end="npt=1036.120s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS287">
+        <text id="hix00446s3" src="624755.html#hix00446s3" />
+        <audio id="audhix00446s3" clip-begin="npt=1036.120s" clip-end="npt=1038.680s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS288">
+        <text id="hix00446s4" src="624755.html#hix00446s4" />
+        <audio id="audhix00446s4" clip-begin="npt=1038.680s" clip-end="npt=1045.200s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS289">
+        <text id="hix00446s5" src="624755.html#hix00446s5" />
+        <audio id="audhix00446s5" clip-begin="npt=1045.200s" clip-end="npt=1050.960s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS290">
+        <text id="hix00446s6" src="624755.html#hix00446s6" />
+        <audio id="audhix00446s6" clip-begin="npt=1050.960s" clip-end="npt=1054.800s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS291">
+        <text id="hix00446s7" src="624755.html#hix00446s7" />
+        <audio id="audhix00446s7" clip-begin="npt=1054.800s" clip-end="npt=1061.960s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS292">
+        <text id="hix00446s8" src="624755.html#hix00446s8" />
+        <audio id="audhix00446s8" clip-begin="npt=1061.960s" clip-end="npt=1064.660s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS293">
+        <text id="hix00447" src="624755.html#hix00447" />
+        <audio id="audhix00447" clip-begin="npt=1064.660s" clip-end="npt=1068.000s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS294">
+        <text id="hix00447s2" src="624755.html#hix00447s2" />
+        <audio id="audhix00447s2" clip-begin="npt=1068.000s" clip-end="npt=1070.680s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS295">
+        <text id="hix00447s3" src="624755.html#hix00447s3" />
+        <audio id="audhix00447s3" clip-begin="npt=1070.680s" clip-end="npt=1074.080s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS296">
+        <text id="hix00447s4" src="624755.html#hix00447s4" />
+        <audio id="audhix00447s4" clip-begin="npt=1074.080s" clip-end="npt=1080.200s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS297">
+        <text id="hix00447s5" src="624755.html#hix00447s5" />
+        <audio id="audhix00447s5" clip-begin="npt=1080.200s" clip-end="npt=1094.040s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS298">
+        <text id="hix00447s6" src="624755.html#hix00447s6" />
+        <audio id="audhix00447s6" clip-begin="npt=1094.040s" clip-end="npt=1095.480s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS299">
+        <text id="hix00447s7" src="624755.html#hix00447s7" />
+        <audio id="audhix00447s7" clip-begin="npt=1095.480s" clip-end="npt=1097.720s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS300">
+        <text id="hix00447s8" src="624755.html#hix00447s8" />
+        <audio id="audhix00447s8" clip-begin="npt=1097.720s" clip-end="npt=1101.280s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS301">
+        <text id="hix00448" src="624755.html#hix00448" />
+        <audio id="audhix00448" clip-begin="npt=1101.280s" clip-end="npt=1106.272s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS302">
+        <text id="hix00449" src="624755.html#hix00449" />
+        <audio id="audhix00449" clip-begin="npt=1106.272s" clip-end="npt=1110.160s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS303">
+        <text id="hix00449s2" src="624755.html#hix00449s2" />
+        <audio id="audhix00449s2" clip-begin="npt=1110.160s" clip-end="npt=1112.671s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par id="par80" system-required="pagenumber-on" endsync="last">
+        <text id="Page_66" src="624755.html#Page_66" />
+        <audio id="aud080" clip-begin="npt=1112.671s" clip-end="npt=1113.228s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS304">
+        <text id="hix00450" src="624755.html#hix00450" />
+        <audio id="audhix00450" clip-begin="npt=1113.228s" clip-end="npt=1122.840s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS305">
+        <text id="hix00450s2" src="624755.html#hix00450s2" />
+        <audio id="audhix00450s2" clip-begin="npt=1122.840s" clip-end="npt=1128.760s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS306">
+        <text id="hix00450s3" src="624755.html#hix00450s3" />
+        <audio id="audhix00450s3" clip-begin="npt=1128.760s" clip-end="npt=1134.200s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS307">
+        <text id="hix00450s4" src="624755.html#hix00450s4" />
+        <audio id="audhix00450s4" clip-begin="npt=1134.200s" clip-end="npt=1136.240s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS308">
+        <text id="hix00450s5" src="624755.html#hix00450s5" />
+        <audio id="audhix00450s5" clip-begin="npt=1136.240s" clip-end="npt=1139.560s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS309">
+        <text id="hix00450s6" src="624755.html#hix00450s6" />
+        <audio id="audhix00450s6" clip-begin="npt=1139.560s" clip-end="npt=1147.520s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS310">
+        <text id="hix00450s7" src="624755.html#hix00450s7" />
+        <audio id="audhix00450s7" clip-begin="npt=1147.520s" clip-end="npt=1149.000s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS311">
+        <text id="hix00450s8" src="624755.html#hix00450s8" />
+        <audio id="audhix00450s8" clip-begin="npt=1149.000s" clip-end="npt=1156.480s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par endsync="last" id="parS312">
+        <text id="hix00450s9" src="624755.html#hix00450s9" />
+        <audio id="audhix00450s9" clip-begin="npt=1156.480s" clip-end="npt=1161.099s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+      <par id="par82" system-required="pagenumber-on" endsync="last">
+        <text id="Page_67" src="624755.html#Page_67" />
+        <audio id="aud082" clip-begin="npt=1161.099s" clip-end="npt=1161.584s" src="12_Chapter_Six_The_Overpaid_Maid.mp3" />
+      </par>
+    </seq>
+  </body>
+</smil>
