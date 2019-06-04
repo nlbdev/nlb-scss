@@ -17,54 +17,15 @@
       <link rel="stylesheet" type="text/css" href="../../../css/nettleserbok.css"/>
   </head>
   <body>
-    <noscript>
-      <p id="nosctipt_text">Nettleserbok krever Javascript. Vennligst tillat Javascript i nettleseren din</p>
-    </noscript>
-    <p id="wrong_browser_text" style="display:none;"></p>
-    <div class="header" id="book_header">
-      <!-- progress bar -->
-      <div id="percentage_container">
-        <div class="progress-container"></div>
-        <div class="progress-bar" id="myBar"></div>
-        <div id="percent" class="progress-text">Fremdrift: %</div>
-      </div>
-      <!-- logo -->
-      <div id="navn" class="logo_container">
-        <img id="logo" src="logo.svg" alt="Nettleserbok" />
-      </div>
-      <!-- play button -->
-      <div id="skippability">
-        <button aria-labelledby="Start stopp" id="play_button" accesskey="x"></button>
-        <p aria-hidden="true" id="play_button_text">Start</p>
-      </div>
-      <!-- Avspillingshastighet -->
-      <div>
-        <form>
-          <input aria-labelledby="Avspillingshastighet" accesskey="z" id="pbr" type="range" step="0.1" value="1" min="0.5" max="2" class="slider" />
-          <span id="currentPbr">Avspillingshastighet: 1</span>
-        </form>
-      </div>
-      <!-- Nattmodust -->
+    <div class="header" id="book_header" style="position:fixed;background-color:white;width:100%;">
+      <!-- Nattmodus -->
       <div id="modus_knapp">
         <a aria-labelledby="Nattmodus" title="mode" onclick="dark()" accesskey="j" id="modus">
           <span id="night_mode">Nattmodus</span>
         </a>
       </div>
-      <!-- Fullskjerm -->
-      <div id="Fullskjerm_knapp">
-        <a aria-labelledby="Fullskjerm" href="#" title="Fullskjerm" onclick="hide_extra()" accesskey="w" id="hide_button">
-          <!-- <span>...<span> -->
-          <img id="expand_image" class="expand_book" src="expand.svg" alt="Expand book" title="Expand book" />
-        </a>
-      </div>
-      <!-- hjelpknapp -->
-      <div id="hjelpknapp">
-        <a aria-labelledby="hjelpknapp" href="https://www.nlb.no/hjelp/hjelp-kategorier/pc-eller-mac" title="Informasjon om Nettleserbok" target="_blank">
-          <span id="hjelptekst">Hjelp</span>
-        </a>
-      </div>
     </div>
-    <div id="content" class="class_all" onscroll="scrolling()">
+    <div id="content" class="class_all" onscroll="scrolling()" style="padding-top:30px;">
       <h1 class="title" id="rgn_cnt_0001">
         <span>Yrke =HO: Vg1 Helse- og oppvekstfag</span>
       </h1>

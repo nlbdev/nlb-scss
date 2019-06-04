@@ -1,11 +1,33 @@
 $height: $spacer;
 
-body {
-    @include make-container();
+@mixin nlb-set-header-font($margin-bottom, $font-family, $font-size, $font-size-lead) {
+    font-weight: bold;
+    margin-bottom: $margin-bottom;
+    font-size: $font-size;
+    font-family: $font-family;
+
+    .lead {
+        font-size: $font-size-lead;
+    }
+}
+@mixin nlb-set-paragraph-font($margin-bottom, $font-size, $font-size-lead) {
+    margin-bottom: $margin-bottom;
+    font-size: $font-size;
+
+    .lead {
+        font-size: $font-size-lead;
+    }
 }
 
-h1.title {
-    margin-top: $height !important;
+body {
+    @include make-container();
+
+    @extend .bg-light, .text-dark;
+}
+
+strong {
+    @extend .lead;
+    font-weight: bold;
 }
 
 img {
@@ -15,30 +37,41 @@ img {
 
 table {
     @extend .table, .table-responsive;
+    
+    thead, tbody, tfoot {
+        width: 100%;
+    }
 
     th {
         @extend .thead-light;
     }
 }
 
+table.liste, table.imggroup {
+    @extend .table, .table-borderless, .table-responsive;
+
+    tr td {
+        font-size: $nlb-p-font-size-lg;
+    }
+}
+
 figure, .imggroup {
     @extend .figure, .text-center;
-    margin-bottom: $height !important;
     width: 100%;
 
     img {
-        @extend .figure-img, .img-fluid, .img-thumbnail, .rounded, .mx-auto, .d-block;
+        @extend .figure-img, .img-fluid, .rounded, .mx-auto, .d-block;
     }
 
     figcaption, .caption {
-        @extend .figure-caption, .my-2;
-        color: $gray-900;
-        font-size: smaller;
+        @extend .figure-caption;
+        color: $dark;
+        min-height: 15px;
     }
 }
 
 .prodnote, .optional-prodnote, .prodnote-optional {
-    @extend .d-none;
+    @extend .sr-only;
 }
 
 .noteref {
@@ -47,7 +80,9 @@ figure, .imggroup {
 }
 
 .generisk-ramme {
-    @extend .bg-light, .text-dark, .p-1;
+    @extend .text-dark;
+    background-color: $frame-bg;
+    border: 1px solid $frame-line;
 }
 
 ul {
@@ -56,4 +91,133 @@ ul {
 
 blockquote {
     @extend .blockquote;
+}
+
+@media all and (max-width: 639px) {
+    body {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+    .generisk-ramme {
+        padding: 20px;
+        margin-bottom: 30px;
+    }
+
+    figure, .imggroup {
+        margin-bottom: 30px;
+
+        img {
+            max-width: 100%;
+        }
+        figcaption, .caption {
+            margin-top: 15px;
+        }
+    }
+    h1, h1.title {
+        @include nlb-set-header-font($nlb-h1-margin-bottom-sm, $nlb-h1-font-family, $nlb-h1-font-size-sm, $nlb-h1-font-size-lead-sm);
+    }
+    h2 {
+        @include nlb-set-header-font($nlb-h2-margin-bottom-sm, $nlb-h2-font-family, $nlb-h2-font-size-sm, $nlb-h2-font-size-lead-sm);
+    }
+    h3 {
+        @include nlb-set-header-font($nlb-h3-margin-bottom-sm, $nlb-h3-font-family, $nlb-h3-font-size-sm, $nlb-h3-font-size-lead-sm);
+    }
+    h4 {
+        @include nlb-set-header-font($nlb-h4-margin-bottom-sm, $nlb-h4-font-family, $nlb-h4-font-size-sm, $nlb-h4-font-size-lead-sm);
+    }
+    h5 {
+        @include nlb-set-header-font($nlb-h5-margin-bottom-sm, $nlb-h5-font-family, $nlb-h5-font-size-sm, $nlb-h5-font-size-lead-sm);
+    }
+    h6 {
+        @include nlb-set-header-font($nlb-h6-margin-bottom-sm, $nlb-h6-font-family, $nlb-h6-font-size-sm, $nlb-h6-font-size-lead-sm);
+    }
+    p {
+        @include nlb-set-paragraph-font($nlb-p-margin-bottom-sm, $nlb-p-font-size-sm, $nlb-p-font-size-lead-sm);
+    }
+}
+
+@media all and (min-width: 640px) and (max-width: 767px) {
+    body {
+        padding-right: 45px;
+        padding-left: 45px;
+    }
+    .generisk-ramme {
+        padding: 30px;
+        margin-bottom: 36px;
+    }
+    figure, .imggroup {
+        margin-bottom: 36px;
+
+        img {
+            max-width: 70%;
+        }
+
+        figcaption, .caption {
+            margin-top: 20px;
+        }
+    }
+    h1, h1.title {
+        @include nlb-set-header-font($nlb-h1-margin-bottom-md, $nlb-h1-font-family, $nlb-h1-font-size-md, $nlb-h1-font-size-lead-md);
+    }
+    h2 {
+        @include nlb-set-header-font($nlb-h2-margin-bottom-md, $nlb-h2-font-family, $nlb-h2-font-size-md, $nlb-h2-font-size-lead-md);
+    }
+    h3 {
+        @include nlb-set-header-font($nlb-h3-margin-bottom-md, $nlb-h3-font-family, $nlb-h3-font-size-md, $nlb-h3-font-size-lead-md);
+    }
+    h4 {
+        @include nlb-set-header-font($nlb-h4-margin-bottom-md, $nlb-h4-font-family, $nlb-h4-font-size-md, $nlb-h4-font-size-lead-md);
+    }
+    h5 {
+        @include nlb-set-header-font($nlb-h5-margin-bottom-md, $nlb-h5-font-family, $nlb-h5-font-size-md, $nlb-h5-font-size-lead-md);
+    }
+    h6 {
+        @include nlb-set-header-font($nlb-h6-margin-bottom-md, $nlb-h6-font-family, $nlb-h6-font-size-md, $nlb-h6-font-size-lead-md);
+    }
+    p {
+        @include nlb-set-paragraph-font($nlb-p-margin-bottom-md, $nlb-p-font-size-md, $nlb-p-font-size-lead-md);
+    }
+}
+
+@media all and (min-width: 768px) {
+    body {
+        padding-right: 70px;
+        padding-left: 70px;
+    }
+    .generisk-ramme {
+        padding: 35px;
+        margin-bottom: 45px;
+    }
+    figure, .imggroup {
+        margin-bottom: 45px;
+
+        img {
+            max-width: 70%;
+        }
+
+        figcaption, .caption {
+            min-height: 25px;
+        }
+    }
+    h1, h1.title {
+        @include nlb-set-header-font($nlb-h1-margin-bottom-lg, $nlb-h1-font-family, $nlb-h1-font-size-lg, $nlb-h1-font-size-lead-lg);
+    }
+    h2 {
+        @include nlb-set-header-font($nlb-h2-margin-bottom-lg, $nlb-h2-font-family, $nlb-h2-font-size-lg, $nlb-h2-font-size-lead-lg);
+    }
+    h3 {
+        @include nlb-set-header-font($nlb-h3-margin-bottom-lg, $nlb-h3-font-family, $nlb-h3-font-size-lg, $nlb-h3-font-size-lead-lg);
+    }
+    h4 {
+        @include nlb-set-header-font($nlb-h4-margin-bottom-lg, $nlb-h4-font-family, $nlb-h4-font-size-lg, $nlb-h4-font-size-lead-lg);
+    }
+    h5 {
+        @include nlb-set-header-font($nlb-h5-margin-bottom-lg, $nlb-h5-font-family, $nlb-h5-font-size-lg, $nlb-h5-font-size-lead-lg);
+    }
+    h6 {
+        @include nlb-set-header-font($nlb-h6-margin-bottom-lg, $nlb-h6-font-family, $nlb-h6-font-size-lg, $nlb-h6-font-size-lead-lg);
+    }
+    p {
+        @include nlb-set-paragraph-font($nlb-p-margin-bottom-lg, $nlb-p-font-size-lg, $nlb-p-font-size-lead-lg);
+    }
 }

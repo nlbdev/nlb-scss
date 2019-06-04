@@ -796,12 +796,12 @@ Fragment IDs might be arbitrary (but unique) strings.
 							var j = document.getElementById("night_mode").innerHTML;
 							if ( j === "Nattmodus" )
 							{
-								document.body.style.backgroundColor = '#f4f3f3';								
+								//document.body.style.backgroundColor = '#f4f3f3';								
 								document.getElementById('expand_image').src="expand.svg";
 							}
 							else
 							{
-								document.body.style.backgroundColor = '#212d39';								
+								//document.body.style.backgroundColor = '#212d39';								
 								document.getElementById('expand_image').src="expand_white.svg";
 							}
 						} 
@@ -816,7 +816,7 @@ Fragment IDs might be arbitrary (but unique) strings.
 							percentage.style.display = "none";							
 							document.getElementById('expand_image').src="close.svg";							
 							var x = document.getElementById("night_mode").innerHTML;
-							document.body.style.backgroundColor = '#212d39';
+							//document.body.style.backgroundColor = '#212d39';
 						}
           }
           
@@ -829,6 +829,7 @@ Fragment IDs might be arbitrary (but unique) strings.
 		
                   if ( x === "Nattmodus" )
                     {
+                      document.body.classList.add('theme__dark');	
                       document.getElementById("toc_container").classList.add('theme__dark');					   
                       document.getElementById("content").classList.add('theme__dark');
                       document.getElementById("page-list").classList.add('theme__dark');
@@ -836,12 +837,12 @@ Fragment IDs might be arbitrary (but unique) strings.
                       document.getElementById("night_mode").innerHTML = "Dagmodus";
 					  document.getElementById('logo').src='logo_white.svg';
 					  document.getElementById('modus_knapp').style.backgroundImage="url('sun.svg')";					 
-                      document.body.style.backgroundColor = '#212d39';
+                      //document.body.style.backgroundColor = '#212d39';
 					  
 					  
-					   document.getElementById("toc_container").style.borderColor = '#2b3a48';
-					   document.getElementById("content").style.borderColor = '#2b3a48';
-					   document.getElementById("page-list").style.borderColor = '#2b3a48';
+					   //document.getElementById("toc_container").style.borderColor = '#2b3a48';
+					   //document.getElementById("content").style.borderColor = '#2b3a48';
+					   //document.getElementById("page-list").style.borderColor = '#2b3a48';
 
 						if (toc_mode.style.display === "none") 
 						{
@@ -854,6 +855,7 @@ Fragment IDs might be arbitrary (but unique) strings.
                     }
                     else 
                     {
+                      document.body.classList.remove('theme__dark');	
                       document.getElementById("toc_container").classList.remove('theme__dark');
                       document.getElementById("content").classList.remove('theme__dark');
                       document.getElementById("page-list").classList.remove('theme__dark');
@@ -863,9 +865,9 @@ Fragment IDs might be arbitrary (but unique) strings.
 					  document.getElementById('modus_knapp').style.backgroundImage="url('moon.svg')";	
 
 
-						document.getElementById("toc_container").style.borderColor = '#f9f9f9';
-					   document.getElementById("content").style.borderColor = '#f9f9f9';
-					   document.getElementById("page-list").style.borderColor = '#f9f9f9';
+						//document.getElementById("toc_container").style.borderColor = '#f9f9f9';
+					   //document.getElementById("content").style.borderColor = '#f9f9f9';
+					   //document.getElementById("page-list").style.borderColor = '#f9f9f9';
                      
 					  
 					    if (toc_mode.style.display === "none") 
@@ -875,7 +877,7 @@ Fragment IDs might be arbitrary (but unique) strings.
 						else
 						{
 								document.getElementById('expand_image').src="expand.svg";
-								document.body.style.backgroundColor = '#f4f3f3';
+								//document.body.style.backgroundColor = '#f4f3f3';
 						}
                     }
             }

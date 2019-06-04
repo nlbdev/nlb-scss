@@ -12,7 +12,6 @@
 
 @import "core";
 
-.sidetall,
 .page-normal, 
 .page-special, 
 .page-front {
@@ -31,4 +30,28 @@
     p {
         @extend .my-0;
     }
+}
+
+span.sentence, 
+span.lic, 
+span.page-normal, 
+span.page-special, 
+span.page-front, 
+h1, h2, h3, h4, h5, h6, 
+div.doctitle, 
+div.docauthor,
+div.imggroup div.caption, 
+table tr td,
+ul,
+p {
+    a {
+        @extend .bg-light, .text-dark;
+    }
+    a:hover {
+        text-decoration: none;
+    }
+}
+
+ul.plain {
+    list-style-type: none;
 }

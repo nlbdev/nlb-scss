@@ -1,0 +1,18 @@
+body.theme__dark {
+    @extend .bg-night, .text-light;
+
+    span.sentence {
+        @extend .text-light;
+    }
+    .generisk-ramme {
+        @extend .text-light;
+        background-color: darken($frame-bg, 65%);
+        border: 1px solid $frame-line;
+    }
+
+    table {
+        @extend .table-responsive;
+
+        background-color: inherit;
+    }
+}

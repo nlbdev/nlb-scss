@@ -18,8 +18,9 @@ $gray-900: #212529 !default;
 $black:    #000 !default;
 
 $nlb-green: #B1C900;
-$nlb-gray: #262626;
-$nlb-black: $black;
+$nlb-black: #23313f;
+$frame-bg: #e4f0da;
+$frame-line: $nlb-green;
 
 $grays: () !default;
 // stylelint-disable-next-line scss/dollar-variable-default
@@ -53,19 +54,8 @@ $colors: () !default;
 // stylelint-disable-next-line scss/dollar-variable-default
 $colors: map-merge(
   (
-    "blue":       $blue,
-    "indigo":     $indigo,
-    "purple":     $purple,
-    "pink":       $pink,
-    "red":        $red,
-    "orange":     $orange,
-    "yellow":     $yellow,
-    "green":      $green,
-    "teal":       $teal,
-    "cyan":       $cyan,
-    "white":      $white,
-    "gray":       $gray-600,
-    "gray-dark":  $gray-800
+    "nlb":        $nlb-green,
+    "frame":      $frame-bg
   ),
   $colors
 );
@@ -77,7 +67,7 @@ $info:          $cyan !default;
 $warning:       $yellow !default;
 $danger:        $red !default;
 $light:         $gray-100 !default;
-$dark:          $gray-800 !default;
+$dark:          $nlb-black !default;
 
 $theme-colors: () !default;
 // stylelint-disable-next-line scss/dollar-variable-default
@@ -90,7 +80,8 @@ $theme-colors: map-merge(
     "warning":    $warning,
     "danger":     $danger,
     "light":      $light,
-    "dark":       $dark
+    "dark":       $dark,
+    "night":      $dark
   ),
   $theme-colors
 );
@@ -194,9 +185,9 @@ $paragraph-margin-bottom:   1rem !default;
 
 $grid-breakpoints: (
   xs: 0,
-  sm: 576px,
+  sm: 640px,
   md: 768px,
-  lg: 992px,
+  lg: 1024px,
   xl: 1200px
 ) !default;
 
@@ -209,10 +200,10 @@ $grid-breakpoints: (
 // Define the maximum width of `.container` for different screen sizes.
 
 $container-max-widths: (
-  sm: 540px,
-  md: 720px,
-  lg: 960px,
-  xl: 1140px
+  sm: 600px,
+  md: 678px,
+  lg: 884px,
+  xl: 1060px
 ) !default;
 
 @include _assert-ascending($container-max-widths, "$container-max-widths");
@@ -274,8 +265,8 @@ $embed-responsive-aspect-ratios: join(
 // Font, line-height, and color for body text, headings, and more.
 
 // stylelint-disable value-keyword-case
-$font-family-sans-serif:      -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
-$font-family-monospace:       SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
+$font-family-sans-serif:      Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+$font-family-monospace:       SFMono-Regular, "Courier New", monospace !default;
 $font-family-base:            $font-family-sans-serif !default;
 // stylelint-enable value-keyword-case
 
@@ -298,6 +289,84 @@ $h3-font-size:                $font-size-base * 1.75 !default;
 $h4-font-size:                $font-size-base * 1.5 !default;
 $h5-font-size:                $font-size-base * 1.25 !default;
 $h6-font-size:                $font-size-base !default;
+
+$nlb-h1-font-size-lg:         36px;
+$nlb-h1-font-size-lead-lg:    40px;
+$nlb-h2-font-size-lg:         32px;
+$nlb-h2-font-size-lead-lg:    36px;
+$nlb-h3-font-size-lg:         28px;
+$nlb-h3-font-size-lead-lg:    32px;
+$nlb-h4-font-size-lg:         22px;
+$nlb-h4-font-size-lead-lg:    26px;
+$nlb-h5-font-size-lg:         22px;
+$nlb-h5-font-size-lead-lg:    26px;
+$nlb-h6-font-size-lg:         18px;
+$nlb-h6-font-size-lead-lg:    24px;
+$nlb-p-font-size-lg:          18px;
+$nlb-p-font-size-lead-lg:     27px;
+
+$nlb-md-modifier:             0.8;
+$nlb-h1-font-size-md:         $nlb-h1-font-size-lg * $nlb-md-modifier;
+$nlb-h1-font-size-lead-md:    $nlb-h1-font-size-lead-lg * $nlb-md-modifier;
+$nlb-h2-font-size-md:         $nlb-h2-font-size-lg * $nlb-md-modifier;
+$nlb-h2-font-size-lead-md:    $nlb-h2-font-size-lead-lg * $nlb-md-modifier;
+$nlb-h3-font-size-md:         $nlb-h3-font-size-lg * $nlb-md-modifier;
+$nlb-h3-font-size-lead-md:    $nlb-h3-font-size-lead-lg * $nlb-md-modifier;
+$nlb-h4-font-size-md:         $nlb-h4-font-size-lg * $nlb-md-modifier;
+$nlb-h4-font-size-lead-md:    $nlb-h4-font-size-lead-lg * $nlb-md-modifier;
+$nlb-h5-font-size-md:         $nlb-h5-font-size-lg * $nlb-md-modifier;
+$nlb-h5-font-size-lead-md:    $nlb-h5-font-size-lead-lg * $nlb-md-modifier;
+$nlb-h6-font-size-md:         $nlb-h6-font-size-lg * $nlb-md-modifier;
+$nlb-h6-font-size-lead-md:    $nlb-h6-font-size-lead-lg * $nlb-md-modifier;
+$nlb-p-font-size-md:          $nlb-p-font-size-lg * $nlb-md-modifier;
+$nlb-p-font-size-lead-md:     $nlb-p-font-size-lead-lg * $nlb-md-modifier;
+
+$nlb-sm-modifier:             1.2;
+$nlb-h1-font-size-sm:         $nlb-h1-font-size-md * $nlb-sm-modifier;
+$nlb-h1-font-size-lead-sm:    $nlb-h1-font-size-lead-md * $nlb-sm-modifier;
+$nlb-h2-font-size-sm:         $nlb-h2-font-size-md * $nlb-sm-modifier;
+$nlb-h2-font-size-lead-sm:    $nlb-h2-font-size-lead-md * $nlb-sm-modifier;
+$nlb-h3-font-size-sm:         $nlb-h3-font-size-md * $nlb-sm-modifier;
+$nlb-h3-font-size-lead-sm:    $nlb-h3-font-size-lead-md * $nlb-sm-modifier;
+$nlb-h4-font-size-sm:         $nlb-h4-font-size-md * $nlb-sm-modifier;
+$nlb-h4-font-size-lead-sm:    $nlb-h4-font-size-lead-md * $nlb-sm-modifier;
+$nlb-h5-font-size-sm:         $nlb-h5-font-size-md * $nlb-sm-modifier;
+$nlb-h5-font-size-lead-sm:    $nlb-h5-font-size-lead-md * $nlb-sm-modifier;
+$nlb-h6-font-size-sm:         $nlb-h6-font-size-md * $nlb-sm-modifier;
+$nlb-h6-font-size-lead-sm:    $nlb-h6-font-size-lead-md * $nlb-sm-modifier;
+$nlb-p-font-size-sm:          $nlb-p-font-size-md * $nlb-sm-modifier;
+$nlb-p-font-size-lead-sm:     $nlb-p-font-size-lead-md * $nlb-sm-modifier;
+
+$nlb-h1-margin-bottom-sm:     20px;
+$nlb-h2-margin-bottom-sm:     20px;
+$nlb-h3-margin-bottom-sm:     17px;
+$nlb-h4-margin-bottom-sm:     14px;
+$nlb-h5-margin-bottom-sm:     14px;
+$nlb-h6-margin-bottom-sm:     13px;
+$nlb-p-margin-bottom-sm:      30px;
+
+$nlb-h1-margin-bottom-md:     30px;
+$nlb-h2-margin-bottom-md:     25px;
+$nlb-h3-margin-bottom-md:     20px;
+$nlb-h4-margin-bottom-md:     15px;
+$nlb-h5-margin-bottom-md:     15px;
+$nlb-h6-margin-bottom-md:     15px;
+$nlb-p-margin-bottom-md:      36px;
+
+$nlb-h1-margin-bottom-lg:     40px;
+$nlb-h2-margin-bottom-lg:     30px;
+$nlb-h3-margin-bottom-lg:     25px;
+$nlb-h4-margin-bottom-lg:     20px;
+$nlb-h5-margin-bottom-lg:     20px;
+$nlb-h6-margin-bottom-lg:     20px;
+$nlb-p-margin-bottom-lg:      45px;
+
+$nlb-h1-font-family:          "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+$nlb-h2-font-family:          "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+$nlb-h3-font-family:          $nlb-h2-font-family !default;
+$nlb-h4-font-family:          $nlb-h1-font-family !default;
+$nlb-h5-font-family:          $nlb-h2-font-family !default;
+$nlb-h6-font-family:          $nlb-h1-font-family !default;
 
 $headings-margin-bottom:      $spacer / 2 !default;
 $headings-font-family:        null !default;
