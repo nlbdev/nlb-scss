@@ -18,9 +18,28 @@ $gray-900: #212529 !default;
 $black:    #000 !default;
 
 $nlb-green: #B1C900;
-$nlb-black: #23313f;
-$frame-bg: #e4f0da;
-$frame-line: $nlb-green;
+$nlb-black: #212d39;
+$frame-default-bg: #e4f0da;
+$frame-default-line: $nlb-green;
+$frame-red-bg: #f0dae4;
+$frame-blue-bg: #dae4f0;
+$frame-yellow-bg: #eff0da;
+$frame-night-default-bg: #2b3a48;
+$frame-night-default-line: #bcbec0;
+$frame-night-red-bg: #482b3a;
+$frame-night-blue-bg: #486178;
+$frame-night-yellow-bg: #48392b;
+$frame-night-green-bg: #2b4839;
+$table-default-line: #90989f;
+$table-default-text: #22313f;
+$table-default-thead-bg: $frame-default-bg;
+$table-night-line: $frame-night-default-line;
+$table-night-text: $white;
+$table-night-thead-bg: #141f29;
+$table-night-cells-bg: $frame-night-default-bg;
+$scrollbar-default-marker: $nlb-green;
+$scrollbar-night-marker: $nlb-green;
+$scrollbar-night-bg: $frame-night-default-bg;
 
 $grays: () !default;
 // stylelint-disable-next-line scss/dollar-variable-default
@@ -55,7 +74,7 @@ $colors: () !default;
 $colors: map-merge(
   (
     "nlb":        $nlb-green,
-    "frame":      $frame-bg
+    "frame":      $frame-default-bg
   ),
   $colors
 );
@@ -200,6 +219,7 @@ $grid-breakpoints: (
 // Define the maximum width of `.container` for different screen sizes.
 
 $container-max-widths: (
+  xs: 320px,
   sm: 600px,
   md: 678px,
   lg: 884px,
@@ -225,7 +245,7 @@ $line-height-lg:              1.5 !default;
 $line-height-sm:              1.5 !default;
 
 $border-width:                1px !default;
-$border-color:                $gray-300 !default;
+$border-color:                $table-default-line !default;
 
 $border-radius:               .25rem !default;
 $border-radius-lg:            .3rem !default;
@@ -265,7 +285,7 @@ $embed-responsive-aspect-ratios: join(
 // Font, line-height, and color for body text, headings, and more.
 
 // stylelint-disable value-keyword-case
-$font-family-sans-serif:      Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+$font-family-sans-serif:      Arial, sans-serif !default;
 $font-family-monospace:       SFMono-Regular, "Courier New", monospace !default;
 $font-family-base:            $font-family-sans-serif !default;
 // stylelint-enable value-keyword-case

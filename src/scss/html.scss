@@ -1,57 +1,43 @@
-// Imports
-@import "bootstrap/functions";
-@import "variables";
-@import "bootstrap/mixins";
-@import "bootstrap/root";
-@import "bootstrap/reboot";
-@import "bootstrap/utilities";
-@import "bootstrap/type";
-@import "bootstrap/grid";
-@import "bootstrap/images";
-@import "bootstrap/tables";
+@charset "UTF-8";
 
 @import "core";
 
-.page-normal, 
-.page-special, 
-.page-front {
-    @extend .border-top, .d-none, .d-sm-block, .mr-3, .pt-3, .mt-5, .mb-4, .text-right;
-
-    display: block;
-    font-weight: bold;
-    page-break-before: always;
-}
-
-.colophon, [*|type="colophon"] {
-    .precedingemptyline {
-        margin-top: $line-height-sm+rem !important;
+/* Begin Html.SCSS */
+body {
+    @extend #content;
+    
+    .colophon, [*|type="colophon"] {
+        .precedingemptyline {
+            margin-top: $line-height-sm+rem !important;
+        }
+    
+        p {
+            @extend .my-0;
+        }
     }
-
+    
+    span.sentence, 
+    span.lic, 
+    span.page-normal, 
+    span.page-special, 
+    span.page-front, 
+    h1, h2, h3, h4, h5, h6, 
+    div.doctitle, 
+    div.docauthor,
+    div.imggroup div.caption, 
+    table tr td,
+    ul,
     p {
-        @extend .my-0;
+        a {
+            @extend .bg-light, .text-dark;
+        }
+        a:hover {
+            text-decoration: none;
+        }
+    }
+    
+    ul.plain {
+        list-style-type: none;
     }
 }
-
-span.sentence, 
-span.lic, 
-span.page-normal, 
-span.page-special, 
-span.page-front, 
-h1, h2, h3, h4, h5, h6, 
-div.doctitle, 
-div.docauthor,
-div.imggroup div.caption, 
-table tr td,
-ul,
-p {
-    a {
-        @extend .bg-light, .text-dark;
-    }
-    a:hover {
-        text-decoration: none;
-    }
-}
-
-ul.plain {
-    list-style-type: none;
-}
+/* End Html.SCSS */

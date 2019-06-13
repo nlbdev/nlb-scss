@@ -1,47 +1,31 @@
-// Imports
-@import "bootstrap/functions";
-@import "variables";
-@import "bootstrap/mixins";
-@import "bootstrap/root";
-@import "bootstrap/reboot";
-@import "bootstrap/utilities";
-@import "bootstrap/type";
-@import "bootstrap/grid";
-@import "bootstrap/images";
-@import "bootstrap/tables";
+@charset "UTF-8";
 
 @import "core";
 
-.page-normal, 
-.page-special, 
-.page-front {
-    @extend .border-top, .d-none, .d-sm-block, .mr-3, .pt-3, .mt-5, .mb-4, .text-right;
+/* Begin Ebok.SCSS */
+body {
+    @extend #content;
 
-    display: block;
-    font-weight: bold;
-    page-break-before: always;
-}
-
-ul.plain {
-    list-style-type: none;
-}
-#toc-html {
-    a {
-        color: $black;
+    #toc-html {
+        a {
+            color: $black;
+        }
+    }
+    
+    .preface, .colophon, [*|type="colophon"] {
+        .precedingemptyline {
+            margin-top: $line-height-sm+rem !important;
+        }
+        p {
+            @extend .my-0;
+        }
+    }
+    
+    .part {
+        p strong {
+            @extend .lead;
+        }
     }
 }
 
-.preface, .colophon, [*|type="colophon"] {
-    .precedingemptyline {
-        margin-top: $line-height-sm+rem !important;
-    }
-    p {
-        @extend .my-0;
-    }
-}
-
-.part {
-    p strong {
-        @extend .lead;
-    }
-}
+/* End Ebok.SCSS */

@@ -487,8 +487,8 @@ Fragment IDs might be arbitrary (but unique) strings.
       var rb_smil_emulator = window.rb_smil_emulator;
       var audio = rb_smil_emulator.audio;
       audio.pause();
-      document.getElementById('play_button_text').innerText = 'Start';
-	  document.getElementById('play_button').style.backgroundImage="url('play.svg')";
+      //document.getElementById('play_button_text').innerText = 'Start';
+	  //document.getElementById('play_button').style.backgroundImage="url('play.svg')";
 	  
 	  /*
 	  var activeClassName = document.getElementById("book_header").className;
@@ -705,12 +705,12 @@ Fragment IDs might be arbitrary (but unique) strings.
 			var p = document.getElementById("pbr");
 			var c = document.getElementById("currentPbr");
 			
-			c.innerHTML = 'Avspillingshastighet: '+p.value;
+			//c.innerHTML = 'Avspillingshastighet: '+p.value;
 
-			p.addEventListener('input',function(){
-			c.innerHTML = 'Avspillingshastighet: '+p.value;
+			//p.addEventListener('input',function(){
+			//c.innerHTML = 'Avspillingshastighet: '+p.value;
 			//v.playbackRate = p.value;
-			},false);
+			//},false);
 
 
 
@@ -835,8 +835,8 @@ Fragment IDs might be arbitrary (but unique) strings.
                       document.getElementById("page-list").classList.add('theme__dark');
                       document.getElementById("book_header").classList.add('theme__dark');					 
                       document.getElementById("night_mode").innerHTML = "Dagmodus";
-					  document.getElementById('logo').src='logo_white.svg';
-					  document.getElementById('modus_knapp').style.backgroundImage="url('sun.svg')";					 
+					  //document.getElementById('logo').src='logo_white.svg';
+					  //document.getElementById('modus_knapp').style.backgroundImage="url('sun.svg')";					 
                       //document.body.style.backgroundColor = '#212d39';
 					  
 					  
@@ -861,7 +861,7 @@ Fragment IDs might be arbitrary (but unique) strings.
                       document.getElementById("page-list").classList.remove('theme__dark');
                       document.getElementById("book_header").classList.remove('theme__dark');
                       document.getElementById("night_mode").innerHTML = "Nattmodus";
-					  document.getElementById('logo').src='logo.svg';
+					  //document.getElementById('logo').src='logo.svg';
 					  document.getElementById('modus_knapp').style.backgroundImage="url('moon.svg')";	
 
 

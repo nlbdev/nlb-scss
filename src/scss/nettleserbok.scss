@@ -1,70 +1,71 @@
-// Imports
-@import "bootstrap/functions";
-@import "variables";
-@import "bootstrap/mixins";
-@import "bootstrap/root";
-@import "bootstrap/reboot";
-@import "bootstrap/utilities";
-@import "bootstrap/type";
-@import "bootstrap/grid";
-@import "bootstrap/images";
-@import "bootstrap/tables";
+@charset "UTF-8";
 
 @import "core";
 @import "darktheme";
 
-.page-normal, 
-.page-special, 
-.page-front {
-    @extend .border-top, .d-none, .d-sm-block, .pt-3, .mt-5, .mb-4, .text-right;
-
-    display: block;
-    font-weight: bold;
-    page-break-before: always;
-}
-
-div.produsent {
-    @extend .blockquote;
-}
-
-@media all and (max-width: 639px) {
+/* Begin Nettleserbok.SCSS */
+body {
+    div.produsent {
+        @extend .blockquote;
+    }
     .start-info {
         margin-bottom: $nlb-p-margin-bottom-sm;
+    
+        @include media-breakpoint-only('sm') {
+            margin-bottom: $nlb-p-margin-bottom-md;
+        }
+    
+        @include media-breakpoint-up('md') {
+            margin-bottom: $nlb-p-margin-bottom-lg;
+        }
+    
     }
     .oppgaver {
         .oppgaver-li-oppgavetekst {
             margin-bottom: $nlb-p-margin-bottom-sm;
+    
+            @include media-breakpoint-only('sm') {
+                margin-bottom: $nlb-p-margin-bottom-md;
+            }
+    
+            @include media-breakpoint-up('md') {
+                font-size: $nlb-p-font-size-lg;
+            }
         }
         .sentence {
             font-size: $nlb-p-font-size-sm;
+    
+            @include media-breakpoint-only('sm') {
+                margin-bottom: $nlb-p-margin-bottom-md;
+            }
+        
+            @include media-breakpoint-up('md') {
+                font-size: $nlb-p-font-size-lg;
+            }
         }
+        .underoppgaver {
+            @extend .oppgaver;
+    
+            margin-left: 18px;
+    
+            @include media-breakpoint-only('sm') {
+                margin-left: 20px;
+            }
+        
+            @include media-breakpoint-up('md') {
+                margin-left: 25px;
+            }
+    
+            .underoppgaver-li-oppgavetekst {
+                @extend .oppgaver-li-oppgavetekst;
+            }
+        }
+    }
+
+    nav#toc_container {
+        overflow-x: hidden;
+        max-width: 100%;
     }
 }
 
-@media all and (min-width: 640px) and (max-width: 767px) {
-    .start-info {
-        margin-bottom: $nlb-p-margin-bottom-md;
-    }
-    .oppgaver {
-        .oppgaver-li-oppgavetekst {
-            margin-bottom: $nlb-p-margin-bottom-md;
-        }
-        .sentence {
-            font-size: $nlb-p-font-size-md;
-        }
-    }
-}
-
-@media all and (min-width: 768px) {
-    .start-info {
-        margin-bottom: $nlb-p-margin-bottom-lg;
-    }
-    .oppgaver {
-        .oppgaver-li-oppgavetekst {
-            margin-bottom: $nlb-p-margin-bottom-lg;
-        }
-        .sentence {
-            font-size: $nlb-p-font-size-lg;
-        }
-    }
-}
+/* End Nettleserbok.SCSS */

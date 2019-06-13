@@ -1,0 +1,56 @@
+@mixin nlb-set-header-font($margin-bottom, $font-family, $font-size, $font-size-lead) {
+    font-weight: bold;
+    margin-bottom: $margin-bottom;
+    font-size: $font-size;
+    font-family: $font-family;
+
+    .lead {
+        font-size: $font-size-lead;
+    }
+}
+@mixin nlb-set-paragraph-font($margin-bottom, $font-size, $font-size-lead) {
+    margin-bottom: $margin-bottom;
+    font-size: $font-size;
+    font-family: $font-family-base;
+    zoom: 1;
+
+    &.lead {
+        font-size: $font-size-lead;
+    }
+
+    @include media-breakpoint-only('xs') {
+        word-break: break-word;
+    }
+}
+@mixin nlb-default-frame() {
+    @include nlb-color($frame-default-bg, $frame-default-line, $dark);
+    @include nlb-frame();
+}
+@mixin nlb-dark-frame() {
+    @include nlb-color($frame-night-default-bg, $frame-night-default-line, $white);
+    @include nlb-frame();
+}
+@mixin nlb-frame() {
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 30px;
+
+    .sentence {
+        color: inherit !important;
+    }
+
+    @include media-breakpoint-only('sm') {
+        padding: 30px;
+        margin-bottom: 36px;
+    }
+
+    @include media-breakpoint-up('md') {
+        padding: 35px;
+        margin-bottom: 45px;
+    }
+}
+@mixin nlb-color($bg-color, $line-color, $text-color) {
+    color: $text-color !important;
+    background-color: $bg-color !important;
+    border: 1px solid $line-color !important;
+}

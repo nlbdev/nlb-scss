@@ -1,0 +1,374 @@
+@charset "UTF-8";
+/* Begin Core.SCSS */
+
+/* Imports
+ * ---------------------------------------------------------- */
+@import "normalize";
+@import "bootstrap/functions";
+@import "variables";
+@import "bootstrap/mixins";
+@import "bootstrap/root";
+@import "bootstrap/reboot";
+@import "bootstrap/utilities";
+@import "bootstrap/type";
+@import "bootstrap/grid";
+@import "bootstrap/images";
+@import "bootstrap/tables";
+@import "mixins";
+
+/* General styles
+ * ---------------------------------------------------------- */
+$height: $spacer;
+
+body {
+    @extend .bg-light, .text-dark;
+    overflow-x: hidden;
+}
+#content {
+    @include make-container();
+    max-width: 100%;
+
+    @include media-breakpoint-only('xs') {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    @include media-breakpoint-only('sm') {
+        padding-right: 45px;
+        padding-left: 45px;
+    }
+
+    @include media-breakpoint-only('md') {
+        padding-right: 70px;
+        padding-left: 70px;
+    }
+
+    @include media-breakpoint-up('lg') {
+        padding-right: 70px;
+        padding-left: 70px;
+    }
+
+    .prodnote, .optional-prodnote, .prodnote-optional {
+        @extend .sr-only;
+    }
+    
+    .noteref {
+        vertical-align: super;
+        font-size: 0.6em;
+    }
+    .rearnotes {
+        .notebody {
+            p {
+                display: block;
+                padding: 15px 20px;
+                border-top: 1px solid $nlb-green;
+                margin-bottom: 0;
+            }
+        }
+    }
+    
+    /* Paging
+     * ---------------------------------------------------------- */
+    .sidetall {
+        @include clearfix();
+    
+        display: inline-block;
+        width: 100%;
+    }
+    
+    .page-normal, 
+    .page-special, 
+    .page-front {
+        @extend .border-top, .d-none, .d-sm-block, .pt-3, .mt-5, .mb-4, .text-right;
+    
+        font-weight: bold;
+        page-break-before: always;
+    }
+    
+    /* Typography
+     * ---------------------------------------------------------- */
+    strong {
+        font-weight: bold;
+    }
+    
+    blockquote {
+        @extend p, .blockquote;
+    }
+    
+    h1, h1.title {
+        @include nlb-set-header-font($nlb-h1-margin-bottom-sm, $nlb-h1-font-family, $nlb-h1-font-size-sm, $nlb-h1-font-size-lead-sm);
+    
+        @include media-breakpoint-only('md') {
+            @include nlb-set-header-font($nlb-h1-margin-bottom-md, $nlb-h1-font-family, $nlb-h1-font-size-md, $nlb-h1-font-size-lead-md);
+        }
+    
+        @include media-breakpoint-up('lg') {
+            @include nlb-set-header-font($nlb-h1-margin-bottom-lg, $nlb-h1-font-family, $nlb-h1-font-size-lg, $nlb-h1-font-size-lead-lg);
+        }
+    }
+    h2 {
+        @include nlb-set-header-font($nlb-h2-margin-bottom-sm, $nlb-h2-font-family, $nlb-h2-font-size-sm, $nlb-h2-font-size-lead-sm);
+    
+        @include media-breakpoint-only('md') {
+            @include nlb-set-header-font($nlb-h2-margin-bottom-md, $nlb-h2-font-family, $nlb-h2-font-size-md, $nlb-h2-font-size-lead-md);
+        }
+    
+        @include media-breakpoint-up('lg') {
+            @include nlb-set-header-font($nlb-h2-margin-bottom-lg, $nlb-h2-font-family, $nlb-h2-font-size-lg, $nlb-h2-font-size-lead-lg);
+        }
+    }
+    h3 {
+        @include nlb-set-header-font($nlb-h3-margin-bottom-sm, $nlb-h3-font-family, $nlb-h3-font-size-sm, $nlb-h3-font-size-lead-sm);
+    
+        @include media-breakpoint-only('md') {
+            @include nlb-set-header-font($nlb-h3-margin-bottom-md, $nlb-h3-font-family, $nlb-h3-font-size-md, $nlb-h3-font-size-lead-md);
+        }
+    
+        @include media-breakpoint-up('lg') {
+            @include nlb-set-header-font($nlb-h3-margin-bottom-lg, $nlb-h3-font-family, $nlb-h3-font-size-lg, $nlb-h3-font-size-lead-lg);
+        }
+    }
+    h4 {
+        @include nlb-set-header-font($nlb-h4-margin-bottom-sm, $nlb-h4-font-family, $nlb-h4-font-size-sm, $nlb-h4-font-size-lead-sm);
+    
+        @include media-breakpoint-only('md') {
+            @include nlb-set-header-font($nlb-h4-margin-bottom-md, $nlb-h4-font-family, $nlb-h4-font-size-md, $nlb-h4-font-size-lead-md);
+        }
+    
+        @include media-breakpoint-up('lg') {
+            @include nlb-set-header-font($nlb-h4-margin-bottom-lg, $nlb-h4-font-family, $nlb-h4-font-size-lg, $nlb-h4-font-size-lead-lg);
+        }
+    }
+    h5 {
+        @include nlb-set-header-font($nlb-h5-margin-bottom-sm, $nlb-h5-font-family, $nlb-h5-font-size-sm, $nlb-h5-font-size-lead-sm);
+    
+        @include media-breakpoint-only('md') {
+            @include nlb-set-header-font($nlb-h5-margin-bottom-md, $nlb-h5-font-family, $nlb-h5-font-size-md, $nlb-h5-font-size-lead-md);
+        }
+    
+        @include media-breakpoint-up('lg') {
+            @include nlb-set-header-font($nlb-h5-margin-bottom-lg, $nlb-h5-font-family, $nlb-h5-font-size-lg, $nlb-h5-font-size-lead-lg);
+        }
+    }
+    h6 {
+        @include nlb-set-header-font($nlb-h6-margin-bottom-sm, $nlb-h6-font-family, $nlb-h6-font-size-sm, $nlb-h6-font-size-lead-sm);
+    
+        @include media-breakpoint-only('md') {
+            @include nlb-set-header-font($nlb-h6-margin-bottom-md, $nlb-h6-font-family, $nlb-h6-font-size-md, $nlb-h6-font-size-lead-md);
+        }
+    
+        @include media-breakpoint-up('lg') {
+            @include nlb-set-header-font($nlb-h6-margin-bottom-lg, $nlb-h6-font-family, $nlb-h6-font-size-lg, $nlb-h6-font-size-lead-lg);
+        }
+    }
+    p, .line {
+        @include nlb-set-paragraph-font($nlb-p-margin-bottom-sm, $nlb-p-font-size-sm, $nlb-p-font-size-lead-sm);
+    
+        @include media-breakpoint-only('md') {
+            @include nlb-set-paragraph-font($nlb-p-margin-bottom-md, $nlb-p-font-size-md, $nlb-p-font-size-lead-md);
+        }
+    
+        @include media-breakpoint-up('lg') {
+            @include nlb-set-paragraph-font($nlb-p-margin-bottom-lg, $nlb-p-font-size-lg, $nlb-p-font-size-lead-lg);
+        }
+    }
+    
+    /* Images
+     * ---------------------------------------------------------- */
+    img {
+        @extend .img-fluid, .rounded;
+        margin-bottom: $height !important;
+    }
+    
+    figure, .imggroup {
+        @extend .figure, .text-center;
+        width: 100%;
+        margin-bottom: 30px;
+    
+        @include media-breakpoint-only('sm') {
+            margin-bottom: 36px;
+        }
+    
+        @include media-breakpoint-up('md') {
+            margin-bottom: 45px;
+        }
+    
+        img {
+            @extend .figure-img, .img-fluid, .rounded, .mx-auto, .d-block;
+            max-width: 100%;
+    
+            @include media-breakpoint-up('md') {
+                max-width: 70%;
+            }
+        }
+    
+        figcaption, .caption {
+            @extend .figure-caption;
+            color: $dark;
+            min-height: 15px;
+            margin-top: 15px;
+    
+            @include media-breakpoint-only('sm') {
+                margin-top: 20px;
+            }
+        
+            @include media-breakpoint-up('md') {
+                min-height: 25px;
+            }
+        }
+    }
+    
+    table {
+        @extend .table, .table-bordered, .table-responsive;
+        color: $table-default-text;
+        scrollbar-color: $scrollbar-default-marker;
+        scrollbar-base-color: $white;
+        
+        thead, tbody, tfoot {
+            width: 100%;
+        }
+    
+        thead {
+            @extend .thead-light;
+        }
+
+        tr th {
+            @extend h6;
+        }
+
+        tr td {
+            @include nlb-set-paragraph-font($nlb-p-margin-bottom-sm, $nlb-p-font-size-sm, $nlb-p-font-size-lead-sm);
+            margin: 12px;
+            word-break: normal !important;
+        
+            @include media-breakpoint-only('sm') {
+                @include nlb-set-paragraph-font($nlb-p-margin-bottom-md, $nlb-p-font-size-md, $nlb-p-font-size-lead-md);
+                margin: 15px;
+            }
+        
+            @include media-breakpoint-up('md') {
+                @include nlb-set-paragraph-font($nlb-p-margin-bottom-lg, $nlb-p-font-size-lg, $nlb-p-font-size-lead-lg);
+                margin: 20px;
+            }
+        }
+
+        caption {
+            @extend .figure-caption;
+            color: $dark;
+            margin: 12px;
+            @include nlb-set-paragraph-font($nlb-p-margin-bottom-sm, $nlb-p-font-size-sm, $nlb-p-font-size-lead-sm);
+        
+            @include media-breakpoint-only('sm') {
+                margin: 15px;
+                @include nlb-set-paragraph-font($nlb-p-margin-bottom-md, $nlb-p-font-size-md, $nlb-p-font-size-lead-md);
+            }
+        
+            @include media-breakpoint-up('md') {
+                margin: 20px;
+                @include nlb-set-paragraph-font($nlb-p-margin-bottom-lg, $nlb-p-font-size-lg, $nlb-p-font-size-lead-lg);
+            }
+        }
+
+        &.liste, &.imggroup {
+            @extend .table, .table-borderless, .table-responsive;
+            border: none !important;
+        
+            tr td {
+                font-size: $nlb-p-font-size-sm;
+    
+                @include media-breakpoint-only('sm') {
+                    font-size: $nlb-p-font-size-md;
+                }
+            
+                @include media-breakpoint-up('md') {
+                    font-size: $nlb-p-font-size-lg;
+                }
+            }
+        }
+    }
+    
+    /* Frames
+     * ---------------------------------------------------------- */
+    .generisk-ramme {
+        @include nlb-default-frame();
+    
+        @include media-breakpoint-only('xs') {
+            word-break: break-word;
+        }
+    }
+
+    .ramme {
+        @include nlb-frame();
+    
+        &.viktig {
+            @include nlb-color($frame-red-bg, darken($frame-red-bg, 35%), $dark);
+        }
+        
+        &.info {
+            @include nlb-color($frame-blue-bg, darken($frame-blue-bg, 35%), $dark);
+        }
+        
+        &.notat {
+            @include nlb-color($frame-yellow-bg, darken($frame-yellow-bg, 35%), $dark);
+        }
+    }
+    
+    /* Lists
+     * ---------------------------------------------------------- */
+    table.liste, ul, ol {
+        font-size: $nlb-p-font-size-sm;
+        margin-bottom: $nlb-p-margin-bottom-sm;
+        margin-left: 18px;
+
+        @include media-breakpoint-only('sm') {
+            font-size: $nlb-p-font-size-md;
+            margin-bottom: $nlb-p-margin-bottom-md;
+            margin-left: 20px;
+        }
+    
+        @include media-breakpoint-up('md') {
+            font-size: $nlb-p-font-size-lg;
+            margin-bottom: $nlb-p-margin-bottom-lg;
+            margin-left: 25px;
+        }
+
+        .listepunkt-punktmerke-innhold, li {
+            margin-bottom: 16px;
+            margin-left: 20px;
+
+            @include media-breakpoint-only('sm') {
+                margin-bottom: 20px;
+            }
+        
+            @include media-breakpoint-up('md') {
+                margin-bottom: 24px;
+            }
+        }
+    }
+    ul {
+        padding-inline-start: 0;
+
+        li {
+            margin-left: 0;
+        }
+
+        &.plain {
+            list-style-type: none;
+        }
+    }
+    .ordliste {
+        dl dt {
+            @include nlb-set-paragraph-font($nlb-p-margin-bottom-sm, $nlb-p-font-size-sm, $nlb-p-font-size-lead-sm);
+        
+            @include media-breakpoint-only('sm') {
+                @include nlb-set-paragraph-font($nlb-p-margin-bottom-md, $nlb-p-font-size-md, $nlb-p-font-size-lead-md);
+            }
+        
+            @include media-breakpoint-up('md') {
+                @include nlb-set-paragraph-font($nlb-p-margin-bottom-lg, $nlb-p-font-size-lg, $nlb-p-font-size-lead-lg);
+            }
+        }
+    }
+}
+
+/* End Core.SCSS */

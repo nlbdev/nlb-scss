@@ -1,0 +1,55 @@
+/* Begin DarkTheme.SCSS */
+
+ body.theme__dark {
+    @extend .bg-night, .text-light;
+ }
+
+#content.theme__dark {
+    @extend .bg-night, .text-light;
+    
+    span.sentence {
+        @extend .text-light;
+    }
+
+    /* Frames
+     * ---------------------------------------------------------- */
+    .generisk-ramme {
+        @include nlb-dark-frame();
+    }
+
+    .ramme {
+        @include nlb-dark-frame();
+    
+        &.viktig {
+            @include nlb-color($frame-night-red-bg, lighten($frame-night-red-bg, 35%), $white);
+        }
+        
+        &.info {
+            @include nlb-color($frame-night-blue-bg, lighten($frame-night-blue-bg, 35%), $white);
+        }
+        
+        &.notat {
+            @include nlb-color($frame-night-yellow-bg, lighten($frame-night-yellow-bg, 35%), $white);
+        }
+    }
+    
+    /* Tables
+     * ---------------------------------------------------------- */
+    table {
+        @extend .table-responsive, .bg-dark, .text-light;
+
+        ul {
+            padding-inline-start: 0;
+
+            li {
+                margin-left: 0;
+            }
+        }
+    
+        thead {
+            @extend .thead-dark;
+        }
+    }
+}
+
+/* End DarkTheme.SCSS */

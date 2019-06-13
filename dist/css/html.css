@@ -1,3 +1,311 @@
+/* Begin Core.SCSS */
+/* Imports
+ * ---------------------------------------------------------- */
+/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+/* Document
+   ========================================================================== */
+/**
+ * 1. Correct the line height in all browsers.
+ * 2. Prevent adjustments of font size after orientation changes in iOS.
+ */
+html {
+  line-height: 1.15;
+  /* 1 */
+  -webkit-text-size-adjust: 100%;
+  /* 2 */ }
+
+/* Sections
+   ========================================================================== */
+/**
+ * Remove the margin in all browsers.
+ */
+body {
+  margin: 0; }
+
+/**
+ * Render the `main` element consistently in IE.
+ */
+main {
+  display: block; }
+
+/**
+ * Correct the font size and margin on `h1` elements within `section` and
+ * `article` contexts in Chrome, Firefox, and Safari.
+ */
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0; }
+
+/* Grouping content
+   ========================================================================== */
+/**
+ * 1. Add the correct box sizing in Firefox.
+ * 2. Show the overflow in Edge and IE.
+ */
+hr {
+  box-sizing: content-box;
+  /* 1 */
+  height: 0;
+  /* 1 */
+  overflow: visible;
+  /* 2 */ }
+
+/**
+ * 1. Correct the inheritance and scaling of font size in all browsers.
+ * 2. Correct the odd `em` font sizing in all browsers.
+ */
+pre {
+  font-family: monospace, monospace;
+  /* 1 */
+  font-size: 1em;
+  /* 2 */ }
+
+/* Text-level semantics
+   ========================================================================== */
+/**
+ * Remove the gray background on active links in IE 10.
+ */
+a {
+  background-color: transparent; }
+
+/**
+ * 1. Remove the bottom border in Chrome 57-
+ * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
+ */
+abbr[title] {
+  border-bottom: none;
+  /* 1 */
+  text-decoration: underline;
+  /* 2 */
+  text-decoration: underline dotted;
+  /* 2 */ }
+
+/**
+ * Add the correct font weight in Chrome, Edge, and Safari.
+ */
+b,
+strong {
+  font-weight: bolder; }
+
+/**
+ * 1. Correct the inheritance and scaling of font size in all browsers.
+ * 2. Correct the odd `em` font sizing in all browsers.
+ */
+code,
+kbd,
+samp {
+  font-family: monospace, monospace;
+  /* 1 */
+  font-size: 1em;
+  /* 2 */ }
+
+/**
+ * Add the correct font size in all browsers.
+ */
+small {
+  font-size: 80%; }
+
+/**
+ * Prevent `sub` and `sup` elements from affecting the line height in
+ * all browsers.
+ */
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline; }
+
+sub {
+  bottom: -0.25em; }
+
+sup {
+  top: -0.5em; }
+
+/* Embedded content
+   ========================================================================== */
+/**
+ * Remove the border on images inside links in IE 10.
+ */
+img {
+  border-style: none; }
+
+/* Forms
+   ========================================================================== */
+/**
+ * 1. Change the font styles in all browsers.
+ * 2. Remove the margin in Firefox and Safari.
+ */
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit;
+  /* 1 */
+  font-size: 100%;
+  /* 1 */
+  line-height: 1.15;
+  /* 1 */
+  margin: 0;
+  /* 2 */ }
+
+/**
+ * Show the overflow in IE.
+ * 1. Show the overflow in Edge.
+ */
+button,
+input {
+  /* 1 */
+  overflow: visible; }
+
+/**
+ * Remove the inheritance of text transform in Edge, Firefox, and IE.
+ * 1. Remove the inheritance of text transform in Firefox.
+ */
+button,
+select {
+  /* 1 */
+  text-transform: none; }
+
+/**
+ * Correct the inability to style clickable types in iOS and Safari.
+ */
+button,
+[type="button"],
+[type="reset"],
+[type="submit"] {
+  -webkit-appearance: button; }
+
+/**
+ * Remove the inner border and padding in Firefox.
+ */
+button::-moz-focus-inner,
+[type="button"]::-moz-focus-inner,
+[type="reset"]::-moz-focus-inner,
+[type="submit"]::-moz-focus-inner {
+  border-style: none;
+  padding: 0; }
+
+/**
+ * Restore the focus styles unset by the previous rule.
+ */
+button:-moz-focusring,
+[type="button"]:-moz-focusring,
+[type="reset"]:-moz-focusring,
+[type="submit"]:-moz-focusring {
+  outline: 1px dotted ButtonText; }
+
+/**
+ * Correct the padding in Firefox.
+ */
+fieldset {
+  padding: 0.35em 0.75em 0.625em; }
+
+/**
+ * 1. Correct the text wrapping in Edge and IE.
+ * 2. Correct the color inheritance from `fieldset` elements in IE.
+ * 3. Remove the padding so developers are not caught out when they zero out
+ *    `fieldset` elements in all browsers.
+ */
+legend {
+  box-sizing: border-box;
+  /* 1 */
+  color: inherit;
+  /* 2 */
+  display: table;
+  /* 1 */
+  max-width: 100%;
+  /* 1 */
+  padding: 0;
+  /* 3 */
+  white-space: normal;
+  /* 1 */ }
+
+/**
+ * Add the correct vertical alignment in Chrome, Firefox, and Opera.
+ */
+progress {
+  vertical-align: baseline; }
+
+/**
+ * Remove the default vertical scrollbar in IE 10+.
+ */
+textarea {
+  overflow: auto; }
+
+/**
+ * 1. Add the correct box sizing in IE 10.
+ * 2. Remove the padding in IE 10.
+ */
+[type="checkbox"],
+[type="radio"] {
+  box-sizing: border-box;
+  /* 1 */
+  padding: 0;
+  /* 2 */ }
+
+/**
+ * Correct the cursor style of increment and decrement buttons in Chrome.
+ */
+[type="number"]::-webkit-inner-spin-button,
+[type="number"]::-webkit-outer-spin-button {
+  height: auto; }
+
+/**
+ * 1. Correct the odd appearance in Chrome and Safari.
+ * 2. Correct the outline style in Safari.
+ */
+[type="search"] {
+  -webkit-appearance: textfield;
+  /* 1 */
+  outline-offset: -2px;
+  /* 2 */ }
+
+/**
+ * Remove the inner padding in Chrome and Safari on macOS.
+ */
+[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none; }
+
+/**
+ * 1. Correct the inability to style clickable types in iOS and Safari.
+ * 2. Change font properties to `inherit` in Safari.
+ */
+::-webkit-file-upload-button {
+  -webkit-appearance: button;
+  /* 1 */
+  font: inherit;
+  /* 2 */ }
+
+/* Interactive
+   ========================================================================== */
+/*
+ * Add the correct display in Edge, IE 10+, and Firefox.
+ */
+details {
+  display: block; }
+
+/*
+ * Add the correct display in all browsers.
+ */
+summary {
+  display: list-item; }
+
+/* Misc
+   ========================================================================== */
+/**
+ * Add the correct display in IE 10+.
+ */
+template {
+  display: none; }
+
+/**
+ * Add the correct display in IE 10.
+ */
+[hidden] {
+  display: none; }
+
 :root {
   --nlb: #B1C900;
   --frame: #e4f0da;
@@ -8,14 +316,14 @@
   --warning: #ffc107;
   --danger: #dc3545;
   --light: #f8f9fa;
-  --dark: #23313f;
-  --night: #23313f;
+  --dark: #212d39;
+  --night: #212d39;
   --breakpoint-xs: 0;
   --breakpoint-sm: 640px;
   --breakpoint-md: 768px;
   --breakpoint-lg: 1024px;
   --breakpoint-xl: 1200px;
-  --font-family-sans-serif: Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-family-sans-serif: Arial, sans-serif;
   --font-family-monospace: SFMono-Regular, "Courier New", monospace; }
 
 *,
@@ -34,7 +342,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 body {
   margin: 0;
-  font-family: Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: Arial, sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
@@ -50,11 +358,11 @@ hr {
   height: 0;
   overflow: visible; }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, #content table tr th, body table tr th {
   margin-top: 0;
   margin-bottom: 0.75rem; }
 
-p {
+p, #content blockquote, body blockquote {
   margin-top: 0;
   margin-bottom: 1rem; }
 
@@ -349,62 +657,68 @@ button.bg-danger:hover,
 button.bg-danger:focus {
   background-color: #bd2130 !important; }
 
-.bg-light, body, span.sentence a,
-span.lic a,
-span.page-normal a,
-span.page-special a,
-span.page-front a,
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
-div.doctitle a,
-div.docauthor a,
-div.imggroup div.caption a,
-table tr td a,
-ul a,
-p a {
+.bg-light, body, body span.sentence a,
+body span.lic a,
+body span.page-normal a,
+body span.page-special a,
+body span.page-front a,
+body h1 a, body h2 a, body h3 a, body h4 a, body h5 a, body h6 a, body #content table tr th a, #content table tr body th a, body table tr th a,
+body div.doctitle a,
+body div.docauthor a,
+body div.imggroup div.caption a,
+body table tr td a,
+body ul a,
+body p a,
+body #content blockquote a, #content body blockquote a,
+body blockquote a {
   background-color: #f8f9fa !important; }
 
-a.bg-light:hover, span.sentence a:hover,
-span.lic a:hover,
-span.page-normal a:hover,
-span.page-special a:hover,
-span.page-front a:hover,
-h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover,
-div.doctitle a:hover,
-div.docauthor a:hover,
-div.imggroup div.caption a:hover,
-table tr td a:hover,
-ul a:hover,
-p a:hover, a.bg-light:focus, span.sentence a:focus,
-span.lic a:focus,
-span.page-normal a:focus,
-span.page-special a:focus,
-span.page-front a:focus,
-h1 a:focus, h2 a:focus, h3 a:focus, h4 a:focus, h5 a:focus, h6 a:focus,
-div.doctitle a:focus,
-div.docauthor a:focus,
-div.imggroup div.caption a:focus,
-table tr td a:focus,
-ul a:focus,
-p a:focus,
+a.bg-light:hover, body span.sentence a:hover,
+body span.lic a:hover,
+body span.page-normal a:hover,
+body span.page-special a:hover,
+body span.page-front a:hover,
+body h1 a:hover, body h2 a:hover, body h3 a:hover, body h4 a:hover, body h5 a:hover, body h6 a:hover, body #content table tr th a:hover, #content table tr body th a:hover, body table tr th a:hover,
+body div.doctitle a:hover,
+body div.docauthor a:hover,
+body div.imggroup div.caption a:hover,
+body table tr td a:hover,
+body ul a:hover,
+body p a:hover,
+body #content blockquote a:hover, #content body blockquote a:hover,
+body blockquote a:hover, a.bg-light:focus, body span.sentence a:focus,
+body span.lic a:focus,
+body span.page-normal a:focus,
+body span.page-special a:focus,
+body span.page-front a:focus,
+body h1 a:focus, body h2 a:focus, body h3 a:focus, body h4 a:focus, body h5 a:focus, body h6 a:focus, body #content table tr th a:focus, #content table tr body th a:focus, body table tr th a:focus,
+body div.doctitle a:focus,
+body div.docauthor a:focus,
+body div.imggroup div.caption a:focus,
+body table tr td a:focus,
+body ul a:focus,
+body p a:focus,
+body #content blockquote a:focus, #content body blockquote a:focus,
+body blockquote a:focus,
 button.bg-light:hover,
 button.bg-light:focus {
   background-color: #dae0e5 !important; }
 
 .bg-dark {
-  background-color: #23313f !important; }
+  background-color: #212d39 !important; }
 
 a.bg-dark:hover, a.bg-dark:focus,
 button.bg-dark:hover,
 button.bg-dark:focus {
-  background-color: #11181e !important; }
+  background-color: #0e1419 !important; }
 
 .bg-night {
-  background-color: #23313f !important; }
+  background-color: #212d39 !important; }
 
 a.bg-night:hover, a.bg-night:focus,
 button.bg-night:hover,
 button.bg-night:focus {
-  background-color: #11181e !important; }
+  background-color: #0e1419 !important; }
 
 .bg-white {
   background-color: #fff !important; }
@@ -413,21 +727,23 @@ button.bg-night:focus {
   background-color: transparent !important; }
 
 .border {
-  border: 1px solid #dee2e6 !important; }
+  border: 1px solid #90989f !important; }
 
-.border-top, .page-normal,
-.page-special,
-.page-front {
-  border-top: 1px solid #dee2e6 !important; }
+.border-top, #content .page-normal, body .page-normal,
+#content .page-special,
+body .page-special,
+#content .page-front,
+body .page-front {
+  border-top: 1px solid #90989f !important; }
 
 .border-right {
-  border-right: 1px solid #dee2e6 !important; }
+  border-right: 1px solid #90989f !important; }
 
 .border-bottom {
-  border-bottom: 1px solid #dee2e6 !important; }
+  border-bottom: 1px solid #90989f !important; }
 
 .border-left {
-  border-left: 1px solid #dee2e6 !important; }
+  border-left: 1px solid #90989f !important; }
 
 .border-0 {
   border: 0 !important; }
@@ -466,10 +782,10 @@ button.bg-night:focus {
   border-color: #f8f9fa !important; }
 
 .border-dark {
-  border-color: #23313f !important; }
+  border-color: #212d39 !important; }
 
 .border-night {
-  border-color: #23313f !important; }
+  border-color: #212d39 !important; }
 
 .border-white {
   border-color: #fff !important; }
@@ -477,7 +793,7 @@ button.bg-night:focus {
 .rounded-sm {
   border-radius: 0.2rem !important; }
 
-.rounded, img, figure img, .imggroup img {
+.rounded, #content img, body img, #content figure img, body figure img, #content .imggroup img, body .imggroup img {
   border-radius: 0.25rem !important; }
 
 .rounded-top {
@@ -513,9 +829,11 @@ button.bg-night:focus {
   clear: both;
   content: ""; }
 
-.d-none, .page-normal,
-.page-special,
-.page-front {
+.d-none, #content .page-normal, body .page-normal,
+#content .page-special,
+body .page-special,
+#content .page-front,
+body .page-front {
   display: none !important; }
 
 .d-inline {
@@ -524,7 +842,7 @@ button.bg-night:focus {
 .d-inline-block {
   display: inline-block !important; }
 
-.d-block, figure img, .imggroup img {
+.d-block, #content figure img, body figure img, #content .imggroup img, body .imggroup img {
   display: block !important; }
 
 .d-table {
@@ -549,9 +867,11 @@ button.bg-night:focus {
     display: inline !important; }
   .d-sm-inline-block {
     display: inline-block !important; }
-  .d-sm-block, .page-normal,
-  .page-special,
-  .page-front {
+  .d-sm-block, #content .page-normal, body .page-normal,
+  #content .page-special,
+  body .page-special,
+  #content .page-front,
+  body .page-front {
     display: block !important; }
   .d-sm-table {
     display: table !important; }
@@ -1142,7 +1462,7 @@ button.bg-night:focus {
     top: 0;
     z-index: 1020; } }
 
-.sr-only, .prodnote, .optional-prodnote, .prodnote-optional {
+.sr-only, #content .prodnote, body .prodnote, #content .optional-prodnote, body .optional-prodnote, #content .prodnote-optional, body .prodnote-optional {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -1236,8 +1556,14 @@ button.bg-night:focus {
 
 .mt-0,
 .my-0,
-.colophon p,
-[*|type="colophon"] p {
+body .colophon p,
+body .colophon #content blockquote,
+#content body .colophon blockquote,
+body .colophon blockquote,
+body [*|type="colophon"] p,
+body [*|type="colophon"] #content blockquote,
+#content body [*|type="colophon"] blockquote,
+body [*|type="colophon"] blockquote {
   margin-top: 0 !important; }
 
 .mr-0,
@@ -1246,15 +1572,21 @@ button.bg-night:focus {
 
 .mb-0,
 .my-0,
-.colophon p,
-[*|type="colophon"] p {
+body .colophon p,
+body .colophon #content blockquote,
+#content body .colophon blockquote,
+body .colophon blockquote,
+body [*|type="colophon"] p,
+body [*|type="colophon"] #content blockquote,
+#content body [*|type="colophon"] blockquote,
+body [*|type="colophon"] blockquote {
   margin-bottom: 0 !important; }
 
 .ml-0,
 .mx-0 {
   margin-left: 0 !important; }
 
-.m-1, ul {
+.m-1 {
   margin: 0.375rem !important; }
 
 .mt-1,
@@ -1299,9 +1631,7 @@ button.bg-night:focus {
 .my-3 {
   margin-top: 1.5rem !important; }
 
-.mr-3, .page-normal,
-.page-special,
-.page-front,
+.mr-3,
 .mx-3 {
   margin-right: 1.5rem !important; }
 
@@ -1324,9 +1654,11 @@ button.bg-night:focus {
 .mx-4 {
   margin-right: 2.25rem !important; }
 
-.mb-4, .page-normal,
-.page-special,
-.page-front,
+.mb-4, #content .page-normal, body .page-normal,
+#content .page-special,
+body .page-special,
+#content .page-front,
+body .page-front,
 .my-4 {
   margin-bottom: 2.25rem !important; }
 
@@ -1337,9 +1669,11 @@ button.bg-night:focus {
 .m-5 {
   margin: 4.5rem !important; }
 
-.mt-5, .page-normal,
-.page-special,
-.page-front,
+.mt-5, #content .page-normal, body .page-normal,
+#content .page-special,
+body .page-special,
+#content .page-front,
+body .page-front,
 .my-5 {
   margin-top: 4.5rem !important; }
 
@@ -1415,9 +1749,11 @@ button.bg-night:focus {
 .p-3 {
   padding: 1.5rem !important; }
 
-.pt-3, .page-normal,
-.page-special,
-.page-front,
+.pt-3, #content .page-normal, body .page-normal,
+#content .page-special,
+body .page-special,
+#content .page-front,
+body .page-front,
 .py-3 {
   padding-top: 1.5rem !important; }
 
@@ -1575,8 +1911,10 @@ button.bg-night:focus {
 
 .mr-auto,
 .mx-auto,
-figure img,
-.imggroup img {
+#content figure img,
+body figure img,
+#content .imggroup img,
+body .imggroup img {
   margin-right: auto !important; }
 
 .mb-auto,
@@ -1585,8 +1923,10 @@ figure img,
 
 .ml-auto,
 .mx-auto,
-figure img,
-.imggroup img {
+#content figure img,
+body figure img,
+#content .imggroup img,
+body .imggroup img {
   margin-left: auto !important; }
 
 @media (min-width: 640px) {
@@ -2625,12 +2965,14 @@ figure img,
 .text-left {
   text-align: left !important; }
 
-.text-right, .page-normal,
-.page-special,
-.page-front {
+.text-right, #content .page-normal, body .page-normal,
+#content .page-special,
+body .page-special,
+#content .page-front,
+body .page-front {
   text-align: right !important; }
 
-.text-center, figure, .imggroup {
+.text-center, #content figure, body figure, #content .imggroup, body .imggroup {
   text-align: center !important; }
 
 @media (min-width: 640px) {
@@ -2737,50 +3079,56 @@ a.text-danger:hover, a.text-danger:focus {
 a.text-light:hover, a.text-light:focus {
   color: #cbd3da !important; }
 
-.text-dark, body, .generisk-ramme, span.sentence a,
-span.lic a,
-span.page-normal a,
-span.page-special a,
-span.page-front a,
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
-div.doctitle a,
-div.docauthor a,
-div.imggroup div.caption a,
-table tr td a,
-ul a,
-p a {
-  color: #23313f !important; }
+.text-dark, body, body span.sentence a,
+body span.lic a,
+body span.page-normal a,
+body span.page-special a,
+body span.page-front a,
+body h1 a, body h2 a, body h3 a, body h4 a, body h5 a, body h6 a, body #content table tr th a, #content table tr body th a, body table tr th a,
+body div.doctitle a,
+body div.docauthor a,
+body div.imggroup div.caption a,
+body table tr td a,
+body ul a,
+body p a,
+body #content blockquote a, #content body blockquote a,
+body blockquote a {
+  color: #212d39 !important; }
 
-a.text-dark:hover, a.generisk-ramme:hover, span.sentence a:hover,
-span.lic a:hover,
-span.page-normal a:hover,
-span.page-special a:hover,
-span.page-front a:hover,
-h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover,
-div.doctitle a:hover,
-div.docauthor a:hover,
-div.imggroup div.caption a:hover,
-table tr td a:hover,
-ul a:hover,
-p a:hover, a.text-dark:focus, a.generisk-ramme:focus, span.sentence a:focus,
-span.lic a:focus,
-span.page-normal a:focus,
-span.page-special a:focus,
-span.page-front a:focus,
-h1 a:focus, h2 a:focus, h3 a:focus, h4 a:focus, h5 a:focus, h6 a:focus,
-div.doctitle a:focus,
-div.docauthor a:focus,
-div.imggroup div.caption a:focus,
-table tr td a:focus,
-ul a:focus,
-p a:focus {
-  color: #080b0e !important; }
+a.text-dark:hover, body span.sentence a:hover,
+body span.lic a:hover,
+body span.page-normal a:hover,
+body span.page-special a:hover,
+body span.page-front a:hover,
+body h1 a:hover, body h2 a:hover, body h3 a:hover, body h4 a:hover, body h5 a:hover, body h6 a:hover, body #content table tr th a:hover, #content table tr body th a:hover, body table tr th a:hover,
+body div.doctitle a:hover,
+body div.docauthor a:hover,
+body div.imggroup div.caption a:hover,
+body table tr td a:hover,
+body ul a:hover,
+body p a:hover,
+body #content blockquote a:hover, #content body blockquote a:hover,
+body blockquote a:hover, a.text-dark:focus, body span.sentence a:focus,
+body span.lic a:focus,
+body span.page-normal a:focus,
+body span.page-special a:focus,
+body span.page-front a:focus,
+body h1 a:focus, body h2 a:focus, body h3 a:focus, body h4 a:focus, body h5 a:focus, body h6 a:focus, body #content table tr th a:focus, #content table tr body th a:focus, body table tr th a:focus,
+body div.doctitle a:focus,
+body div.docauthor a:focus,
+body div.imggroup div.caption a:focus,
+body table tr td a:focus,
+body ul a:focus,
+body p a:focus,
+body #content blockquote a:focus, #content body blockquote a:focus,
+body blockquote a:focus {
+  color: #050709 !important; }
 
 .text-night {
-  color: #23313f !important; }
+  color: #212d39 !important; }
 
 a.text-night:hover, a.text-night:focus {
-  color: #080b0e !important; }
+  color: #050709 !important; }
 
 .text-body {
   color: #212529 !important; }
@@ -2817,7 +3165,7 @@ a.text-night:hover, a.text-night:focus {
 .invisible {
   visibility: hidden !important; }
 
-h1, h2, h3, h4, h5, h6,
+h1, h2, h3, h4, h5, h6, #content table tr th, body table tr th,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-bottom: 0.75rem;
   font-weight: 500;
@@ -2850,10 +3198,10 @@ h4, .h4 {
 h5, .h5 {
   font-size: 1.25rem; }
 
-h6, .h6 {
+h6, #content table tr th, body table tr th, .h6 {
   font-size: 1rem; }
 
-.lead, strong {
+.lead {
   font-size: 1.25rem;
   font-weight: 300; }
 
@@ -2922,7 +3270,7 @@ mark,
   font-size: 90%;
   text-transform: uppercase; }
 
-.blockquote, blockquote {
+.blockquote, #content blockquote, body blockquote {
   margin-bottom: 1.5rem;
   font-size: 1.25rem; }
 
@@ -2938,7 +3286,8 @@ mark,
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
-  margin-left: auto; }
+  margin-left: auto;
+  max-width: 320px; }
   @media (min-width: 640px) {
     .container {
       max-width: 600px; } }
@@ -3520,7 +3869,7 @@ mark,
   .offset-xl-11 {
     margin-left: 91.6666666667%; } }
 
-.img-fluid, img, figure img, .imggroup img {
+.img-fluid, #content img, body img, #content figure img, body figure img, #content .imggroup img, body .imggroup img {
   max-width: 100%;
   height: auto; }
 
@@ -3532,58 +3881,71 @@ mark,
   max-width: 100%;
   height: auto; }
 
-.figure, figure, .imggroup {
+.figure, #content figure, body figure, #content .imggroup, body .imggroup {
   display: inline-block; }
 
-.figure-img, figure img, .imggroup img {
+.figure-img, #content figure img, body figure img, #content .imggroup img, body .imggroup img {
   margin-bottom: 0.75rem;
   line-height: 1; }
 
-.figure-caption, figure figcaption, figure .caption, .imggroup figcaption, .imggroup .caption {
+.figure-caption, #content figure figcaption, body figure figcaption, #content figure .caption, body figure .caption, #content .imggroup figcaption, body .imggroup figcaption, #content .imggroup .caption, body .imggroup .caption, #content table caption, body table caption {
   font-size: 90%;
   color: #6c757d; }
 
-.table, table, table.liste, table.imggroup {
+.table, #content table, body table, #content table.liste, body table.liste, #content table.imggroup, body table.imggroup {
   width: 100%;
   margin-bottom: 1.5rem;
   color: #212529; }
-  .table th, table th, table.liste th, table.imggroup th,
+  .table th, #content table th, body table th, #content table.liste th, body table.liste th, #content table.imggroup th, body table.imggroup th,
   .table td,
-  table td,
-  table.liste td,
-  table.imggroup td {
+  #content table td,
+  body table td,
+  #content table.liste td,
+  body table.liste td,
+  #content table.imggroup td,
+  body table.imggroup td {
     padding: 0.75rem;
     vertical-align: top;
-    border-top: 1px solid #dee2e6; }
-  .table thead th, table thead th, table.liste thead th, table.imggroup thead th {
+    border-top: 1px solid #90989f; }
+  .table thead th, #content table thead th, body table thead th, #content table.liste thead th, body table.liste thead th, #content table.imggroup thead th, body table.imggroup thead th {
     vertical-align: bottom;
-    border-bottom: 2px solid #dee2e6; }
-  .table tbody + tbody, table tbody + tbody, table.liste tbody + tbody, table.imggroup tbody + tbody {
-    border-top: 2px solid #dee2e6; }
+    border-bottom: 2px solid #90989f; }
+  .table tbody + tbody, #content table tbody + tbody, body table tbody + tbody, #content table.liste tbody + tbody, body table.liste tbody + tbody, #content table.imggroup tbody + tbody, body table.imggroup tbody + tbody {
+    border-top: 2px solid #90989f; }
 
 .table-sm th,
 .table-sm td {
   padding: 0.3rem; }
 
-.table-bordered {
-  border: 1px solid #dee2e6; }
-  .table-bordered th,
-  .table-bordered td {
-    border: 1px solid #dee2e6; }
-  .table-bordered thead th,
-  .table-bordered thead td {
+.table-bordered, #content table, body table {
+  border: 1px solid #90989f; }
+  .table-bordered th, #content table th, body table th,
+  .table-bordered td,
+  #content table td,
+  body table td {
+    border: 1px solid #90989f; }
+  .table-bordered thead th, #content table thead th, body table thead th,
+  .table-bordered thead td,
+  #content table thead td,
+  body table thead td {
     border-bottom-width: 2px; }
 
-.table-borderless th, table.liste th, table.imggroup th,
+.table-borderless th, #content table.liste th, body table.liste th, #content table.imggroup th, body table.imggroup th,
 .table-borderless td,
-table.liste td,
-table.imggroup td,
+#content table.liste td,
+body table.liste td,
+#content table.imggroup td,
+body table.imggroup td,
 .table-borderless thead th,
-table.liste thead th,
-table.imggroup thead th,
+#content table.liste thead th,
+body table.liste thead th,
+#content table.imggroup thead th,
+body table.imggroup thead th,
 .table-borderless tbody + tbody,
-table.liste tbody + tbody,
-table.imggroup tbody + tbody {
+#content table.liste tbody + tbody,
+body table.liste tbody + tbody,
+#content table.imggroup tbody + tbody,
+body table.imggroup tbody + tbody {
   border: 0; }
 
 .table-striped tbody tr:nth-of-type(odd) {
@@ -3715,36 +4077,36 @@ table.imggroup tbody + tbody {
 .table-dark,
 .table-dark > th,
 .table-dark > td {
-  background-color: #c1c5c9; }
+  background-color: #c1c4c8; }
 
 .table-dark th,
 .table-dark td,
 .table-dark thead th,
 .table-dark tbody + tbody {
-  border-color: #8d949b; }
+  border-color: #8c9298; }
 
 .table-hover .table-dark:hover {
-  background-color: #b3b8bd; }
+  background-color: #b3b7bc; }
   .table-hover .table-dark:hover > td,
   .table-hover .table-dark:hover > th {
-    background-color: #b3b8bd; }
+    background-color: #b3b7bc; }
 
 .table-night,
 .table-night > th,
 .table-night > td {
-  background-color: #c1c5c9; }
+  background-color: #c1c4c8; }
 
 .table-night th,
 .table-night td,
 .table-night thead th,
 .table-night tbody + tbody {
-  border-color: #8d949b; }
+  border-color: #8c9298; }
 
 .table-hover .table-night:hover {
-  background-color: #b3b8bd; }
+  background-color: #b3b7bc; }
   .table-hover .table-night:hover > td,
   .table-hover .table-night:hover > th {
-    background-color: #b3b8bd; }
+    background-color: #b3b7bc; }
 
 .table-active,
 .table-active > th,
@@ -3757,15 +4119,15 @@ table.imggroup tbody + tbody {
   .table-hover .table-active:hover > th {
     background-color: rgba(0, 0, 0, 0.075); }
 
-.table .thead-dark th, table .thead-dark th, table.liste .thead-dark th, table.imggroup .thead-dark th {
+.table .thead-dark th, #content table .thead-dark th, body table .thead-dark th, body table.liste .thead-dark th, body table.imggroup .thead-dark th {
   color: #fff;
   background-color: #343a40;
   border-color: #454d55; }
 
-.table .thead-light th, table .thead-light th, table.liste .thead-light th, table.imggroup .thead-light th, .table table th th, table .table th th, table th th, table.liste th th, table.imggroup th th {
+.table .thead-light th, #content table .thead-light th, body table .thead-light th, body table.liste .thead-light th, body table.imggroup .thead-light th, #content table thead th, #content table.liste thead th, #content table.imggroup thead th, .table body table thead th, body table .table thead th, body table thead th, body table.liste thead th, body table.imggroup thead th {
   color: #495057;
   background-color: #e9ecef;
-  border-color: #dee2e6; }
+  border-color: #90989f; }
 
 .table-dark {
   color: #fff;
@@ -3774,7 +4136,7 @@ table.imggroup tbody + tbody {
   .table-dark td,
   .table-dark thead th {
     border-color: #454d55; }
-  .table-dark.table-bordered {
+  .table-dark.table-bordered, #content table.table-dark, body table.table-dark {
     border: 0; }
   .table-dark.table-striped tbody tr:nth-of-type(odd) {
     background-color: rgba(255, 255, 255, 0.05); }
@@ -3788,7 +4150,7 @@ table.imggroup tbody + tbody {
     width: 100%;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch; }
-    .table-responsive-sm > .table-bordered {
+    .table-responsive-sm > .table-bordered, #content .table-responsive-sm > table, body .table-responsive-sm > table {
       border: 0; } }
 
 @media (max-width: 767.98px) {
@@ -3797,7 +4159,7 @@ table.imggroup tbody + tbody {
     width: 100%;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch; }
-    .table-responsive-md > .table-bordered {
+    .table-responsive-md > .table-bordered, #content .table-responsive-md > table, body .table-responsive-md > table {
       border: 0; } }
 
 @media (max-width: 1023.98px) {
@@ -3806,7 +4168,7 @@ table.imggroup tbody + tbody {
     width: 100%;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch; }
-    .table-responsive-lg > .table-bordered {
+    .table-responsive-lg > .table-bordered, #content .table-responsive-lg > table, body .table-responsive-lg > table {
       border: 0; } }
 
 @media (max-width: 1199.98px) {
@@ -3815,256 +4177,494 @@ table.imggroup tbody + tbody {
     width: 100%;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch; }
-    .table-responsive-xl > .table-bordered {
+    .table-responsive-xl > .table-bordered, #content .table-responsive-xl > table, body .table-responsive-xl > table {
       border: 0; } }
 
-.table-responsive, table, table.liste, table.imggroup {
+.table-responsive, #content table, body table, #content table.liste, body table.liste, #content table.imggroup, body table.imggroup {
   display: block;
   width: 100%;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch; }
-  .table-responsive > .table-bordered, table > .table-bordered, table.liste > .table-bordered, table.imggroup > .table-bordered {
+  .table-responsive > .table-bordered, #content table > .table-bordered, body table > .table-bordered, body table.liste > .table-bordered, body table.imggroup > .table-bordered, #content .table-responsive > table, #content table > table, #content table.liste > table, #content table.imggroup > table, body .table-responsive > table, #content body table > table, body #content table > table, body table > table, #content body table.liste > table, body table.liste > table, #content body table.imggroup > table, body table.imggroup > table {
     border: 0; }
 
+/* General styles
+ * ---------------------------------------------------------- */
 body {
+  overflow-x: hidden; }
+
+#content, body {
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
-  margin-left: auto; }
-
-strong {
-  font-weight: bold; }
-
-img {
-  margin-bottom: 1.5rem !important; }
-
-table thead, table tbody, table tfoot {
-  width: 100%; }
-
-table.liste tr td, table.imggroup tr td {
-  font-size: 18px; }
-
-figure, .imggroup {
-  width: 100%; }
-  figure figcaption, figure .caption, .imggroup figcaption, .imggroup .caption {
-    color: #23313f;
-    min-height: 15px; }
-
-.noteref {
-  vertical-align: super;
-  font-size: smaller; }
-
-.generisk-ramme {
-  background-color: #e4f0da;
-  border: 1px solid #B1C900; }
-
-@media all and (max-width: 639px) {
-  body {
-    padding-right: 20px;
-    padding-left: 20px; }
-  .generisk-ramme {
-    padding: 20px;
-    margin-bottom: 30px; }
-  figure, .imggroup {
-    margin-bottom: 30px; }
-    figure img, .imggroup img {
-      max-width: 100%; }
-    figure figcaption, figure .caption, .imggroup figcaption, .imggroup .caption {
-      margin-top: 15px; }
-  h1, h1.title {
+  margin-left: auto;
+  max-width: 100%;
+  /* Paging
+     * ---------------------------------------------------------- */
+  /* Typography
+     * ---------------------------------------------------------- */
+  /* Images
+     * ---------------------------------------------------------- */
+  /* Frames
+     * ---------------------------------------------------------- */
+  /* Lists
+     * ---------------------------------------------------------- */ }
+  @media (max-width: 639.98px) {
+    #content, body {
+      padding-right: 20px;
+      padding-left: 20px; } }
+  @media (min-width: 640px) and (max-width: 767.98px) {
+    #content, body {
+      padding-right: 45px;
+      padding-left: 45px; } }
+  @media (min-width: 768px) and (max-width: 1023.98px) {
+    #content, body {
+      padding-right: 70px;
+      padding-left: 70px; } }
+  @media (min-width: 1024px) {
+    #content, body {
+      padding-right: 70px;
+      padding-left: 70px; } }
+  #content .noteref, body .noteref {
+    vertical-align: super;
+    font-size: 0.6em; }
+  #content .rearnotes .notebody p, body .rearnotes .notebody p, #content .rearnotes .notebody blockquote, body .rearnotes .notebody #content blockquote, body .rearnotes .notebody blockquote {
+    display: block;
+    padding: 15px 20px;
+    border-top: 1px solid #B1C900;
+    margin-bottom: 0; }
+  #content .sidetall, body .sidetall {
+    display: inline-block;
+    width: 100%; }
+    #content .sidetall::after, body .sidetall::after {
+      display: block;
+      clear: both;
+      content: ""; }
+  #content .page-normal, body .page-normal,
+  #content .page-special,
+  body .page-special,
+  #content .page-front,
+  body .page-front {
+    font-weight: bold;
+    page-break-before: always; }
+  #content strong, body strong {
+    font-weight: bold; }
+  #content h1, body h1, #content h1.title, body h1.title {
     font-weight: bold;
     margin-bottom: 20px;
     font-size: 34.56px;
     font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-    h1 .lead, h1 strong, h1.title .lead, h1.title strong {
+    #content h1 .lead, body h1 .lead, #content h1.title .lead, body h1.title .lead {
       font-size: 38.4px; }
-  h2 {
+    @media (min-width: 768px) and (max-width: 1023.98px) {
+      #content h1, body h1, #content h1.title, body h1.title {
+        font-weight: bold;
+        margin-bottom: 30px;
+        font-size: 28.8px;
+        font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+        #content h1 .lead, body h1 .lead, #content h1.title .lead, body h1.title .lead {
+          font-size: 32px; } }
+    @media (min-width: 1024px) {
+      #content h1, body h1, #content h1.title, body h1.title {
+        font-weight: bold;
+        margin-bottom: 40px;
+        font-size: 36px;
+        font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+        #content h1 .lead, body h1 .lead, #content h1.title .lead, body h1.title .lead {
+          font-size: 40px; } }
+  #content h2, body h2 {
     font-weight: bold;
     margin-bottom: 20px;
     font-size: 30.72px;
     font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-    h2 .lead, h2 strong {
+    #content h2 .lead, body h2 .lead {
       font-size: 34.56px; }
-  h3 {
+    @media (min-width: 768px) and (max-width: 1023.98px) {
+      #content h2, body h2 {
+        font-weight: bold;
+        margin-bottom: 25px;
+        font-size: 25.6px;
+        font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+        #content h2 .lead, body h2 .lead {
+          font-size: 28.8px; } }
+    @media (min-width: 1024px) {
+      #content h2, body h2 {
+        font-weight: bold;
+        margin-bottom: 30px;
+        font-size: 32px;
+        font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+        #content h2 .lead, body h2 .lead {
+          font-size: 36px; } }
+  #content h3, body h3 {
     font-weight: bold;
     margin-bottom: 17px;
     font-size: 26.88px;
     font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-    h3 .lead, h3 strong {
+    #content h3 .lead, body h3 .lead {
       font-size: 30.72px; }
-  h4 {
+    @media (min-width: 768px) and (max-width: 1023.98px) {
+      #content h3, body h3 {
+        font-weight: bold;
+        margin-bottom: 20px;
+        font-size: 22.4px;
+        font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+        #content h3 .lead, body h3 .lead {
+          font-size: 25.6px; } }
+    @media (min-width: 1024px) {
+      #content h3, body h3 {
+        font-weight: bold;
+        margin-bottom: 25px;
+        font-size: 28px;
+        font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+        #content h3 .lead, body h3 .lead {
+          font-size: 32px; } }
+  #content h4, body h4 {
     font-weight: bold;
     margin-bottom: 14px;
     font-size: 21.12px;
     font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-    h4 .lead, h4 strong {
+    #content h4 .lead, body h4 .lead {
       font-size: 24.96px; }
-  h5 {
+    @media (min-width: 768px) and (max-width: 1023.98px) {
+      #content h4, body h4 {
+        font-weight: bold;
+        margin-bottom: 15px;
+        font-size: 17.6px;
+        font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+        #content h4 .lead, body h4 .lead {
+          font-size: 20.8px; } }
+    @media (min-width: 1024px) {
+      #content h4, body h4 {
+        font-weight: bold;
+        margin-bottom: 20px;
+        font-size: 22px;
+        font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+        #content h4 .lead, body h4 .lead {
+          font-size: 26px; } }
+  #content h5, body h5 {
     font-weight: bold;
     margin-bottom: 14px;
     font-size: 21.12px;
     font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-    h5 .lead, h5 strong {
+    #content h5 .lead, body h5 .lead {
       font-size: 24.96px; }
-  h6 {
+    @media (min-width: 768px) and (max-width: 1023.98px) {
+      #content h5, body h5 {
+        font-weight: bold;
+        margin-bottom: 15px;
+        font-size: 17.6px;
+        font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+        #content h5 .lead, body h5 .lead {
+          font-size: 20.8px; } }
+    @media (min-width: 1024px) {
+      #content h5, body h5 {
+        font-weight: bold;
+        margin-bottom: 20px;
+        font-size: 22px;
+        font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+        #content h5 .lead, body h5 .lead {
+          font-size: 26px; } }
+  #content h6, body h6, #content table tr th, body table tr #content th, body table tr th {
     font-weight: bold;
     margin-bottom: 13px;
     font-size: 17.28px;
     font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-    h6 .lead, h6 strong {
+    #content h6 .lead, body h6 .lead, #content table tr th .lead, body table tr #content th .lead, body table tr th .lead {
       font-size: 23.04px; }
-  p {
+    @media (min-width: 768px) and (max-width: 1023.98px) {
+      #content h6, body h6, #content table tr th, body table tr #content th, body table tr th {
+        font-weight: bold;
+        margin-bottom: 15px;
+        font-size: 14.4px;
+        font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+        #content h6 .lead, body h6 .lead, #content table tr th .lead, body table tr #content th .lead, body table tr th .lead {
+          font-size: 19.2px; } }
+    @media (min-width: 1024px) {
+      #content h6, body h6, #content table tr th, body table tr #content th, body table tr th {
+        font-weight: bold;
+        margin-bottom: 20px;
+        font-size: 18px;
+        font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+        #content h6 .lead, body h6 .lead, #content table tr th .lead, body table tr #content th .lead, body table tr th .lead {
+          font-size: 24px; } }
+  #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content .line, body .line {
     margin-bottom: 30px;
-    font-size: 17.28px; }
-    p .lead, p strong {
-      font-size: 25.92px; } }
-
-@media all and (min-width: 640px) and (max-width: 767px) {
-  body {
-    padding-right: 45px;
-    padding-left: 45px; }
-  .generisk-ramme {
-    padding: 30px;
-    margin-bottom: 36px; }
-  figure, .imggroup {
-    margin-bottom: 36px; }
-    figure img, .imggroup img {
-      max-width: 70%; }
-    figure figcaption, figure .caption, .imggroup figcaption, .imggroup .caption {
-      margin-top: 20px; }
-  h1, h1.title {
-    font-weight: bold;
+    font-size: 17.28px;
+    font-family: Arial, sans-serif;
+    zoom: 1; }
+    #content p.lead, body p.lead, #content blockquote.lead, body blockquote.lead, #content .line.lead, body .line.lead {
+      font-size: 25.92px; }
+    @media (max-width: 639.98px) {
+      #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content .line, body .line {
+        word-break: break-word; } }
+    @media (min-width: 768px) and (max-width: 1023.98px) {
+      #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content .line, body .line {
+        margin-bottom: 36px;
+        font-size: 14.4px;
+        font-family: Arial, sans-serif;
+        zoom: 1; }
+        #content p.lead, body p.lead, #content blockquote.lead, body blockquote.lead, #content .line.lead, body .line.lead {
+          font-size: 21.6px; } }
+  @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
+    #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content .line, body .line {
+      word-break: break-word; } }
+    @media (min-width: 1024px) {
+      #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content .line, body .line {
+        margin-bottom: 45px;
+        font-size: 18px;
+        font-family: Arial, sans-serif;
+        zoom: 1; }
+        #content p.lead, body p.lead, #content blockquote.lead, body blockquote.lead, #content .line.lead, body .line.lead {
+          font-size: 27px; } }
+  @media (min-width: 1024px) and (max-width: 639.98px) {
+    #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content .line, body .line {
+      word-break: break-word; } }
+  #content img, body img {
+    margin-bottom: 1.5rem !important; }
+  #content figure, body figure, #content .imggroup, body .imggroup {
+    width: 100%;
+    margin-bottom: 30px; }
+    @media (min-width: 640px) and (max-width: 767.98px) {
+      #content figure, body figure, #content .imggroup, body .imggroup {
+        margin-bottom: 36px; } }
+    @media (min-width: 768px) {
+      #content figure, body figure, #content .imggroup, body .imggroup {
+        margin-bottom: 45px; } }
+    #content figure img, body figure img, #content .imggroup img, body .imggroup img {
+      max-width: 100%; }
+      @media (min-width: 768px) {
+        #content figure img, body figure img, #content .imggroup img, body .imggroup img {
+          max-width: 70%; } }
+    #content figure figcaption, body figure figcaption, #content figure .caption, body figure .caption, #content .imggroup figcaption, body .imggroup figcaption, #content .imggroup .caption, body .imggroup .caption {
+      color: #212d39;
+      min-height: 15px;
+      margin-top: 15px; }
+      @media (min-width: 640px) and (max-width: 767.98px) {
+        #content figure figcaption, body figure figcaption, #content figure .caption, body figure .caption, #content .imggroup figcaption, body .imggroup figcaption, #content .imggroup .caption, body .imggroup .caption {
+          margin-top: 20px; } }
+      @media (min-width: 768px) {
+        #content figure figcaption, body figure figcaption, #content figure .caption, body figure .caption, #content .imggroup figcaption, body .imggroup figcaption, #content .imggroup .caption, body .imggroup .caption {
+          min-height: 25px; } }
+  #content table, body table {
+    color: #22313f;
+    scrollbar-color: #B1C900;
+    scrollbar-base-color: #fff; }
+    #content table thead, body table thead, #content table tbody, body table tbody, #content table tfoot, body table tfoot {
+      width: 100%; }
+    #content table tr td, body table tr td {
+      margin-bottom: 30px;
+      font-size: 17.28px;
+      font-family: Arial, sans-serif;
+      zoom: 1;
+      margin: 12px;
+      word-break: normal !important; }
+      #content table tr td.lead, body table tr td.lead {
+        font-size: 25.92px; }
+      @media (max-width: 639.98px) {
+        #content table tr td, body table tr td {
+          word-break: break-word; } }
+      @media (min-width: 640px) and (max-width: 767.98px) {
+        #content table tr td, body table tr td {
+          margin-bottom: 36px;
+          font-size: 14.4px;
+          font-family: Arial, sans-serif;
+          zoom: 1;
+          margin: 15px; }
+          #content table tr td.lead, body table tr td.lead {
+            font-size: 21.6px; } }
+  @media (min-width: 640px) and (max-width: 767.98px) and (max-width: 639.98px) {
+    #content table tr td, body table tr td {
+      word-break: break-word; } }
+      @media (min-width: 768px) {
+        #content table tr td, body table tr td {
+          margin-bottom: 45px;
+          font-size: 18px;
+          font-family: Arial, sans-serif;
+          zoom: 1;
+          margin: 20px; }
+          #content table tr td.lead, body table tr td.lead {
+            font-size: 27px; } }
+  @media (min-width: 768px) and (max-width: 639.98px) {
+    #content table tr td, body table tr td {
+      word-break: break-word; } }
+    #content table caption, body table caption {
+      color: #212d39;
+      margin: 12px;
+      margin-bottom: 30px;
+      font-size: 17.28px;
+      font-family: Arial, sans-serif;
+      zoom: 1; }
+      #content table caption.lead, body table caption.lead {
+        font-size: 25.92px; }
+      @media (max-width: 639.98px) {
+        #content table caption, body table caption {
+          word-break: break-word; } }
+      @media (min-width: 640px) and (max-width: 767.98px) {
+        #content table caption, body table caption {
+          margin: 15px;
+          margin-bottom: 36px;
+          font-size: 14.4px;
+          font-family: Arial, sans-serif;
+          zoom: 1; }
+          #content table caption.lead, body table caption.lead {
+            font-size: 21.6px; } }
+  @media (min-width: 640px) and (max-width: 767.98px) and (max-width: 639.98px) {
+    #content table caption, body table caption {
+      word-break: break-word; } }
+      @media (min-width: 768px) {
+        #content table caption, body table caption {
+          margin: 20px;
+          margin-bottom: 45px;
+          font-size: 18px;
+          font-family: Arial, sans-serif;
+          zoom: 1; }
+          #content table caption.lead, body table caption.lead {
+            font-size: 27px; } }
+  @media (min-width: 768px) and (max-width: 639.98px) {
+    #content table caption, body table caption {
+      word-break: break-word; } }
+    #content table.liste, body table.liste, #content table.imggroup, body table.imggroup {
+      border: none !important; }
+      #content table.liste tr td, body table.liste tr td, #content table.imggroup tr td, body table.imggroup tr td {
+        font-size: 17.28px; }
+        @media (min-width: 640px) and (max-width: 767.98px) {
+          #content table.liste tr td, body table.liste tr td, #content table.imggroup tr td, body table.imggroup tr td {
+            font-size: 14.4px; } }
+        @media (min-width: 768px) {
+          #content table.liste tr td, body table.liste tr td, #content table.imggroup tr td, body table.imggroup tr td {
+            font-size: 18px; } }
+  #content .generisk-ramme, body .generisk-ramme {
+    color: #212d39 !important;
+    background-color: #e4f0da !important;
+    border: 1px solid #B1C900 !important;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 30px; }
+    #content .generisk-ramme .sentence, body .generisk-ramme .sentence {
+      color: inherit !important; }
+    @media (min-width: 640px) and (max-width: 767.98px) {
+      #content .generisk-ramme, body .generisk-ramme {
+        padding: 30px;
+        margin-bottom: 36px; } }
+    @media (min-width: 768px) {
+      #content .generisk-ramme, body .generisk-ramme {
+        padding: 35px;
+        margin-bottom: 45px; } }
+    @media (max-width: 639.98px) {
+      #content .generisk-ramme, body .generisk-ramme {
+        word-break: break-word; } }
+  #content .ramme, body .ramme {
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 30px; }
+    #content .ramme .sentence, body .ramme .sentence {
+      color: inherit !important; }
+    @media (min-width: 640px) and (max-width: 767.98px) {
+      #content .ramme, body .ramme {
+        padding: 30px;
+        margin-bottom: 36px; } }
+    @media (min-width: 768px) {
+      #content .ramme, body .ramme {
+        padding: 35px;
+        margin-bottom: 45px; } }
+    #content .ramme.viktig, body .ramme.viktig {
+      color: #212d39 !important;
+      background-color: #f0dae4 !important;
+      border: 1px solid #bd5b87 !important; }
+    #content .ramme.info, body .ramme.info {
+      color: #212d39 !important;
+      background-color: #dae4f0 !important;
+      border: 1px solid #5b87bd !important; }
+    #content .ramme.notat, body .ramme.notat {
+      color: #212d39 !important;
+      background-color: #eff0da !important;
+      border: 1px solid #b8bd5b !important; }
+  #content table.liste, body table.liste, #content ul, body ul, #content ol, body ol {
+    font-size: 17.28px;
     margin-bottom: 30px;
-    font-size: 28.8px;
-    font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-    h1 .lead, h1 strong, h1.title .lead, h1.title strong {
-      font-size: 32px; }
-  h2 {
-    font-weight: bold;
-    margin-bottom: 25px;
-    font-size: 25.6px;
-    font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-    h2 .lead, h2 strong {
-      font-size: 28.8px; }
-  h3 {
-    font-weight: bold;
-    margin-bottom: 20px;
-    font-size: 22.4px;
-    font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-    h3 .lead, h3 strong {
-      font-size: 25.6px; }
-  h4 {
-    font-weight: bold;
-    margin-bottom: 15px;
-    font-size: 17.6px;
-    font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-    h4 .lead, h4 strong {
-      font-size: 20.8px; }
-  h5 {
-    font-weight: bold;
-    margin-bottom: 15px;
-    font-size: 17.6px;
-    font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-    h5 .lead, h5 strong {
-      font-size: 20.8px; }
-  h6 {
-    font-weight: bold;
-    margin-bottom: 15px;
-    font-size: 14.4px;
-    font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-    h6 .lead, h6 strong {
-      font-size: 19.2px; }
-  p {
-    margin-bottom: 36px;
-    font-size: 14.4px; }
-    p .lead, p strong {
-      font-size: 21.6px; } }
-
-@media all and (min-width: 768px) {
-  body {
-    padding-right: 70px;
-    padding-left: 70px; }
-  .generisk-ramme {
-    padding: 35px;
-    margin-bottom: 45px; }
-  figure, .imggroup {
-    margin-bottom: 45px; }
-    figure img, .imggroup img {
-      max-width: 70%; }
-    figure figcaption, figure .caption, .imggroup figcaption, .imggroup .caption {
-      min-height: 25px; }
-  h1, h1.title {
-    font-weight: bold;
-    margin-bottom: 40px;
-    font-size: 36px;
-    font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-    h1 .lead, h1 strong, h1.title .lead, h1.title strong {
-      font-size: 40px; }
-  h2 {
-    font-weight: bold;
+    margin-left: 18px; }
+    @media (min-width: 640px) and (max-width: 767.98px) {
+      #content table.liste, body table.liste, #content ul, body ul, #content ol, body ol {
+        font-size: 14.4px;
+        margin-bottom: 36px;
+        margin-left: 20px; } }
+    @media (min-width: 768px) {
+      #content table.liste, body table.liste, #content ul, body ul, #content ol, body ol {
+        font-size: 18px;
+        margin-bottom: 45px;
+        margin-left: 25px; } }
+    #content table.liste .listepunkt-punktmerke-innhold, body table.liste .listepunkt-punktmerke-innhold, #content table.liste li, body table.liste li, #content ul .listepunkt-punktmerke-innhold, body ul .listepunkt-punktmerke-innhold, #content ul li, body ul li, #content ol .listepunkt-punktmerke-innhold, body ol .listepunkt-punktmerke-innhold, #content ol li, body ol li {
+      margin-bottom: 16px;
+      margin-left: 20px; }
+      @media (min-width: 640px) and (max-width: 767.98px) {
+        #content table.liste .listepunkt-punktmerke-innhold, body table.liste .listepunkt-punktmerke-innhold, #content table.liste li, body table.liste li, #content ul .listepunkt-punktmerke-innhold, body ul .listepunkt-punktmerke-innhold, #content ul li, body ul li, #content ol .listepunkt-punktmerke-innhold, body ol .listepunkt-punktmerke-innhold, #content ol li, body ol li {
+          margin-bottom: 20px; } }
+      @media (min-width: 768px) {
+        #content table.liste .listepunkt-punktmerke-innhold, body table.liste .listepunkt-punktmerke-innhold, #content table.liste li, body table.liste li, #content ul .listepunkt-punktmerke-innhold, body ul .listepunkt-punktmerke-innhold, #content ul li, body ul li, #content ol .listepunkt-punktmerke-innhold, body ol .listepunkt-punktmerke-innhold, #content ol li, body ol li {
+          margin-bottom: 24px; } }
+  #content ul, body ul {
+    padding-inline-start: 0; }
+    #content ul li, body ul li {
+      margin-left: 0; }
+    #content ul.plain, body ul.plain {
+      list-style-type: none; }
+  #content .ordliste dl dt, body .ordliste dl dt {
     margin-bottom: 30px;
-    font-size: 32px;
-    font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-    h2 .lead, h2 strong {
-      font-size: 36px; }
-  h3 {
-    font-weight: bold;
-    margin-bottom: 25px;
-    font-size: 28px;
-    font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-    h3 .lead, h3 strong {
-      font-size: 32px; }
-  h4 {
-    font-weight: bold;
-    margin-bottom: 20px;
-    font-size: 22px;
-    font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-    h4 .lead, h4 strong {
-      font-size: 26px; }
-  h5 {
-    font-weight: bold;
-    margin-bottom: 20px;
-    font-size: 22px;
-    font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-    h5 .lead, h5 strong {
-      font-size: 26px; }
-  h6 {
-    font-weight: bold;
-    margin-bottom: 20px;
-    font-size: 18px;
-    font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-    h6 .lead, h6 strong {
-      font-size: 24px; }
-  p {
-    margin-bottom: 45px;
-    font-size: 18px; }
-    p .lead, p strong {
-      font-size: 27px; } }
+    font-size: 17.28px;
+    font-family: Arial, sans-serif;
+    zoom: 1; }
+    #content .ordliste dl dt.lead, body .ordliste dl dt.lead {
+      font-size: 25.92px; }
+    @media (max-width: 639.98px) {
+      #content .ordliste dl dt, body .ordliste dl dt {
+        word-break: break-word; } }
+    @media (min-width: 640px) and (max-width: 767.98px) {
+      #content .ordliste dl dt, body .ordliste dl dt {
+        margin-bottom: 36px;
+        font-size: 14.4px;
+        font-family: Arial, sans-serif;
+        zoom: 1; }
+        #content .ordliste dl dt.lead, body .ordliste dl dt.lead {
+          font-size: 21.6px; } }
+  @media (min-width: 640px) and (max-width: 767.98px) and (max-width: 639.98px) {
+    #content .ordliste dl dt, body .ordliste dl dt {
+      word-break: break-word; } }
+    @media (min-width: 768px) {
+      #content .ordliste dl dt, body .ordliste dl dt {
+        margin-bottom: 45px;
+        font-size: 18px;
+        font-family: Arial, sans-serif;
+        zoom: 1; }
+        #content .ordliste dl dt.lead, body .ordliste dl dt.lead {
+          font-size: 27px; } }
+  @media (min-width: 768px) and (max-width: 639.98px) {
+    #content .ordliste dl dt, body .ordliste dl dt {
+      word-break: break-word; } }
 
-.page-normal,
-.page-special,
-.page-front {
-  display: block;
-  font-weight: bold;
-  page-break-before: always; }
-
-.colophon .precedingemptyline, [*|type="colophon"] .precedingemptyline {
+/* End Core.SCSS */
+/* Begin Html.SCSS */
+body .colophon .precedingemptyline, body [*|type="colophon"] .precedingemptyline {
   margin-top: 1.5rem !important; }
 
-span.sentence a:hover,
-span.lic a:hover,
-span.page-normal a:hover,
-span.page-special a:hover,
-span.page-front a:hover,
-h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover,
-div.doctitle a:hover,
-div.docauthor a:hover,
-div.imggroup div.caption a:hover,
-table tr td a:hover,
-ul a:hover,
-p a:hover {
+body span.sentence a:hover,
+body span.lic a:hover,
+body span.page-normal a:hover,
+body span.page-special a:hover,
+body span.page-front a:hover,
+body h1 a:hover, body h2 a:hover, body h3 a:hover, body h4 a:hover, body h5 a:hover, body h6 a:hover, body #content table tr th a:hover, #content table tr body th a:hover, body table tr th a:hover,
+body div.doctitle a:hover,
+body div.docauthor a:hover,
+body div.imggroup div.caption a:hover,
+body table tr td a:hover,
+body ul a:hover,
+body p a:hover,
+body #content blockquote a:hover,
+#content body blockquote a:hover,
+body blockquote a:hover {
   text-decoration: none; }
 
-ul.plain {
+body ul.plain {
   list-style-type: none; }
+
+/* End Html.SCSS */

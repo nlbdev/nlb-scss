@@ -27,5 +27,8 @@
     "load-grunt-tasks": "^4.0.0",
     "node-sass": "^4.11.0",
     "pixrem": "^5.0.0"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1"
   }
 }

@@ -1,27 +1,8 @@
-// Imports
-@import "bootstrap/functions";
-@import "variables";
-@import "bootstrap/mixins";
-@import "bootstrap/root";
-@import "bootstrap/reboot";
-@import "bootstrap/utilities";
-@import "bootstrap/type";
-@import "bootstrap/grid";
-@import "bootstrap/images";
-@import "bootstrap/tables";
+@charset "UTF-8";
 
 @import "core";
 
-.page-normal, 
-.page-special, 
-.page-front {
-    @extend .mr-3, .mt-3, .mb-5;
-
-    display: inline-block !important;
-    font-weight: $font-weight-bold;
-    font-size: $font-size-lg;
-}
-
+/* Begin Ncc.SCSS */
 h1, h2, h3, h4, h5, h6 {
     @extend .mt-3;
 
@@ -39,4 +20,4 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
-
+/* End Ncc.SCSS */
