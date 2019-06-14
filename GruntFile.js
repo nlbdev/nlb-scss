@@ -15,7 +15,8 @@ module.exports = function (grunt) {
 					'dist/css/epub.css': 'src/scss/epub.scss',
 					'dist/css/html.css': 'src/scss/html.scss',
 					'dist/css/ncc.css': 'src/scss/ncc.scss',
-					'dist/css/nettleserbok.css': 'src/scss/nettleserbok.scss'
+					'dist/css/nettleserbok.css': 'src/scss/nettleserbok.scss',
+					'docs/assets/css/styles.css': 'src/scss/docs.scss'
 				}
 			}
 		},
