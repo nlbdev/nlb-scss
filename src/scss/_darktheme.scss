@@ -36,7 +36,8 @@
     /* Tables
      * ---------------------------------------------------------- */
     table {
-        @extend .table-responsive, .bg-dark, .text-light;
+        @extend .table-responsive, .text-light;
+        background-color: inherit !important;
 
         ul {
             padding-inline-start: 0;

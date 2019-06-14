@@ -1,7 +1,8 @@
+/*! NLB Stylesheets | v1 | 30.06.2019 */
 /* Begin Core.SCSS */
 /* Imports
  * ---------------------------------------------------------- */
-/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+/* normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
 /**
@@ -665,7 +666,7 @@ button.bg-light:hover,
 button.bg-light:focus {
   background-color: #dae0e5 !important; }
 
-.bg-dark, #content.theme__dark table {
+.bg-dark {
   background-color: #212d39 !important; }
 
 a.bg-dark:hover, a.bg-dark:focus,
@@ -693,8 +694,8 @@ button#content.theme__dark:focus {
   border: 1px solid #90989f !important; }
 
 .border-top, #content .page-normal,
-#content .page-special,
-#content .page-front {
+#content .page-front,
+#content .page-special {
   border-top: 1px solid #90989f !important; }
 
 .border-right {
@@ -791,8 +792,8 @@ button#content.theme__dark:focus {
   content: ""; }
 
 .d-none, #content .page-normal,
-#content .page-special,
-#content .page-front {
+#content .page-front,
+#content .page-special {
   display: none !important; }
 
 .d-inline {
@@ -827,8 +828,8 @@ button#content.theme__dark:focus {
   .d-sm-inline-block {
     display: inline-block !important; }
   .d-sm-block, #content .page-normal,
-  #content .page-special,
-  #content .page-front {
+  #content .page-front,
+  #content .page-special {
     display: block !important; }
   .d-sm-table {
     display: table !important; }
@@ -1596,8 +1597,8 @@ button#content.theme__dark:focus {
   margin-right: 2.25rem !important; }
 
 .mb-4, #content .page-normal,
-#content .page-special,
 #content .page-front,
+#content .page-special,
 .my-4 {
   margin-bottom: 2.25rem !important; }
 
@@ -1609,8 +1610,8 @@ button#content.theme__dark:focus {
   margin: 4.5rem !important; }
 
 .mt-5, #content .page-normal,
-#content .page-special,
 #content .page-front,
+#content .page-special,
 .my-5 {
   margin-top: 4.5rem !important; }
 
@@ -1687,8 +1688,8 @@ button#content.theme__dark:focus {
   padding: 1.5rem !important; }
 
 .pt-3, #content .page-normal,
-#content .page-special,
 #content .page-front,
+#content .page-special,
 .py-3 {
   padding-top: 1.5rem !important; }
 
@@ -2897,8 +2898,8 @@ button#content.theme__dark:focus {
   text-align: left !important; }
 
 .text-right, #content .page-normal,
-#content .page-special,
-#content .page-front {
+#content .page-front,
+#content .page-special {
   text-align: right !important; }
 
 .text-center, #content figure, #content .imggroup {
@@ -4079,6 +4080,8 @@ body {
   margin-right: auto;
   margin-left: auto;
   max-width: 100%;
+  padding-right: 20px;
+  padding-left: 20px;
   /* Paging
      * ---------------------------------------------------------- */
   /* Typography
@@ -4089,10 +4092,6 @@ body {
      * ---------------------------------------------------------- */
   /* Lists
      * ---------------------------------------------------------- */ }
-  @media (max-width: 639.98px) {
-    #content {
-      padding-right: 20px;
-      padding-left: 20px; } }
   @media (min-width: 640px) and (max-width: 767.98px) {
     #content {
       padding-right: 45px;
@@ -4121,27 +4120,29 @@ body {
       clear: both;
       content: ""; }
   #content .page-normal,
-  #content .page-special,
-  #content .page-front {
+  #content .page-front,
+  #content .page-special {
     font-weight: bold;
     page-break-before: always; }
   #content strong {
     font-weight: bold; }
+  #content h1.title {
+    margin-top: 10px; }
   #content h1, #content h1.title {
     font-weight: bold;
     margin-bottom: 20px;
-    font-size: 34.56px;
+    font-size: 35.64px;
     font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
     #content h1 .lead, #content h1.title .lead {
-      font-size: 38.4px; }
+      font-size: 39.6px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content h1, #content h1.title {
         font-weight: bold;
         margin-bottom: 30px;
-        font-size: 28.8px;
+        font-size: 32.4px;
         font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
         #content h1 .lead, #content h1.title .lead {
-          font-size: 32px; } }
+          font-size: 36px; } }
     @media (min-width: 1024px) {
       #content h1, #content h1.title {
         font-weight: bold;
@@ -4153,18 +4154,18 @@ body {
   #content h2 {
     font-weight: bold;
     margin-bottom: 20px;
-    font-size: 30.72px;
+    font-size: 31.68px;
     font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
     #content h2 .lead {
-      font-size: 34.56px; }
+      font-size: 35.64px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content h2 {
         font-weight: bold;
         margin-bottom: 25px;
-        font-size: 25.6px;
+        font-size: 28.8px;
         font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
         #content h2 .lead {
-          font-size: 28.8px; } }
+          font-size: 32.4px; } }
     @media (min-width: 1024px) {
       #content h2 {
         font-weight: bold;
@@ -4176,18 +4177,18 @@ body {
   #content h3 {
     font-weight: bold;
     margin-bottom: 17px;
-    font-size: 26.88px;
+    font-size: 27.72px;
     font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
     #content h3 .lead {
-      font-size: 30.72px; }
+      font-size: 31.68px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content h3 {
         font-weight: bold;
         margin-bottom: 20px;
-        font-size: 22.4px;
+        font-size: 25.2px;
         font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
         #content h3 .lead {
-          font-size: 25.6px; } }
+          font-size: 28.8px; } }
     @media (min-width: 1024px) {
       #content h3 {
         font-weight: bold;
@@ -4199,18 +4200,18 @@ body {
   #content h4 {
     font-weight: bold;
     margin-bottom: 14px;
-    font-size: 21.12px;
+    font-size: 21.78px;
     font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
     #content h4 .lead {
-      font-size: 24.96px; }
+      font-size: 25.74px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content h4 {
         font-weight: bold;
         margin-bottom: 15px;
-        font-size: 17.6px;
+        font-size: 19.8px;
         font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
         #content h4 .lead {
-          font-size: 20.8px; } }
+          font-size: 23.4px; } }
     @media (min-width: 1024px) {
       #content h4 {
         font-weight: bold;
@@ -4222,18 +4223,18 @@ body {
   #content h5 {
     font-weight: bold;
     margin-bottom: 14px;
-    font-size: 21.12px;
+    font-size: 21.78px;
     font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
     #content h5 .lead {
-      font-size: 24.96px; }
+      font-size: 25.74px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content h5 {
         font-weight: bold;
         margin-bottom: 15px;
-        font-size: 17.6px;
+        font-size: 19.8px;
         font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
         #content h5 .lead {
-          font-size: 20.8px; } }
+          font-size: 23.4px; } }
     @media (min-width: 1024px) {
       #content h5 {
         font-weight: bold;
@@ -4245,18 +4246,18 @@ body {
   #content h6, #content table tr th {
     font-weight: bold;
     margin-bottom: 13px;
-    font-size: 17.28px;
+    font-size: 17.82px;
     font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
     #content h6 .lead, #content table tr th .lead {
-      font-size: 23.04px; }
+      font-size: 23.76px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content h6, #content table tr th {
         font-weight: bold;
         margin-bottom: 15px;
-        font-size: 14.4px;
+        font-size: 16.2px;
         font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
         #content h6 .lead, #content table tr th .lead {
-          font-size: 19.2px; } }
+          font-size: 21.6px; } }
     @media (min-width: 1024px) {
       #content h6, #content table tr th {
         font-weight: bold;
@@ -4265,47 +4266,47 @@ body {
         font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
         #content h6 .lead, #content table tr th .lead {
           font-size: 24px; } }
-  #content p, #content blockquote, #content .line {
+  #content p, #content blockquote, #content div.line {
     margin-bottom: 30px;
-    font-size: 17.28px;
+    font-size: 17.82px;
     font-family: Arial, sans-serif;
     zoom: 1; }
-    #content p.lead, #content blockquote.lead, #content .line.lead {
-      font-size: 25.92px; }
+    #content p.lead, #content blockquote.lead, #content div.line.lead {
+      font-size: 26.73px; }
     @media (max-width: 639.98px) {
-      #content p, #content blockquote, #content .line {
+      #content p, #content blockquote, #content div.line {
         word-break: break-word; } }
     @media (min-width: 768px) and (max-width: 1023.98px) {
-      #content p, #content blockquote, #content .line {
+      #content p, #content blockquote, #content div.line {
         margin-bottom: 36px;
-        font-size: 14.4px;
+        font-size: 16.2px;
         font-family: Arial, sans-serif;
         zoom: 1; }
-        #content p.lead, #content blockquote.lead, #content .line.lead {
-          font-size: 21.6px; } }
+        #content p.lead, #content blockquote.lead, #content div.line.lead {
+          font-size: 24.3px; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
-    #content p, #content blockquote, #content .line {
+    #content p, #content blockquote, #content div.line {
       word-break: break-word; } }
     @media (min-width: 1024px) {
-      #content p, #content blockquote, #content .line {
+      #content p, #content blockquote, #content div.line {
         margin-bottom: 45px;
         font-size: 18px;
         font-family: Arial, sans-serif;
         zoom: 1; }
-        #content p.lead, #content blockquote.lead, #content .line.lead {
+        #content p.lead, #content blockquote.lead, #content div.line.lead {
           font-size: 27px; } }
   @media (min-width: 1024px) and (max-width: 639.98px) {
-    #content p, #content blockquote, #content .line {
+    #content p, #content blockquote, #content div.line {
       word-break: break-word; } }
   #content img {
     margin-bottom: 1.5rem !important; }
   #content figure, #content .imggroup {
     width: 100%;
     margin-bottom: 30px; }
-    @media (min-width: 640px) and (max-width: 767.98px) {
+    @media (min-width: 768px) and (max-width: 1023.98px) {
       #content figure, #content .imggroup {
         margin-bottom: 36px; } }
-    @media (min-width: 768px) {
+    @media (min-width: 1024px) {
       #content figure, #content .imggroup {
         margin-bottom: 45px; } }
     #content figure img, #content .imggroup img {
@@ -4317,10 +4318,10 @@ body {
       color: #212d39;
       min-height: 15px;
       margin-top: 15px; }
-      @media (min-width: 640px) and (max-width: 767.98px) {
+      @media (min-width: 768px) and (max-width: 1023.98px) {
         #content figure figcaption, #content figure .caption, #content .imggroup figcaption, #content .imggroup .caption {
           margin-top: 20px; } }
-      @media (min-width: 768px) {
+      @media (min-width: 1024px) {
         #content figure figcaption, #content figure .caption, #content .imggroup figcaption, #content .imggroup .caption {
           min-height: 25px; } }
   #content table {
@@ -4331,29 +4332,29 @@ body {
       width: 100%; }
     #content table tr td {
       margin-bottom: 30px;
-      font-size: 17.28px;
+      font-size: 17.82px;
       font-family: Arial, sans-serif;
       zoom: 1;
       margin: 12px;
       word-break: normal !important; }
       #content table tr td.lead {
-        font-size: 25.92px; }
+        font-size: 26.73px; }
       @media (max-width: 639.98px) {
         #content table tr td {
           word-break: break-word; } }
-      @media (min-width: 640px) and (max-width: 767.98px) {
+      @media (min-width: 768px) and (max-width: 1023.98px) {
         #content table tr td {
           margin-bottom: 36px;
-          font-size: 14.4px;
+          font-size: 16.2px;
           font-family: Arial, sans-serif;
           zoom: 1;
           margin: 15px; }
           #content table tr td.lead {
-            font-size: 21.6px; } }
-  @media (min-width: 640px) and (max-width: 767.98px) and (max-width: 639.98px) {
+            font-size: 24.3px; } }
+  @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
     #content table tr td {
       word-break: break-word; } }
-      @media (min-width: 768px) {
+      @media (min-width: 1024px) {
         #content table tr td {
           margin-bottom: 45px;
           font-size: 18px;
@@ -4362,34 +4363,34 @@ body {
           margin: 20px; }
           #content table tr td.lead {
             font-size: 27px; } }
-  @media (min-width: 768px) and (max-width: 639.98px) {
+  @media (min-width: 1024px) and (max-width: 639.98px) {
     #content table tr td {
       word-break: break-word; } }
     #content table caption {
       color: #212d39;
       margin: 12px;
       margin-bottom: 30px;
-      font-size: 17.28px;
+      font-size: 17.82px;
       font-family: Arial, sans-serif;
       zoom: 1; }
       #content table caption.lead {
-        font-size: 25.92px; }
+        font-size: 26.73px; }
       @media (max-width: 639.98px) {
         #content table caption {
           word-break: break-word; } }
-      @media (min-width: 640px) and (max-width: 767.98px) {
+      @media (min-width: 768px) and (max-width: 1023.98px) {
         #content table caption {
           margin: 15px;
           margin-bottom: 36px;
-          font-size: 14.4px;
+          font-size: 16.2px;
           font-family: Arial, sans-serif;
           zoom: 1; }
           #content table caption.lead {
-            font-size: 21.6px; } }
-  @media (min-width: 640px) and (max-width: 767.98px) and (max-width: 639.98px) {
+            font-size: 24.3px; } }
+  @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
     #content table caption {
       word-break: break-word; } }
-      @media (min-width: 768px) {
+      @media (min-width: 1024px) {
         #content table caption {
           margin: 20px;
           margin-bottom: 45px;
@@ -4398,17 +4399,17 @@ body {
           zoom: 1; }
           #content table caption.lead {
             font-size: 27px; } }
-  @media (min-width: 768px) and (max-width: 639.98px) {
+  @media (min-width: 1024px) and (max-width: 639.98px) {
     #content table caption {
       word-break: break-word; } }
     #content table.liste, #content table.imggroup {
       border: none !important; }
       #content table.liste tr td, #content table.imggroup tr td {
-        font-size: 17.28px; }
-        @media (min-width: 640px) and (max-width: 767.98px) {
+        font-size: 17.82px; }
+        @media (min-width: 768px) and (max-width: 1023.98px) {
           #content table.liste tr td, #content table.imggroup tr td {
-            font-size: 14.4px; } }
-        @media (min-width: 768px) {
+            font-size: 16.2px; } }
+        @media (min-width: 1024px) {
           #content table.liste tr td, #content table.imggroup tr td {
             font-size: 18px; } }
   #content .generisk-ramme {
@@ -4417,7 +4418,11 @@ body {
     border: 1px solid #B1C900 !important;
     border-radius: 5px;
     padding: 20px;
-    margin-bottom: 30px; }
+    margin-bottom: 30px;
+    margin-bottom: 30px;
+    font-size: 17.82px;
+    font-family: Arial, sans-serif;
+    zoom: 1; }
     #content .generisk-ramme .sentence {
       color: inherit !important; }
     @media (min-width: 640px) and (max-width: 767.98px) {
@@ -4431,6 +4436,33 @@ body {
     @media (max-width: 639.98px) {
       #content .generisk-ramme {
         word-break: break-word; } }
+    #content .generisk-ramme.lead {
+      font-size: 26.73px; }
+    @media (max-width: 639.98px) {
+      #content .generisk-ramme {
+        word-break: break-word; } }
+    @media (min-width: 768px) and (max-width: 1023.98px) {
+      #content .generisk-ramme {
+        margin-bottom: 36px;
+        font-size: 16.2px;
+        font-family: Arial, sans-serif;
+        zoom: 1; }
+        #content .generisk-ramme.lead {
+          font-size: 24.3px; } }
+  @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
+    #content .generisk-ramme {
+      word-break: break-word; } }
+    @media (min-width: 1024px) {
+      #content .generisk-ramme {
+        margin-bottom: 45px;
+        font-size: 18px;
+        font-family: Arial, sans-serif;
+        zoom: 1; }
+        #content .generisk-ramme.lead {
+          font-size: 27px; } }
+  @media (min-width: 1024px) and (max-width: 639.98px) {
+    #content .generisk-ramme {
+      word-break: break-word; } }
   #content .ramme {
     border-radius: 5px;
     padding: 20px;
@@ -4458,15 +4490,20 @@ body {
       background-color: #eff0da !important;
       border: 1px solid #b8bd5b !important; }
   #content table.liste, #content ul, #content ol {
-    font-size: 17.28px;
+    font-size: 17.82px;
     margin-bottom: 30px;
     margin-left: 18px; }
     @media (min-width: 640px) and (max-width: 767.98px) {
       #content table.liste, #content ul, #content ol {
-        font-size: 14.4px;
-        margin-bottom: 36px;
+        font-size: 17.82px;
+        margin-bottom: 30px;
         margin-left: 20px; } }
-    @media (min-width: 768px) {
+    @media (min-width: 768px) and (max-width: 1023.98px) {
+      #content table.liste, #content ul, #content ol {
+        font-size: 16.2px;
+        margin-bottom: 36px;
+        margin-left: 25px; } }
+    @media (min-width: 1024px) {
       #content table.liste, #content ul, #content ol {
         font-size: 18px;
         margin-bottom: 45px;
@@ -4488,22 +4525,22 @@ body {
       list-style-type: none; }
   #content .ordliste dl dt {
     margin-bottom: 30px;
-    font-size: 17.28px;
+    font-size: 17.82px;
     font-family: Arial, sans-serif;
     zoom: 1; }
     #content .ordliste dl dt.lead {
-      font-size: 25.92px; }
+      font-size: 26.73px; }
     @media (max-width: 639.98px) {
       #content .ordliste dl dt {
         word-break: break-word; } }
     @media (min-width: 640px) and (max-width: 767.98px) {
       #content .ordliste dl dt {
         margin-bottom: 36px;
-        font-size: 14.4px;
+        font-size: 16.2px;
         font-family: Arial, sans-serif;
         zoom: 1; }
         #content .ordliste dl dt.lead {
-          font-size: 21.6px; } }
+          font-size: 24.3px; } }
   @media (min-width: 640px) and (max-width: 767.98px) and (max-width: 639.98px) {
     #content .ordliste dl dt {
       word-break: break-word; } }
@@ -4572,10 +4609,12 @@ body {
       color: #fff !important;
       background-color: #48392b !important;
       border: 1px solid #ae9277 !important; }
-  #content.theme__dark table ul {
-    padding-inline-start: 0; }
-    #content.theme__dark table ul li {
-      margin-left: 0; }
+  #content.theme__dark table {
+    background-color: inherit !important; }
+    #content.theme__dark table ul {
+      padding-inline-start: 0; }
+      #content.theme__dark table ul li {
+        margin-left: 0; }
 
 /* End DarkTheme.SCSS */
 /* Begin Nettleserbok.SCSS */
@@ -4598,7 +4637,7 @@ body .oppgaver .oppgaver-li-oppgavetekst, body .oppgaver .underoppgaver .underop
       font-size: 18px; } }
 
 body .oppgaver .sentence {
-  font-size: 17.28px; }
+  font-size: 17.82px; }
   @media (min-width: 640px) and (max-width: 767.98px) {
     body .oppgaver .sentence {
       margin-bottom: 36px; } }
@@ -4620,3 +4659,5 @@ body nav#toc_container {
   max-width: 100%; }
 
 /* End Nettleserbok.SCSS */
+
+/*# sourceMappingURL=nettleserbok.css.map */

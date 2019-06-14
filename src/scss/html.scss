@@ -15,12 +15,15 @@ body {
             @extend .my-0;
         }
     }
+ 
+    .page-front, .pagenum {
+        display: none !important;
+    }
     
     span.sentence, 
     span.lic, 
     span.page-normal, 
-    span.page-special, 
-    span.page-front, 
+    span.page-special,  
     h1, h2, h3, h4, h5, h6, 
     div.doctitle, 
     div.docauthor,

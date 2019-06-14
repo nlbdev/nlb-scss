@@ -1,3 +1,4 @@
+/*! NLB Stylesheets | v1 | 30.06.2019 */
 @charset "UTF-8";
 /* Begin Core.SCSS */
 
@@ -28,10 +29,8 @@ body {
     @include make-container();
     max-width: 100%;
 
-    @include media-breakpoint-only('xs') {
-        padding-right: 20px;
-        padding-left: 20px;
-    }
+    padding-right: 20px;
+    padding-left: 20px;
 
     @include media-breakpoint-only('sm') {
         padding-right: 45px;
@@ -76,9 +75,9 @@ body {
         width: 100%;
     }
     
-    .page-normal, 
-    .page-special, 
-    .page-front {
+    .page-normal,
+    .page-front, 
+    .page-special {
         @extend .border-top, .d-none, .d-sm-block, .pt-3, .mt-5, .mb-4, .text-right;
     
         font-weight: bold;
@@ -94,7 +93,7 @@ body {
     blockquote {
         @extend p, .blockquote;
     }
-    
+    h1.title { margin-top: 10px; }
     h1, h1.title {
         @include nlb-set-header-font($nlb-h1-margin-bottom-sm, $nlb-h1-font-family, $nlb-h1-font-size-sm, $nlb-h1-font-size-lead-sm);
     
@@ -161,7 +160,7 @@ body {
             @include nlb-set-header-font($nlb-h6-margin-bottom-lg, $nlb-h6-font-family, $nlb-h6-font-size-lg, $nlb-h6-font-size-lead-lg);
         }
     }
-    p, .line {
+    p, div.line {
         @include nlb-set-paragraph-font($nlb-p-margin-bottom-sm, $nlb-p-font-size-sm, $nlb-p-font-size-lead-sm);
     
         @include media-breakpoint-only('md') {
@@ -185,11 +184,11 @@ body {
         width: 100%;
         margin-bottom: 30px;
     
-        @include media-breakpoint-only('sm') {
+        @include media-breakpoint-only('md') {
             margin-bottom: 36px;
         }
     
-        @include media-breakpoint-up('md') {
+        @include media-breakpoint-up('lg') {
             margin-bottom: 45px;
         }
     
@@ -208,11 +207,11 @@ body {
             min-height: 15px;
             margin-top: 15px;
     
-            @include media-breakpoint-only('sm') {
+            @include media-breakpoint-only('md') {
                 margin-top: 20px;
             }
         
-            @include media-breakpoint-up('md') {
+            @include media-breakpoint-up('lg') {
                 min-height: 25px;
             }
         }
@@ -241,12 +240,12 @@ body {
             margin: 12px;
             word-break: normal !important;
         
-            @include media-breakpoint-only('sm') {
+            @include media-breakpoint-only('md') {
                 @include nlb-set-paragraph-font($nlb-p-margin-bottom-md, $nlb-p-font-size-md, $nlb-p-font-size-lead-md);
                 margin: 15px;
             }
         
-            @include media-breakpoint-up('md') {
+            @include media-breakpoint-up('lg') {
                 @include nlb-set-paragraph-font($nlb-p-margin-bottom-lg, $nlb-p-font-size-lg, $nlb-p-font-size-lead-lg);
                 margin: 20px;
             }
@@ -258,12 +257,12 @@ body {
             margin: 12px;
             @include nlb-set-paragraph-font($nlb-p-margin-bottom-sm, $nlb-p-font-size-sm, $nlb-p-font-size-lead-sm);
         
-            @include media-breakpoint-only('sm') {
+            @include media-breakpoint-only('md') {
                 margin: 15px;
                 @include nlb-set-paragraph-font($nlb-p-margin-bottom-md, $nlb-p-font-size-md, $nlb-p-font-size-lead-md);
             }
         
-            @include media-breakpoint-up('md') {
+            @include media-breakpoint-up('lg') {
                 margin: 20px;
                 @include nlb-set-paragraph-font($nlb-p-margin-bottom-lg, $nlb-p-font-size-lg, $nlb-p-font-size-lead-lg);
             }
@@ -275,12 +274,12 @@ body {
         
             tr td {
                 font-size: $nlb-p-font-size-sm;
-    
-                @include media-breakpoint-only('sm') {
+            
+                @include media-breakpoint-only('md') {
                     font-size: $nlb-p-font-size-md;
                 }
             
-                @include media-breakpoint-up('md') {
+                @include media-breakpoint-up('lg') {
                     font-size: $nlb-p-font-size-lg;
                 }
             }
@@ -294,6 +293,16 @@ body {
     
         @include media-breakpoint-only('xs') {
             word-break: break-word;
+        }
+
+        @include nlb-set-paragraph-font($nlb-p-margin-bottom-sm, $nlb-p-font-size-sm, $nlb-p-font-size-lead-sm);
+    
+        @include media-breakpoint-only('md') {
+            @include nlb-set-paragraph-font($nlb-p-margin-bottom-md, $nlb-p-font-size-md, $nlb-p-font-size-lead-md);
+        }
+    
+        @include media-breakpoint-up('lg') {
+            @include nlb-set-paragraph-font($nlb-p-margin-bottom-lg, $nlb-p-font-size-lg, $nlb-p-font-size-lead-lg);
         }
     }
 
@@ -321,12 +330,18 @@ body {
         margin-left: 18px;
 
         @include media-breakpoint-only('sm') {
-            font-size: $nlb-p-font-size-md;
-            margin-bottom: $nlb-p-margin-bottom-md;
+            font-size: $nlb-p-font-size-sm;
+            margin-bottom: $nlb-p-margin-bottom-sm;
             margin-left: 20px;
         }
     
-        @include media-breakpoint-up('md') {
+        @include media-breakpoint-only('md') {
+            font-size: $nlb-p-font-size-md;
+            margin-bottom: $nlb-p-margin-bottom-md;
+            margin-left: 25px;
+        }
+    
+        @include media-breakpoint-up('lg') {
             font-size: $nlb-p-font-size-lg;
             margin-bottom: $nlb-p-margin-bottom-lg;
             margin-left: 25px;

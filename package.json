@@ -16,9 +16,10 @@
     "url": "https://github.com/nlbdev/scss-example/issues"
   },
   "homepage": "https://github.com/nlbdev/scss-example#readme",
-  "devDependencies": {
-    "autoprefixer": "^9.5.0",
+  "dependencies": {
+    "autoprefixer": "^9.6.0",
     "cssnano": "^4.1.10",
+    "cssnext": "^1.8.4",
     "grunt": "^1.0.4",
     "grunt-contrib-clean": "^2.0.0",
     "grunt-contrib-watch": "^1.1.0",
@@ -26,9 +27,13 @@
     "grunt-sass": "^3.0.2",
     "load-grunt-tasks": "^4.0.0",
     "node-sass": "^4.11.0",
-    "pixrem": "^5.0.0"
-  },
-  "dependencies": {
-    "normalize.css": "^8.0.1"
+    "pixrem": "^5.0.0",
+    "precss": "^4.0.0",
+    "postcss": "^7.0.17",
+    "css-mqpacker": "^7.0.0",
+    "normalize.css": "^8.0.1",
+    "postcss-clean": "^1.1.0",
+    "postcss-import": "^12.0.1",
+    "postcss-scss": "^2.0.0"
   }
 }

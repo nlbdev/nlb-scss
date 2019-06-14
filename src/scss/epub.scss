@@ -3,6 +3,7 @@
 @import "core";
 
 /* Begin Epub.SCSS */
-
-
+body {
+    @extend #content;
+}
 /* End Epub.SCSS */

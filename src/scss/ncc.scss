@@ -3,6 +3,29 @@
 @import "core";
 
 /* Begin Ncc.SCSS */
+body {
+    @include make-container();
+    max-width: 100%;
+
+    padding-right: 20px;
+    padding-left: 20px;
+
+    @include media-breakpoint-only('sm') {
+        padding-right: 45px;
+        padding-left: 45px;
+    }
+
+    @include media-breakpoint-only('md') {
+        padding-right: 70px;
+        padding-left: 70px;
+    }
+
+    @include media-breakpoint-up('lg') {
+        padding-right: 70px;
+        padding-left: 70px;
+    }
+}
+
 h1, h2, h3, h4, h5, h6 {
     @extend .mt-3;
 
@@ -18,6 +41,13 @@ h1, h2, h3, h4, h5, h6 {
     a {
         color: $black;
     }
+}
+
+
+.page-normal, 
+.page-special, 
+.page-front {
+    margin: 20px;
 }
 
 /* End Ncc.SCSS */

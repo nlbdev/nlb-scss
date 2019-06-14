@@ -1,7 +1,8 @@
+/*! NLB Stylesheets | v1 | 30.06.2019 */
 /* Begin Core.SCSS */
 /* Imports
  * ---------------------------------------------------------- */
-/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+/* normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
 /**
@@ -691,10 +692,10 @@ button.bg-night:focus {
   border: 1px solid #90989f !important; }
 
 .border-top, #content .page-normal, body .page-normal,
-#content .page-special,
-body .page-special,
 #content .page-front,
-body .page-front {
+body .page-front,
+#content .page-special,
+body .page-special {
   border-top: 1px solid #90989f !important; }
 
 .border-right {
@@ -791,10 +792,10 @@ body .page-front {
   content: ""; }
 
 .d-none, #content .page-normal, body .page-normal,
-#content .page-special,
-body .page-special,
 #content .page-front,
-body .page-front {
+body .page-front,
+#content .page-special,
+body .page-special {
   display: none !important; }
 
 .d-inline {
@@ -829,10 +830,10 @@ body .page-front {
   .d-sm-inline-block {
     display: inline-block !important; }
   .d-sm-block, #content .page-normal, body .page-normal,
-  #content .page-special,
-  body .page-special,
   #content .page-front,
-  body .page-front {
+  body .page-front,
+  #content .page-special,
+  body .page-special {
     display: block !important; }
   .d-sm-table {
     display: table !important; }
@@ -1624,10 +1625,10 @@ body [*|type="colophon"] blockquote {
   margin-right: 2.25rem !important; }
 
 .mb-4, #content .page-normal, body .page-normal,
-#content .page-special,
-body .page-special,
 #content .page-front,
 body .page-front,
+#content .page-special,
+body .page-special,
 .my-4 {
   margin-bottom: 2.25rem !important; }
 
@@ -1639,10 +1640,10 @@ body .page-front,
   margin: 4.5rem !important; }
 
 .mt-5, #content .page-normal, body .page-normal,
-#content .page-special,
-body .page-special,
 #content .page-front,
 body .page-front,
+#content .page-special,
+body .page-special,
 .my-5 {
   margin-top: 4.5rem !important; }
 
@@ -1719,10 +1720,10 @@ body .page-front,
   padding: 1.5rem !important; }
 
 .pt-3, #content .page-normal, body .page-normal,
-#content .page-special,
-body .page-special,
 #content .page-front,
 body .page-front,
+#content .page-special,
+body .page-special,
 .py-3 {
   padding-top: 1.5rem !important; }
 
@@ -2935,10 +2936,10 @@ body .imggroup img {
   text-align: left !important; }
 
 .text-right, #content .page-normal, body .page-normal,
-#content .page-special,
-body .page-special,
 #content .page-front,
-body .page-front {
+body .page-front,
+#content .page-special,
+body .page-special {
   text-align: right !important; }
 
 .text-center, #content figure, body figure, #content .imggroup, body .imggroup {
@@ -4130,6 +4131,8 @@ body {
   margin-right: auto;
   margin-left: auto;
   max-width: 100%;
+  padding-right: 20px;
+  padding-left: 20px;
   /* Paging
      * ---------------------------------------------------------- */
   /* Typography
@@ -4140,10 +4143,6 @@ body {
      * ---------------------------------------------------------- */
   /* Lists
      * ---------------------------------------------------------- */ }
-  @media (max-width: 639.98px) {
-    #content, body {
-      padding-right: 20px;
-      padding-left: 20px; } }
   @media (min-width: 640px) and (max-width: 767.98px) {
     #content, body {
       padding-right: 45px;
@@ -4172,29 +4171,31 @@ body {
       clear: both;
       content: ""; }
   #content .page-normal, body .page-normal,
-  #content .page-special,
-  body .page-special,
   #content .page-front,
-  body .page-front {
+  body .page-front,
+  #content .page-special,
+  body .page-special {
     font-weight: bold;
     page-break-before: always; }
   #content strong, body strong {
     font-weight: bold; }
+  #content h1.title, body h1.title {
+    margin-top: 10px; }
   #content h1, body h1, #content h1.title, body h1.title {
     font-weight: bold;
     margin-bottom: 20px;
-    font-size: 34.56px;
+    font-size: 35.64px;
     font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
     #content h1 .lead, body h1 .lead, #content h1 body .part p strong, body .part p #content h1 strong, body h1 .part p strong, body .part p h1 strong, body .part #content h1 blockquote strong, body h1 .part #content blockquote strong, body .part #content blockquote h1 strong, #content body h1 .part blockquote strong, #content body .part blockquote h1 strong, #content h1 body .part blockquote strong, body .part blockquote #content h1 strong, body h1 .part blockquote strong, body .part blockquote h1 strong, #content h1.title .lead, body h1.title .lead, #content h1.title body .part p strong, body .part p #content h1.title strong, body h1.title .part p strong, body .part p h1.title strong, body .part #content h1.title blockquote strong, body h1.title .part #content blockquote strong, body .part #content blockquote h1.title strong, #content body h1.title .part blockquote strong, #content body .part blockquote h1.title strong, #content h1.title body .part blockquote strong, body .part blockquote #content h1.title strong, body h1.title .part blockquote strong, body .part blockquote h1.title strong {
-      font-size: 38.4px; }
+      font-size: 39.6px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content h1, body h1, #content h1.title, body h1.title {
         font-weight: bold;
         margin-bottom: 30px;
-        font-size: 28.8px;
+        font-size: 32.4px;
         font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
         #content h1 .lead, body h1 .lead, #content h1 body .part p strong, body .part p #content h1 strong, body h1 .part p strong, body .part p h1 strong, body .part #content h1 blockquote strong, body h1 .part #content blockquote strong, body .part #content blockquote h1 strong, #content body h1 .part blockquote strong, #content body .part blockquote h1 strong, #content h1 body .part blockquote strong, body .part blockquote #content h1 strong, body h1 .part blockquote strong, body .part blockquote h1 strong, #content h1.title .lead, body h1.title .lead, #content h1.title body .part p strong, body .part p #content h1.title strong, body h1.title .part p strong, body .part p h1.title strong, body .part #content h1.title blockquote strong, body h1.title .part #content blockquote strong, body .part #content blockquote h1.title strong, #content body h1.title .part blockquote strong, #content body .part blockquote h1.title strong, #content h1.title body .part blockquote strong, body .part blockquote #content h1.title strong, body h1.title .part blockquote strong, body .part blockquote h1.title strong {
-          font-size: 32px; } }
+          font-size: 36px; } }
     @media (min-width: 1024px) {
       #content h1, body h1, #content h1.title, body h1.title {
         font-weight: bold;
@@ -4206,18 +4207,18 @@ body {
   #content h2, body h2 {
     font-weight: bold;
     margin-bottom: 20px;
-    font-size: 30.72px;
+    font-size: 31.68px;
     font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
     #content h2 .lead, body h2 .lead, #content h2 body .part p strong, body .part p #content h2 strong, body h2 .part p strong, body .part p h2 strong, body .part #content h2 blockquote strong, body h2 .part #content blockquote strong, body .part #content blockquote h2 strong, #content body h2 .part blockquote strong, #content body .part blockquote h2 strong, #content h2 body .part blockquote strong, body .part blockquote #content h2 strong, body h2 .part blockquote strong, body .part blockquote h2 strong {
-      font-size: 34.56px; }
+      font-size: 35.64px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content h2, body h2 {
         font-weight: bold;
         margin-bottom: 25px;
-        font-size: 25.6px;
+        font-size: 28.8px;
         font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
         #content h2 .lead, body h2 .lead, #content h2 body .part p strong, body .part p #content h2 strong, body h2 .part p strong, body .part p h2 strong, body .part #content h2 blockquote strong, body h2 .part #content blockquote strong, body .part #content blockquote h2 strong, #content body h2 .part blockquote strong, #content body .part blockquote h2 strong, #content h2 body .part blockquote strong, body .part blockquote #content h2 strong, body h2 .part blockquote strong, body .part blockquote h2 strong {
-          font-size: 28.8px; } }
+          font-size: 32.4px; } }
     @media (min-width: 1024px) {
       #content h2, body h2 {
         font-weight: bold;
@@ -4229,18 +4230,18 @@ body {
   #content h3, body h3 {
     font-weight: bold;
     margin-bottom: 17px;
-    font-size: 26.88px;
+    font-size: 27.72px;
     font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
     #content h3 .lead, body h3 .lead, #content h3 body .part p strong, body .part p #content h3 strong, body h3 .part p strong, body .part p h3 strong, body .part #content h3 blockquote strong, body h3 .part #content blockquote strong, body .part #content blockquote h3 strong, #content body h3 .part blockquote strong, #content body .part blockquote h3 strong, #content h3 body .part blockquote strong, body .part blockquote #content h3 strong, body h3 .part blockquote strong, body .part blockquote h3 strong {
-      font-size: 30.72px; }
+      font-size: 31.68px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content h3, body h3 {
         font-weight: bold;
         margin-bottom: 20px;
-        font-size: 22.4px;
+        font-size: 25.2px;
         font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
         #content h3 .lead, body h3 .lead, #content h3 body .part p strong, body .part p #content h3 strong, body h3 .part p strong, body .part p h3 strong, body .part #content h3 blockquote strong, body h3 .part #content blockquote strong, body .part #content blockquote h3 strong, #content body h3 .part blockquote strong, #content body .part blockquote h3 strong, #content h3 body .part blockquote strong, body .part blockquote #content h3 strong, body h3 .part blockquote strong, body .part blockquote h3 strong {
-          font-size: 25.6px; } }
+          font-size: 28.8px; } }
     @media (min-width: 1024px) {
       #content h3, body h3 {
         font-weight: bold;
@@ -4252,18 +4253,18 @@ body {
   #content h4, body h4 {
     font-weight: bold;
     margin-bottom: 14px;
-    font-size: 21.12px;
+    font-size: 21.78px;
     font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
     #content h4 .lead, body h4 .lead, #content h4 body .part p strong, body .part p #content h4 strong, body h4 .part p strong, body .part p h4 strong, body .part #content h4 blockquote strong, body h4 .part #content blockquote strong, body .part #content blockquote h4 strong, #content body h4 .part blockquote strong, #content body .part blockquote h4 strong, #content h4 body .part blockquote strong, body .part blockquote #content h4 strong, body h4 .part blockquote strong, body .part blockquote h4 strong {
-      font-size: 24.96px; }
+      font-size: 25.74px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content h4, body h4 {
         font-weight: bold;
         margin-bottom: 15px;
-        font-size: 17.6px;
+        font-size: 19.8px;
         font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
         #content h4 .lead, body h4 .lead, #content h4 body .part p strong, body .part p #content h4 strong, body h4 .part p strong, body .part p h4 strong, body .part #content h4 blockquote strong, body h4 .part #content blockquote strong, body .part #content blockquote h4 strong, #content body h4 .part blockquote strong, #content body .part blockquote h4 strong, #content h4 body .part blockquote strong, body .part blockquote #content h4 strong, body h4 .part blockquote strong, body .part blockquote h4 strong {
-          font-size: 20.8px; } }
+          font-size: 23.4px; } }
     @media (min-width: 1024px) {
       #content h4, body h4 {
         font-weight: bold;
@@ -4275,18 +4276,18 @@ body {
   #content h5, body h5 {
     font-weight: bold;
     margin-bottom: 14px;
-    font-size: 21.12px;
+    font-size: 21.78px;
     font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
     #content h5 .lead, body h5 .lead, #content h5 body .part p strong, body .part p #content h5 strong, body h5 .part p strong, body .part p h5 strong, body .part #content h5 blockquote strong, body h5 .part #content blockquote strong, body .part #content blockquote h5 strong, #content body h5 .part blockquote strong, #content body .part blockquote h5 strong, #content h5 body .part blockquote strong, body .part blockquote #content h5 strong, body h5 .part blockquote strong, body .part blockquote h5 strong {
-      font-size: 24.96px; }
+      font-size: 25.74px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content h5, body h5 {
         font-weight: bold;
         margin-bottom: 15px;
-        font-size: 17.6px;
+        font-size: 19.8px;
         font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
         #content h5 .lead, body h5 .lead, #content h5 body .part p strong, body .part p #content h5 strong, body h5 .part p strong, body .part p h5 strong, body .part #content h5 blockquote strong, body h5 .part #content blockquote strong, body .part #content blockquote h5 strong, #content body h5 .part blockquote strong, #content body .part blockquote h5 strong, #content h5 body .part blockquote strong, body .part blockquote #content h5 strong, body h5 .part blockquote strong, body .part blockquote h5 strong {
-          font-size: 20.8px; } }
+          font-size: 23.4px; } }
     @media (min-width: 1024px) {
       #content h5, body h5 {
         font-weight: bold;
@@ -4298,18 +4299,18 @@ body {
   #content h6, body h6, #content table tr th, body table tr #content th, body table tr th {
     font-weight: bold;
     margin-bottom: 13px;
-    font-size: 17.28px;
+    font-size: 17.82px;
     font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
     #content h6 .lead, body h6 .lead, #content table tr th .lead, body table tr #content th .lead, body table tr th .lead, #content h6 body .part p strong, body .part p #content h6 strong, body h6 .part p strong, body .part p h6 strong, #content table tr th body .part p strong, body #content table tr th .part p strong, body .part p #content table tr th strong, #content table tr body th .part p strong, #content table tr body .part p th strong, #content body table tr th .part p strong, #content body .part p table tr th strong, body table tr #content th .part p strong, body .part p table tr #content th strong, body table tr th .part p strong, body .part p table tr th strong, body .part #content h6 blockquote strong, body h6 .part #content blockquote strong, body .part #content blockquote h6 strong, body .part #content table tr th blockquote strong, body table tr .part #content th blockquote strong, body .part table tr #content th blockquote strong, body table tr .part #content blockquote th strong, body .part table tr #content blockquote th strong, body table tr th .part #content blockquote strong, body .part #content blockquote table tr th strong, #content body h6 .part blockquote strong, #content body .part blockquote h6 strong, body table tr #content body .part blockquote th strong, #content h6 body .part blockquote strong, body .part blockquote #content h6 strong, body h6 .part blockquote strong, body .part blockquote h6 strong, #content table tr th body .part blockquote strong, body #content table tr th .part blockquote strong, body .part blockquote #content table tr th strong, #content table tr body th .part blockquote strong, #content table tr body .part blockquote th strong, #content body table tr th .part blockquote strong, #content body .part blockquote table tr th strong, body table tr #content th .part blockquote strong, body .part blockquote table tr #content th strong, body table tr th .part blockquote strong, body .part blockquote table tr th strong {
-      font-size: 23.04px; }
+      font-size: 23.76px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content h6, body h6, #content table tr th, body table tr #content th, body table tr th {
         font-weight: bold;
         margin-bottom: 15px;
-        font-size: 14.4px;
+        font-size: 16.2px;
         font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
         #content h6 .lead, body h6 .lead, #content table tr th .lead, body table tr #content th .lead, body table tr th .lead, #content h6 body .part p strong, body .part p #content h6 strong, body h6 .part p strong, body .part p h6 strong, #content table tr th body .part p strong, body #content table tr th .part p strong, body .part p #content table tr th strong, #content table tr body th .part p strong, #content table tr body .part p th strong, #content body table tr th .part p strong, #content body .part p table tr th strong, body table tr #content th .part p strong, body .part p table tr #content th strong, body table tr th .part p strong, body .part p table tr th strong, body .part #content h6 blockquote strong, body h6 .part #content blockquote strong, body .part #content blockquote h6 strong, body .part #content table tr th blockquote strong, body table tr .part #content th blockquote strong, body .part table tr #content th blockquote strong, body table tr .part #content blockquote th strong, body .part table tr #content blockquote th strong, body table tr th .part #content blockquote strong, body .part #content blockquote table tr th strong, #content body h6 .part blockquote strong, #content body .part blockquote h6 strong, body table tr #content body .part blockquote th strong, #content h6 body .part blockquote strong, body .part blockquote #content h6 strong, body h6 .part blockquote strong, body .part blockquote h6 strong, #content table tr th body .part blockquote strong, body #content table tr th .part blockquote strong, body .part blockquote #content table tr th strong, #content table tr body th .part blockquote strong, #content table tr body .part blockquote th strong, #content body table tr th .part blockquote strong, #content body .part blockquote table tr th strong, body table tr #content th .part blockquote strong, body .part blockquote table tr #content th strong, body table tr th .part blockquote strong, body .part blockquote table tr th strong {
-          font-size: 19.2px; } }
+          font-size: 21.6px; } }
     @media (min-width: 1024px) {
       #content h6, body h6, #content table tr th, body table tr #content th, body table tr th {
         font-weight: bold;
@@ -4318,47 +4319,47 @@ body {
         font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
         #content h6 .lead, body h6 .lead, #content table tr th .lead, body table tr #content th .lead, body table tr th .lead, #content h6 body .part p strong, body .part p #content h6 strong, body h6 .part p strong, body .part p h6 strong, #content table tr th body .part p strong, body #content table tr th .part p strong, body .part p #content table tr th strong, #content table tr body th .part p strong, #content table tr body .part p th strong, #content body table tr th .part p strong, #content body .part p table tr th strong, body table tr #content th .part p strong, body .part p table tr #content th strong, body table tr th .part p strong, body .part p table tr th strong, body .part #content h6 blockquote strong, body h6 .part #content blockquote strong, body .part #content blockquote h6 strong, body .part #content table tr th blockquote strong, body table tr .part #content th blockquote strong, body .part table tr #content th blockquote strong, body table tr .part #content blockquote th strong, body .part table tr #content blockquote th strong, body table tr th .part #content blockquote strong, body .part #content blockquote table tr th strong, #content body h6 .part blockquote strong, #content body .part blockquote h6 strong, body table tr #content body .part blockquote th strong, #content h6 body .part blockquote strong, body .part blockquote #content h6 strong, body h6 .part blockquote strong, body .part blockquote h6 strong, #content table tr th body .part blockquote strong, body #content table tr th .part blockquote strong, body .part blockquote #content table tr th strong, #content table tr body th .part blockquote strong, #content table tr body .part blockquote th strong, #content body table tr th .part blockquote strong, #content body .part blockquote table tr th strong, body table tr #content th .part blockquote strong, body .part blockquote table tr #content th strong, body table tr th .part blockquote strong, body .part blockquote table tr th strong {
           font-size: 24px; } }
-  #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content .line, body .line {
+  #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
     margin-bottom: 30px;
-    font-size: 17.28px;
+    font-size: 17.82px;
     font-family: Arial, sans-serif;
     zoom: 1; }
-    #content p.lead, body p.lead, #content blockquote.lead, body blockquote.lead, #content .line.lead, body .line.lead, #content body .part p strong.line, body .part p #content strong.line, body .part p strong.line, body .part #content blockquote strong.line, #content body .part blockquote strong.line, body .part blockquote #content strong.line, body .part blockquote strong.line {
-      font-size: 25.92px; }
+    #content p.lead, body p.lead, #content blockquote.lead, body blockquote.lead, #content div.line.lead, body div.line.lead {
+      font-size: 26.73px; }
     @media (max-width: 639.98px) {
-      #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content .line, body .line {
+      #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
         word-break: break-word; } }
     @media (min-width: 768px) and (max-width: 1023.98px) {
-      #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content .line, body .line {
+      #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
         margin-bottom: 36px;
-        font-size: 14.4px;
+        font-size: 16.2px;
         font-family: Arial, sans-serif;
         zoom: 1; }
-        #content p.lead, body p.lead, #content blockquote.lead, body blockquote.lead, #content .line.lead, body .line.lead, #content body .part p strong.line, body .part p #content strong.line, body .part p strong.line, body .part #content blockquote strong.line, #content body .part blockquote strong.line, body .part blockquote #content strong.line, body .part blockquote strong.line {
-          font-size: 21.6px; } }
+        #content p.lead, body p.lead, #content blockquote.lead, body blockquote.lead, #content div.line.lead, body div.line.lead {
+          font-size: 24.3px; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
-    #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content .line, body .line {
+    #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
       word-break: break-word; } }
     @media (min-width: 1024px) {
-      #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content .line, body .line {
+      #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
         margin-bottom: 45px;
         font-size: 18px;
         font-family: Arial, sans-serif;
         zoom: 1; }
-        #content p.lead, body p.lead, #content blockquote.lead, body blockquote.lead, #content .line.lead, body .line.lead, #content body .part p strong.line, body .part p #content strong.line, body .part p strong.line, body .part #content blockquote strong.line, #content body .part blockquote strong.line, body .part blockquote #content strong.line, body .part blockquote strong.line {
+        #content p.lead, body p.lead, #content blockquote.lead, body blockquote.lead, #content div.line.lead, body div.line.lead {
           font-size: 27px; } }
   @media (min-width: 1024px) and (max-width: 639.98px) {
-    #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content .line, body .line {
+    #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
       word-break: break-word; } }
   #content img, body img {
     margin-bottom: 1.5rem !important; }
   #content figure, body figure, #content .imggroup, body .imggroup {
     width: 100%;
     margin-bottom: 30px; }
-    @media (min-width: 640px) and (max-width: 767.98px) {
+    @media (min-width: 768px) and (max-width: 1023.98px) {
       #content figure, body figure, #content .imggroup, body .imggroup {
         margin-bottom: 36px; } }
-    @media (min-width: 768px) {
+    @media (min-width: 1024px) {
       #content figure, body figure, #content .imggroup, body .imggroup {
         margin-bottom: 45px; } }
     #content figure img, body figure img, #content .imggroup img, body .imggroup img {
@@ -4370,10 +4371,10 @@ body {
       color: #212d39;
       min-height: 15px;
       margin-top: 15px; }
-      @media (min-width: 640px) and (max-width: 767.98px) {
+      @media (min-width: 768px) and (max-width: 1023.98px) {
         #content figure figcaption, body figure figcaption, #content figure .caption, body figure .caption, #content .imggroup figcaption, body .imggroup figcaption, #content .imggroup .caption, body .imggroup .caption {
           margin-top: 20px; } }
-      @media (min-width: 768px) {
+      @media (min-width: 1024px) {
         #content figure figcaption, body figure figcaption, #content figure .caption, body figure .caption, #content .imggroup figcaption, body .imggroup figcaption, #content .imggroup .caption, body .imggroup .caption {
           min-height: 25px; } }
   #content table, body table {
@@ -4384,29 +4385,29 @@ body {
       width: 100%; }
     #content table tr td, body table tr td {
       margin-bottom: 30px;
-      font-size: 17.28px;
+      font-size: 17.82px;
       font-family: Arial, sans-serif;
       zoom: 1;
       margin: 12px;
       word-break: normal !important; }
       #content table tr td.lead, body table tr td.lead {
-        font-size: 25.92px; }
+        font-size: 26.73px; }
       @media (max-width: 639.98px) {
         #content table tr td, body table tr td {
           word-break: break-word; } }
-      @media (min-width: 640px) and (max-width: 767.98px) {
+      @media (min-width: 768px) and (max-width: 1023.98px) {
         #content table tr td, body table tr td {
           margin-bottom: 36px;
-          font-size: 14.4px;
+          font-size: 16.2px;
           font-family: Arial, sans-serif;
           zoom: 1;
           margin: 15px; }
           #content table tr td.lead, body table tr td.lead {
-            font-size: 21.6px; } }
-  @media (min-width: 640px) and (max-width: 767.98px) and (max-width: 639.98px) {
+            font-size: 24.3px; } }
+  @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
     #content table tr td, body table tr td {
       word-break: break-word; } }
-      @media (min-width: 768px) {
+      @media (min-width: 1024px) {
         #content table tr td, body table tr td {
           margin-bottom: 45px;
           font-size: 18px;
@@ -4415,34 +4416,34 @@ body {
           margin: 20px; }
           #content table tr td.lead, body table tr td.lead {
             font-size: 27px; } }
-  @media (min-width: 768px) and (max-width: 639.98px) {
+  @media (min-width: 1024px) and (max-width: 639.98px) {
     #content table tr td, body table tr td {
       word-break: break-word; } }
     #content table caption, body table caption {
       color: #212d39;
       margin: 12px;
       margin-bottom: 30px;
-      font-size: 17.28px;
+      font-size: 17.82px;
       font-family: Arial, sans-serif;
       zoom: 1; }
       #content table caption.lead, body table caption.lead {
-        font-size: 25.92px; }
+        font-size: 26.73px; }
       @media (max-width: 639.98px) {
         #content table caption, body table caption {
           word-break: break-word; } }
-      @media (min-width: 640px) and (max-width: 767.98px) {
+      @media (min-width: 768px) and (max-width: 1023.98px) {
         #content table caption, body table caption {
           margin: 15px;
           margin-bottom: 36px;
-          font-size: 14.4px;
+          font-size: 16.2px;
           font-family: Arial, sans-serif;
           zoom: 1; }
           #content table caption.lead, body table caption.lead {
-            font-size: 21.6px; } }
-  @media (min-width: 640px) and (max-width: 767.98px) and (max-width: 639.98px) {
+            font-size: 24.3px; } }
+  @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
     #content table caption, body table caption {
       word-break: break-word; } }
-      @media (min-width: 768px) {
+      @media (min-width: 1024px) {
         #content table caption, body table caption {
           margin: 20px;
           margin-bottom: 45px;
@@ -4451,17 +4452,17 @@ body {
           zoom: 1; }
           #content table caption.lead, body table caption.lead {
             font-size: 27px; } }
-  @media (min-width: 768px) and (max-width: 639.98px) {
+  @media (min-width: 1024px) and (max-width: 639.98px) {
     #content table caption, body table caption {
       word-break: break-word; } }
     #content table.liste, body table.liste, #content table.imggroup, body table.imggroup {
       border: none !important; }
       #content table.liste tr td, body table.liste tr td, #content table.imggroup tr td, body table.imggroup tr td {
-        font-size: 17.28px; }
-        @media (min-width: 640px) and (max-width: 767.98px) {
+        font-size: 17.82px; }
+        @media (min-width: 768px) and (max-width: 1023.98px) {
           #content table.liste tr td, body table.liste tr td, #content table.imggroup tr td, body table.imggroup tr td {
-            font-size: 14.4px; } }
-        @media (min-width: 768px) {
+            font-size: 16.2px; } }
+        @media (min-width: 1024px) {
           #content table.liste tr td, body table.liste tr td, #content table.imggroup tr td, body table.imggroup tr td {
             font-size: 18px; } }
   #content .generisk-ramme, body .generisk-ramme {
@@ -4470,7 +4471,11 @@ body {
     border: 1px solid #B1C900 !important;
     border-radius: 5px;
     padding: 20px;
-    margin-bottom: 30px; }
+    margin-bottom: 30px;
+    margin-bottom: 30px;
+    font-size: 17.82px;
+    font-family: Arial, sans-serif;
+    zoom: 1; }
     #content .generisk-ramme .sentence, body .generisk-ramme .sentence {
       color: inherit !important; }
     @media (min-width: 640px) and (max-width: 767.98px) {
@@ -4484,6 +4489,33 @@ body {
     @media (max-width: 639.98px) {
       #content .generisk-ramme, body .generisk-ramme {
         word-break: break-word; } }
+    #content .generisk-ramme.lead, body .generisk-ramme.lead, #content body .part p strong.generisk-ramme, body .part p #content strong.generisk-ramme, body .part p strong.generisk-ramme, body .part #content blockquote strong.generisk-ramme, #content body .part blockquote strong.generisk-ramme, body .part blockquote #content strong.generisk-ramme, body .part blockquote strong.generisk-ramme {
+      font-size: 26.73px; }
+    @media (max-width: 639.98px) {
+      #content .generisk-ramme, body .generisk-ramme {
+        word-break: break-word; } }
+    @media (min-width: 768px) and (max-width: 1023.98px) {
+      #content .generisk-ramme, body .generisk-ramme {
+        margin-bottom: 36px;
+        font-size: 16.2px;
+        font-family: Arial, sans-serif;
+        zoom: 1; }
+        #content .generisk-ramme.lead, body .generisk-ramme.lead, #content body .part p strong.generisk-ramme, body .part p #content strong.generisk-ramme, body .part p strong.generisk-ramme, body .part #content blockquote strong.generisk-ramme, #content body .part blockquote strong.generisk-ramme, body .part blockquote #content strong.generisk-ramme, body .part blockquote strong.generisk-ramme {
+          font-size: 24.3px; } }
+  @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
+    #content .generisk-ramme, body .generisk-ramme {
+      word-break: break-word; } }
+    @media (min-width: 1024px) {
+      #content .generisk-ramme, body .generisk-ramme {
+        margin-bottom: 45px;
+        font-size: 18px;
+        font-family: Arial, sans-serif;
+        zoom: 1; }
+        #content .generisk-ramme.lead, body .generisk-ramme.lead, #content body .part p strong.generisk-ramme, body .part p #content strong.generisk-ramme, body .part p strong.generisk-ramme, body .part #content blockquote strong.generisk-ramme, #content body .part blockquote strong.generisk-ramme, body .part blockquote #content strong.generisk-ramme, body .part blockquote strong.generisk-ramme {
+          font-size: 27px; } }
+  @media (min-width: 1024px) and (max-width: 639.98px) {
+    #content .generisk-ramme, body .generisk-ramme {
+      word-break: break-word; } }
   #content .ramme, body .ramme {
     border-radius: 5px;
     padding: 20px;
@@ -4511,15 +4543,20 @@ body {
       background-color: #eff0da !important;
       border: 1px solid #b8bd5b !important; }
   #content table.liste, body table.liste, #content ul, body ul, #content ol, body ol {
-    font-size: 17.28px;
+    font-size: 17.82px;
     margin-bottom: 30px;
     margin-left: 18px; }
     @media (min-width: 640px) and (max-width: 767.98px) {
       #content table.liste, body table.liste, #content ul, body ul, #content ol, body ol {
-        font-size: 14.4px;
-        margin-bottom: 36px;
+        font-size: 17.82px;
+        margin-bottom: 30px;
         margin-left: 20px; } }
-    @media (min-width: 768px) {
+    @media (min-width: 768px) and (max-width: 1023.98px) {
+      #content table.liste, body table.liste, #content ul, body ul, #content ol, body ol {
+        font-size: 16.2px;
+        margin-bottom: 36px;
+        margin-left: 25px; } }
+    @media (min-width: 1024px) {
       #content table.liste, body table.liste, #content ul, body ul, #content ol, body ol {
         font-size: 18px;
         margin-bottom: 45px;
@@ -4541,22 +4578,22 @@ body {
       list-style-type: none; }
   #content .ordliste dl dt, body .ordliste dl dt {
     margin-bottom: 30px;
-    font-size: 17.28px;
+    font-size: 17.82px;
     font-family: Arial, sans-serif;
     zoom: 1; }
     #content .ordliste dl dt.lead, body .ordliste dl dt.lead {
-      font-size: 25.92px; }
+      font-size: 26.73px; }
     @media (max-width: 639.98px) {
       #content .ordliste dl dt, body .ordliste dl dt {
         word-break: break-word; } }
     @media (min-width: 640px) and (max-width: 767.98px) {
       #content .ordliste dl dt, body .ordliste dl dt {
         margin-bottom: 36px;
-        font-size: 14.4px;
+        font-size: 16.2px;
         font-family: Arial, sans-serif;
         zoom: 1; }
         #content .ordliste dl dt.lead, body .ordliste dl dt.lead {
-          font-size: 21.6px; } }
+          font-size: 24.3px; } }
   @media (min-width: 640px) and (max-width: 767.98px) and (max-width: 639.98px) {
     #content .ordliste dl dt, body .ordliste dl dt {
       word-break: break-word; } }
@@ -4580,4 +4617,12 @@ body #toc-html a {
 body .preface .precedingemptyline, body .colophon .precedingemptyline, body [*|type="colophon"] .precedingemptyline {
   margin-top: 1.5rem !important; }
 
+body .notebody p, body .notebody #content blockquote, #content body .notebody blockquote, body .notebody blockquote {
+  display: block;
+  padding: 15px 20px;
+  border-top: 1px solid #B1C900;
+  margin-bottom: 0; }
+
 /* End Ebok.SCSS */
+
+/*# sourceMappingURL=ebok.css.map */

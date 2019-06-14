@@ -26,6 +26,14 @@ body {
             @extend .lead;
         }
     }
+    .notebody {
+        p {
+            display: block;
+            padding: 15px 20px;
+            border-top: 1px solid $nlb-green;
+            margin-bottom: 0;
+        }
+    }
 }
 
 /* End Ebok.SCSS */

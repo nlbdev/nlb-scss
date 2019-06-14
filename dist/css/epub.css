@@ -1,7 +1,8 @@
+/*! NLB Stylesheets | v1 | 30.06.2019 */
 /* Begin Core.SCSS */
 /* Imports
  * ---------------------------------------------------------- */
-/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+/* normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
 /**
@@ -358,11 +359,11 @@ hr {
   height: 0;
   overflow: visible; }
 
-h1, h2, h3, h4, h5, h6, #content table tr th {
+h1, h2, h3, h4, h5, h6, #content table tr th, body table tr th {
   margin-top: 0;
   margin-bottom: 0.75rem; }
 
-p, #content blockquote {
+p, #content blockquote, body blockquote {
   margin-top: 0;
   margin-bottom: 1rem; }
 
@@ -690,9 +691,11 @@ button.bg-night:focus {
 .border {
   border: 1px solid #90989f !important; }
 
-.border-top, #content .page-normal,
+.border-top, #content .page-normal, body .page-normal,
+#content .page-front,
+body .page-front,
 #content .page-special,
-#content .page-front {
+body .page-special {
   border-top: 1px solid #90989f !important; }
 
 .border-right {
@@ -752,7 +755,7 @@ button.bg-night:focus {
 .rounded-sm {
   border-radius: 0.2rem !important; }
 
-.rounded, #content img, #content figure img, #content .imggroup img {
+.rounded, #content img, body img, #content figure img, body figure img, #content .imggroup img, body .imggroup img {
   border-radius: 0.25rem !important; }
 
 .rounded-top {
@@ -788,9 +791,11 @@ button.bg-night:focus {
   clear: both;
   content: ""; }
 
-.d-none, #content .page-normal,
+.d-none, #content .page-normal, body .page-normal,
+#content .page-front,
+body .page-front,
 #content .page-special,
-#content .page-front {
+body .page-special {
   display: none !important; }
 
 .d-inline {
@@ -799,7 +804,7 @@ button.bg-night:focus {
 .d-inline-block {
   display: inline-block !important; }
 
-.d-block, #content figure img, #content .imggroup img {
+.d-block, #content figure img, body figure img, #content .imggroup img, body .imggroup img {
   display: block !important; }
 
 .d-table {
@@ -824,9 +829,11 @@ button.bg-night:focus {
     display: inline !important; }
   .d-sm-inline-block {
     display: inline-block !important; }
-  .d-sm-block, #content .page-normal,
+  .d-sm-block, #content .page-normal, body .page-normal,
+  #content .page-front,
+  body .page-front,
   #content .page-special,
-  #content .page-front {
+  body .page-special {
     display: block !important; }
   .d-sm-table {
     display: table !important; }
@@ -1417,7 +1424,7 @@ button.bg-night:focus {
     top: 0;
     z-index: 1020; } }
 
-.sr-only, #content .prodnote, #content .optional-prodnote, #content .prodnote-optional {
+.sr-only, #content .prodnote, body .prodnote, #content .optional-prodnote, body .optional-prodnote, #content .prodnote-optional, body .prodnote-optional {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -1593,9 +1600,11 @@ button.bg-night:focus {
 .mx-4 {
   margin-right: 2.25rem !important; }
 
-.mb-4, #content .page-normal,
-#content .page-special,
+.mb-4, #content .page-normal, body .page-normal,
 #content .page-front,
+body .page-front,
+#content .page-special,
+body .page-special,
 .my-4 {
   margin-bottom: 2.25rem !important; }
 
@@ -1606,9 +1615,11 @@ button.bg-night:focus {
 .m-5 {
   margin: 4.5rem !important; }
 
-.mt-5, #content .page-normal,
-#content .page-special,
+.mt-5, #content .page-normal, body .page-normal,
 #content .page-front,
+body .page-front,
+#content .page-special,
+body .page-special,
 .my-5 {
   margin-top: 4.5rem !important; }
 
@@ -1684,9 +1695,11 @@ button.bg-night:focus {
 .p-3 {
   padding: 1.5rem !important; }
 
-.pt-3, #content .page-normal,
-#content .page-special,
+.pt-3, #content .page-normal, body .page-normal,
 #content .page-front,
+body .page-front,
+#content .page-special,
+body .page-special,
 .py-3 {
   padding-top: 1.5rem !important; }
 
@@ -1845,7 +1858,9 @@ button.bg-night:focus {
 .mr-auto,
 .mx-auto,
 #content figure img,
-#content .imggroup img {
+body figure img,
+#content .imggroup img,
+body .imggroup img {
   margin-right: auto !important; }
 
 .mb-auto,
@@ -1855,7 +1870,9 @@ button.bg-night:focus {
 .ml-auto,
 .mx-auto,
 #content figure img,
-#content .imggroup img {
+body figure img,
+#content .imggroup img,
+body .imggroup img {
   margin-left: auto !important; }
 
 @media (min-width: 640px) {
@@ -2894,12 +2911,14 @@ button.bg-night:focus {
 .text-left {
   text-align: left !important; }
 
-.text-right, #content .page-normal,
+.text-right, #content .page-normal, body .page-normal,
+#content .page-front,
+body .page-front,
 #content .page-special,
-#content .page-front {
+body .page-special {
   text-align: right !important; }
 
-.text-center, #content figure, #content .imggroup {
+.text-center, #content figure, body figure, #content .imggroup, body .imggroup {
   text-align: center !important; }
 
 @media (min-width: 640px) {
@@ -3053,7 +3072,7 @@ a.text-night:hover, a.text-night:focus {
 .invisible {
   visibility: hidden !important; }
 
-h1, h2, h3, h4, h5, h6, #content table tr th,
+h1, h2, h3, h4, h5, h6, #content table tr th, body table tr th,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-bottom: 0.75rem;
   font-weight: 500;
@@ -3086,7 +3105,7 @@ h4, .h4 {
 h5, .h5 {
   font-size: 1.25rem; }
 
-h6, #content table tr th, .h6 {
+h6, #content table tr th, body table tr th, .h6 {
   font-size: 1rem; }
 
 .lead {
@@ -3158,7 +3177,7 @@ mark,
   font-size: 90%;
   text-transform: uppercase; }
 
-.blockquote, #content blockquote {
+.blockquote, #content blockquote, body blockquote {
   margin-bottom: 1.5rem;
   font-size: 1.25rem; }
 
@@ -3757,7 +3776,7 @@ mark,
   .offset-xl-11 {
     margin-left: 91.6666666667%; } }
 
-.img-fluid, #content img, #content figure img, #content .imggroup img {
+.img-fluid, #content img, body img, #content figure img, body figure img, #content .imggroup img, body .imggroup img {
   max-width: 100%;
   height: auto; }
 
@@ -3769,60 +3788,71 @@ mark,
   max-width: 100%;
   height: auto; }
 
-.figure, #content figure, #content .imggroup {
+.figure, #content figure, body figure, #content .imggroup, body .imggroup {
   display: inline-block; }
 
-.figure-img, #content figure img, #content .imggroup img {
+.figure-img, #content figure img, body figure img, #content .imggroup img, body .imggroup img {
   margin-bottom: 0.75rem;
   line-height: 1; }
 
-.figure-caption, #content figure figcaption, #content figure .caption, #content .imggroup figcaption, #content .imggroup .caption, #content table caption {
+.figure-caption, #content figure figcaption, body figure figcaption, #content figure .caption, body figure .caption, #content .imggroup figcaption, body .imggroup figcaption, #content .imggroup .caption, body .imggroup .caption, #content table caption, body table caption {
   font-size: 90%;
   color: #6c757d; }
 
-.table, #content table, #content table.liste, #content table.imggroup {
+.table, #content table, body table, #content table.liste, body table.liste, #content table.imggroup, body table.imggroup {
   width: 100%;
   margin-bottom: 1.5rem;
   color: #212529; }
-  .table th, #content table th, #content table.liste th, #content table.imggroup th,
+  .table th, #content table th, body table th, #content table.liste th, body table.liste th, #content table.imggroup th, body table.imggroup th,
   .table td,
   #content table td,
+  body table td,
   #content table.liste td,
-  #content table.imggroup td {
+  body table.liste td,
+  #content table.imggroup td,
+  body table.imggroup td {
     padding: 0.75rem;
     vertical-align: top;
     border-top: 1px solid #90989f; }
-  .table thead th, #content table thead th, #content table.liste thead th, #content table.imggroup thead th {
+  .table thead th, #content table thead th, body table thead th, #content table.liste thead th, body table.liste thead th, #content table.imggroup thead th, body table.imggroup thead th {
     vertical-align: bottom;
     border-bottom: 2px solid #90989f; }
-  .table tbody + tbody, #content table tbody + tbody, #content table.liste tbody + tbody, #content table.imggroup tbody + tbody {
+  .table tbody + tbody, #content table tbody + tbody, body table tbody + tbody, #content table.liste tbody + tbody, body table.liste tbody + tbody, #content table.imggroup tbody + tbody, body table.imggroup tbody + tbody {
     border-top: 2px solid #90989f; }
 
 .table-sm th,
 .table-sm td {
   padding: 0.3rem; }
 
-.table-bordered, #content table {
+.table-bordered, #content table, body table {
   border: 1px solid #90989f; }
-  .table-bordered th, #content table th,
+  .table-bordered th, #content table th, body table th,
   .table-bordered td,
-  #content table td {
+  #content table td,
+  body table td {
     border: 1px solid #90989f; }
-  .table-bordered thead th, #content table thead th,
+  .table-bordered thead th, #content table thead th, body table thead th,
   .table-bordered thead td,
-  #content table thead td {
+  #content table thead td,
+  body table thead td {
     border-bottom-width: 2px; }
 
-.table-borderless th, #content table.liste th, #content table.imggroup th,
+.table-borderless th, #content table.liste th, body table.liste th, #content table.imggroup th, body table.imggroup th,
 .table-borderless td,
 #content table.liste td,
+body table.liste td,
 #content table.imggroup td,
+body table.imggroup td,
 .table-borderless thead th,
 #content table.liste thead th,
+body table.liste thead th,
 #content table.imggroup thead th,
+body table.imggroup thead th,
 .table-borderless tbody + tbody,
 #content table.liste tbody + tbody,
-#content table.imggroup tbody + tbody {
+body table.liste tbody + tbody,
+#content table.imggroup tbody + tbody,
+body table.imggroup tbody + tbody {
   border: 0; }
 
 .table-striped tbody tr:nth-of-type(odd) {
@@ -3996,12 +4026,12 @@ mark,
   .table-hover .table-active:hover > th {
     background-color: rgba(0, 0, 0, 0.075); }
 
-.table .thead-dark th, #content table .thead-dark th {
+.table .thead-dark th, #content table .thead-dark th, body table .thead-dark th, body table.liste .thead-dark th, body table.imggroup .thead-dark th {
   color: #fff;
   background-color: #343a40;
   border-color: #454d55; }
 
-.table .thead-light th, #content table .thead-light th, #content table thead th, #content table.liste thead th, #content table.imggroup thead th {
+.table .thead-light th, #content table .thead-light th, body table .thead-light th, body table.liste .thead-light th, body table.imggroup .thead-light th, #content table thead th, #content table.liste thead th, #content table.imggroup thead th, .table body table thead th, body table .table thead th, body table thead th, body table.liste thead th, body table.imggroup thead th {
   color: #495057;
   background-color: #e9ecef;
   border-color: #90989f; }
@@ -4013,7 +4043,7 @@ mark,
   .table-dark td,
   .table-dark thead th {
     border-color: #454d55; }
-  .table-dark.table-bordered, #content table.table-dark {
+  .table-dark.table-bordered, #content table.table-dark, body table.table-dark {
     border: 0; }
   .table-dark.table-striped tbody tr:nth-of-type(odd) {
     background-color: rgba(255, 255, 255, 0.05); }
@@ -4027,7 +4057,7 @@ mark,
     width: 100%;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch; }
-    .table-responsive-sm > .table-bordered, #content .table-responsive-sm > table {
+    .table-responsive-sm > .table-bordered, #content .table-responsive-sm > table, body .table-responsive-sm > table {
       border: 0; } }
 
 @media (max-width: 767.98px) {
@@ -4036,7 +4066,7 @@ mark,
     width: 100%;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch; }
-    .table-responsive-md > .table-bordered, #content .table-responsive-md > table {
+    .table-responsive-md > .table-bordered, #content .table-responsive-md > table, body .table-responsive-md > table {
       border: 0; } }
 
 @media (max-width: 1023.98px) {
@@ -4045,7 +4075,7 @@ mark,
     width: 100%;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch; }
-    .table-responsive-lg > .table-bordered, #content .table-responsive-lg > table {
+    .table-responsive-lg > .table-bordered, #content .table-responsive-lg > table, body .table-responsive-lg > table {
       border: 0; } }
 
 @media (max-width: 1199.98px) {
@@ -4054,15 +4084,15 @@ mark,
     width: 100%;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch; }
-    .table-responsive-xl > .table-bordered, #content .table-responsive-xl > table {
+    .table-responsive-xl > .table-bordered, #content .table-responsive-xl > table, body .table-responsive-xl > table {
       border: 0; } }
 
-.table-responsive, #content table, #content table.liste, #content table.imggroup {
+.table-responsive, #content table, body table, #content table.liste, body table.liste, #content table.imggroup, body table.imggroup {
   display: block;
   width: 100%;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch; }
-  .table-responsive > .table-bordered, #content table > .table-bordered, #content .table-responsive > table, #content table > table, #content table.liste > table, #content table.imggroup > table {
+  .table-responsive > .table-bordered, #content table > .table-bordered, body table > .table-bordered, body table.liste > .table-bordered, body table.imggroup > .table-bordered, #content .table-responsive > table, #content table > table, #content table.liste > table, #content table.imggroup > table, body .table-responsive > table, #content body table > table, body #content table > table, body table > table, #content body table.liste > table, body table.liste > table, #content body table.imggroup > table, body table.imggroup > table {
     border: 0; }
 
 /* General styles
@@ -4070,13 +4100,15 @@ mark,
 body {
   overflow-x: hidden; }
 
-#content {
+#content, body {
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
   max-width: 100%;
+  padding-right: 20px;
+  padding-left: 20px;
   /* Paging
      * ---------------------------------------------------------- */
   /* Typography
@@ -4087,436 +4119,474 @@ body {
      * ---------------------------------------------------------- */
   /* Lists
      * ---------------------------------------------------------- */ }
-  @media (max-width: 639.98px) {
-    #content {
-      padding-right: 20px;
-      padding-left: 20px; } }
   @media (min-width: 640px) and (max-width: 767.98px) {
-    #content {
+    #content, body {
       padding-right: 45px;
       padding-left: 45px; } }
   @media (min-width: 768px) and (max-width: 1023.98px) {
-    #content {
+    #content, body {
       padding-right: 70px;
       padding-left: 70px; } }
   @media (min-width: 1024px) {
-    #content {
+    #content, body {
       padding-right: 70px;
       padding-left: 70px; } }
-  #content .noteref {
+  #content .noteref, body .noteref {
     vertical-align: super;
     font-size: 0.6em; }
-  #content .rearnotes .notebody p, #content .rearnotes .notebody blockquote {
+  #content .rearnotes .notebody p, body .rearnotes .notebody p, #content .rearnotes .notebody blockquote, body .rearnotes .notebody #content blockquote, body .rearnotes .notebody blockquote {
     display: block;
     padding: 15px 20px;
     border-top: 1px solid #B1C900;
     margin-bottom: 0; }
-  #content .sidetall {
+  #content .sidetall, body .sidetall {
     display: inline-block;
     width: 100%; }
-    #content .sidetall::after {
+    #content .sidetall::after, body .sidetall::after {
       display: block;
       clear: both;
       content: ""; }
-  #content .page-normal,
+  #content .page-normal, body .page-normal,
+  #content .page-front,
+  body .page-front,
   #content .page-special,
-  #content .page-front {
+  body .page-special {
     font-weight: bold;
     page-break-before: always; }
-  #content strong {
+  #content strong, body strong {
     font-weight: bold; }
-  #content h1, #content h1.title {
+  #content h1.title, body h1.title {
+    margin-top: 10px; }
+  #content h1, body h1, #content h1.title, body h1.title {
     font-weight: bold;
     margin-bottom: 20px;
-    font-size: 34.56px;
+    font-size: 35.64px;
     font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-    #content h1 .lead, #content h1.title .lead {
-      font-size: 38.4px; }
+    #content h1 .lead, body h1 .lead, #content h1.title .lead, body h1.title .lead {
+      font-size: 39.6px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
-      #content h1, #content h1.title {
+      #content h1, body h1, #content h1.title, body h1.title {
         font-weight: bold;
         margin-bottom: 30px;
-        font-size: 28.8px;
+        font-size: 32.4px;
         font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-        #content h1 .lead, #content h1.title .lead {
-          font-size: 32px; } }
+        #content h1 .lead, body h1 .lead, #content h1.title .lead, body h1.title .lead {
+          font-size: 36px; } }
     @media (min-width: 1024px) {
-      #content h1, #content h1.title {
+      #content h1, body h1, #content h1.title, body h1.title {
         font-weight: bold;
         margin-bottom: 40px;
         font-size: 36px;
         font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-        #content h1 .lead, #content h1.title .lead {
+        #content h1 .lead, body h1 .lead, #content h1.title .lead, body h1.title .lead {
           font-size: 40px; } }
-  #content h2 {
+  #content h2, body h2 {
     font-weight: bold;
     margin-bottom: 20px;
-    font-size: 30.72px;
+    font-size: 31.68px;
     font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-    #content h2 .lead {
-      font-size: 34.56px; }
+    #content h2 .lead, body h2 .lead {
+      font-size: 35.64px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
-      #content h2 {
+      #content h2, body h2 {
         font-weight: bold;
         margin-bottom: 25px;
-        font-size: 25.6px;
+        font-size: 28.8px;
         font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-        #content h2 .lead {
-          font-size: 28.8px; } }
+        #content h2 .lead, body h2 .lead {
+          font-size: 32.4px; } }
     @media (min-width: 1024px) {
-      #content h2 {
+      #content h2, body h2 {
         font-weight: bold;
         margin-bottom: 30px;
         font-size: 32px;
         font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-        #content h2 .lead {
+        #content h2 .lead, body h2 .lead {
           font-size: 36px; } }
-  #content h3 {
+  #content h3, body h3 {
     font-weight: bold;
     margin-bottom: 17px;
-    font-size: 26.88px;
+    font-size: 27.72px;
     font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-    #content h3 .lead {
-      font-size: 30.72px; }
+    #content h3 .lead, body h3 .lead {
+      font-size: 31.68px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
-      #content h3 {
+      #content h3, body h3 {
         font-weight: bold;
         margin-bottom: 20px;
-        font-size: 22.4px;
+        font-size: 25.2px;
         font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-        #content h3 .lead {
-          font-size: 25.6px; } }
+        #content h3 .lead, body h3 .lead {
+          font-size: 28.8px; } }
     @media (min-width: 1024px) {
-      #content h3 {
+      #content h3, body h3 {
         font-weight: bold;
         margin-bottom: 25px;
         font-size: 28px;
         font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-        #content h3 .lead {
+        #content h3 .lead, body h3 .lead {
           font-size: 32px; } }
-  #content h4 {
+  #content h4, body h4 {
     font-weight: bold;
     margin-bottom: 14px;
-    font-size: 21.12px;
+    font-size: 21.78px;
     font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-    #content h4 .lead {
-      font-size: 24.96px; }
+    #content h4 .lead, body h4 .lead {
+      font-size: 25.74px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
-      #content h4 {
+      #content h4, body h4 {
         font-weight: bold;
         margin-bottom: 15px;
-        font-size: 17.6px;
+        font-size: 19.8px;
         font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-        #content h4 .lead {
-          font-size: 20.8px; } }
+        #content h4 .lead, body h4 .lead {
+          font-size: 23.4px; } }
     @media (min-width: 1024px) {
-      #content h4 {
+      #content h4, body h4 {
         font-weight: bold;
         margin-bottom: 20px;
         font-size: 22px;
         font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-        #content h4 .lead {
+        #content h4 .lead, body h4 .lead {
           font-size: 26px; } }
-  #content h5 {
+  #content h5, body h5 {
     font-weight: bold;
     margin-bottom: 14px;
-    font-size: 21.12px;
+    font-size: 21.78px;
     font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-    #content h5 .lead {
-      font-size: 24.96px; }
+    #content h5 .lead, body h5 .lead {
+      font-size: 25.74px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
-      #content h5 {
+      #content h5, body h5 {
         font-weight: bold;
         margin-bottom: 15px;
-        font-size: 17.6px;
+        font-size: 19.8px;
         font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-        #content h5 .lead {
-          font-size: 20.8px; } }
+        #content h5 .lead, body h5 .lead {
+          font-size: 23.4px; } }
     @media (min-width: 1024px) {
-      #content h5 {
+      #content h5, body h5 {
         font-weight: bold;
         margin-bottom: 20px;
         font-size: 22px;
         font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-        #content h5 .lead {
+        #content h5 .lead, body h5 .lead {
           font-size: 26px; } }
-  #content h6, #content table tr th {
+  #content h6, body h6, #content table tr th, body table tr #content th, body table tr th {
     font-weight: bold;
     margin-bottom: 13px;
-    font-size: 17.28px;
+    font-size: 17.82px;
     font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-    #content h6 .lead, #content table tr th .lead {
-      font-size: 23.04px; }
+    #content h6 .lead, body h6 .lead, #content table tr th .lead, body table tr #content th .lead, body table tr th .lead {
+      font-size: 23.76px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
-      #content h6, #content table tr th {
+      #content h6, body h6, #content table tr th, body table tr #content th, body table tr th {
         font-weight: bold;
         margin-bottom: 15px;
-        font-size: 14.4px;
+        font-size: 16.2px;
         font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-        #content h6 .lead, #content table tr th .lead {
-          font-size: 19.2px; } }
+        #content h6 .lead, body h6 .lead, #content table tr th .lead, body table tr #content th .lead, body table tr th .lead {
+          font-size: 21.6px; } }
     @media (min-width: 1024px) {
-      #content h6, #content table tr th {
+      #content h6, body h6, #content table tr th, body table tr #content th, body table tr th {
         font-weight: bold;
         margin-bottom: 20px;
         font-size: 18px;
         font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
-        #content h6 .lead, #content table tr th .lead {
+        #content h6 .lead, body h6 .lead, #content table tr th .lead, body table tr #content th .lead, body table tr th .lead {
           font-size: 24px; } }
-  #content p, #content blockquote, #content .line {
+  #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
     margin-bottom: 30px;
-    font-size: 17.28px;
+    font-size: 17.82px;
     font-family: Arial, sans-serif;
     zoom: 1; }
-    #content p.lead, #content blockquote.lead, #content .line.lead {
-      font-size: 25.92px; }
+    #content p.lead, body p.lead, #content blockquote.lead, body blockquote.lead, #content div.line.lead, body div.line.lead {
+      font-size: 26.73px; }
     @media (max-width: 639.98px) {
-      #content p, #content blockquote, #content .line {
+      #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
         word-break: break-word; } }
     @media (min-width: 768px) and (max-width: 1023.98px) {
-      #content p, #content blockquote, #content .line {
+      #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
         margin-bottom: 36px;
-        font-size: 14.4px;
+        font-size: 16.2px;
         font-family: Arial, sans-serif;
         zoom: 1; }
-        #content p.lead, #content blockquote.lead, #content .line.lead {
-          font-size: 21.6px; } }
+        #content p.lead, body p.lead, #content blockquote.lead, body blockquote.lead, #content div.line.lead, body div.line.lead {
+          font-size: 24.3px; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
-    #content p, #content blockquote, #content .line {
+    #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
       word-break: break-word; } }
     @media (min-width: 1024px) {
-      #content p, #content blockquote, #content .line {
+      #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
         margin-bottom: 45px;
         font-size: 18px;
         font-family: Arial, sans-serif;
         zoom: 1; }
-        #content p.lead, #content blockquote.lead, #content .line.lead {
+        #content p.lead, body p.lead, #content blockquote.lead, body blockquote.lead, #content div.line.lead, body div.line.lead {
           font-size: 27px; } }
   @media (min-width: 1024px) and (max-width: 639.98px) {
-    #content p, #content blockquote, #content .line {
+    #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
       word-break: break-word; } }
-  #content img {
+  #content img, body img {
     margin-bottom: 1.5rem !important; }
-  #content figure, #content .imggroup {
+  #content figure, body figure, #content .imggroup, body .imggroup {
     width: 100%;
     margin-bottom: 30px; }
-    @media (min-width: 640px) and (max-width: 767.98px) {
-      #content figure, #content .imggroup {
+    @media (min-width: 768px) and (max-width: 1023.98px) {
+      #content figure, body figure, #content .imggroup, body .imggroup {
         margin-bottom: 36px; } }
-    @media (min-width: 768px) {
-      #content figure, #content .imggroup {
+    @media (min-width: 1024px) {
+      #content figure, body figure, #content .imggroup, body .imggroup {
         margin-bottom: 45px; } }
-    #content figure img, #content .imggroup img {
+    #content figure img, body figure img, #content .imggroup img, body .imggroup img {
       max-width: 100%; }
       @media (min-width: 768px) {
-        #content figure img, #content .imggroup img {
+        #content figure img, body figure img, #content .imggroup img, body .imggroup img {
           max-width: 70%; } }
-    #content figure figcaption, #content figure .caption, #content .imggroup figcaption, #content .imggroup .caption {
+    #content figure figcaption, body figure figcaption, #content figure .caption, body figure .caption, #content .imggroup figcaption, body .imggroup figcaption, #content .imggroup .caption, body .imggroup .caption {
       color: #212d39;
       min-height: 15px;
       margin-top: 15px; }
-      @media (min-width: 640px) and (max-width: 767.98px) {
-        #content figure figcaption, #content figure .caption, #content .imggroup figcaption, #content .imggroup .caption {
+      @media (min-width: 768px) and (max-width: 1023.98px) {
+        #content figure figcaption, body figure figcaption, #content figure .caption, body figure .caption, #content .imggroup figcaption, body .imggroup figcaption, #content .imggroup .caption, body .imggroup .caption {
           margin-top: 20px; } }
-      @media (min-width: 768px) {
-        #content figure figcaption, #content figure .caption, #content .imggroup figcaption, #content .imggroup .caption {
+      @media (min-width: 1024px) {
+        #content figure figcaption, body figure figcaption, #content figure .caption, body figure .caption, #content .imggroup figcaption, body .imggroup figcaption, #content .imggroup .caption, body .imggroup .caption {
           min-height: 25px; } }
-  #content table {
+  #content table, body table {
     color: #22313f;
     scrollbar-color: #B1C900;
     scrollbar-base-color: #fff; }
-    #content table thead, #content table tbody, #content table tfoot {
+    #content table thead, body table thead, #content table tbody, body table tbody, #content table tfoot, body table tfoot {
       width: 100%; }
-    #content table tr td {
+    #content table tr td, body table tr td {
       margin-bottom: 30px;
-      font-size: 17.28px;
+      font-size: 17.82px;
       font-family: Arial, sans-serif;
       zoom: 1;
       margin: 12px;
       word-break: normal !important; }
-      #content table tr td.lead {
-        font-size: 25.92px; }
+      #content table tr td.lead, body table tr td.lead {
+        font-size: 26.73px; }
       @media (max-width: 639.98px) {
-        #content table tr td {
+        #content table tr td, body table tr td {
           word-break: break-word; } }
-      @media (min-width: 640px) and (max-width: 767.98px) {
-        #content table tr td {
+      @media (min-width: 768px) and (max-width: 1023.98px) {
+        #content table tr td, body table tr td {
           margin-bottom: 36px;
-          font-size: 14.4px;
+          font-size: 16.2px;
           font-family: Arial, sans-serif;
           zoom: 1;
           margin: 15px; }
-          #content table tr td.lead {
-            font-size: 21.6px; } }
-  @media (min-width: 640px) and (max-width: 767.98px) and (max-width: 639.98px) {
-    #content table tr td {
+          #content table tr td.lead, body table tr td.lead {
+            font-size: 24.3px; } }
+  @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
+    #content table tr td, body table tr td {
       word-break: break-word; } }
-      @media (min-width: 768px) {
-        #content table tr td {
+      @media (min-width: 1024px) {
+        #content table tr td, body table tr td {
           margin-bottom: 45px;
           font-size: 18px;
           font-family: Arial, sans-serif;
           zoom: 1;
           margin: 20px; }
-          #content table tr td.lead {
+          #content table tr td.lead, body table tr td.lead {
             font-size: 27px; } }
-  @media (min-width: 768px) and (max-width: 639.98px) {
-    #content table tr td {
+  @media (min-width: 1024px) and (max-width: 639.98px) {
+    #content table tr td, body table tr td {
       word-break: break-word; } }
-    #content table caption {
+    #content table caption, body table caption {
       color: #212d39;
       margin: 12px;
       margin-bottom: 30px;
-      font-size: 17.28px;
+      font-size: 17.82px;
       font-family: Arial, sans-serif;
       zoom: 1; }
-      #content table caption.lead {
-        font-size: 25.92px; }
+      #content table caption.lead, body table caption.lead {
+        font-size: 26.73px; }
       @media (max-width: 639.98px) {
-        #content table caption {
+        #content table caption, body table caption {
           word-break: break-word; } }
-      @media (min-width: 640px) and (max-width: 767.98px) {
-        #content table caption {
+      @media (min-width: 768px) and (max-width: 1023.98px) {
+        #content table caption, body table caption {
           margin: 15px;
           margin-bottom: 36px;
-          font-size: 14.4px;
+          font-size: 16.2px;
           font-family: Arial, sans-serif;
           zoom: 1; }
-          #content table caption.lead {
-            font-size: 21.6px; } }
-  @media (min-width: 640px) and (max-width: 767.98px) and (max-width: 639.98px) {
-    #content table caption {
+          #content table caption.lead, body table caption.lead {
+            font-size: 24.3px; } }
+  @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
+    #content table caption, body table caption {
       word-break: break-word; } }
-      @media (min-width: 768px) {
-        #content table caption {
+      @media (min-width: 1024px) {
+        #content table caption, body table caption {
           margin: 20px;
           margin-bottom: 45px;
           font-size: 18px;
           font-family: Arial, sans-serif;
           zoom: 1; }
-          #content table caption.lead {
+          #content table caption.lead, body table caption.lead {
             font-size: 27px; } }
-  @media (min-width: 768px) and (max-width: 639.98px) {
-    #content table caption {
+  @media (min-width: 1024px) and (max-width: 639.98px) {
+    #content table caption, body table caption {
       word-break: break-word; } }
-    #content table.liste, #content table.imggroup {
+    #content table.liste, body table.liste, #content table.imggroup, body table.imggroup {
       border: none !important; }
-      #content table.liste tr td, #content table.imggroup tr td {
-        font-size: 17.28px; }
-        @media (min-width: 640px) and (max-width: 767.98px) {
-          #content table.liste tr td, #content table.imggroup tr td {
-            font-size: 14.4px; } }
-        @media (min-width: 768px) {
-          #content table.liste tr td, #content table.imggroup tr td {
+      #content table.liste tr td, body table.liste tr td, #content table.imggroup tr td, body table.imggroup tr td {
+        font-size: 17.82px; }
+        @media (min-width: 768px) and (max-width: 1023.98px) {
+          #content table.liste tr td, body table.liste tr td, #content table.imggroup tr td, body table.imggroup tr td {
+            font-size: 16.2px; } }
+        @media (min-width: 1024px) {
+          #content table.liste tr td, body table.liste tr td, #content table.imggroup tr td, body table.imggroup tr td {
             font-size: 18px; } }
-  #content .generisk-ramme {
+  #content .generisk-ramme, body .generisk-ramme {
     color: #212d39 !important;
     background-color: #e4f0da !important;
     border: 1px solid #B1C900 !important;
     border-radius: 5px;
     padding: 20px;
-    margin-bottom: 30px; }
-    #content .generisk-ramme .sentence {
+    margin-bottom: 30px;
+    margin-bottom: 30px;
+    font-size: 17.82px;
+    font-family: Arial, sans-serif;
+    zoom: 1; }
+    #content .generisk-ramme .sentence, body .generisk-ramme .sentence {
       color: inherit !important; }
     @media (min-width: 640px) and (max-width: 767.98px) {
-      #content .generisk-ramme {
+      #content .generisk-ramme, body .generisk-ramme {
         padding: 30px;
         margin-bottom: 36px; } }
     @media (min-width: 768px) {
-      #content .generisk-ramme {
+      #content .generisk-ramme, body .generisk-ramme {
         padding: 35px;
         margin-bottom: 45px; } }
     @media (max-width: 639.98px) {
-      #content .generisk-ramme {
+      #content .generisk-ramme, body .generisk-ramme {
         word-break: break-word; } }
-  #content .ramme {
+    #content .generisk-ramme.lead, body .generisk-ramme.lead {
+      font-size: 26.73px; }
+    @media (max-width: 639.98px) {
+      #content .generisk-ramme, body .generisk-ramme {
+        word-break: break-word; } }
+    @media (min-width: 768px) and (max-width: 1023.98px) {
+      #content .generisk-ramme, body .generisk-ramme {
+        margin-bottom: 36px;
+        font-size: 16.2px;
+        font-family: Arial, sans-serif;
+        zoom: 1; }
+        #content .generisk-ramme.lead, body .generisk-ramme.lead {
+          font-size: 24.3px; } }
+  @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
+    #content .generisk-ramme, body .generisk-ramme {
+      word-break: break-word; } }
+    @media (min-width: 1024px) {
+      #content .generisk-ramme, body .generisk-ramme {
+        margin-bottom: 45px;
+        font-size: 18px;
+        font-family: Arial, sans-serif;
+        zoom: 1; }
+        #content .generisk-ramme.lead, body .generisk-ramme.lead {
+          font-size: 27px; } }
+  @media (min-width: 1024px) and (max-width: 639.98px) {
+    #content .generisk-ramme, body .generisk-ramme {
+      word-break: break-word; } }
+  #content .ramme, body .ramme {
     border-radius: 5px;
     padding: 20px;
     margin-bottom: 30px; }
-    #content .ramme .sentence {
+    #content .ramme .sentence, body .ramme .sentence {
       color: inherit !important; }
     @media (min-width: 640px) and (max-width: 767.98px) {
-      #content .ramme {
+      #content .ramme, body .ramme {
         padding: 30px;
         margin-bottom: 36px; } }
     @media (min-width: 768px) {
-      #content .ramme {
+      #content .ramme, body .ramme {
         padding: 35px;
         margin-bottom: 45px; } }
-    #content .ramme.viktig {
+    #content .ramme.viktig, body .ramme.viktig {
       color: #212d39 !important;
       background-color: #f0dae4 !important;
       border: 1px solid #bd5b87 !important; }
-    #content .ramme.info {
+    #content .ramme.info, body .ramme.info {
       color: #212d39 !important;
       background-color: #dae4f0 !important;
       border: 1px solid #5b87bd !important; }
-    #content .ramme.notat {
+    #content .ramme.notat, body .ramme.notat {
       color: #212d39 !important;
       background-color: #eff0da !important;
       border: 1px solid #b8bd5b !important; }
-  #content table.liste, #content ul, #content ol {
-    font-size: 17.28px;
+  #content table.liste, body table.liste, #content ul, body ul, #content ol, body ol {
+    font-size: 17.82px;
     margin-bottom: 30px;
     margin-left: 18px; }
     @media (min-width: 640px) and (max-width: 767.98px) {
-      #content table.liste, #content ul, #content ol {
-        font-size: 14.4px;
-        margin-bottom: 36px;
+      #content table.liste, body table.liste, #content ul, body ul, #content ol, body ol {
+        font-size: 17.82px;
+        margin-bottom: 30px;
         margin-left: 20px; } }
-    @media (min-width: 768px) {
-      #content table.liste, #content ul, #content ol {
+    @media (min-width: 768px) and (max-width: 1023.98px) {
+      #content table.liste, body table.liste, #content ul, body ul, #content ol, body ol {
+        font-size: 16.2px;
+        margin-bottom: 36px;
+        margin-left: 25px; } }
+    @media (min-width: 1024px) {
+      #content table.liste, body table.liste, #content ul, body ul, #content ol, body ol {
         font-size: 18px;
         margin-bottom: 45px;
         margin-left: 25px; } }
-    #content table.liste .listepunkt-punktmerke-innhold, #content table.liste li, #content ul .listepunkt-punktmerke-innhold, #content ul li, #content ol .listepunkt-punktmerke-innhold, #content ol li {
+    #content table.liste .listepunkt-punktmerke-innhold, body table.liste .listepunkt-punktmerke-innhold, #content table.liste li, body table.liste li, #content ul .listepunkt-punktmerke-innhold, body ul .listepunkt-punktmerke-innhold, #content ul li, body ul li, #content ol .listepunkt-punktmerke-innhold, body ol .listepunkt-punktmerke-innhold, #content ol li, body ol li {
       margin-bottom: 16px;
       margin-left: 20px; }
       @media (min-width: 640px) and (max-width: 767.98px) {
-        #content table.liste .listepunkt-punktmerke-innhold, #content table.liste li, #content ul .listepunkt-punktmerke-innhold, #content ul li, #content ol .listepunkt-punktmerke-innhold, #content ol li {
+        #content table.liste .listepunkt-punktmerke-innhold, body table.liste .listepunkt-punktmerke-innhold, #content table.liste li, body table.liste li, #content ul .listepunkt-punktmerke-innhold, body ul .listepunkt-punktmerke-innhold, #content ul li, body ul li, #content ol .listepunkt-punktmerke-innhold, body ol .listepunkt-punktmerke-innhold, #content ol li, body ol li {
           margin-bottom: 20px; } }
       @media (min-width: 768px) {
-        #content table.liste .listepunkt-punktmerke-innhold, #content table.liste li, #content ul .listepunkt-punktmerke-innhold, #content ul li, #content ol .listepunkt-punktmerke-innhold, #content ol li {
+        #content table.liste .listepunkt-punktmerke-innhold, body table.liste .listepunkt-punktmerke-innhold, #content table.liste li, body table.liste li, #content ul .listepunkt-punktmerke-innhold, body ul .listepunkt-punktmerke-innhold, #content ul li, body ul li, #content ol .listepunkt-punktmerke-innhold, body ol .listepunkt-punktmerke-innhold, #content ol li, body ol li {
           margin-bottom: 24px; } }
-  #content ul {
+  #content ul, body ul {
     padding-inline-start: 0; }
-    #content ul li {
+    #content ul li, body ul li {
       margin-left: 0; }
-    #content ul.plain {
+    #content ul.plain, body ul.plain {
       list-style-type: none; }
-  #content .ordliste dl dt {
+  #content .ordliste dl dt, body .ordliste dl dt {
     margin-bottom: 30px;
-    font-size: 17.28px;
+    font-size: 17.82px;
     font-family: Arial, sans-serif;
     zoom: 1; }
-    #content .ordliste dl dt.lead {
-      font-size: 25.92px; }
+    #content .ordliste dl dt.lead, body .ordliste dl dt.lead {
+      font-size: 26.73px; }
     @media (max-width: 639.98px) {
-      #content .ordliste dl dt {
+      #content .ordliste dl dt, body .ordliste dl dt {
         word-break: break-word; } }
     @media (min-width: 640px) and (max-width: 767.98px) {
-      #content .ordliste dl dt {
+      #content .ordliste dl dt, body .ordliste dl dt {
         margin-bottom: 36px;
-        font-size: 14.4px;
+        font-size: 16.2px;
         font-family: Arial, sans-serif;
         zoom: 1; }
-        #content .ordliste dl dt.lead {
-          font-size: 21.6px; } }
+        #content .ordliste dl dt.lead, body .ordliste dl dt.lead {
+          font-size: 24.3px; } }
   @media (min-width: 640px) and (max-width: 767.98px) and (max-width: 639.98px) {
-    #content .ordliste dl dt {
+    #content .ordliste dl dt, body .ordliste dl dt {
       word-break: break-word; } }
     @media (min-width: 768px) {
-      #content .ordliste dl dt {
+      #content .ordliste dl dt, body .ordliste dl dt {
         margin-bottom: 45px;
         font-size: 18px;
         font-family: Arial, sans-serif;
         zoom: 1; }
-        #content .ordliste dl dt.lead {
+        #content .ordliste dl dt.lead, body .ordliste dl dt.lead {
           font-size: 27px; } }
   @media (min-width: 768px) and (max-width: 639.98px) {
-    #content .ordliste dl dt {
+    #content .ordliste dl dt, body .ordliste dl dt {
       word-break: break-word; } }
 
 /* End Core.SCSS */
 /* Begin Epub.SCSS */
 /* End Epub.SCSS */
+
+/*# sourceMappingURL=epub.css.map */
