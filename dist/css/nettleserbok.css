@@ -2992,61 +2992,61 @@ button.bg-pure-yellow:focus {
   color: #fff !important; }
 
 .text-primary {
-  color: #007bff !important; }
+  color: #007bff; }
 
 a.text-primary:hover, a.text-primary:focus {
   color: #0056b3 !important; }
 
 .text-secondary {
-  color: #6c757d !important; }
+  color: #6c757d; }
 
 a.text-secondary:hover, a.text-secondary:focus {
   color: #494f54 !important; }
 
 .text-success {
-  color: #28a745 !important; }
+  color: #28a745; }
 
 a.text-success:hover, a.text-success:focus {
   color: #19692c !important; }
 
 .text-info {
-  color: #17a2b8 !important; }
+  color: #17a2b8; }
 
 a.text-info:hover, a.text-info:focus {
   color: #0f6674 !important; }
 
 .text-warning {
-  color: #ffc107 !important; }
+  color: #ffc107; }
 
 a.text-warning:hover, a.text-warning:focus {
   color: #ba8b00 !important; }
 
 .text-danger {
-  color: #dc3545 !important; }
+  color: #dc3545; }
 
 a.text-danger:hover, a.text-danger:focus {
   color: #a71d2a !important; }
 
 .text-light, body.theme__dark, body.theme__dark #hjelpknapp a, body.theme__dark p, body.theme__dark #content blockquote, #content body.theme__dark blockquote, body.theme__dark a, body.theme__dark h1, body.theme__dark h2, body.theme__dark h3, body.theme__dark h4, body.theme__dark h5, body.theme__dark h6, body.theme__dark #content table tr th, #content table tr body.theme__dark th, #content.theme__dark, #content.theme__dark span.sentence, #content.theme__dark table {
-  color: #f8f9fa !important; }
+  color: #f8f9fa; }
 
 a.text-light:hover, body.theme__dark #hjelpknapp a:hover, body.theme__dark a:hover, a#content.theme__dark:hover, a.text-light:focus, body.theme__dark #hjelpknapp a:focus, body.theme__dark a:focus, a#content.theme__dark:focus {
   color: #cbd3da !important; }
 
 .text-dark, body, #content span.sentence {
-  color: #212d39 !important; }
+  color: #212d39; }
 
 a.text-dark:hover, a.text-dark:focus {
   color: #050709 !important; }
 
 .text-night {
-  color: #212d39 !important; }
+  color: #212d39; }
 
 a.text-night:hover, a.text-night:focus {
   color: #050709 !important; }
 
 .text-pure-yellow {
-  color: #E9FD59 !important; }
+  color: #E9FD59; }
 
 a.text-pure-yellow:hover, a.text-pure-yellow:focus {
   color: #dffc0d !important; }
@@ -5330,6 +5330,11 @@ body.theme__dark #book_header {
   background-color: #2a3a49;
   border-color: #fff; }
 
+body.theme__dark #toc_container a:hover,
+body.theme__dark #page-list a:hover {
+  background: #E9FD59 !important;
+  color: #212d39 !important; }
+
 body.theme__dark #toc_container .intro {
   background-color: #2a3a49; }
 
@@ -5356,13 +5361,8 @@ body.theme__dark input[type='range']::-moz-range-thumb {
   width: 1.2vh;
   border-radius: 50%; }
 
-body.theme__dark .header__right-2 a:hover {
+body.theme__dark .header__right-2 {
   color: #fff; }
-
-body.theme__dark .rbPausedFragment,
-body.theme__dark .rbActiveFragment {
-  background: #E9FD59;
-  color: #2a3a49; }
 
 body.theme__dark #skippability span,
 body.theme__dark #Avspillingshastighet_main span,
@@ -5385,6 +5385,11 @@ body.theme__dark #play_button {
      * ---------------------------------------------------------- */
   /* Tables
      * ---------------------------------------------------------- */ }
+  #content.theme__dark a:hover,
+  #content.theme__dark .rbPausedFragment,
+  #content.theme__dark .rbActiveFragment {
+    background: #E9FD59 !important;
+    color: #212d39 !important; }
   @media (max-width: 767.98px) {
     #content.theme__dark {
       border: 1px solid #000; } }
@@ -5447,6 +5452,11 @@ a {
   color: #212d39;
   text-decoration: none; }
 
+#toc_container a:hover,
+#page-list a:hover {
+  background: #E9FD59 !important;
+  color: #212d39 !important; }
+
 #content {
   padding: 0 1vw; }
   @media (max-width: 767.98px) {
@@ -5465,8 +5475,10 @@ a {
     border-bottom: 2mm solid #B1C900;
     font-size: 220%;
     text-align: center; }
-  #content span.rbPausedFragment {
-    background-color: #B1C900 !important;
+  #content a:hover,
+  #content .rbPausedFragment,
+  #content .rbActiveFragment {
+    background-color: #E9FD59 !important;
     color: #212d39 !important; }
   #content .start-info {
     margin-bottom: 30px; }

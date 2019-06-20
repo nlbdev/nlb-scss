@@ -825,9 +825,9 @@ function hide_extra() {
   var percentage = document.getElementById("percentage_container");
 
   if (x.style.display === "none") {
-    x.style.display = "block";
-    y.style.display = "block";
-    percentage.style.display = "block";
+    // x.style.display = "block";
+    // y.style.display = "block";
+    // percentage.style.display = "block";
 
     var j = document.getElementById("night_mode").innerHTML;
     if (j === "Nattmodus") {

@@ -11,6 +11,13 @@ a {
     color: $nlb-black;
     text-decoration: none;
 }
+#toc_container,
+#page-list {
+    a:hover {
+        background: $pure-yellow !important;
+        color: $nlb-black !important;
+    }
+}
 
 #content {
     padding: 0 1vw;
@@ -35,8 +42,10 @@ a {
     span.sentence {
         @extend .text-dark;
     }
-    span.rbPausedFragment {
-        background-color: $nlb-green !important;
+    a:hover,
+    .rbPausedFragment,
+    .rbActiveFragment {
+        background-color: $pure-yellow !important;
         color: $nlb-black !important;
     }
 

@@ -2978,61 +2978,61 @@ button.bg-pure-yellow:focus {
   color: #fff !important; }
 
 .text-primary {
-  color: #007bff !important; }
+  color: #007bff; }
 
 a.text-primary:hover, a.text-primary:focus {
   color: #0056b3 !important; }
 
 .text-secondary {
-  color: #6c757d !important; }
+  color: #6c757d; }
 
 a.text-secondary:hover, a.text-secondary:focus {
   color: #494f54 !important; }
 
 .text-success {
-  color: #28a745 !important; }
+  color: #28a745; }
 
 a.text-success:hover, a.text-success:focus {
   color: #19692c !important; }
 
 .text-info {
-  color: #17a2b8 !important; }
+  color: #17a2b8; }
 
 a.text-info:hover, a.text-info:focus {
   color: #0f6674 !important; }
 
 .text-warning {
-  color: #ffc107 !important; }
+  color: #ffc107; }
 
 a.text-warning:hover, a.text-warning:focus {
   color: #ba8b00 !important; }
 
 .text-danger {
-  color: #dc3545 !important; }
+  color: #dc3545; }
 
 a.text-danger:hover, a.text-danger:focus {
   color: #a71d2a !important; }
 
 .text-light {
-  color: #f8f9fa !important; }
+  color: #f8f9fa; }
 
 a.text-light:hover, a.text-light:focus {
   color: #cbd3da !important; }
 
 .text-dark, body {
-  color: #212d39 !important; }
+  color: #212d39; }
 
 a.text-dark:hover, a.text-dark:focus {
   color: #050709 !important; }
 
 .text-night {
-  color: #212d39 !important; }
+  color: #212d39; }
 
 a.text-night:hover, a.text-night:focus {
   color: #050709 !important; }
 
 .text-pure-yellow {
-  color: #E9FD59 !important; }
+  color: #E9FD59; }
 
 a.text-pure-yellow:hover, a.text-pure-yellow:focus {
   color: #dffc0d !important; }
