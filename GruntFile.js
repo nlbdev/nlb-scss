@@ -44,8 +44,17 @@ module.exports = function (grunt) {
 				}
 			}
 		},
+		copy: {
+			main: {
+			  files: [
+				{src: ['src/js/rb_smil_emulator.js'], dest: 'dist/js/rb_smil_emulator.js'},
+				{src: ['src/js/rb_smil_emulator.js'], dest: 'dist/tests/Nettleserbok/628810/rb_smil_emulator.js'},
+				{src: ['src/js/rb_smil_emulator.js'], dest: 'dist/tests/Nettleserbok/852345/rb_smil_emulator.js'},
+			  ],
+			},
+		},
 		clean: {
-			dist: ['dist/css/*',] // Clean all css
+			dist: ['dist/css/*','dist/js/*'] // Clean all
 		},
 		watch: {
 			scripts: {
@@ -57,11 +66,12 @@ module.exports = function (grunt) {
 			},
 		},
 	});
-	
+
+	grunt.loadNpmTasks('grunt-contrib-copy');
 	grunt.loadNpmTasks('grunt-postcss');
 	grunt.loadNpmTasks('grunt-contrib-clean');
 	grunt.loadNpmTasks('grunt-sass');
 	grunt.loadNpmTasks('grunt-contrib-watch');
 
-	grunt.registerTask('default', ['clean', 'sass', 'postcss']);
+	grunt.registerTask('default', ['clean', 'sass', 'postcss', 'copy']);
 };

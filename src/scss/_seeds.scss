@@ -1,0 +1,530 @@
+
+/* Media Overlay */
+.-epub-media-overlay-active {
+    background-color: #FFFFFF;
+}
+
+.rbActiveFragment , .rbPausedFragment{
+   /* background-color: #FFFF99;*/
+   background-color: #22313F;
+   color: #FFFFFF ;
+   
+    /*-webkit-transition: background 0.5s;*/
+	/*margin-top: 50px;*/
+}
+
+/*  
+     
+	 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+     @@@@                                                                                                    @@@@
+     @@@@****************************css for toc container   ******************************************************@@@@
+     @@@@                                                                                                    @@@@
+     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@       
+*/
+
+
+.toc_list_title {
+    left: 5.9%; 
+}
+.toc_list_title , .page-list_title ,.progress-text{
+    text-align: left;
+	width: 100%;
+    
+    text-align: left;
+	min-height: 2vh;
+	max-height: 2vh ;	
+	position: fixed;
+    top: 14.1vh;	
+    
+	
+	font-size: 2.3vh;	
+	font-family: arial, serif; 	
+    font-style: normal;
+	font-weight: 700;
+	
+}
+
+.page-list_title {
+    left: 88.3vw;
+}
+
+
+
+#toc_container li, #toc_container ul, #toc_container ul li{
+    list-style: outside none none !important;
+}
+
+#toc_container {    
+       
+	margin: 0 0%;
+	width: 20%;
+	left: 6%;	  
+}
+
+#toc_container .title {
+
+	position: fixed;
+    top: 22.1vh;	
+    left: 1.8vw;
+	left : 6%;
+    font-style: normal;
+	font-weight: 700;
+    background: red;
+    padding: 2% 1% 2% 1%;
+    font-weight: bold;
+    border-top: 1px solid #CCC;
+    border-right: 1px solid #CCC;
+    border-left: 1px solid #CCC;
+
+}
+
+/*  
+     
+	 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+     @@@@                                                                                                    @@@@
+     @@@@****************************css for content   ******************************************************@@@@
+     @@@@                                                                                                    @@@@
+     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@       
+*/
+#content
+{
+	padding-left: 2%;
+	padding-right: 2%;
+}
+
+
+/*
+.class_content_only
+{	
+	background: #f9f9f9 none repeat scroll 0 0;     
+	margin: 0 0%;
+	width: 50%;
+	left: 24%;
+	
+}
+*/
+/*  
+     
+	 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+     @@@@                                                                                                    @@@@
+     @@@@****************************css for page number   ******************************************************@@@@
+     @@@@                                                                                                    @@@@
+     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@       
+*/
+
+#page-list {
+	margin: 0 0.1%;
+	width: 6%;
+	left: 88.3%;
+}
+
+
+
+#page-list li, #page-list ul, #page-list ul li{
+    list-style: outside none none !important;
+}
+/*   
+	 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+     @@@@                                                                                                    @@@@
+     @@@@****************************combine for TOC, content and  page  ************************************@@@@
+     @@@@                                                                                                    @@@@
+     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@       
+*/
+
+/*#toc_container , .class_all , .class_content_only , #page-list  */
+
+
+.class_all , .class_content_only {
+    @extend .d-block;
+    
+    background: #f9f9f9 none repeat scroll 0 0;
+    margin: 0 0%;	
+    width: 50%;
+    left: 30.2%;
+	margin-bottom: 1em;
+    padding: 1px; 
+	border: .1vh solid #CCC;
+	background-color: #FFFFFF;
+	top: 22%;
+	overflow-x: hidden;
+	overflow-y: auto; 
+	height:75%;
+	position: fixed;
+	
+}
+/*  
+	 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+     @@@@                                                                                                    @@@@
+     @@@@****************************css for header   ******************************************************@@@@
+     @@@@                                                                                                    @@@@
+     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@       
+*/
+
+
+.header {
+	min-height: 12.4%;
+	max-height: 12.4%;
+	position: fixed;
+	top: 0;
+	left:0;
+	z-index: 1;
+	width: 100%;
+	/*background-color: #f1f1f1;*/
+	background-color: rgb(255, 255, 255);
+	background: #FFFFFF;	 
+	font-family: arial, serif; 
+	
+    font-style: normal;
+	font-weight: 700;
+  
+}
+
+.progress-container,
+.progress-bar
+{
+    
+   
+	position: fixed;
+	
+	min-height: .9%;
+	max-height: .9% ;	
+    
+}
+
+.progress-container{
+    /*background-color: rgb(220, 220, 220);*/
+	background-color: #22313F;
+	border: .1vh solid #22313F;
+    width: 40.1vw;
+    left: 41%; 
+	top: 17.2vh;
+    
+}
+.progress-bar{
+    /*background-color: rgb(177, 201, 0);*/
+	
+	background-color: #FFFFFF;
+    left: 41.1%;
+	width: 0%;
+	top: 17.3vh;	
+}
+.progress-text{
+   left: 30.2%;
+   top: 16.1vh;
+   
+   
+   
+   
+    
+}
+
+
+
+/*--------- skippability------------- */
+
+
+
+
+/* ********************   this is logo*************************/
+.logo_container {
+	min-width:14%;
+	max-width: 14%;  
+	left:5.9%; 
+	position: fixed;
+    top: 4.8%;
+}
+
+#play_button
+{
+    position: fixed;
+    top: 4%;
+   
+}
+/* ********************   this is play*************************/
+#play_button 
+{ 
+    /*background-color: rgb(177, 201, 0);*/
+	background-color: #22313F;
+    border: none;
+    padding: 2.5vh;
+	background-image:url('play.svg');
+	background-repeat:no-repeat;
+	background-size: 50% 50%;
+    background-position: center; 
+	border-radius: 50%;	
+	position: fixed;	
+	top :2.4%;
+	left: 48.5%;
+   
+}
+
+#play_button_text {
+	
+	text-align: left;
+	width: 100%;
+    
+    text-align: left;
+	min-height: 3vh;
+	max-height: 3vh ;
+	position: fixed;
+    top: 7vh;	
+    left: 48.5vw; 	
+	
+	font-size: 2.3vh;	
+	
+	
+	
+	    
+    
+		
+}
+/* ********************   this is speed*************************/
+
+
+input[type="range"] {
+    -webkit-appearance: none;
+    -moz-apperance: none;
+    border-radius: .8vh;
+    height: .8vh;
+	width: 15vh;
+    background-image: -webkit-gradient(linear, left top, right top, color-stop(0.15, #b1c900), color-stop(0.3, #C5C5C5));
+}
+
+input[type='range']::-webkit-slider-thumb {
+    -webkit-appearance: none !important;
+     background-color: #22313F;
+    border: .2vh solid #22313F;
+    height: 1.9vh;
+    width: 1.9vh;
+    border-radius: 50%;
+}
+
+input[type='range']::-moz-range-thumb {
+	
+	
+	background-color: #22313F;
+     border: .2vh solid #22313F;
+    height: 1.9vh;
+    width: 1.9vh;
+    border-radius: 50%;
+}
+
+
+
+
+
+/*
+input[type="range"] {
+    -webkit-appearance: none;
+    -moz-apperance: none;
+    border-radius: .8vh;
+    height: .8vh;
+    
+	border: .3vh solid #22313F;
+	width: 15vh;
+}
+
+input[type='range']::-webkit-slider-thumb {
+    -webkit-appearance: none !important;
+    background-color: #FFFFFF;
+    border: .2vh solid #22313F;
+    height: 1.2vh;
+    width: 1.2vh;
+    border-radius: 50%;
+}	
+	
+input[type='range']::-moz-range-thumb {
+	
+	
+	background-color: #FFFFFF;
+     border: .2vh solid #22313F;
+    height: 1.2vh;
+    width: 1.2vh;
+    border-radius: 50%;
+}
+
+
+
+input[type="range"]::-webkit-progress-value {
+  
+}
+
+	
+input[type=range]::-moz-range-progress {
+  background-color: #FFFFFF;
+  border: .1vh solid #22313F;
+  height: .5vh;
+}
+
+input[type=range]::-moz-range-track {
+  background-color: #22313F;
+}
+*/
+
+.slider {
+	
+	position: fixed;
+    top: 5vh;
+    left: 70vw;
+
+}
+
+
+
+
+#currentPbr {
+	position: fixed;
+    top: 7.9vh;	
+    left: 70vw; 
+	
+	
+	text-align: left;
+	width: 100%;    
+	min-height: 3vh;
+	max-height: 3vh ;	    
+    font-style: normal;
+		
+}
+
+/* ********************   this is help , night mode and full screen separate*************************/
+
+
+#hjelpknapp{
+	left: 91.6%;    
+	top: 2.2vh;
+	background-image:url('help.svg');
+}
+
+#modus_knapp{
+    left: 84%;
+	top: 2.2vh;
+	background-image:url('moon.svg');	
+}
+
+#Fullskjerm_knapp{
+	left: 82.4%;
+	top: 15.5vh;
+	/*background-image:url('expand.svg');*/
+	position: fixed;    
+    text-align: left;
+    width: 3.7vh;
+    height: 3.7vh;	
+	
+	background-repeat:no-repeat;
+	background-size: 75% 75%;
+    background-position: center; 
+	
+}
+
+/* ********************   this is help , night mode and full screen combine*************************/
+#modus_knapp , #hjelpknapp {
+	position: fixed;    
+    text-align: left;
+    width: 5.7vh;
+    height: 5.7vh;
+
+	
+	background-repeat:no-repeat;
+	background-size: 75% 75%;
+    background-position: center;     
+}
+#night_mode ,#hjelptekst {
+    display: block;    
+}
+
+#modus_knapp a , #hjelpknapp a , #Fullskjerm_knapp a{
+    text-decoration: none;	
+}
+
+#hjelpknapp a {    
+	color:#000000;
+}
+
+
+
+#modus_knapp a:hover , #hjelpknapp a:hover {
+    text-decoration: underline;
+}
+#modus_knapp span , #hjelpknapp span  {
+		padding-top : 100%;	
+		padding-left: 1vh;
+}
+
+#modus_knapp span , #hjelpknapp span ,  #currentPbr{
+		font-size: 1.8vh;
+}
+
+#toc_container .toc_container__wrapper li ol li a {
+    font-weight: normal !important;
+}
+
+
+  
+  /* ############################
+button sleep mode
+############################### */
+
+body {
+    background-color: #f4f3f3;
+	border-left: none;
+	background-image:none;
+}
+
+/**   #############this is fix for  default css############# */
+
+
+a:hover, a:active, a:focus {
+	color: #333;
+	text-decoration: underline;
+	background-color: rgba(0, 0, 0, 0.0001);;
+}
+
+.theme__dark a:hover, .theme__dark a:active, .theme__darka:focus {
+	color: #FFFFFF;
+	text-decoration: underline;
+	background-color: rgba(0, 0, 0, 0.0001);;
+}
+
+h1.title {
+	 background-color: #22313F;
+    color: #FFFFFF;
+}
+
+
+/**   #############this is fix for  default css############# */
+
+/*  #############  text for non browser    ################### */
+ #nosctipt_text, #wrong_browser_text
+{
+	min-height: 2.4%;
+	max-height: 22.4%;
+	position: fixed;
+	top: 10;
+	left:20;
+	z-index: 2;
+	width: 40%;
+	/*background-color: #f1f1f1;*/
+	background-color: rgb(255, 255, 255);
+	background: #FFFFFF;	 
+	font-family: arial, serif; 
+	color:red;
+    font-style: normal;
+	font-weight: 700;
+	font-size: 2.3vh;
+	
+}
+   
+
+  
+
+

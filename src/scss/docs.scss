@@ -3,6 +3,7 @@
 @import "core";
 
 body {
+    @include make-container();
+    @include make-container-max-widths();
     @extend #content;
-    
 }

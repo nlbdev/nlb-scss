@@ -319,6 +319,7 @@ template {
   --light: #f8f9fa;
   --dark: #212d39;
   --night: #212d39;
+  --pure-yellow: #E9FD59;
   --breakpoint-xs: 0;
   --breakpoint-sm: 640px;
   --breakpoint-md: 768px;
@@ -682,6 +683,14 @@ button.bg-night:hover,
 button.bg-night:focus {
   background-color: #0e1419 !important; }
 
+.bg-pure-yellow {
+  background-color: #E9FD59 !important; }
+
+a.bg-pure-yellow:hover, a.bg-pure-yellow:focus,
+button.bg-pure-yellow:hover,
+button.bg-pure-yellow:focus {
+  background-color: #e2fc27 !important; }
+
 .bg-white {
   background-color: #fff !important; }
 
@@ -746,6 +755,9 @@ button.bg-night:focus {
 
 .border-night {
   border-color: #212d39 !important; }
+
+.border-pure-yellow {
+  border-color: #E9FD59 !important; }
 
 .border-white {
   border-color: #fff !important; }
@@ -3019,6 +3031,12 @@ a.text-dark:hover, a.text-dark:focus {
 a.text-night:hover, a.text-night:focus {
   color: #050709 !important; }
 
+.text-pure-yellow {
+  color: #E9FD59 !important; }
+
+a.text-pure-yellow:hover, a.text-pure-yellow:focus {
+  color: #dffc0d !important; }
+
 .text-body {
   color: #212529 !important; }
 
@@ -3986,6 +4004,23 @@ mark,
   .table-hover .table-night:hover > th {
     background-color: #b3b7bc; }
 
+.table-pure-yellow,
+.table-pure-yellow > th,
+.table-pure-yellow > td {
+  background-color: #f9fed1; }
+
+.table-pure-yellow th,
+.table-pure-yellow td,
+.table-pure-yellow thead th,
+.table-pure-yellow tbody + tbody {
+  border-color: #f4fea9; }
+
+.table-hover .table-pure-yellow:hover {
+  background-color: #f6fdb8; }
+  .table-hover .table-pure-yellow:hover > td,
+  .table-hover .table-pure-yellow:hover > th {
+    background-color: #f6fdb8; }
+
 .table-active,
 .table-active > th,
 .table-active > td {
@@ -4072,12 +4107,6 @@ body {
   overflow-x: hidden; }
 
 #content {
-  width: 100%;
-  padding-right: 15px;
-  padding-left: 15px;
-  margin-right: auto;
-  margin-left: auto;
-  max-width: 100%;
   padding-right: 20px;
   padding-left: 20px;
   /* Paging
@@ -4130,7 +4159,7 @@ body {
     font-weight: bold;
     margin-bottom: 20px;
     font-size: 35.64px;
-    font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+    font-family: "Arial black", sans-serif; }
     #content h1 .lead, #content h1.title .lead {
       font-size: 39.6px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
@@ -4138,7 +4167,7 @@ body {
         font-weight: bold;
         margin-bottom: 30px;
         font-size: 32.4px;
-        font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+        font-family: "Arial black", sans-serif; }
         #content h1 .lead, #content h1.title .lead {
           font-size: 36px; } }
     @media (min-width: 1024px) {
@@ -4146,14 +4175,14 @@ body {
         font-weight: bold;
         margin-bottom: 40px;
         font-size: 36px;
-        font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+        font-family: "Arial black", sans-serif; }
         #content h1 .lead, #content h1.title .lead {
           font-size: 40px; } }
   #content h2 {
     font-weight: bold;
     margin-bottom: 20px;
     font-size: 31.68px;
-    font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+    font-family: "Arial bold", sans-serif; }
     #content h2 .lead {
       font-size: 35.64px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
@@ -4161,7 +4190,7 @@ body {
         font-weight: bold;
         margin-bottom: 25px;
         font-size: 28.8px;
-        font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+        font-family: "Arial bold", sans-serif; }
         #content h2 .lead {
           font-size: 32.4px; } }
     @media (min-width: 1024px) {
@@ -4169,14 +4198,14 @@ body {
         font-weight: bold;
         margin-bottom: 30px;
         font-size: 32px;
-        font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+        font-family: "Arial bold", sans-serif; }
         #content h2 .lead {
           font-size: 36px; } }
   #content h3 {
     font-weight: bold;
     margin-bottom: 17px;
     font-size: 27.72px;
-    font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+    font-family: "Arial bold", sans-serif; }
     #content h3 .lead {
       font-size: 31.68px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
@@ -4184,7 +4213,7 @@ body {
         font-weight: bold;
         margin-bottom: 20px;
         font-size: 25.2px;
-        font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+        font-family: "Arial bold", sans-serif; }
         #content h3 .lead {
           font-size: 28.8px; } }
     @media (min-width: 1024px) {
@@ -4192,14 +4221,14 @@ body {
         font-weight: bold;
         margin-bottom: 25px;
         font-size: 28px;
-        font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+        font-family: "Arial bold", sans-serif; }
         #content h3 .lead {
           font-size: 32px; } }
   #content h4 {
     font-weight: bold;
     margin-bottom: 14px;
     font-size: 21.78px;
-    font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+    font-family: "Arial black", sans-serif; }
     #content h4 .lead {
       font-size: 25.74px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
@@ -4207,7 +4236,7 @@ body {
         font-weight: bold;
         margin-bottom: 15px;
         font-size: 19.8px;
-        font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+        font-family: "Arial black", sans-serif; }
         #content h4 .lead {
           font-size: 23.4px; } }
     @media (min-width: 1024px) {
@@ -4215,14 +4244,14 @@ body {
         font-weight: bold;
         margin-bottom: 20px;
         font-size: 22px;
-        font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+        font-family: "Arial black", sans-serif; }
         #content h4 .lead {
           font-size: 26px; } }
   #content h5 {
     font-weight: bold;
     margin-bottom: 14px;
     font-size: 21.78px;
-    font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+    font-family: "Arial bold", sans-serif; }
     #content h5 .lead {
       font-size: 25.74px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
@@ -4230,7 +4259,7 @@ body {
         font-weight: bold;
         margin-bottom: 15px;
         font-size: 19.8px;
-        font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+        font-family: "Arial bold", sans-serif; }
         #content h5 .lead {
           font-size: 23.4px; } }
     @media (min-width: 1024px) {
@@ -4238,14 +4267,14 @@ body {
         font-weight: bold;
         margin-bottom: 20px;
         font-size: 22px;
-        font-family: "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+        font-family: "Arial bold", sans-serif; }
         #content h5 .lead {
           font-size: 26px; } }
   #content h6, #content table tr th {
     font-weight: bold;
     margin-bottom: 13px;
     font-size: 17.82px;
-    font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+    font-family: "Arial black", sans-serif; }
     #content h6 .lead, #content table tr th .lead {
       font-size: 23.76px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
@@ -4253,7 +4282,7 @@ body {
         font-weight: bold;
         margin-bottom: 15px;
         font-size: 16.2px;
-        font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+        font-family: "Arial black", sans-serif; }
         #content h6 .lead, #content table tr th .lead {
           font-size: 21.6px; } }
     @media (min-width: 1024px) {
@@ -4261,7 +4290,7 @@ body {
         font-weight: bold;
         margin-bottom: 20px;
         font-size: 18px;
-        font-family: "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+        font-family: "Arial black", sans-serif; }
         #content h6 .lead, #content table tr th .lead {
           font-size: 24px; } }
   #content p, #content blockquote, #content div.line {
@@ -4475,15 +4504,15 @@ body {
       #content .ramme {
         padding: 35px;
         margin-bottom: 45px; } }
-    #content .ramme.viktig {
+    #content .ramme.bg-red {
       color: #212d39 !important;
       background-color: #f0dae4 !important;
       border: 1px solid #bd5b87 !important; }
-    #content .ramme.info {
+    #content .ramme.bg-blue {
       color: #212d39 !important;
       background-color: #dae4f0 !important;
       border: 1px solid #5b87bd !important; }
-    #content .ramme.notat {
+    #content .ramme.bg-yellow {
       color: #212d39 !important;
       background-color: #eff0da !important;
       border: 1px solid #b8bd5b !important; }

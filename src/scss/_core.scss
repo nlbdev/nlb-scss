@@ -27,8 +27,7 @@ body {
     overflow-x: hidden;
 }
 #content {
-    @include make-container();
-    max-width: 100%;
+    // max-width: 100%;
 
     padding-right: 20px;
     padding-left: 20px;
@@ -310,15 +309,15 @@ body {
     .ramme {
         @include nlb-frame();
     
-        &.viktig {
+        &.bg-red {
             @include nlb-color($frame-red-bg, darken($frame-red-bg, 35%), $dark);
         }
         
-        &.info {
+        &.bg-blue {
             @include nlb-color($frame-blue-bg, darken($frame-blue-bg, 35%), $dark);
         }
         
-        &.notat {
+        &.bg-yellow {
             @include nlb-color($frame-yellow-bg, darken($frame-yellow-bg, 35%), $dark);
         }
     }

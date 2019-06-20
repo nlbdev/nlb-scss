@@ -1,3 +1,5 @@
+/* jshint esversion: 6 */
+
 /*
 
 File name: rb_smil_emulator.js
@@ -5,7 +7,7 @@ Version: 1.12
 Date: 2014-05-20
 Author: Alberto Pettarin (alberto AT albertopettarin DOT it)
 Description: this JS provides Media Overlay (SMIL) support for EPUB 3 reflowable eBooks
-Modified by : Ammar usama (2018) www.nlb.no
+Modified by : Ammar usama (2018) www.nlb.no, Gaute Rønningen (2019) www.nlb.no
 
 License
 =======
@@ -78,32 +80,30 @@ Fragment IDs might be arbitrary (but unique) strings.
 
 */
 
-(function () {
-  
+(function() {
   var doc = document;
   var smil_data = [];
- 
+
   window.rb_smil_emulator = {
-    
     // BEGIN parameters
-    active_fragment_class_name: 'rbActiveFragment',
-    paused_fragment_class_name: 'rbPausedFragment',
+    active_fragment_class_name: "rbActiveFragment",
+    paused_fragment_class_name: "rbPausedFragment",
     autostart_audio: false,
-    autostart_wait_event: 'canplay',
+    autostart_wait_event: "canplay",
     autoturn_page: true,
     single_fragment: false,
     outside_taps_clear: false,
     outside_taps_can_resume: true,
     outside_taps_threshold: 1,
-    associated_events: ['click', 'touchend'],
+    associated_events: ["click", "touchend"],
     ignore_taps_on_a_elements: true,
-    allowed_reading_systems: ['ALL'],
+    allowed_reading_systems: ["ALL"],
     hide_elements: [],
     // END parameters
 
     // BEGIN fields
-    rb_audio_id: 'rbAudioElement',
-    rb_audio_class_name: 'rbAudioElement',
+    rb_audio_id: "rbAudioElement",
+    rb_audio_class_name: "rbAudioElement",
     state_started: false,
     state_playing: false,
     state_completed: false,
@@ -114,7 +114,7 @@ Fragment IDs might be arbitrary (but unique) strings.
     audio: null,
     timer: null,
     previous_fragment_offsetTop: -1,
-    current_reading_system: '',
+    current_reading_system: "",
     // END fields
 
     /*
@@ -184,54 +184,69 @@ Fragment IDs might be arbitrary (but unique) strings.
 
       // store parameters
       if ("active_fragment_class_name" in parameters) {
-        rb_smil_emulator.active_fragment_class_name = parameters["active_fragment_class_name"];
+        rb_smil_emulator.active_fragment_class_name =
+          parameters.active_fragment_class_name;
       }
       if ("paused_fragment_class_name" in parameters) {
-        rb_smil_emulator.paused_fragment_class_name = parameters["paused_fragment_class_name"];
+        rb_smil_emulator.paused_fragment_class_name =
+          parameters.paused_fragment_class_name;
       }
       if ("autostart_audio" in parameters) {
-        rb_smil_emulator.autostart_audio = parameters["autostart_audio"];
+        rb_smil_emulator.autostart_audio = parameters.autostart_audio;
       }
       if ("autostart_wait_event" in parameters) {
-        rb_smil_emulator.autostart_wait_event = parameters["autostart_wait_event"];
+        rb_smil_emulator.autostart_wait_event = parameters.autostart_wait_event;
       }
       if ("single_fragment" in parameters) {
-        rb_smil_emulator.single_fragment = parameters["single_fragment"];
+        rb_smil_emulator.single_fragment = parameters.single_fragment;
       }
       if ("outside_taps_clear" in parameters) {
-        rb_smil_emulator.outside_taps_clear = parameters["outside_taps_clear"];
+        rb_smil_emulator.outside_taps_clear = parameters.outside_taps_clear;
       }
       if ("outside_taps_can_resume" in parameters) {
-        rb_smil_emulator.outside_taps_can_resume = parameters["outside_taps_can_resume"];
+        rb_smil_emulator.outside_taps_can_resume =
+          parameters.outside_taps_can_resume;
       }
       if ("outside_taps_threshold" in parameters) {
-        rb_smil_emulator.outside_taps_threshold = parameters["outside_taps_threshold"];
+        rb_smil_emulator.outside_taps_threshold =
+          parameters.outside_taps_threshold;
       }
       if ("autoturn_page" in parameters) {
-        rb_smil_emulator.autoturn_page = parameters["autoturn_page"];
+        rb_smil_emulator.autoturn_page = parameters.autoturn_page;
       }
       if ("associated_events" in parameters) {
-        rb_smil_emulator.associated_events = parameters["associated_events"];
+        rb_smil_emulator.associated_events = parameters.associated_events;
       }
       if ("ignore_taps_on_a_elements" in parameters) {
-        rb_smil_emulator.ignore_taps_on_a_elements = parameters["ignore_taps_on_a_elements"];
+        rb_smil_emulator.ignore_taps_on_a_elements =
+          parameters.ignore_taps_on_a_elements;
       }
       if ("allowed_reading_systems" in parameters) {
-        rb_smil_emulator.allowed_reading_systems = parameters["allowed_reading_systems"];
+        rb_smil_emulator.allowed_reading_systems =
+          parameters.allowed_reading_systems;
       }
       if ("hide_elements" in parameters) {
-        rb_smil_emulator.hide_elements = parameters["hide_elements"];
+        rb_smil_emulator.hide_elements = parameters.hide_elements;
       }
 
       // try determining the current reading system
-      if ((navigator) && (navigator.epubReadingSystem) && (navigator.epubReadingSystem.name)) {
+      if (
+        navigator &&
+        navigator.epubReadingSystem &&
+        navigator.epubReadingSystem.name
+      ) {
         rb_smil_emulator.current_reading_system = navigator.epubReadingSystem.name.toLowerCase();
       } else {
         // detect new Readium
         // code courtesy of Daniel Weck
         // see https://github.com/pettarin/rb_smil_emulator/issues/2
         try {
-          if ((window.LauncherUI) || ((window.parent) && (window.parent !== window) && (window.parent.ReadiumSDK))) {
+          if (
+            window.LauncherUI ||
+            (window.parent &&
+              window.parent !== window &&
+              window.parent.ReadiumSDK)
+          ) {
             rb_smil_emulator.current_reading_system = "readium";
           }
         } catch (e) {
@@ -245,7 +260,13 @@ Fragment IDs might be arbitrary (but unique) strings.
           // code courtesy of Daniel Weck
           // see https://twitter.com/DanielWeck/status/412669371161784321
           // see https://twitter.com/acutebit/status/412679039153762304
-          if (window.iBooks || (window.location.href && window.location.href.toLowerCase().indexOf("com.apple.bkagentservice") >= 0)) {
+          if (
+            window.iBooks ||
+            (window.location.href &&
+              window.location.href
+                .toLowerCase()
+                .indexOf("com.apple.bkagentservice") >= 0)
+          ) {
             rb_smil_emulator.current_reading_system = "ibooks";
           }
         } catch (e) {
@@ -261,9 +282,13 @@ Fragment IDs might be arbitrary (but unique) strings.
 
       // check whether the current reading system is allowed: if not, abort
       var abort = true;
-      for (var i = 0; i < rb_smil_emulator.allowed_reading_systems.length; ++i) {
+      for (
+        var i = 0;
+        i < rb_smil_emulator.allowed_reading_systems.length;
+        ++i
+      ) {
         var ars = rb_smil_emulator.allowed_reading_systems[i];
-        if ((ars == 'ALL') || (ars == rb_smil_emulator.current_reading_system)) {
+        if (ars == "ALL" || ars == rb_smil_emulator.current_reading_system) {
           abort = false;
           break;
         }
@@ -273,7 +298,7 @@ Fragment IDs might be arbitrary (but unique) strings.
       }
 
       // create <audio> element
-      var audio = document.createElement('audio');
+      var audio = document.createElement("audio");
       audio.id = rb_smil_emulator.rb_audio_id;
       audio.src = audio_file;
       audio.classList.add(rb_smil_emulator.rb_audio_class_name);
@@ -283,18 +308,21 @@ Fragment IDs might be arbitrary (but unique) strings.
       // trick to force loading the audio file
       audio.play();
       audio.pause();
-	  
+
       // add listener to catch touch events
-      for (var i = 0; i < rb_smil_emulator.associated_events.length; ++i) {
-        doc.addEventListener(rb_smil_emulator.associated_events[i], rb_smil_emulator.on_touch_event);
+      for (var j = 0; j < rb_smil_emulator.associated_events.length; ++j) {
+        doc.addEventListener(
+          rb_smil_emulator.associated_events[j],
+          rb_smil_emulator.on_touch_event
+        );
       }
 
       // hide elements
       if (rb_smil_emulator.current_reading_system == "ibooks") {
-        for (var i = 0; i < rb_smil_emulator.hide_elements.length; ++i) {
-          var el = doc.getElementById(rb_smil_emulator.hide_elements[i]);
+        for (var k = 0; k < rb_smil_emulator.hide_elements.length; ++k) {
+          var el = doc.getElementById(rb_smil_emulator.hide_elements[k]);
           if (el) {
-            el.style.display = 'none';   
+            el.style.display = "none";
           }
         }
       }
@@ -302,109 +330,119 @@ Fragment IDs might be arbitrary (but unique) strings.
       // if autostart_audio, start audio at first fragment
       // as soon as autostart_wait_event occurs
       if (rb_smil_emulator.autostart_audio) {
-        audio.addEventListener(rb_smil_emulator.autostart_wait_event, function() { 
-          rb_smil_emulator.play(0, true, -1);
-        }, false);
+        audio.addEventListener(
+          rb_smil_emulator.autostart_wait_event,
+          function() {
+            rb_smil_emulator.play(0, true, -1);
+          },
+          false
+        );
       }
     },
-   
-    // process touch event 
+
+    // process touch event
     on_touch_event: function(element) {
       var rb_smil_emulator = window.rb_smil_emulator;
-      var current_idx = rb_smil_emulator.current_idx;      
-      var touched_idx = rb_smil_emulator.check_id(element.target);      
-      if (touched_idx > -1) 
-      {
-        // the touched element is a SMIL fragment        
+      var current_idx = rb_smil_emulator.current_idx;
+      var touched_idx = rb_smil_emulator.check_id(element.target);
+      if (touched_idx > -1) {
+        // the touched element is a SMIL fragment
         rb_smil_emulator.current_number_outside_taps = 0;
         if (touched_idx == current_idx) {
-          if (rb_smil_emulator.audio.paused) 
-          {
+          if (rb_smil_emulator.audio.paused) {
             // resume
-            rb_smil_emulator.play(current_idx, true, rb_smil_emulator.audio_paused_at);
-          } else 
-          {
+            rb_smil_emulator.play(
+              current_idx,
+              true,
+              rb_smil_emulator.audio_paused_at
+            );
+          } else {
             // pause
             rb_smil_emulator.pause();
           }
-        } else 
-        {
+        } else {
           // play touched one
           rb_smil_emulator.play(touched_idx, true, -1);
         }
-      } 
-      else 
-      {
+      } else {
         // the touched element is not a SMIL fragment
-        if (rb_smil_emulator.outside_taps_threshold > 0) 
-        {
+        if (rb_smil_emulator.outside_taps_threshold > 0) {
           rb_smil_emulator.current_number_outside_taps += 1;
-          if (rb_smil_emulator.current_number_outside_taps >= rb_smil_emulator.outside_taps_threshold) 
-          {
-            // resume or pause/stop  
+          if (
+            rb_smil_emulator.current_number_outside_taps >=
+            rb_smil_emulator.outside_taps_threshold
+          ) {
+            // resume or pause/stop
 
             var type = element.target.nodeName;
-            var type_id = element.target.id;            
+            var type_id = element.target.id;
 
-           if ( ((type.toLowerCase() == "button")  &&  (type_id.toLowerCase() == "play_button"))  || (type.toLowerCase() == "a") ) 
+            if (
+              (type.toLowerCase() == "button" &&
+                type_id.toLowerCase() == "play_button") ||
+              type.toLowerCase() == "a"
+            ) {
+              if (
+                rb_smil_emulator.audio.paused &&
+                type.toLowerCase() == "button"
+              ) {
+                if (current_idx == -1) {
+                  //************adding last location***********************
+                  // **Check browser support
+                  var book_storage_value = document.getElementById("mybook_id")
+                    .innerHTML;
+                  var page_id_storage_idx = 0;
+                  if (typeof Storage !== "undefined") {
+                    try {
+                      var myid_storage_retrived = localStorage.getItem(
+                        book_storage_value
+                      );
+                      var objplay = JSON.parse(myid_storage_retrived);
 
-              {
-                    if ( (rb_smil_emulator.audio.paused) && (type.toLowerCase() == "button")     ) 
-                    {                 
-                      if (current_idx ==-1)
-                          {
-                                  //************adding last location***********************
-                                    // **Check browser support
-                                    var book_storage_value = document.getElementById("mybook_id").innerHTML;
-                                    var page_id_storage_idx= 0;
-                                    if (typeof(Storage) !== "undefined") 
-                                    { 
-                                        try
-                                            {
-                                              var myid_storage_retrived = localStorage.getItem(book_storage_value);
-                                              var objplay = JSON.parse(myid_storage_retrived);
-                                                
-                                              var my_paused_id = objplay.myid;
-                                              var my_paused_time = objplay.mylocation;
-                                              window.location = '#'+my_paused_id;
-                                              page_id_storage_idx=  rb_smil_emulator.smil_ids.indexOf(my_paused_id);
-                                                if (page_id_storage_idx < 0)
-                                                {
-                                                page_id_storage_idx= 0;
-                                                }
-                                              rb_smil_emulator.play(page_id_storage_idx, true, my_paused_time);
-                                            }
-                                          catch (e) 
-                                              {
-                                                  rb_smil_emulator.play(page_id_storage_idx, true, -1);
-                                              }
-                                      } 
-                            }
-                            else
-                                {
-                                    rb_smil_emulator.play(current_idx, true, rb_smil_emulator.audio_paused_at);
-                                }
+                      var my_paused_id = objplay.myid;
+                      var my_paused_time = objplay.mylocation;
+                      window.location = "#" + my_paused_id;
+                      page_id_storage_idx = rb_smil_emulator.smil_ids.indexOf(
+                        my_paused_id
+                      );
+                      if (page_id_storage_idx < 0) {
+                        page_id_storage_idx = 0;
                       }
-                      else if ( (type.toLowerCase() == "button"))
-                      {
-                        rb_smil_emulator.pause();                  
-                      }
-                //*****************this is treating  link tag of toc************ */
-                if (  (type.toLowerCase() == "a")   ) 
-                {               
-                  var type_href = element.target.href;
-                  var page_id_clicked = type_href.substring(type_href.indexOf("#") + 1);
-                  var page_id_click_idx=  rb_smil_emulator.smil_ids.indexOf(page_id_clicked); 
-                  rb_smil_emulator.pause();
-                  rb_smil_emulator.play(page_id_click_idx, true, -1);
+                      rb_smil_emulator.play(
+                        page_id_storage_idx,
+                        true,
+                        my_paused_time
+                      );
+                    } catch (e) {
+                      rb_smil_emulator.play(page_id_storage_idx, true, -1);
+                    }
+                  }
+                } else {
+                  rb_smil_emulator.play(
+                    current_idx,
+                    true,
+                    rb_smil_emulator.audio_paused_at
+                  );
                 }
-
+              } else if (type.toLowerCase() == "button") {
+                rb_smil_emulator.pause();
               }
-              else
-              {
-                // pause
-                rb_smil_emulator.pause();               
+              //*****************this is treating  link tag of toc************ */
+              if (type.toLowerCase() == "a") {
+                var type_href = element.target.href;
+                var page_id_clicked = type_href.substring(
+                  type_href.indexOf("#") + 1
+                );
+                var page_id_click_idx = rb_smil_emulator.smil_ids.indexOf(
+                  page_id_clicked
+                );
+                rb_smil_emulator.pause();
+                rb_smil_emulator.play(page_id_click_idx, true, -1);
               }
+            } else {
+              // pause
+              rb_smil_emulator.pause();
+            }
 
             // reset counter
             rb_smil_emulator.current_number_outside_taps = 0;
@@ -428,41 +466,36 @@ Fragment IDs might be arbitrary (but unique) strings.
         if (idx + 1 < rb_smil_emulator.smil_data.length) {
           // yes, go to next fragment
           //************here is audio check code added 03.08***********
-			  var smil_data = window.rb_smil_emulator.smil_data;
-              var audiosrc= smil_data[idx].file;  
-              var audiosrcnext= smil_data[idx+1].file;              
-              var textids= smil_data[idx+1].id;
-			  var myAudio_paused_at =	smil_data[idx+1].begin;
-              
-              //****************adding bookmarks for last read position ************* 
-                if (typeof(Storage) !== "undefined") 
-                {
-                  var book_value_id = document.getElementById("mybook_id").innerHTML;
-                  //remove
-                  window.localStorage.removeItem(book_value_id);
-                
-                  // Store
-				  const person = {     myid:textids,    mylocation:myAudio_paused_at,}
-				  
-                  window.localStorage.setItem(book_value_id, JSON.stringify(person) );
-				  
-                }
-                //****************adding bookmarks for last read position end *************                 
-                 
-                //****************chacking audio file and change it if it is different ************* 
-                  if(   (audiosrc    ==  audiosrcnext )     ) 
-                  {
-                  //rb_smil_emulator.play(idx + 1, true, -1);
-                  rb_smil_emulator.play(idx + 1, false, -1);
-                  }
-                  else
-                  {
-                  rb_smil_emulator.audio.src =audiosrcnext;
-                  rb_smil_emulator.play(idx + 1, true, -1);
-                  }
-						   //****************chacking audio file and change it if it is different End ************* 
-		   
-		  //************here is audio check code end***********
+          var smil_data = window.rb_smil_emulator.smil_data;
+          var audiosrc = smil_data[idx].file;
+          var audiosrcnext = smil_data[idx + 1].file;
+          var textids = smil_data[idx + 1].id;
+          var myAudio_paused_at = smil_data[idx + 1].begin;
+
+          //****************adding bookmarks for last read position *************
+          if (typeof Storage !== "undefined") {
+            var book_value_id = document.getElementById("mybook_id").innerHTML;
+            //remove
+            window.localStorage.removeItem(book_value_id);
+
+            // Store
+            const person = { myid: textids, mylocation: myAudio_paused_at };
+
+            window.localStorage.setItem(book_value_id, JSON.stringify(person));
+          }
+          //****************adding bookmarks for last read position end *************
+
+          //****************chacking audio file and change it if it is different *************
+          if (audiosrc == audiosrcnext) {
+            //rb_smil_emulator.play(idx + 1, true, -1);
+            rb_smil_emulator.play(idx + 1, false, -1);
+          } else {
+            rb_smil_emulator.audio.src = audiosrcnext;
+            rb_smil_emulator.play(idx + 1, true, -1);
+          }
+          //****************chacking audio file and change it if it is different End *************
+
+          //************here is audio check code end***********
         } else {
           // no, end reached
           rb_smil_emulator.state_completed = true;
@@ -487,10 +520,11 @@ Fragment IDs might be arbitrary (but unique) strings.
       var rb_smil_emulator = window.rb_smil_emulator;
       var audio = rb_smil_emulator.audio;
       audio.pause();
-      //document.getElementById('play_button_text').innerText = 'Start';
-	  //document.getElementById('play_button').style.backgroundImage="url('play.svg')";
-	  
-	  /*
+      document.getElementById("play_button_text").innerText = "Start";
+      document.getElementById("play_button").style.backgroundImage =
+        "url('play.svg')";
+
+      /*
 	  var activeClassName = document.getElementById("book_header").className;
 	  if (activeClassName === "theme__dark")
 	  {
@@ -501,40 +535,35 @@ Fragment IDs might be arbitrary (but unique) strings.
 		  document.getElementById('play_button').style.backgroundImage="url('play.svg')";
 	  }
 	  */
-	  
+
       window.clearTimeout(rb_smil_emulator.timer);
       rb_smil_emulator.timer = null;
       rb_smil_emulator.audio_paused_at = audio.currentTime;
       rb_smil_emulator.apply_paused_class();
       rb_smil_emulator.state_playing = false;
-	  
-	  
-				//****************adding bookmarks for last read position with time at pausing*************
-				try{
-				
-				var smil_data = window.rb_smil_emulator.smil_data;
-				var idx = rb_smil_emulator.current_idx;
-				var textids= smil_data[idx].id;	
-                var myAudio_paused_at =	rb_smil_emulator.audio_paused_at;			
-				 
-                if (typeof(Storage) !== "undefined") 
-                {
-                  var book_value_id = document.getElementById("mybook_id").innerHTML;
-                  //remove
-                  window.localStorage.removeItem(book_value_id);
-                  // Store
-				  const person = {     myid:textids,    mylocation:myAudio_paused_at,}
-				  
-                  window.localStorage.setItem(book_value_id, JSON.stringify(person) );
-                }
-				} catch (e) {
-          // something went wrong
-          // console.error(e);
-        }
-                //****************adding bookmarks for last read position end *************  
-	  
-    },
 
+      //****************adding bookmarks for last read position with time at pausing*************
+      try {
+        var smil_data = window.rb_smil_emulator.smil_data;
+        var idx = rb_smil_emulator.current_idx;
+        var textids = smil_data[idx].id;
+        var myAudio_paused_at = rb_smil_emulator.audio_paused_at;
+
+        if (typeof Storage !== "undefined") {
+          var book_value_id = document.getElementById("mybook_id").innerHTML;
+          //remove
+          window.localStorage.removeItem(book_value_id);
+          // Store
+          const person = { myid: textids, mylocation: myAudio_paused_at };
+
+          window.localStorage.setItem(book_value_id, JSON.stringify(person));
+        }
+      } catch (e) {
+        // something went wrong
+        // console.error(e);
+      }
+      //****************adding bookmarks for last read position end *************
+    },
 
     /*
         play audio
@@ -544,30 +573,28 @@ Fragment IDs might be arbitrary (but unique) strings.
     */
     play: function(idx, reset_begin, begin_at_time) {
       var rb_smil_emulator = window.rb_smil_emulator;
-      
+
       rb_smil_emulator.stop();
 
       rb_smil_emulator.current_idx = idx;
       rb_smil_emulator.apply_active_class();
 
       //****************testing  page view start********** */
-      //code 
+      //code
       // see https://stackoverflow.com/questions/123999/how-to-tell-if-a-dom-element-is-visible-in-the-current-viewport
 
-        var current_elenent_in_view = rb_smil_emulator.smil_ids[idx];
-        var elements = document.getElementById(current_elenent_in_view);
-        
-        if(elements.getBoundingClientRect().top <= window.innerHeight*0.75 && elements.getBoundingClientRect().top > 0)
-        {
-          
-        }
-        else
-        {
-          location.href = "#" + rb_smil_emulator.smil_ids[idx];
-        }
+      var current_elenent_in_view = rb_smil_emulator.smil_ids[idx];
+      var elements = document.getElementById(current_elenent_in_view);
+
+      if (
+        elements.getBoundingClientRect().top <= window.innerHeight * 0.75 &&
+        elements.getBoundingClientRect().top > 0
+      ) {
+      } else {
+        location.href = "#" + rb_smil_emulator.smil_ids[idx];
+      }
       //****************testing  page view end********** */
-            
-      
+
       var smil_data = rb_smil_emulator.smil_data;
       var begin = begin_at_time;
       if (begin < 0) {
@@ -575,44 +602,53 @@ Fragment IDs might be arbitrary (but unique) strings.
       }
       var end = smil_data[idx].end;
 
-		  //*******************checking and updating audio file*****************
-		  var loadedFileInMemory= rb_smil_emulator.audio.src.split('\\').pop().split('/').pop(); // checking file
-		  var currentfileName = rb_smil_emulator.smil_data[idx].file.split('\\').pop().split('/').pop(); // checking file
-		  var audio = rb_smil_emulator.audio;
-		
-			   if (currentfileName !=loadedFileInMemory ) 
-			  { 
-				  rb_smil_emulator.audio.src =rb_smil_emulator.smil_data[idx].file;
-			  }
-			  
-			  //******************audio speed start****************
-			  
-			var playback = document.getElementById("pbr");
-			var play_value = playback.value;
-			var audio_current_placback =    rb_smil_emulator.audio.playbackRate;
-			
-			if(  audio_current_placback    !=  play_value )   
-				  {
-					rb_smil_emulator.audio.playbackRate = play_value;
-				  }				  
-			//******************audio speed end****************
-		//*******************checking and updating audio file end*****************
+      //*******************checking and updating audio file*****************
+      var loadedFileInMemory = rb_smil_emulator.audio.src
+        .split("\\")
+        .pop()
+        .split("/")
+        .pop(); // checking file
+      var currentfileName = rb_smil_emulator.smil_data[idx].file
+        .split("\\")
+        .pop()
+        .split("/")
+        .pop(); // checking file
+      var audio = rb_smil_emulator.audio;
+
+      if (currentfileName != loadedFileInMemory) {
+        rb_smil_emulator.audio.src = rb_smil_emulator.smil_data[idx].file;
+      }
+
+      //******************audio speed start****************
+
+      var playback = document.getElementById("pbr");
+      var play_value = playback.value;
+      var audio_current_placback = rb_smil_emulator.audio.playbackRate;
+
+      if (audio_current_placback != play_value) {
+        rb_smil_emulator.audio.playbackRate = play_value;
+      }
+      //******************audio speed end****************
+      //*******************checking and updating audio file end*****************
 
       if (reset_begin) {
         //var audio = rb_smil_emulator.audio;
         audio.currentTime = begin;
-		
+
         audio.play();
-        document.getElementById('play_button_text').innerText = 'Stopp';
-	   document.getElementById('play_button').style.backgroundImage="url('pause.svg')";
+        document.getElementById("play_button_text").innerText = "Stopp";
+        document.getElementById("play_button").style.backgroundImage =
+          "url('pause.svg')";
       }
 
       rb_smil_emulator.state_started = true;
       rb_smil_emulator.state_playing = true;
       //rb_smil_emulator.timer = window.setTimeout(rb_smil_emulator.on_next_event, (end - begin) * 1000);
-	  
-	  rb_smil_emulator.timer = window.setTimeout(rb_smil_emulator.on_next_event, ((end - begin)/play_value )* 1000);
-	  
+
+      rb_smil_emulator.timer = window.setTimeout(
+        rb_smil_emulator.on_next_event,
+        ((end - begin) / play_value) * 1000
+      );
     },
 
     // apply active class to the current fragment
@@ -620,12 +656,18 @@ Fragment IDs might be arbitrary (but unique) strings.
       var rb_smil_emulator = window.rb_smil_emulator;
       var idx = rb_smil_emulator.current_idx;
       if (idx >= 0) {
-        var active_fragment = doc.getElementById(rb_smil_emulator.smil_ids[idx]);
+        var active_fragment = doc.getElementById(
+          rb_smil_emulator.smil_ids[idx]
+        );
         if (active_fragment) {
-          active_fragment.classList.remove(rb_smil_emulator.paused_fragment_class_name);
-          active_fragment.classList.add(rb_smil_emulator.active_fragment_class_name);
-		 //active_fragment.scrollIntoView();
-		 //active_fragment.scrollIntoView({behavior: "smooth", block: "center", inline: "nearest"});  //this is for moving to center of screen
+          active_fragment.classList.remove(
+            rb_smil_emulator.paused_fragment_class_name
+          );
+          active_fragment.classList.add(
+            rb_smil_emulator.active_fragment_class_name
+          );
+          //active_fragment.scrollIntoView();
+          //active_fragment.scrollIntoView({behavior: "smooth", block: "center", inline: "nearest"});  //this is for moving to center of screen
         }
       }
     },
@@ -635,10 +677,16 @@ Fragment IDs might be arbitrary (but unique) strings.
       var rb_smil_emulator = window.rb_smil_emulator;
       var idx = rb_smil_emulator.current_idx;
       if (idx >= 0) {
-        var active_fragment = doc.getElementById(rb_smil_emulator.smil_ids[idx]);
+        var active_fragment = doc.getElementById(
+          rb_smil_emulator.smil_ids[idx]
+        );
         if (active_fragment) {
-          active_fragment.classList.remove(rb_smil_emulator.active_fragment_class_name);
-          active_fragment.classList.add(rb_smil_emulator.paused_fragment_class_name);
+          active_fragment.classList.remove(
+            rb_smil_emulator.active_fragment_class_name
+          );
+          active_fragment.classList.add(
+            rb_smil_emulator.paused_fragment_class_name
+          );
         }
       }
     },
@@ -648,10 +696,16 @@ Fragment IDs might be arbitrary (but unique) strings.
       var rb_smil_emulator = window.rb_smil_emulator;
       var idx = rb_smil_emulator.current_idx;
       if (idx >= 0) {
-        var active_fragment = doc.getElementById(rb_smil_emulator.smil_ids[idx]);
+        var active_fragment = doc.getElementById(
+          rb_smil_emulator.smil_ids[idx]
+        );
         if (active_fragment) {
-          active_fragment.classList.remove(rb_smil_emulator.paused_fragment_class_name);
-          active_fragment.classList.remove(rb_smil_emulator.active_fragment_class_name);
+          active_fragment.classList.remove(
+            rb_smil_emulator.paused_fragment_class_name
+          );
+          active_fragment.classList.remove(
+            rb_smil_emulator.active_fragment_class_name
+          );
         }
       }
     },
@@ -666,7 +720,10 @@ Fragment IDs might be arbitrary (but unique) strings.
     check_id: function(element) {
       var rb_smil_emulator = window.rb_smil_emulator;
       var type = element.nodeName;
-      if ((type.toLowerCase() == "a") && (rb_smil_emulator.ignore_taps_on_a_elements)) {
+      if (
+        type.toLowerCase() == "a" &&
+        rb_smil_emulator.ignore_taps_on_a_elements
+      ) {
         return -1;
       }
       var id = element.id;
@@ -675,209 +732,153 @@ Fragment IDs might be arbitrary (but unique) strings.
         if (element == null) {
           return -1;
         }
-        id = element.id;  
+        id = element.id;
       }
       return rb_smil_emulator.smil_ids.indexOf(id);
     }
-	
   }; // END of rb_smil_emulator
 })();
 
 //************************extra javascript**********
 
 //******load file***********
- window.addEventListener('DOMContentLoaded', 
-      function() {
-        window.rb_smil_emulator.init('', {
-          autostart_audio: false,
-          outside_taps_stop: false,
-          outside_taps_can_resume: true
-        });
-      }
-    );
+window.addEventListener("DOMContentLoaded", function() {
+  window.rb_smil_emulator.init("", {
+    autostart_audio: false,
+    outside_taps_stop: false,
+    outside_taps_can_resume: true
+  });
+});
 
-	
 //**********function for storing**************
-	window.onload = function()
-{
+window.onload = function() {
+  //*******************changing play speed*************
+  var p = document.getElementById("pbr");
+  var c = document.getElementById("currentPbr");
 
-			//*******************changing play speed*************	
-			var p = document.getElementById("pbr");
-			var c = document.getElementById("currentPbr");
-			
-			//c.innerHTML = 'Avspillingshastighet: '+p.value;
+  document.getElementById("expand_image").src = "expand.svg";
+  document.getElementById("modus_knapp").src = "moon.svg";
+  document.getElementById("hjelpknapp").src = "help.svg";
+  document.getElementById("play_button").src = "play.svg";
 
-			//p.addEventListener('input',function(){
-			//c.innerHTML = 'Avspillingshastighet: '+p.value;
-			//v.playbackRate = p.value;
-			//},false);
+  //c.innerHTML = 'Avspillingshastighet: '+p.value;
 
+  //p.addEventListener('input',function(){
+  //c.innerHTML = 'Avspillingshastighet: '+p.value;
+  //v.playbackRate = p.value;
+  //},false);
 
+  //************adding last location***********************
+  // **Check browser support
+  var book_value = document.getElementById("mybook_id").innerHTML;
+  if (typeof Storage !== "undefined") {
+    try {
+      var myid_storage_retrived = localStorage.getItem(book_value);
+      var obj = JSON.parse(myid_storage_retrived);
+      var my_paused_id = obj.myid;
+      window.location = "#" + my_paused_id;
+    } catch (e) {}
+  }
 
-		//************adding last location***********************
-		// **Check browser support
-		 var book_value = document.getElementById("mybook_id").innerHTML;
-		if (typeof(Storage) !== "undefined") 
-		{  
+  //********************** function for detect browser *************
+  //  copied from  https://stackoverflow.com/questions/9847580/how-to-detect-safari-chrome-ie-firefox-and-opera-browser/9851769
+  // Safari 3.0+ "[object HTMLElementConstructor]"
+  var isSafari =
+    /constructor/i.test(window.HTMLElement) ||
+    (function(p) {
+      return p.toString() === "[object SafariRemoteNotification]";
+    })(!window.safari || safari.pushNotification);
 
-				try
-				{
-					 var myid_storage_retrived = localStorage.getItem(book_value);
-					var obj = JSON.parse(myid_storage_retrived); 
-					var my_paused_id = obj.myid;  
-					window.location = '#'+my_paused_id; 
-					
-				}
-				catch (e)
-				{
-					
-				}
-		} 
+  // Internet Explorer 6-11
+  var isIE = /*@cc_on!@*/ false || !!document.documentMode;
 
-		//********************** function for detect browser *************	
-		//  copied from  https://stackoverflow.com/questions/9847580/how-to-detect-safari-chrome-ie-firefox-and-opera-browser/9851769
-		// Safari 3.0+ "[object HTMLElementConstructor]" 
-		var isSafari = /constructor/i.test(window.HTMLElement) || (function (p) { return p.toString() === "[object SafariRemoteNotification]"; })(!window['safari'] || safari.pushNotification);
+  // Edge 20+
+  var isEdge = !isIE && !!window.StyleMedia;
 
-		// Internet Explorer 6-11
-		var isIE = /*@cc_on!@*/false || !!document.documentMode;
+  if (isSafari === true || isIE === true || isIE === true) {
+    var output =
+      "Nettleserbok virker dessverre ikke optimalt i Internet Explorer eller Safari. Vennligst bruk en annen nettleser. For eksempel Chrome, Firefox eller Opera. Klikk hjelp-knapp for mer informasjon";
 
-		// Edge 20+
-		var isEdge = !isIE && !!window.StyleMedia;
-		
-		if ( (isSafari === true) || (isIE === true)  || (isIE === true)  )
-		{
-			var output = 'Nettleserbok virker dessverre ikke optimalt i Internet Explorer eller Safari. Vennligst bruk en annen nettleser. For eksempel Chrome, Firefox eller Opera. Klikk hjelp-knapp for mer informasjon';
-			
-			
-		
-			document.getElementById("wrong_browser_text").innerHTML = output;
-			document.getElementById("wrong_browser_text").style.display = "block";
-			
-		}
-	//********************** function for detect browser end*************	
-
-
-		
-
-	};
+    document.getElementById("wrong_browser_text").innerHTML = output;
+    document.getElementById("wrong_browser_text").style.display = "block";
+  }
+  //********************** function for detect browser end*************
+};
 //********************** function for percentage of book*************
 
-    const scroller = document.getElementById('content');
-    function scrolling() {
-      let height = scroller.clientHeight;
-      let scrollHeight = scroller.scrollHeight - height;
-      let scrollTop = scroller.scrollTop;
-      let percent = Math.floor(scrollTop / scrollHeight * 40);
-      document.getElementById('percent').innerText = 'Framdrift: '+percent*2.5+'%';
-	  document.getElementById("myBar").style.width = percent + "%";
+const scroller = document.getElementById("content");
+function scrolling() {
+  let height = scroller.clientHeight;
+  let scrollHeight = scroller.scrollHeight - height;
+  let scrollTop = scroller.scrollTop;
+  let percent = Math.floor((scrollTop / scrollHeight) * 40);
+  document.getElementById("percent").innerText =
+    "Framdrift: " + percent * 2.5 + "%";
+  document.getElementById("myBar").style.width = percent + "%";
+}
+
+//********************** function for hide_extra book*************
+
+function hide_extra() {
+  var x = document.getElementById("toc_container");
+  var y = document.getElementById("page-list");
+  var z = document.getElementById("content");
+  var percentage = document.getElementById("percentage_container");
+
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "block";
+    percentage.style.display = "block";
+
+    var j = document.getElementById("night_mode").innerHTML;
+    if (j === "Nattmodus") {
+      document.getElementById("expand_image").src = "expand.svg";
+    } else {
+      document.getElementById("expand_image").src = "expand_white.svg";
     }
-  
-    //********************** function for hide_extra book*************
+  } else {
+    x.style.display = "none";
+    y.style.display = "none";
+    percentage.style.display = "none";
+    document.getElementById("expand_image").src = "close.svg";
+    var n = document.getElementById("night_mode").innerHTML;
+    document.body.classList.add("theme__dark");
+  }
+}
 
-    function hide_extra() 
-					{
-						   
-						var x = document.getElementById("toc_container");
-						var y = document.getElementById("page-list");
-						var z = document.getElementById("content");
-						var percentage = document.getElementById("percentage_container");
-						
-						if (x.style.display === "none") 
-						{
-							x.style.display = "block";
-							/*
-							document.getElementById("content").classList.remove('class_content_only');
-							document.getElementById("content").classList.add('class_all');
-							*/
-							y.style.display = "block";
-							percentage.style.display = "block";	
-							
-							var j = document.getElementById("night_mode").innerHTML;
-							if ( j === "Nattmodus" )
-							{
-								//document.body.style.backgroundColor = '#f4f3f3';								
-								document.getElementById('expand_image').src="expand.svg";
-							}
-							else
-							{
-								//document.body.style.backgroundColor = '#212d39';								
-								document.getElementById('expand_image').src="expand_white.svg";
-							}
-						} 
-						else 
-						{
-							x.style.display = "none";
-							/*
-							document.getElementById("content").classList.remove('class_all');
-							document.getElementById("content").classList.add('class_content_only');
-							*/
-							y.style.display = "none";
-							percentage.style.display = "none";							
-							document.getElementById('expand_image').src="close.svg";							
-							var x = document.getElementById("night_mode").innerHTML;
-							//document.body.style.backgroundColor = '#212d39';
-						}
-          }
-          
-          //********************** function for dark mode book*************
+//********************** function for dark mode book*************
 
-          function dark() 
-          {
-                var x = document.getElementById("night_mode").innerHTML;				
-				var toc_mode = document.getElementById("toc_container");
-		
-                  if ( x === "Nattmodus" )
-                    {
-                      document.body.classList.add('theme__dark');	
-                      document.getElementById("toc_container").classList.add('theme__dark');					   
-                      document.getElementById("content").classList.add('theme__dark');
-                      document.getElementById("page-list").classList.add('theme__dark');
-                      document.getElementById("book_header").classList.add('theme__dark');					 
-                      document.getElementById("night_mode").innerHTML = "Dagmodus";
-					  //document.getElementById('logo').src='logo_white.svg';
-					  //document.getElementById('modus_knapp').style.backgroundImage="url('sun.svg')";					 
-                      //document.body.style.backgroundColor = '#212d39';
-					  
-					  
-					   //document.getElementById("toc_container").style.borderColor = '#2b3a48';
-					   //document.getElementById("content").style.borderColor = '#2b3a48';
-					   //document.getElementById("page-list").style.borderColor = '#2b3a48';
+function dark() {
+  var x = document.getElementById("night_mode").innerHTML;
+  var toc_mode = document.getElementById("toc_container");
 
-						if (toc_mode.style.display === "none") 
-						{
-							
-						}
-						else
-						{
-							document.getElementById('expand_image').src="expand_white.svg";
-						}
-                    }
-                    else 
-                    {
-                      document.body.classList.remove('theme__dark');	
-                      document.getElementById("toc_container").classList.remove('theme__dark');
-                      document.getElementById("content").classList.remove('theme__dark');
-                      document.getElementById("page-list").classList.remove('theme__dark');
-                      document.getElementById("book_header").classList.remove('theme__dark');
-                      document.getElementById("night_mode").innerHTML = "Nattmodus";
-					  //document.getElementById('logo').src='logo.svg';
-					  document.getElementById('modus_knapp').style.backgroundImage="url('moon.svg')";	
+  if (x === "Nattmodus") {
+    document.body.classList.add("theme__dark");
+    document.getElementById("toc_container").classList.add("theme__dark");
+    document.getElementById("content").classList.add("theme__dark");
+    document.getElementById("page-list").classList.add("theme__dark");
+    document.getElementById("book_header").classList.add("theme__dark");
+    document.getElementById("night_mode").innerHTML = "Dagmodus";
+    document.getElementById("logo").src = "logo_white.svg";
+    document.getElementById("modus_knapp").style.backgroundImage = "url('sun.svg')";
 
+    if (toc_mode.style.display === "none") {
+    } else {
+      document.getElementById("expand_image").src = "expand_white.svg";
+    }
+  } else {
+    document.body.classList.remove("theme__dark");
+    document.getElementById("toc_container").classList.remove("theme__dark");
+    document.getElementById("content").classList.remove("theme__dark");
+    document.getElementById("page-list").classList.remove("theme__dark");
+    document.getElementById("book_header").classList.remove("theme__dark");
+    document.getElementById("night_mode").innerHTML = "Nattmodus";
+    document.getElementById("logo").src = "logo.svg";
+    document.getElementById("modus_knapp").style.backgroundImage = "url('moon.svg')";
 
-						//document.getElementById("toc_container").style.borderColor = '#f9f9f9';
-					   //document.getElementById("content").style.borderColor = '#f9f9f9';
-					   //document.getElementById("page-list").style.borderColor = '#f9f9f9';
-                     
-					  
-					    if (toc_mode.style.display === "none") 
-						{
-							
-						}
-						else
-						{
-								document.getElementById('expand_image').src="expand.svg";
-								//document.body.style.backgroundColor = '#f4f3f3';
-						}
-                    }
-            }
+    if (toc_mode.style.display === "none") {
+    } else {
+      document.getElementById("expand_image").src = "expand.svg";
+    }
+  }
+}

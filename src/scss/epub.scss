@@ -4,6 +4,7 @@
 
 /* Begin Epub.SCSS */
 body {
+    @include make-container();
     @extend #content;
 }
 /* End Epub.SCSS */

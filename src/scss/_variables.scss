@@ -69,6 +69,8 @@ $green:   #28a745 !default;
 $teal:    #20c997 !default;
 $cyan:    #17a2b8 !default;
 
+$pure-yellow: #E9FD59;
+
 $colors: () !default;
 // stylelint-disable-next-line scss/dollar-variable-default
 $colors: map-merge(
@@ -100,7 +102,8 @@ $theme-colors: map-merge(
     "danger":     $danger,
     "light":      $light,
     "dark":       $dark,
-    "night":      $dark
+    "night":      $dark,
+    "pure-yellow": $pure-yellow
   ),
   $theme-colors
 );
@@ -381,8 +384,8 @@ $nlb-h5-margin-bottom-lg:     20px;
 $nlb-h6-margin-bottom-lg:     20px;
 $nlb-p-margin-bottom-lg:      45px;
 
-$nlb-h1-font-family:          "Arial black", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
-$nlb-h2-font-family:          "Arial bold", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+$nlb-h1-font-family:          "Arial black", sans-serif !default;
+$nlb-h2-font-family:          "Arial bold", sans-serif !default;
 $nlb-h3-font-family:          $nlb-h2-font-family !default;
 $nlb-h4-font-family:          $nlb-h1-font-family !default;
 $nlb-h5-font-family:          $nlb-h2-font-family !default;

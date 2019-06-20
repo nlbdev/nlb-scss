@@ -1,11 +1,46 @@
 @charset "UTF-8";
 
 @import "core";
+@import "bootstrap/nav";
+@import "bootstrap/navbar";
+@import "seeds";
 @import "darktheme";
 
 /* Begin Nettleserbok.SCSS */
-body {
-    div.produsent {
+a {
+    color: $nlb-black;
+    text-decoration: none;
+}
+
+#content {
+    padding: 0 10px;
+
+    @include media-breakpoint-down('sm') {
+        width: 100%;
+        left:0;
+        position: relative;
+    }
+    h1.title {
+        background-color: $nlb-black;
+        color: $white;
+        margin-left: 0;
+        margin-top: 0;
+        padding-left: 0;
+        padding-top: 4ex;
+        padding-bottom: 0.5ex;
+        border-bottom: 2mm solid $nlb-green;
+        font-size: 220%;
+        text-align: center;
+    }
+    span.sentence {
+        @extend .text-dark;
+    }
+    span.rbPausedFragment {
+        background-color: $nlb-green !important;
+        color: $nlb-black !important;
+    }
+
+    div.produsent, div.docauthor {
         @extend .blockquote;
     }
     .start-info {
@@ -61,11 +96,37 @@ body {
             }
         }
     }
+}
 
-    nav#toc_container {
-        overflow-x: hidden;
-        max-width: 100%;
+nav#toc_container, nav#page-list {
+    overflow-x: hidden;
+
+    ol, ul, dl {
+        padding-left: 20px;
+    }
+
+    @include media-breakpoint-down('sm') {
+        display: none;
     }
 }
 
+#skippability, #Fullskjerm_knapp {
+    @include media-breakpoint-down('sm') {
+        display: none;
+    }
+}
+
+#percentage_container {
+    .progress-text {
+        @include media-breakpoint-down('sm') {
+            left: 5%;
+        }
+    }
+}
+
+.slider, #currentPbr {
+    @include media-breakpoint-down('sm') {
+        left: 45vw;
+    }
+}
 /* End Nettleserbok.SCSS */

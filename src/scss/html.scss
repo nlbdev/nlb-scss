@@ -4,6 +4,7 @@
 
 /* Begin Html.SCSS */
 body {
+    @include make-container();
     @extend #content;
     
     .colophon, [*|type="colophon"] {
@@ -31,16 +32,37 @@ body {
     table tr td,
     ul,
     p {
+        background-color: inherit;
+
         a {
-            @extend .bg-light, .text-dark;
+            @extend .text-dark;
         }
         a:hover {
+            background-color: #ff0;
             text-decoration: none;
         }
     }
     
-    ul.plain {
+    ul.plain, ul.pl {
         list-style-type: none;
+    }
+    div.oppgaver-li-oppgavetekst, div.underoppgaver-li-oppgavetekst, div.docauthor {
+        @extend p;
+    }
+    div.produsent {
+        @extend .blockquote;
+    }
+    .start-info {
+        margin-bottom: $nlb-p-margin-bottom-sm;
+    
+        @include media-breakpoint-only('sm') {
+            margin-bottom: $nlb-p-margin-bottom-md;
+        }
+    
+        @include media-breakpoint-up('md') {
+            margin-bottom: $nlb-p-margin-bottom-lg;
+        }
+    
     }
 }
 /* End Html.SCSS */
