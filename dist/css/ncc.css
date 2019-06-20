@@ -4302,7 +4302,7 @@ body {
       font-size: 26.73px; }
     @media (max-width: 639.98px) {
       #content p, #content blockquote, #content div.line {
-        word-break: break-word; } }
+        overflow-wrap: break-word; } }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content p, #content blockquote, #content div.line {
         margin-bottom: 36px;
@@ -4313,7 +4313,7 @@ body {
           font-size: 24.3px; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
     #content p, #content blockquote, #content div.line {
-      word-break: break-word; } }
+      overflow-wrap: break-word; } }
     @media (min-width: 1024px) {
       #content p, #content blockquote, #content div.line {
         margin-bottom: 45px;
@@ -4324,7 +4324,7 @@ body {
           font-size: 27px; } }
   @media (min-width: 1024px) and (max-width: 639.98px) {
     #content p, #content blockquote, #content div.line {
-      word-break: break-word; } }
+      overflow-wrap: break-word; } }
   #content img {
     margin-bottom: 1.5rem !important; }
   #content figure, #content .imggroup {
@@ -4363,12 +4363,12 @@ body {
       font-family: Arial, sans-serif;
       zoom: 1;
       margin: 12px;
-      word-break: normal !important; }
+      overflow-wrap: normal !important; }
       #content table tr td.lead {
         font-size: 26.73px; }
       @media (max-width: 639.98px) {
         #content table tr td {
-          word-break: break-word; } }
+          overflow-wrap: break-word; } }
       @media (min-width: 768px) and (max-width: 1023.98px) {
         #content table tr td {
           margin-bottom: 36px;
@@ -4380,7 +4380,7 @@ body {
             font-size: 24.3px; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
     #content table tr td {
-      word-break: break-word; } }
+      overflow-wrap: break-word; } }
       @media (min-width: 1024px) {
         #content table tr td {
           margin-bottom: 45px;
@@ -4392,7 +4392,7 @@ body {
             font-size: 27px; } }
   @media (min-width: 1024px) and (max-width: 639.98px) {
     #content table tr td {
-      word-break: break-word; } }
+      overflow-wrap: break-word; } }
     #content table caption {
       color: #212d39;
       margin: 12px;
@@ -4404,7 +4404,7 @@ body {
         font-size: 26.73px; }
       @media (max-width: 639.98px) {
         #content table caption {
-          word-break: break-word; } }
+          overflow-wrap: break-word; } }
       @media (min-width: 768px) and (max-width: 1023.98px) {
         #content table caption {
           margin: 15px;
@@ -4416,7 +4416,7 @@ body {
             font-size: 24.3px; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
     #content table caption {
-      word-break: break-word; } }
+      overflow-wrap: break-word; } }
       @media (min-width: 1024px) {
         #content table caption {
           margin: 20px;
@@ -4428,7 +4428,7 @@ body {
             font-size: 27px; } }
   @media (min-width: 1024px) and (max-width: 639.98px) {
     #content table caption {
-      word-break: break-word; } }
+      overflow-wrap: break-word; } }
     #content table.liste, #content table.imggroup {
       border: none !important; }
       #content table.liste tr td, #content table.imggroup tr td {
@@ -4462,12 +4462,12 @@ body {
         margin-bottom: 45px; } }
     @media (max-width: 639.98px) {
       #content .generisk-ramme {
-        word-break: break-word; } }
+        overflow-wrap: break-word; } }
     #content .generisk-ramme.lead {
       font-size: 26.73px; }
     @media (max-width: 639.98px) {
       #content .generisk-ramme {
-        word-break: break-word; } }
+        overflow-wrap: break-word; } }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content .generisk-ramme {
         margin-bottom: 36px;
@@ -4478,7 +4478,7 @@ body {
           font-size: 24.3px; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
     #content .generisk-ramme {
-      word-break: break-word; } }
+      overflow-wrap: break-word; } }
     @media (min-width: 1024px) {
       #content .generisk-ramme {
         margin-bottom: 45px;
@@ -4489,7 +4489,7 @@ body {
           font-size: 27px; } }
   @media (min-width: 1024px) and (max-width: 639.98px) {
     #content .generisk-ramme {
-      word-break: break-word; } }
+      overflow-wrap: break-word; } }
   #content .ramme {
     border-radius: 5px;
     padding: 20px;
@@ -4559,7 +4559,7 @@ body {
       font-size: 26.73px; }
     @media (max-width: 639.98px) {
       #content .ordliste dl dt {
-        word-break: break-word; } }
+        overflow-wrap: break-word; } }
     @media (min-width: 640px) and (max-width: 767.98px) {
       #content .ordliste dl dt {
         margin-bottom: 36px;
@@ -4570,7 +4570,7 @@ body {
           font-size: 24.3px; } }
   @media (min-width: 640px) and (max-width: 767.98px) and (max-width: 639.98px) {
     #content .ordliste dl dt {
-      word-break: break-word; } }
+      overflow-wrap: break-word; } }
     @media (min-width: 768px) {
       #content .ordliste dl dt {
         margin-bottom: 45px;
@@ -4581,7 +4581,7 @@ body {
           font-size: 27px; } }
   @media (min-width: 768px) and (max-width: 639.98px) {
     #content .ordliste dl dt {
-      word-break: break-word; } }
+      overflow-wrap: break-word; } }
 
 /* End Core.SCSS */
 /* Begin Ncc.SCSS */

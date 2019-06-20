@@ -2,52 +2,49 @@
 
  body.theme__dark {
     @extend .bg-night, .text-light;
-
-    .theme__dark header,
-    .theme__dark #toc_container .toc_container__wrapper,
-    .theme__dark #content .content__wrapper,
-    .theme__dark .page__list-wrapper {
+    
+    #toc_container .toc_container__wrapper,
+    #content .content__wrapper,
+    .page__list-wrapper {
         @extend .bg-night;
+        border-color: $white;
+    }
+    #toc_container,
+    #page-list,
+    #book_header {
+        background-color: lighten($nlb-black, 5%);
+        border-color: $white;
     }
 
-    .theme__dark #toc_container .intro {
+    #toc_container .intro {
         background-color: lighten($nlb-black, 5%);
     }
 
-    .theme__dark #hjelpknapp a,
-    .theme__dark p,
-    .theme__dark a,
-    .theme__dark h1,
-    .theme__dark h2,
-    .theme__dark h3,
-    .theme__dark h4,
-    .theme__dark h5,
-    .theme__dark h6 
+    #hjelpknapp a, p, a, h1, h2, h3, h4, h5, h6 
     {
         @extend .text-light;
     }
 
-    .theme__dark #toc_container .toc_container__wrapper,
-    .theme__dark #toc_container .intro,
-    .theme__dark #toc_container ,
-    .theme__dark #toc_container ,
-    .theme__dark #content .content__wrapper,
-    .theme__dark .page__list-wrapper,
-    .theme__dark .content__wrapper,
-    .theme__dark ::-webkit-scrollbar-track {
-        border-color: lighten($nlb-black, 5%);
+    #toc_container .toc_container__wrapper,
+    #toc_container .intro,
+    #toc_container ,
+    #content .content__wrapper,
+    .page__list-wrapper,
+    .content__wrapper,
+    ::-webkit-scrollbar-track {
+        border-color: $white;
     }
 
-    .theme__dark input[type="range"] {
-        background-image: -webkit-gradient(linear, left top, right top, color-stop(0.3, $nlb-green), color-stop(0.3, lighten($nlb-black, 5%)));
+    input[type="range"] {
+        background-image: -webkit-gradient(linear, left top, right top, color-stop(0.3, $nlb-green), color-stop(0.3, lighten($nlb-black, 25%)));
     }
 
-    .theme__dark input[type='range']::-webkit-slider-thumb {
+    input[type='range']::-webkit-slider-thumb {
         background-color: $white;
         border: .2vh solid $white;
     }
 
-    .theme__dark input[type='range']::-moz-range-thumb {
+    input[type='range']::-moz-range-thumb {
         background-color: $white;
         border: .2vh solid $white;
         height: 1.2vh;
@@ -55,30 +52,30 @@
         border-radius: 50%;
     }
 
-    .theme__dark .header__right-2 a:hover {
+    .header__right-2 a:hover {
         color: $white;
     }
 
-    .theme__dark .rbPausedFragment,
-    .theme__dark .rbActiveFragment {
+    .rbPausedFragment,
+    .rbActiveFragment {
         background: $pure-yellow;
         color: lighten($nlb-black, 5%);
     }
 
-    .theme__dark #skippability span,
-    .theme__dark #Avspillingshastighet_main span,
-    .theme__dark header .header__right-2 span {
+    #skippability span,
+    #Avspillingshastighet_main span,
+    header .header__right-2 span {
         color: lighten($nlb-black, 5%);
     }
-    .theme__dark .progress-container{
+    .progress-container{
         background-color: $white;
         border: 1px solid $white;
     }
-    .theme__dark .progress-bar{
+    .progress-bar{
         background-color: $nlb-black;
             
     }
-    .theme__dark #play_button 
+    #play_button 
     { 
         background-color: $white;
     }
@@ -86,6 +83,7 @@
 
 #content.theme__dark {
     @extend .bg-night, .text-light;
+    border-color: $white;
     
     span.sentence {
         @extend .text-light;

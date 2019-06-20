@@ -13,7 +13,7 @@ a {
 }
 
 #content {
-    padding: 0 10px;
+    padding: 0 1vw;
 
     @include media-breakpoint-down('sm') {
         width: 100%;
@@ -96,6 +96,9 @@ a {
             }
         }
     }
+}
+body.fullscreen {
+    @extend .bg-dark;
 }
 
 nav#toc_container, nav#page-list {

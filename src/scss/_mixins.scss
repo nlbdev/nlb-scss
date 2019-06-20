@@ -19,7 +19,7 @@
     }
 
     @include media-breakpoint-only('xs') {
-        word-break: break-word;
+        overflow-wrap: break-word;
     }
 }
 @mixin nlb-default-frame() {

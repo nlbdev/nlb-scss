@@ -822,7 +822,6 @@ function scrolling() {
 function hide_extra() {
   var x = document.getElementById("toc_container");
   var y = document.getElementById("page-list");
-  var z = document.getElementById("content");
   var percentage = document.getElementById("percentage_container");
 
   if (x.style.display === "none") {
@@ -836,13 +835,13 @@ function hide_extra() {
     } else {
       document.getElementById("expand_image").src = "expand_white.svg";
     }
+    document.body.classList.remove("fullscreen");
   } else {
     x.style.display = "none";
     y.style.display = "none";
     percentage.style.display = "none";
     document.getElementById("expand_image").src = "close.svg";
-    var n = document.getElementById("night_mode").innerHTML;
-    document.body.classList.add("theme__dark");
+    document.body.classList.add("fullscreen");
   }
 }
 

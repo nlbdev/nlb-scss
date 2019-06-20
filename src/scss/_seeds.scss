@@ -31,16 +31,13 @@
 .toc_list_title , .page-list_title ,.progress-text{
     text-align: left;
 	width: 100%;
-    
-    text-align: left;
 	min-height: 2vh;
 	max-height: 2vh ;	
 	position: fixed;
-    top: 14.1vh;	
+    top: 16.1vh;	
     
 	
-	font-size: 2.3vh;	
-	font-family: arial, serif; 	
+	font-size: 2.3vh;
     font-style: normal;
 	font-weight: 700;
 	
@@ -143,11 +140,9 @@
 
 
 .class_all , .class_content_only {
-    @extend .d-block;
-    
     background: #f9f9f9 none repeat scroll 0 0;
     margin: 0 0%;	
-    width: 50%;
+    width: 54%;
     left: 30.2%;
 	margin-bottom: 1em;
     padding: 1px; 

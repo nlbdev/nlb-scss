@@ -238,7 +238,7 @@ body {
         tr td {
             @include nlb-set-paragraph-font($nlb-p-margin-bottom-sm, $nlb-p-font-size-sm, $nlb-p-font-size-lead-sm);
             margin: 12px;
-            word-break: normal !important;
+            overflow-wrap: normal !important;
         
             @include media-breakpoint-only('md') {
                 @include nlb-set-paragraph-font($nlb-p-margin-bottom-md, $nlb-p-font-size-md, $nlb-p-font-size-lead-md);
@@ -292,7 +292,7 @@ body {
         @include nlb-default-frame();
     
         @include media-breakpoint-only('xs') {
-            word-break: break-word;
+            overflow-wrap: break-word;
         }
 
         @include nlb-set-paragraph-font($nlb-p-margin-bottom-sm, $nlb-p-font-size-sm, $nlb-p-font-size-lead-sm);
