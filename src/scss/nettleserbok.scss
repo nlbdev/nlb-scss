@@ -108,6 +108,12 @@ a {
 }
 body.fullscreen {
     @extend .bg-dark;
+
+    #percentage_container,
+    #page-list,
+    #toc_container {
+        @extend .invisible;
+    }
 }
 
 nav#toc_container, nav#page-list {

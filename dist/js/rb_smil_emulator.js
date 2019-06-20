@@ -820,15 +820,9 @@ function scrolling() {
 //********************** function for hide_extra book*************
 
 function hide_extra() {
-  var x = document.getElementById("toc_container");
-  var y = document.getElementById("page-list");
-  var percentage = document.getElementById("percentage_container");
+  var x = document.body;
 
-  if (x.style.display === "none") {
-    // x.style.display = "block";
-    // y.style.display = "block";
-    // percentage.style.display = "block";
-
+  if (x.classList.contains("fullscreen")) {
     var j = document.getElementById("night_mode").innerHTML;
     if (j === "Nattmodus") {
       document.getElementById("expand_image").src = "expand.svg";
@@ -837,9 +831,6 @@ function hide_extra() {
     }
     document.body.classList.remove("fullscreen");
   } else {
-    x.style.display = "none";
-    y.style.display = "none";
-    percentage.style.display = "none";
     document.getElementById("expand_image").src = "close.svg";
     document.body.classList.add("fullscreen");
   }

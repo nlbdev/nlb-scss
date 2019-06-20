@@ -3083,7 +3083,9 @@ a.text-pure-yellow:hover, a.text-pure-yellow:focus {
 .visible {
   visibility: visible !important; }
 
-.invisible {
+.invisible, body.fullscreen #percentage_container,
+body.fullscreen #page-list,
+body.fullscreen #toc_container {
   visibility: hidden !important; }
 
 h1, h2, h3, h4, h5, h6, #content table tr th,
