@@ -1,23 +1,22 @@
 ---
+header_pages:
+    - index.md
+
 layout: default
 title: NLB Stilark
+
+lang: nb_NO
 ---
 
 ## NLB Stilark
 
-NLB har mange formater som det har blitt ønsket stilark for:
+Det er utviklet et standarisert og normalisert stilark, som følger brukervennlighet og tilgjengelighetskrav satt av synshemmede (Statped) og dyslektikere (Dysleksi Norge).
 
-- NCC/Daisy
-- Lydbok med tekst
-- EPUB
-- E-bok
-- Nettleserbok (NLB Online format)
-
-Det er utviklet et standarisert og normalisert stilark, som følger brukervennlighet og tilgjengelighetskrav satt av synshemmede (mha. Statped) og dyslektikere.
+Denne siden er en demo på stilarket for lydbøker med tekst.
 
 ## Nedlasting
 
-Siste versjon finnes på: https://github.com/nlbdev/nlb-scss/releases
+Siste versjon finnes på: [GitHub](https://github.com/nlbdev/nlb-scss/releases)
 
 (Får du opp en 404 side må du be om tilgang)
 
