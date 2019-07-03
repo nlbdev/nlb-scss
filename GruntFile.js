@@ -48,8 +48,8 @@ module.exports = function (grunt) {
 			main: {
 			  files: [
 				{src: ['src/js/rb_smil_emulator.js'], dest: 'dist/js/rb_smil_emulator.js'},
-				{src: ['src/js/rb_smil_emulator.js'], dest: 'dist/tests/Nettleserbok/628810/rb_smil_emulator.js'},
-				{src: ['src/js/rb_smil_emulator.js'], dest: 'dist/tests/Nettleserbok/852345/rb_smil_emulator.js'},
+				// {src: ['src/js/rb_smil_emulator.js'], dest: 'dist/tests/Nettleserbok/628810/rb_smil_emulator.js'},
+				// {src: ['src/js/rb_smil_emulator.js'], dest: 'dist/tests/Nettleserbok/852345/rb_smil_emulator.js'},
 			  ],
 			},
 		},
