@@ -89,7 +89,7 @@ p | Arial | 18px | 27px
 
 Alle rammer må ha `ramme`-klassen, tilleggsklasser angir bakgrunnsfarge, tekstfarge og linjefarge.
 
-- Hovedklasse: `ramme` (og `generisk-ramme`)
+- Hovedklasse: `generisk-ramme`
 
     Bakgrunnsfarge: [#E4F0DA](https://www.colorhexa.com/E4F0DA)
 
@@ -99,7 +99,7 @@ Alle rammer må ha `ramme`-klassen, tilleggsklasser angir bakgrunnsfarge, tekstf
 
     Linjefarge nattmodus: [#bcbec0](https://www.colorhexa.com/bcbec0)
 
-    <div class="ramme">Eksempel</div>
+    <div class="generisk-ramme">Eksempel</div>
 
 - Bakgrunnsfarge: Rød `bg-red` - eksempel: `ramme bg-red`
 
@@ -141,13 +141,13 @@ Alle rammer må ha `ramme`-klassen, tilleggsklasser angir bakgrunnsfarge, tekstf
   
     Tekstfarge: [#212d39](https://www.colorhexa.com/212d39)
 
-    <div class="ramme text-dark">Eksempel</div>
+    <div class="bg-light text-dark">Eksempel</div>
 
 - Tekstfarge: Sort `text-light`
   
     Tekstfarge: [#f8f9fa](https://www.colorhexa.com/f8f9fa)
 
-    <div class="ramme text-light">Eksempel</div>
+    <div class="bg-dark text-light">Eksempel</div>
 
 
 
