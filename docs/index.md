@@ -107,7 +107,7 @@ Alle rammer må ha `ramme`-klassen, tilleggsklasser angir bakgrunnsfarge, tekstf
 
     Bakgrunnsfarge nattmodus: [#482b3a](https://www.colorhexa.com/482b3a)
 
-    Linjefarge: [#B1C900](https://www.colorhexa.com/B1C900)
+    Linjefarge: [#bd5b87](https://www.colorhexa.com/bd5b87)
 
     Linjefarge nattmodus: [#bcbec0](https://www.colorhexa.com/bcbec0)
 
@@ -119,7 +119,7 @@ Alle rammer må ha `ramme`-klassen, tilleggsklasser angir bakgrunnsfarge, tekstf
 
     Bakgrunnsfarge nattmodus: [#486178](https://www.colorhexa.com/486178)
 
-    Linjefarge: [#B1C900](https://www.colorhexa.com/B1C900)
+    Linjefarge: [#5b87bd](https://www.colorhexa.com/5b87bd)
 
     Linjefarge nattmodus: [#bcbec0](https://www.colorhexa.com/bcbec0)
 
@@ -131,7 +131,7 @@ Alle rammer må ha `ramme`-klassen, tilleggsklasser angir bakgrunnsfarge, tekstf
 
     Bakgrunnsfarge nattmodus: [#48392b](https://www.colorhexa.com/48392b)
 
-    Linjefarge: [#B1C900](https://www.colorhexa.com/B1C900)
+    Linjefarge: [#b8bd5b](https://www.colorhexa.com/b8bd5b)
 
     Linjefarge nattmodus: [#bcbec0](https://www.colorhexa.com/bcbec0)
 
@@ -143,7 +143,7 @@ Alle rammer må ha `ramme`-klassen, tilleggsklasser angir bakgrunnsfarge, tekstf
 
     <div class="bg-light text-dark">Eksempel</div>
 
-- Tekstfarge: Sort `text-light`
+- Tekstfarge: Lys `text-light`
   
     Tekstfarge: [#f8f9fa](https://www.colorhexa.com/f8f9fa)
 
