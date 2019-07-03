@@ -14,6 +14,15 @@ Det er utviklet et standarisert og normalisert stilark, som følger brukervennli
 
 Denne siden er en demo på stilarket for lydbøker med tekst.
 
+## Installasjon
+
+- NCC: Filen [ncc.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.0.0/ncc.min.css) må omdøpes til `default.css` og i `ncc.html` må det lenkes til `default.css` i hodet på filen `<link rel="stylesheet" type="text/css" href="default.css"/>`
+- Lydbok med tekst: Filen [html.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.0.0/html.min.css) må omdøpes til `default.css` og i hovedfilen må det lenkes til `default.css` i hodet på filen `<link rel="stylesheet" type="text/css" href="default.css"/>`
+
+### Krav til HTML
+
+- Filen må ikke inneholde noe inline CSS, dvs. `<element style="color:#000;">` siden dette vil overstyre vår CSS.
+
 ## Nedlasting
 
 Siste versjon finnes på: [GitHub](https://github.com/nlbdev/nlb-scss/releases)
@@ -148,8 +157,6 @@ Alle rammer må ha `ramme`-klassen, tilleggsklasser angir bakgrunnsfarge, tekstf
     Tekstfarge: [#f8f9fa](https://www.colorhexa.com/f8f9fa)
 
     <div class="bg-dark text-light">Eksempel</div>
-
-
 
 ### Tabell
 
