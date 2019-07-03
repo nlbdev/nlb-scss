@@ -1,11 +1,14 @@
 <!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="assets/css/styles.css">
+<html lang="{{ page.lang | default: site.lang | default: "nb_NO" }}">
+  {%- include head.html -%}
   </head>
   <body>
-    {{ content }}
+    <div class="container">
+      {%- include header.html -%}
+      <main>
+        {{ content }}
+      </main>
+      {%- include footer.html -%}
+    </div>
   </body>
 </html>

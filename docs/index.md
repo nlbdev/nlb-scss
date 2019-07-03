@@ -3,7 +3,7 @@ layout: default
 title: NLB Stilark
 ---
 
-## Om
+## NLB Stilark
 
 NLB har mange formater som det har blitt ønsket stilark for:
 
@@ -14,6 +14,12 @@ NLB har mange formater som det har blitt ønsket stilark for:
 - Nettleserbok (NLB Online format)
 
 Det er utviklet et standarisert og normalisert stilark, som følger brukervennlighet og tilgjengelighetskrav satt av synshemmede (mha. Statped) og dyslektikere.
+
+## Nedlasting
+
+Siste versjon finnes på: https://github.com/nlbdev/nlb-scss/releases
+
+(Får du opp en 404 side må du be om tilgang)
 
 ## Dokumentasjon
 
