@@ -1,4 +1,4 @@
-/*! Documentation CSS */
+/*! NCC CSS */
 /*! NLB Stylesheets | v1.0.0 */
 /* Begin Core.SCSS */
 /* Imports
@@ -361,11 +361,11 @@ hr {
   height: 0;
   overflow: visible; }
 
-h1, h2, h3, h4, h5, h6, #content table tr th, body table tr th {
+h1, h2, h3, h4, h5, h6, #content table tr th {
   margin-top: 0;
   margin-bottom: 0.75rem; }
 
-p, #content blockquote, body blockquote {
+p, #content blockquote {
   margin-top: 0;
   margin-bottom: 1rem; }
 
@@ -676,31 +676,12 @@ button.bg-dark:hover,
 button.bg-dark:focus {
   background-color: #0e1419 !important; }
 
-.bg-night, body.theme__dark, body.theme__dark #toc_container .toc_container__wrapper,
-body.theme__dark #content .content__wrapper,
-body.theme__dark body .content__wrapper,
-body.theme__dark .page__list-wrapper, #content.theme__dark {
+.bg-night {
   background-color: #212d39 !important; }
 
-a.bg-night:hover, body.theme__dark #toc_container a.toc_container__wrapper:hover,
-body.theme__dark #content a.content__wrapper:hover,
-body.theme__dark body a.content__wrapper:hover,
-body.theme__dark a.page__list-wrapper:hover, a#content.theme__dark:hover, a.bg-night:focus, body.theme__dark #toc_container a.toc_container__wrapper:focus,
-body.theme__dark #content a.content__wrapper:focus,
-body.theme__dark body a.content__wrapper:focus,
-body.theme__dark a.page__list-wrapper:focus, a#content.theme__dark:focus,
+a.bg-night:hover, a.bg-night:focus,
 button.bg-night:hover,
-body.theme__dark #toc_container button.toc_container__wrapper:hover,
-body.theme__dark #content button.content__wrapper:hover,
-body.theme__dark body button.content__wrapper:hover,
-body.theme__dark button.page__list-wrapper:hover,
-button#content.theme__dark:hover,
-button.bg-night:focus,
-body.theme__dark #toc_container button.toc_container__wrapper:focus,
-body.theme__dark #content button.content__wrapper:focus,
-body.theme__dark body button.content__wrapper:focus,
-body.theme__dark button.page__list-wrapper:focus,
-button#content.theme__dark:focus {
+button.bg-night:focus {
   background-color: #0e1419 !important; }
 
 .bg-pure-yellow {
@@ -720,11 +701,9 @@ button.bg-pure-yellow:focus {
 .border {
   border: 1px solid #90989f !important; }
 
-.border-top, #content .page-normal, body .page-normal,
+.border-top, #content .page-normal,
 #content .page-front,
-body .page-front,
-#content .page-special,
-body .page-special {
+#content .page-special {
   border-top: 1px solid #90989f !important; }
 
 .border-right {
@@ -787,7 +766,7 @@ body .page-special {
 .rounded-sm {
   border-radius: 0.2rem !important; }
 
-.rounded, #content img, body img, #content figure img, body figure img, #content .imggroup img, body .imggroup img {
+.rounded, #content img, #content figure img, #content .imggroup img {
   border-radius: 0.25rem !important; }
 
 .rounded-top {
@@ -823,11 +802,9 @@ body .page-special {
   clear: both;
   content: ""; }
 
-.d-none, #content .page-normal, body .page-normal,
+.d-none, #content .page-normal,
 #content .page-front,
-body .page-front,
-#content .page-special,
-body .page-special {
+#content .page-special {
   display: none !important; }
 
 .d-inline {
@@ -836,7 +813,7 @@ body .page-special {
 .d-inline-block {
   display: inline-block !important; }
 
-.d-block, #content figure img, body figure img, #content .imggroup img, body .imggroup img {
+.d-block, #content figure img, #content .imggroup img {
   display: block !important; }
 
 .d-table {
@@ -861,11 +838,9 @@ body .page-special {
     display: inline !important; }
   .d-sm-inline-block {
     display: inline-block !important; }
-  .d-sm-block, #content .page-normal, body .page-normal,
+  .d-sm-block, #content .page-normal,
   #content .page-front,
-  body .page-front,
-  #content .page-special,
-  body .page-special {
+  #content .page-special {
     display: block !important; }
   .d-sm-table {
     display: table !important; }
@@ -1456,7 +1431,7 @@ body .page-special {
     top: 0;
     z-index: 1020; } }
 
-.sr-only, #content .prodnote, body .prodnote, #content .optional-prodnote, body .optional-prodnote, #content .prodnote-optional, body .prodnote-optional {
+.sr-only, #content .prodnote, #content .optional-prodnote, #content .prodnote-optional {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -1605,7 +1580,7 @@ body .page-special {
 .m-3 {
   margin: 1.5rem !important; }
 
-.mt-3,
+.mt-3, h1, h2, h3, h4, h5, h6, #content table tr th,
 .my-3 {
   margin-top: 1.5rem !important; }
 
@@ -1632,11 +1607,9 @@ body .page-special {
 .mx-4 {
   margin-right: 2.25rem !important; }
 
-.mb-4, #content .page-normal, body .page-normal,
+.mb-4, #content .page-normal,
 #content .page-front,
-body .page-front,
 #content .page-special,
-body .page-special,
 .my-4 {
   margin-bottom: 2.25rem !important; }
 
@@ -1647,11 +1620,9 @@ body .page-special,
 .m-5 {
   margin: 4.5rem !important; }
 
-.mt-5, #content .page-normal, body .page-normal,
+.mt-5, #content .page-normal,
 #content .page-front,
-body .page-front,
 #content .page-special,
-body .page-special,
 .my-5 {
   margin-top: 4.5rem !important; }
 
@@ -1727,11 +1698,9 @@ body .page-special,
 .p-3 {
   padding: 1.5rem !important; }
 
-.pt-3, #content .page-normal, body .page-normal,
+.pt-3, #content .page-normal,
 #content .page-front,
-body .page-front,
 #content .page-special,
-body .page-special,
 .py-3 {
   padding-top: 1.5rem !important; }
 
@@ -1890,9 +1859,7 @@ body .page-special,
 .mr-auto,
 .mx-auto,
 #content figure img,
-body figure img,
-#content .imggroup img,
-body .imggroup img {
+#content .imggroup img {
   margin-right: auto !important; }
 
 .mb-auto,
@@ -1902,9 +1869,7 @@ body .imggroup img {
 .ml-auto,
 .mx-auto,
 #content figure img,
-body figure img,
-#content .imggroup img,
-body .imggroup img {
+#content .imggroup img {
   margin-left: auto !important; }
 
 @media (min-width: 640px) {
@@ -2943,14 +2908,12 @@ body .imggroup img {
 .text-left {
   text-align: left !important; }
 
-.text-right, #content .page-normal, body .page-normal,
+.text-right, #content .page-normal,
 #content .page-front,
-body .page-front,
-#content .page-special,
-body .page-special {
+#content .page-special {
   text-align: right !important; }
 
-.text-center, #content figure, body figure, #content .imggroup, body .imggroup {
+.text-center, #content figure, #content .imggroup {
   text-align: center !important; }
 
 @media (min-width: 640px) {
@@ -3051,10 +3014,10 @@ a.text-warning:hover, a.text-warning:focus {
 a.text-danger:hover, a.text-danger:focus {
   color: #a71d2a !important; }
 
-.text-light, body.theme__dark, body.theme__dark #hjelpknapp a, body.theme__dark p, body.theme__dark #content blockquote, #content body.theme__dark blockquote, body.theme__dark blockquote, body.theme__dark a, body.theme__dark h1, body.theme__dark h2, body.theme__dark h3, body.theme__dark h4, body.theme__dark h5, body.theme__dark h6, body.theme__dark #content table tr th, #content table tr body.theme__dark th, body.theme__dark table tr th, #content.theme__dark, #content.theme__dark span.sentence, body.theme__dark span.sentence, #content.theme__dark table, body.theme__dark table {
+.text-light {
   color: #f8f9fa; }
 
-a.text-light:hover, body.theme__dark #hjelpknapp a:hover, body.theme__dark a:hover, a#content.theme__dark:hover, a.text-light:focus, body.theme__dark #hjelpknapp a:focus, body.theme__dark a:focus, a#content.theme__dark:focus {
+a.text-light:hover, a.text-light:focus {
   color: #cbd3da !important; }
 
 .text-dark, body {
@@ -3110,7 +3073,7 @@ a.text-pure-yellow:hover, a.text-pure-yellow:focus {
 .invisible {
   visibility: hidden !important; }
 
-h1, h2, h3, h4, h5, h6, #content table tr th, body table tr th,
+h1, h2, h3, h4, h5, h6, #content table tr th,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-bottom: 0.75rem;
   font-weight: 500;
@@ -3143,7 +3106,7 @@ h4, .h4 {
 h5, .h5 {
   font-size: 1.25rem; }
 
-h6, #content table tr th, body table tr th, .h6 {
+h6, #content table tr th, .h6 {
   font-size: 1rem; }
 
 .lead {
@@ -3166,12 +3129,12 @@ h6, #content table tr th, body table tr th, .h6 {
     .display-2 {
       font-size: calc(1.675rem + 5.1vw) ; } }
 
-.display-3 {
+.display-3, h1 .title, h2 .title, h3 .title, h4 .title, h5 .title, h6 .title, #content table tr th .title {
   font-size: 4.5rem;
   font-weight: 300;
   line-height: 1.2; }
   @media (max-width: 1200px) {
-    .display-3 {
+    .display-3, h1 .title, h2 .title, h3 .title, h4 .title, h5 .title, h6 .title, #content table tr th .title {
       font-size: calc(1.575rem + 3.9vw) ; } }
 
 .display-4 {
@@ -3215,7 +3178,7 @@ mark,
   font-size: 90%;
   text-transform: uppercase; }
 
-.blockquote, #content blockquote, body blockquote {
+.blockquote, #content blockquote {
   margin-bottom: 1.5rem;
   font-size: 1.25rem; }
 
@@ -3814,7 +3777,7 @@ mark,
   .offset-xl-11 {
     margin-left: 91.6666666667%; } }
 
-.img-fluid, #content img, body img, #content figure img, body figure img, #content .imggroup img, body .imggroup img {
+.img-fluid, #content img, #content figure img, #content .imggroup img {
   max-width: 100%;
   height: auto; }
 
@@ -3826,36 +3789,33 @@ mark,
   max-width: 100%;
   height: auto; }
 
-.figure, #content figure, body figure, #content .imggroup, body .imggroup {
+.figure, #content figure, #content .imggroup {
   display: inline-block; }
 
-.figure-img, #content figure img, body figure img, #content .imggroup img, body .imggroup img {
+.figure-img, #content figure img, #content .imggroup img {
   margin-bottom: 0.75rem;
   line-height: 1; }
 
-.figure-caption, #content figure figcaption, body figure figcaption, #content figure .caption, body figure .caption, #content .imggroup figcaption, body .imggroup figcaption, #content .imggroup .caption, body .imggroup .caption, #content table caption, body table caption {
+.figure-caption, #content figure figcaption, #content figure .caption, #content .imggroup figcaption, #content .imggroup .caption, #content table caption {
   font-size: 90%;
   color: #6c757d; }
 
-.table, #content table, body table, #content table.liste, body table.liste, #content table.imggroup, body table.imggroup {
+.table, #content table, #content table.liste, #content table.imggroup {
   width: 100%;
   margin-bottom: 1.5rem;
   color: #212529; }
-  .table th, #content table th, body table th, #content table.liste th, body table.liste th, #content table.imggroup th, body table.imggroup th,
+  .table th, #content table th, #content table.liste th, #content table.imggroup th,
   .table td,
   #content table td,
-  body table td,
   #content table.liste td,
-  body table.liste td,
-  #content table.imggroup td,
-  body table.imggroup td {
+  #content table.imggroup td {
     padding: 0.75rem;
     vertical-align: top;
     border-top: 1px solid #90989f; }
-  .table thead th, #content table thead th, body table thead th, #content table.liste thead th, body table.liste thead th, #content table.imggroup thead th, body table.imggroup thead th {
+  .table thead th, #content table thead th, #content table.liste thead th, #content table.imggroup thead th {
     vertical-align: bottom;
     border-bottom: 2px solid #90989f; }
-  .table tbody + tbody, #content table tbody + tbody, body table tbody + tbody, #content table.liste tbody + tbody, body table.liste tbody + tbody, #content table.imggroup tbody + tbody, body table.imggroup tbody + tbody {
+  .table tbody + tbody, #content table tbody + tbody, #content table.liste tbody + tbody, #content table.imggroup tbody + tbody {
     border-top: 2px solid #90989f; }
 
 .table-sm th,
@@ -3871,22 +3831,16 @@ mark,
   .table-bordered thead td {
     border-bottom-width: 2px; }
 
-.table-borderless th, #content table.liste th, body table.liste th, #content table.imggroup th, body table.imggroup th,
+.table-borderless th, #content table.liste th, #content table.imggroup th,
 .table-borderless td,
 #content table.liste td,
-body table.liste td,
 #content table.imggroup td,
-body table.imggroup td,
 .table-borderless thead th,
 #content table.liste thead th,
-body table.liste thead th,
 #content table.imggroup thead th,
-body table.imggroup thead th,
 .table-borderless tbody + tbody,
 #content table.liste tbody + tbody,
-body table.liste tbody + tbody,
-#content table.imggroup tbody + tbody,
-body table.imggroup tbody + tbody {
+#content table.imggroup tbody + tbody {
   border: 0; }
 
 .table-striped tbody tr:nth-of-type(odd) {
@@ -4077,12 +4031,12 @@ body table.imggroup tbody + tbody {
   .table-hover .table-active:hover > th {
     background-color: rgba(0, 0, 0, 0.075); }
 
-.table .thead-dark th, #content table .thead-dark th, body table .thead-dark th, body table.liste .thead-dark th, body table.imggroup .thead-dark th, #content.theme__dark table thead th, .table body.theme__dark table thead th, body.theme__dark table .table thead th, #content body.theme__dark table thead th, body.theme__dark #content table thead th, body.theme__dark table thead th, body.theme__dark table.liste thead th, body.theme__dark table.imggroup thead th {
+.table .thead-dark th, #content table .thead-dark th {
   color: #fff;
   background-color: #343a40;
   border-color: #454d55; }
 
-.table .thead-light th, #content table .thead-light th, body table .thead-light th, body table.liste .thead-light th, body table.imggroup .thead-light th, #content table thead th, #content table.liste thead th, #content table.imggroup thead th, .table body table thead th, body table .table thead th, body table thead th, body table.liste thead th, body table.imggroup thead th {
+.table .thead-light th, #content table .thead-light th, #content table thead th, #content table.liste thead th, #content table.imggroup thead th {
   color: #495057;
   background-color: #e9ecef;
   border-color: #90989f; }
@@ -4138,12 +4092,12 @@ body table.imggroup tbody + tbody {
     .table-responsive-xl > .table-bordered {
       border: 0; } }
 
-.table-responsive, #content table, body table, #content table.liste, body table.liste, #content table.imggroup, body table.imggroup, #content.theme__dark table, body.theme__dark table {
+.table-responsive, #content table, #content table.liste, #content table.imggroup {
   display: block;
   width: 100%;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch; }
-  .table-responsive > .table-bordered, #content table > .table-bordered, body table > .table-bordered, body table.liste > .table-bordered, body table.imggroup > .table-bordered, body.theme__dark table > .table-bordered {
+  .table-responsive > .table-bordered, #content table > .table-bordered {
     border: 0; }
 
 /* General styles
@@ -4151,7 +4105,7 @@ body table.imggroup tbody + tbody {
 body {
   overflow-x: hidden; }
 
-#content, body {
+#content {
   padding-right: 20px;
   padding-left: 20px;
   /* Paging
@@ -4165,328 +4119,326 @@ body {
   /* Lists
      * ---------------------------------------------------------- */ }
   @media (min-width: 640px) and (max-width: 767.98px) {
-    #content, body {
+    #content {
       padding-right: 45px;
       padding-left: 45px; } }
   @media (min-width: 768px) and (max-width: 1023.98px) {
-    #content, body {
+    #content {
       padding-right: 70px;
       padding-left: 70px; } }
   @media (min-width: 1024px) {
-    #content, body {
+    #content {
       padding-right: 70px;
       padding-left: 70px; } }
-  #content .noteref, body .noteref {
+  #content .noteref {
     vertical-align: super;
     font-size: 0.6em; }
-  #content .rearnotes .notebody p, body .rearnotes .notebody p, #content .rearnotes .notebody blockquote, body .rearnotes .notebody #content blockquote, body .rearnotes .notebody blockquote {
+  #content .rearnotes .notebody p, #content .rearnotes .notebody blockquote {
     display: block;
     padding: 15px 20px;
     border-top: 1px solid #B1C900;
     margin-bottom: 0; }
-  #content .sidetall, body .sidetall {
+  #content .sidetall {
     display: inline-block;
     width: 100%; }
-    #content .sidetall::after, body .sidetall::after {
+    #content .sidetall::after {
       display: block;
       clear: both;
       content: ""; }
-  #content .page-normal, body .page-normal,
+  #content .page-normal,
   #content .page-front,
-  body .page-front,
-  #content .page-special,
-  body .page-special {
+  #content .page-special {
     font-weight: bold;
     page-break-before: always; }
-  #content strong, body strong {
+  #content strong {
     font-weight: bold; }
-  #content h1.title, body h1.title {
+  #content h1.title {
     margin-top: 10px; }
-  #content h1, body h1, #content h1.title, body h1.title {
+  #content h1, #content h1.title {
     font-weight: bold;
     margin-bottom: 20px;
     font-size: 35.64px;
     font-family: "Arial black", sans-serif; }
-    #content h1 .lead, body h1 .lead, #content h1.title .lead, body h1.title .lead {
+    #content h1 .lead, #content h1.title .lead {
       font-size: 39.6px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
-      #content h1, body h1, #content h1.title, body h1.title {
+      #content h1, #content h1.title {
         font-weight: bold;
         margin-bottom: 30px;
         font-size: 32.4px;
         font-family: "Arial black", sans-serif; }
-        #content h1 .lead, body h1 .lead, #content h1.title .lead, body h1.title .lead {
+        #content h1 .lead, #content h1.title .lead {
           font-size: 36px; } }
     @media (min-width: 1024px) {
-      #content h1, body h1, #content h1.title, body h1.title {
+      #content h1, #content h1.title {
         font-weight: bold;
         margin-bottom: 40px;
         font-size: 36px;
         font-family: "Arial black", sans-serif; }
-        #content h1 .lead, body h1 .lead, #content h1.title .lead, body h1.title .lead {
+        #content h1 .lead, #content h1.title .lead {
           font-size: 40px; } }
-  #content h2, body h2 {
+  #content h2 {
     font-weight: bold;
     margin-bottom: 20px;
     font-size: 31.68px;
     font-family: "Arial bold", sans-serif; }
-    #content h2 .lead, body h2 .lead {
+    #content h2 .lead {
       font-size: 35.64px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
-      #content h2, body h2 {
+      #content h2 {
         font-weight: bold;
         margin-bottom: 25px;
         font-size: 28.8px;
         font-family: "Arial bold", sans-serif; }
-        #content h2 .lead, body h2 .lead {
+        #content h2 .lead {
           font-size: 32.4px; } }
     @media (min-width: 1024px) {
-      #content h2, body h2 {
+      #content h2 {
         font-weight: bold;
         margin-bottom: 30px;
         font-size: 32px;
         font-family: "Arial bold", sans-serif; }
-        #content h2 .lead, body h2 .lead {
+        #content h2 .lead {
           font-size: 36px; } }
-  #content h3, body h3 {
+  #content h3 {
     font-weight: bold;
     margin-bottom: 17px;
     font-size: 27.72px;
     font-family: "Arial bold", sans-serif; }
-    #content h3 .lead, body h3 .lead {
+    #content h3 .lead {
       font-size: 31.68px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
-      #content h3, body h3 {
+      #content h3 {
         font-weight: bold;
         margin-bottom: 20px;
         font-size: 25.2px;
         font-family: "Arial bold", sans-serif; }
-        #content h3 .lead, body h3 .lead {
+        #content h3 .lead {
           font-size: 28.8px; } }
     @media (min-width: 1024px) {
-      #content h3, body h3 {
+      #content h3 {
         font-weight: bold;
         margin-bottom: 25px;
         font-size: 28px;
         font-family: "Arial bold", sans-serif; }
-        #content h3 .lead, body h3 .lead {
+        #content h3 .lead {
           font-size: 32px; } }
-  #content h4, body h4 {
+  #content h4 {
     font-weight: bold;
     margin-bottom: 14px;
     font-size: 21.78px;
     font-family: "Arial black", sans-serif; }
-    #content h4 .lead, body h4 .lead {
+    #content h4 .lead {
       font-size: 25.74px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
-      #content h4, body h4 {
+      #content h4 {
         font-weight: bold;
         margin-bottom: 15px;
         font-size: 19.8px;
         font-family: "Arial black", sans-serif; }
-        #content h4 .lead, body h4 .lead {
+        #content h4 .lead {
           font-size: 23.4px; } }
     @media (min-width: 1024px) {
-      #content h4, body h4 {
+      #content h4 {
         font-weight: bold;
         margin-bottom: 20px;
         font-size: 22px;
         font-family: "Arial black", sans-serif; }
-        #content h4 .lead, body h4 .lead {
+        #content h4 .lead {
           font-size: 26px; } }
-  #content h5, body h5 {
+  #content h5 {
     font-weight: bold;
     margin-bottom: 14px;
     font-size: 21.78px;
     font-family: "Arial bold", sans-serif; }
-    #content h5 .lead, body h5 .lead {
+    #content h5 .lead {
       font-size: 25.74px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
-      #content h5, body h5 {
+      #content h5 {
         font-weight: bold;
         margin-bottom: 15px;
         font-size: 19.8px;
         font-family: "Arial bold", sans-serif; }
-        #content h5 .lead, body h5 .lead {
+        #content h5 .lead {
           font-size: 23.4px; } }
     @media (min-width: 1024px) {
-      #content h5, body h5 {
+      #content h5 {
         font-weight: bold;
         margin-bottom: 20px;
         font-size: 22px;
         font-family: "Arial bold", sans-serif; }
-        #content h5 .lead, body h5 .lead {
+        #content h5 .lead {
           font-size: 26px; } }
-  #content h6, body h6, #content table tr th, body table tr #content th, body table tr th {
+  #content h6, #content table tr th {
     font-weight: bold;
     margin-bottom: 13px;
     font-size: 17.82px;
     font-family: "Arial black", sans-serif; }
-    #content h6 .lead, body h6 .lead, #content table tr th .lead, body table tr #content th .lead, body table tr th .lead {
+    #content h6 .lead, #content table tr th .lead {
       font-size: 23.76px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
-      #content h6, body h6, #content table tr th, body table tr #content th, body table tr th {
+      #content h6, #content table tr th {
         font-weight: bold;
         margin-bottom: 15px;
         font-size: 16.2px;
         font-family: "Arial black", sans-serif; }
-        #content h6 .lead, body h6 .lead, #content table tr th .lead, body table tr #content th .lead, body table tr th .lead {
+        #content h6 .lead, #content table tr th .lead {
           font-size: 21.6px; } }
     @media (min-width: 1024px) {
-      #content h6, body h6, #content table tr th, body table tr #content th, body table tr th {
+      #content h6, #content table tr th {
         font-weight: bold;
         margin-bottom: 20px;
         font-size: 18px;
         font-family: "Arial black", sans-serif; }
-        #content h6 .lead, body h6 .lead, #content table tr th .lead, body table tr #content th .lead, body table tr th .lead {
+        #content h6 .lead, #content table tr th .lead {
           font-size: 24px; } }
-  #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
+  #content p, #content blockquote, #content div.line {
     margin-bottom: 30px;
     font-size: 17.82px;
     font-family: Arial, sans-serif;
     zoom: 1; }
-    #content p.lead, body p.lead, #content blockquote.lead, body blockquote.lead, #content div.line.lead, body div.line.lead {
+    #content p.lead, #content blockquote.lead, #content div.line.lead {
       font-size: 26.73px; }
     @media (max-width: 639.98px) {
-      #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
+      #content p, #content blockquote, #content div.line {
         overflow-wrap: break-word; } }
     @media (min-width: 768px) and (max-width: 1023.98px) {
-      #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
+      #content p, #content blockquote, #content div.line {
         margin-bottom: 36px;
         font-size: 16.2px;
         font-family: Arial, sans-serif;
         zoom: 1; }
-        #content p.lead, body p.lead, #content blockquote.lead, body blockquote.lead, #content div.line.lead, body div.line.lead {
+        #content p.lead, #content blockquote.lead, #content div.line.lead {
           font-size: 24.3px; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
-    #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
+    #content p, #content blockquote, #content div.line {
       overflow-wrap: break-word; } }
     @media (min-width: 1024px) {
-      #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
+      #content p, #content blockquote, #content div.line {
         margin-bottom: 45px;
         font-size: 18px;
         font-family: Arial, sans-serif;
         zoom: 1; }
-        #content p.lead, body p.lead, #content blockquote.lead, body blockquote.lead, #content div.line.lead, body div.line.lead {
+        #content p.lead, #content blockquote.lead, #content div.line.lead {
           font-size: 27px; } }
   @media (min-width: 1024px) and (max-width: 639.98px) {
-    #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
+    #content p, #content blockquote, #content div.line {
       overflow-wrap: break-word; } }
-  #content img, body img {
+  #content img {
     margin-bottom: 1.5rem !important; }
-  #content figure, body figure, #content .imggroup, body .imggroup {
+  #content figure, #content .imggroup {
     width: 100%;
     margin-bottom: 30px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
-      #content figure, body figure, #content .imggroup, body .imggroup {
+      #content figure, #content .imggroup {
         margin-bottom: 36px; } }
     @media (min-width: 1024px) {
-      #content figure, body figure, #content .imggroup, body .imggroup {
+      #content figure, #content .imggroup {
         margin-bottom: 45px; } }
-    #content figure img, body figure img, #content .imggroup img, body .imggroup img {
+    #content figure img, #content .imggroup img {
       max-width: 100%; }
       @media (min-width: 768px) {
-        #content figure img, body figure img, #content .imggroup img, body .imggroup img {
+        #content figure img, #content .imggroup img {
           max-width: 70%; } }
-    #content figure figcaption, body figure figcaption, #content figure .caption, body figure .caption, #content .imggroup figcaption, body .imggroup figcaption, #content .imggroup .caption, body .imggroup .caption {
+    #content figure figcaption, #content figure .caption, #content .imggroup figcaption, #content .imggroup .caption {
       color: #212d39;
       min-height: 15px;
       margin-top: 15px; }
       @media (min-width: 768px) and (max-width: 1023.98px) {
-        #content figure figcaption, body figure figcaption, #content figure .caption, body figure .caption, #content .imggroup figcaption, body .imggroup figcaption, #content .imggroup .caption, body .imggroup .caption {
+        #content figure figcaption, #content figure .caption, #content .imggroup figcaption, #content .imggroup .caption {
           margin-top: 20px; } }
       @media (min-width: 1024px) {
-        #content figure figcaption, body figure figcaption, #content figure .caption, body figure .caption, #content .imggroup figcaption, body .imggroup figcaption, #content .imggroup .caption, body .imggroup .caption {
+        #content figure figcaption, #content figure .caption, #content .imggroup figcaption, #content .imggroup .caption {
           min-height: 25px; } }
-  #content table, body table {
+  #content table {
     color: #22313f;
     scrollbar-color: #B1C900;
     scrollbar-base-color: #fff; }
-    #content table thead, body table thead, #content table tbody, body table tbody, #content table tfoot, body table tfoot {
+    #content table thead, #content table tbody, #content table tfoot {
       width: 100%; }
-    #content table tr td, body table tr td {
+    #content table tr td {
       margin-bottom: 30px;
       font-size: 17.82px;
       font-family: Arial, sans-serif;
       zoom: 1;
       margin: 12px;
       overflow-wrap: normal !important; }
-      #content table tr td.lead, body table tr td.lead {
+      #content table tr td.lead {
         font-size: 26.73px; }
       @media (max-width: 639.98px) {
-        #content table tr td, body table tr td {
+        #content table tr td {
           overflow-wrap: break-word; } }
       @media (min-width: 768px) and (max-width: 1023.98px) {
-        #content table tr td, body table tr td {
+        #content table tr td {
           margin-bottom: 36px;
           font-size: 16.2px;
           font-family: Arial, sans-serif;
           zoom: 1;
           margin: 15px; }
-          #content table tr td.lead, body table tr td.lead {
+          #content table tr td.lead {
             font-size: 24.3px; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
-    #content table tr td, body table tr td {
+    #content table tr td {
       overflow-wrap: break-word; } }
       @media (min-width: 1024px) {
-        #content table tr td, body table tr td {
+        #content table tr td {
           margin-bottom: 45px;
           font-size: 18px;
           font-family: Arial, sans-serif;
           zoom: 1;
           margin: 20px; }
-          #content table tr td.lead, body table tr td.lead {
+          #content table tr td.lead {
             font-size: 27px; } }
   @media (min-width: 1024px) and (max-width: 639.98px) {
-    #content table tr td, body table tr td {
+    #content table tr td {
       overflow-wrap: break-word; } }
-    #content table caption, body table caption {
+    #content table caption {
       color: #212d39;
       margin: 12px;
       margin-bottom: 30px;
       font-size: 17.82px;
       font-family: Arial, sans-serif;
       zoom: 1; }
-      #content table caption.lead, body table caption.lead {
+      #content table caption.lead {
         font-size: 26.73px; }
       @media (max-width: 639.98px) {
-        #content table caption, body table caption {
+        #content table caption {
           overflow-wrap: break-word; } }
       @media (min-width: 768px) and (max-width: 1023.98px) {
-        #content table caption, body table caption {
+        #content table caption {
           margin: 15px;
           margin-bottom: 36px;
           font-size: 16.2px;
           font-family: Arial, sans-serif;
           zoom: 1; }
-          #content table caption.lead, body table caption.lead {
+          #content table caption.lead {
             font-size: 24.3px; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
-    #content table caption, body table caption {
+    #content table caption {
       overflow-wrap: break-word; } }
       @media (min-width: 1024px) {
-        #content table caption, body table caption {
+        #content table caption {
           margin: 20px;
           margin-bottom: 45px;
           font-size: 18px;
           font-family: Arial, sans-serif;
           zoom: 1; }
-          #content table caption.lead, body table caption.lead {
+          #content table caption.lead {
             font-size: 27px; } }
   @media (min-width: 1024px) and (max-width: 639.98px) {
-    #content table caption, body table caption {
+    #content table caption {
       overflow-wrap: break-word; } }
-    #content table.liste, body table.liste, #content table.imggroup, body table.imggroup {
+    #content table.liste, #content table.imggroup {
       border: none !important; }
-      #content table.liste tr td, body table.liste tr td, #content table.imggroup tr td, body table.imggroup tr td {
+      #content table.liste tr td, #content table.imggroup tr td {
         font-size: 17.82px; }
         @media (min-width: 768px) and (max-width: 1023.98px) {
-          #content table.liste tr td, body table.liste tr td, #content table.imggroup tr td, body table.imggroup tr td {
+          #content table.liste tr td, #content table.imggroup tr td {
             font-size: 16.2px; } }
         @media (min-width: 1024px) {
-          #content table.liste tr td, body table.liste tr td, #content table.imggroup tr td, body table.imggroup tr td {
+          #content table.liste tr td, #content table.imggroup tr td {
             font-size: 18px; } }
-  #content .generisk-ramme, body .generisk-ramme {
+  #content .generisk-ramme {
     color: #212d39 !important;
     background-color: #e4f0da !important;
     border: 1px solid #B1C900 !important;
@@ -4497,296 +4449,175 @@ body {
     font-size: 17.82px;
     font-family: Arial, sans-serif;
     zoom: 1; }
-    #content .generisk-ramme .sentence, body .generisk-ramme .sentence {
+    #content .generisk-ramme .sentence {
       color: inherit !important; }
     @media (min-width: 640px) and (max-width: 767.98px) {
-      #content .generisk-ramme, body .generisk-ramme {
+      #content .generisk-ramme {
         padding: 30px;
         margin-bottom: 36px; } }
     @media (min-width: 768px) {
-      #content .generisk-ramme, body .generisk-ramme {
+      #content .generisk-ramme {
         padding: 35px;
         margin-bottom: 45px; } }
     @media (max-width: 639.98px) {
-      #content .generisk-ramme, body .generisk-ramme {
+      #content .generisk-ramme {
         overflow-wrap: break-word; } }
-    #content .generisk-ramme.lead, body .generisk-ramme.lead {
+    #content .generisk-ramme.lead {
       font-size: 26.73px; }
     @media (max-width: 639.98px) {
-      #content .generisk-ramme, body .generisk-ramme {
+      #content .generisk-ramme {
         overflow-wrap: break-word; } }
     @media (min-width: 768px) and (max-width: 1023.98px) {
-      #content .generisk-ramme, body .generisk-ramme {
+      #content .generisk-ramme {
         margin-bottom: 36px;
         font-size: 16.2px;
         font-family: Arial, sans-serif;
         zoom: 1; }
-        #content .generisk-ramme.lead, body .generisk-ramme.lead {
+        #content .generisk-ramme.lead {
           font-size: 24.3px; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
-    #content .generisk-ramme, body .generisk-ramme {
+    #content .generisk-ramme {
       overflow-wrap: break-word; } }
     @media (min-width: 1024px) {
-      #content .generisk-ramme, body .generisk-ramme {
+      #content .generisk-ramme {
         margin-bottom: 45px;
         font-size: 18px;
         font-family: Arial, sans-serif;
         zoom: 1; }
-        #content .generisk-ramme.lead, body .generisk-ramme.lead {
+        #content .generisk-ramme.lead {
           font-size: 27px; } }
   @media (min-width: 1024px) and (max-width: 639.98px) {
-    #content .generisk-ramme, body .generisk-ramme {
+    #content .generisk-ramme {
       overflow-wrap: break-word; } }
-  #content .ramme, body .ramme {
+  #content .ramme {
     border-radius: 5px;
     padding: 20px;
     margin-bottom: 30px; }
-    #content .ramme .sentence, body .ramme .sentence {
+    #content .ramme .sentence {
       color: inherit !important; }
     @media (min-width: 640px) and (max-width: 767.98px) {
-      #content .ramme, body .ramme {
+      #content .ramme {
         padding: 30px;
         margin-bottom: 36px; } }
     @media (min-width: 768px) {
-      #content .ramme, body .ramme {
+      #content .ramme {
         padding: 35px;
         margin-bottom: 45px; } }
-    #content .ramme.bg-red, body .ramme.bg-red {
+    #content .ramme.bg-red {
       color: #212d39 !important;
       background-color: #f0dae4 !important;
       border: 1px solid #bd5b87 !important; }
-    #content .ramme.bg-blue, body .ramme.bg-blue, #content div.language-html, body div.language-html {
+    #content .ramme.bg-blue {
       color: #212d39 !important;
       background-color: #dae4f0 !important;
       border: 1px solid #5b87bd !important; }
-    #content .ramme.bg-yellow, body .ramme.bg-yellow {
+    #content .ramme.bg-yellow {
       color: #212d39 !important;
       background-color: #eff0da !important;
       border: 1px solid #b8bd5b !important; }
-  #content table.liste, body table.liste, #content ul, body ul, #content ol, body ol {
+  #content table.liste, #content ul, #content ol {
     font-size: 17.82px;
     margin-bottom: 30px;
     margin-left: 18px; }
     @media (min-width: 640px) and (max-width: 767.98px) {
-      #content table.liste, body table.liste, #content ul, body ul, #content ol, body ol {
+      #content table.liste, #content ul, #content ol {
         font-size: 17.82px;
         margin-bottom: 30px;
         margin-left: 20px; } }
     @media (min-width: 768px) and (max-width: 1023.98px) {
-      #content table.liste, body table.liste, #content ul, body ul, #content ol, body ol {
+      #content table.liste, #content ul, #content ol {
         font-size: 16.2px;
         margin-bottom: 36px;
         margin-left: 25px; } }
     @media (min-width: 1024px) {
-      #content table.liste, body table.liste, #content ul, body ul, #content ol, body ol {
+      #content table.liste, #content ul, #content ol {
         font-size: 18px;
         margin-bottom: 45px;
         margin-left: 25px; } }
-    #content table.liste .listepunkt-punktmerke-innhold, body table.liste .listepunkt-punktmerke-innhold, #content table.liste li, body table.liste li, #content ul .listepunkt-punktmerke-innhold, body ul .listepunkt-punktmerke-innhold, #content ul li, body ul li, #content ol .listepunkt-punktmerke-innhold, body ol .listepunkt-punktmerke-innhold, #content ol li, body ol li {
+    #content table.liste .listepunkt-punktmerke-innhold, #content table.liste li, #content ul .listepunkt-punktmerke-innhold, #content ul li, #content ol .listepunkt-punktmerke-innhold, #content ol li {
       margin-bottom: 16px;
       margin-left: 20px; }
       @media (min-width: 640px) and (max-width: 767.98px) {
-        #content table.liste .listepunkt-punktmerke-innhold, body table.liste .listepunkt-punktmerke-innhold, #content table.liste li, body table.liste li, #content ul .listepunkt-punktmerke-innhold, body ul .listepunkt-punktmerke-innhold, #content ul li, body ul li, #content ol .listepunkt-punktmerke-innhold, body ol .listepunkt-punktmerke-innhold, #content ol li, body ol li {
+        #content table.liste .listepunkt-punktmerke-innhold, #content table.liste li, #content ul .listepunkt-punktmerke-innhold, #content ul li, #content ol .listepunkt-punktmerke-innhold, #content ol li {
           margin-bottom: 20px; } }
       @media (min-width: 768px) {
-        #content table.liste .listepunkt-punktmerke-innhold, body table.liste .listepunkt-punktmerke-innhold, #content table.liste li, body table.liste li, #content ul .listepunkt-punktmerke-innhold, body ul .listepunkt-punktmerke-innhold, #content ul li, body ul li, #content ol .listepunkt-punktmerke-innhold, body ol .listepunkt-punktmerke-innhold, #content ol li, body ol li {
+        #content table.liste .listepunkt-punktmerke-innhold, #content table.liste li, #content ul .listepunkt-punktmerke-innhold, #content ul li, #content ol .listepunkt-punktmerke-innhold, #content ol li {
           margin-bottom: 24px; } }
-  #content ul, body ul {
+  #content ul {
     padding-inline-start: 0; }
-    #content ul li, body ul li {
+    #content ul li {
       margin-left: 0; }
-    #content ul.plain, body ul.plain {
+    #content ul.plain {
       list-style-type: none; }
-  #content .ordliste dl dt, body .ordliste dl dt {
+  #content .ordliste dl dt {
     margin-bottom: 30px;
     font-size: 17.82px;
     font-family: Arial, sans-serif;
     zoom: 1; }
-    #content .ordliste dl dt.lead, body .ordliste dl dt.lead {
+    #content .ordliste dl dt.lead {
       font-size: 26.73px; }
     @media (max-width: 639.98px) {
-      #content .ordliste dl dt, body .ordliste dl dt {
+      #content .ordliste dl dt {
         overflow-wrap: break-word; } }
     @media (min-width: 640px) and (max-width: 767.98px) {
-      #content .ordliste dl dt, body .ordliste dl dt {
+      #content .ordliste dl dt {
         margin-bottom: 36px;
         font-size: 16.2px;
         font-family: Arial, sans-serif;
         zoom: 1; }
-        #content .ordliste dl dt.lead, body .ordliste dl dt.lead {
+        #content .ordliste dl dt.lead {
           font-size: 24.3px; } }
   @media (min-width: 640px) and (max-width: 767.98px) and (max-width: 639.98px) {
-    #content .ordliste dl dt, body .ordliste dl dt {
+    #content .ordliste dl dt {
       overflow-wrap: break-word; } }
     @media (min-width: 768px) {
-      #content .ordliste dl dt, body .ordliste dl dt {
+      #content .ordliste dl dt {
         margin-bottom: 45px;
         font-size: 18px;
         font-family: Arial, sans-serif;
         zoom: 1; }
-        #content .ordliste dl dt.lead, body .ordliste dl dt.lead {
+        #content .ordliste dl dt.lead {
           font-size: 27px; } }
   @media (min-width: 768px) and (max-width: 639.98px) {
-    #content .ordliste dl dt, body .ordliste dl dt {
+    #content .ordliste dl dt {
       overflow-wrap: break-word; } }
 
 /* End Core.SCSS */
-/* Begin DarkTheme.SCSS */
-body.theme__dark #toc_container .toc_container__wrapper,
-body.theme__dark #content .content__wrapper,
-body.theme__dark body .content__wrapper,
-body.theme__dark .page__list-wrapper {
-  border-color: #fff; }
-
-body.theme__dark #toc_container,
-body.theme__dark #page-list,
-body.theme__dark #book_header {
-  background-color: #2a3a49;
-  border-color: #fff; }
-
-body.theme__dark #toc_container a:hover,
-body.theme__dark #page-list a:hover {
-  background: #E9FD59 !important;
-  color: #212d39 !important; }
-
-body.theme__dark #toc_container .intro {
-  background-color: #2a3a49; }
-
-body.theme__dark #toc_container .toc_container__wrapper,
-body.theme__dark #toc_container .intro,
-body.theme__dark #toc_container,
-body.theme__dark #content .content__wrapper,
-body.theme__dark body .content__wrapper,
-body.theme__dark .page__list-wrapper,
-body.theme__dark .content__wrapper,
-body.theme__dark ::-webkit-scrollbar-track {
-  border-color: #fff; }
-
-body.theme__dark input[type="range"] {
-  background-image: -webkit-gradient(linear, left top, right top, color-stop(0.3, #B1C900), color-stop(0.3, #506d8a)); }
-
-body.theme__dark input[type='range']::-webkit-slider-thumb {
-  background-color: #fff;
-  border: 0.2vh solid #fff; }
-
-body.theme__dark input[type='range']::-moz-range-thumb {
-  background-color: #fff;
-  border: 0.2vh solid #fff;
-  height: 1.2vh;
-  width: 1.2vh;
-  border-radius: 50%; }
-
-body.theme__dark .header__right-2 {
-  color: #fff; }
-
-body.theme__dark #skippability span,
-body.theme__dark #Avspillingshastighet_main span,
-body.theme__dark header .header__right-2 span {
-  color: #2a3a49; }
-
-body.theme__dark .progress-container {
-  background-color: #fff;
-  border: 1px solid #fff; }
-
-body.theme__dark .progress-bar {
-  background-color: #212d39; }
-
-body.theme__dark #play_button {
-  background-color: #fff; }
-
-#content.theme__dark, body.theme__dark {
-  border-color: #fff;
-  /* Frames
-     * ---------------------------------------------------------- */
-  /* Tables
-     * ---------------------------------------------------------- */ }
-  #content.theme__dark a:hover, body.theme__dark a:hover,
-  #content.theme__dark .rbPausedFragment,
-  body.theme__dark .rbPausedFragment,
-  #content.theme__dark .rbActiveFragment,
-  body.theme__dark .rbActiveFragment {
-    background: #E9FD59 !important;
-    color: #212d39 !important; }
-  @media (max-width: 767.98px) {
-    #content.theme__dark, body.theme__dark {
-      border: 1px solid #000; } }
-  #content.theme__dark .generisk-ramme, body.theme__dark .generisk-ramme {
-    color: #fff !important;
-    background-color: #2b3a48 !important;
-    border: 1px solid #bcbec0 !important;
-    border-radius: 5px;
-    padding: 20px;
-    margin-bottom: 30px; }
-    #content.theme__dark .generisk-ramme .sentence, body.theme__dark .generisk-ramme .sentence {
-      color: inherit !important; }
-    @media (min-width: 640px) and (max-width: 767.98px) {
-      #content.theme__dark .generisk-ramme, body.theme__dark .generisk-ramme {
-        padding: 30px;
-        margin-bottom: 36px; } }
-    @media (min-width: 768px) {
-      #content.theme__dark .generisk-ramme, body.theme__dark .generisk-ramme {
-        padding: 35px;
-        margin-bottom: 45px; } }
-  #content.theme__dark .ramme, body.theme__dark .ramme {
-    color: #fff !important;
-    background-color: #2b3a48 !important;
-    border: 1px solid #bcbec0 !important;
-    border-radius: 5px;
-    padding: 20px;
-    margin-bottom: 30px; }
-    #content.theme__dark .ramme .sentence, body.theme__dark .ramme .sentence {
-      color: inherit !important; }
-    @media (min-width: 640px) and (max-width: 767.98px) {
-      #content.theme__dark .ramme, body.theme__dark .ramme {
-        padding: 30px;
-        margin-bottom: 36px; } }
-    @media (min-width: 768px) {
-      #content.theme__dark .ramme, body.theme__dark .ramme {
-        padding: 35px;
-        margin-bottom: 45px; } }
-    #content.theme__dark .ramme.bg-red, body.theme__dark .ramme.bg-red {
-      color: #fff !important;
-      background-color: #482b3a !important;
-      border: 1px solid #ae7794 !important; }
-    #content.theme__dark .ramme.bg-blue, body.theme__dark .ramme.bg-blue, #content.theme__dark div.language-html, body.theme__dark div.language-html {
-      color: #fff !important;
-      background-color: #486178 !important;
-      border: 1px solid #a8bacb !important; }
-    #content.theme__dark .ramme.bg-yellow, body.theme__dark .ramme.bg-yellow {
-      color: #fff !important;
-      background-color: #48392b !important;
-      border: 1px solid #ae9277 !important; }
-  #content.theme__dark table, body.theme__dark table {
-    background-color: inherit !important; }
-    #content.theme__dark table ul, body.theme__dark table ul {
-      padding-inline-start: 0; }
-      #content.theme__dark table ul li, body.theme__dark table ul li {
-        margin-left: 0; }
-
-/* End DarkTheme.SCSS */
+/* Begin Ncc.SCSS */
 body {
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
-  max-width: 320px; }
-  @media (min-width: 640px) {
+  max-width: 100%;
+  padding-right: 20px;
+  padding-left: 20px; }
+  @media (min-width: 640px) and (max-width: 767.98px) {
     body {
-      max-width: 600px; } }
-  @media (min-width: 768px) {
+      padding-right: 45px;
+      padding-left: 45px; } }
+  @media (min-width: 768px) and (max-width: 1023.98px) {
     body {
-      max-width: 678px; } }
+      padding-right: 70px;
+      padding-left: 70px; } }
   @media (min-width: 1024px) {
     body {
-      max-width: 884px; } }
-  @media (min-width: 1200px) {
-    body {
-      max-width: 1060px; } }
+      padding-right: 70px;
+      padding-left: 70px; } }
 
-div.language-html {
-  padding: 20px 5px 5px 5px !important;
-  border-color: transparent !important;
-  margin-bottom: 1.5rem !important; }
+h1 :hover, h2 :hover, h3 :hover, h4 :hover, h5 :hover, h6 :hover, #content table tr th :hover {
+  color: #000;
+  text-decoration: none; }
 
-/*# sourceMappingURL=styles.css.map */
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, #content table tr th a {
+  color: #000; }
+
+.page-normal,
+.page-special,
+.page-front {
+  margin: 20px; }
+
+/* End Ncc.SCSS */
+
+/*# sourceMappingURL=ncc.css.map */

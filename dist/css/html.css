@@ -1,4 +1,4 @@
-/*! Documentation CSS */
+/*! Html Fulltext CSS */
 /*! NLB Stylesheets | v1.0.0 */
 /* Begin Core.SCSS */
 /* Imports
@@ -365,7 +365,7 @@ h1, h2, h3, h4, h5, h6, #content table tr th, body table tr th {
   margin-top: 0;
   margin-bottom: 0.75rem; }
 
-p, #content blockquote, body blockquote {
+p, #content blockquote, body blockquote, body div.oppgaver-li-oppgavetekst, body div.underoppgaver-li-oppgavetekst, body div.docauthor {
   margin-top: 0;
   margin-bottom: 1rem; }
 
@@ -676,31 +676,12 @@ button.bg-dark:hover,
 button.bg-dark:focus {
   background-color: #0e1419 !important; }
 
-.bg-night, body.theme__dark, body.theme__dark #toc_container .toc_container__wrapper,
-body.theme__dark #content .content__wrapper,
-body.theme__dark body .content__wrapper,
-body.theme__dark .page__list-wrapper, #content.theme__dark {
+.bg-night {
   background-color: #212d39 !important; }
 
-a.bg-night:hover, body.theme__dark #toc_container a.toc_container__wrapper:hover,
-body.theme__dark #content a.content__wrapper:hover,
-body.theme__dark body a.content__wrapper:hover,
-body.theme__dark a.page__list-wrapper:hover, a#content.theme__dark:hover, a.bg-night:focus, body.theme__dark #toc_container a.toc_container__wrapper:focus,
-body.theme__dark #content a.content__wrapper:focus,
-body.theme__dark body a.content__wrapper:focus,
-body.theme__dark a.page__list-wrapper:focus, a#content.theme__dark:focus,
+a.bg-night:hover, a.bg-night:focus,
 button.bg-night:hover,
-body.theme__dark #toc_container button.toc_container__wrapper:hover,
-body.theme__dark #content button.content__wrapper:hover,
-body.theme__dark body button.content__wrapper:hover,
-body.theme__dark button.page__list-wrapper:hover,
-button#content.theme__dark:hover,
-button.bg-night:focus,
-body.theme__dark #toc_container button.toc_container__wrapper:focus,
-body.theme__dark #content button.content__wrapper:focus,
-body.theme__dark body button.content__wrapper:focus,
-body.theme__dark button.page__list-wrapper:focus,
-button#content.theme__dark:focus {
+button.bg-night:focus {
   background-color: #0e1419 !important; }
 
 .bg-pure-yellow {
@@ -1549,7 +1530,21 @@ body .page-special {
   margin: 0 !important; }
 
 .mt-0,
-.my-0 {
+.my-0,
+body .colophon p,
+body .colophon #content blockquote,
+#content body .colophon blockquote,
+body .colophon blockquote,
+body .colophon div.oppgaver-li-oppgavetekst,
+body .colophon div.underoppgaver-li-oppgavetekst,
+body .colophon div.docauthor,
+body [*|type="colophon"] p,
+body [*|type="colophon"] #content blockquote,
+#content body [*|type="colophon"] blockquote,
+body [*|type="colophon"] blockquote,
+body [*|type="colophon"] div.oppgaver-li-oppgavetekst,
+body [*|type="colophon"] div.underoppgaver-li-oppgavetekst,
+body [*|type="colophon"] div.docauthor {
   margin-top: 0 !important; }
 
 .mr-0,
@@ -1557,7 +1552,21 @@ body .page-special {
   margin-right: 0 !important; }
 
 .mb-0,
-.my-0 {
+.my-0,
+body .colophon p,
+body .colophon #content blockquote,
+#content body .colophon blockquote,
+body .colophon blockquote,
+body .colophon div.oppgaver-li-oppgavetekst,
+body .colophon div.underoppgaver-li-oppgavetekst,
+body .colophon div.docauthor,
+body [*|type="colophon"] p,
+body [*|type="colophon"] #content blockquote,
+#content body [*|type="colophon"] blockquote,
+body [*|type="colophon"] blockquote,
+body [*|type="colophon"] div.oppgaver-li-oppgavetekst,
+body [*|type="colophon"] div.underoppgaver-li-oppgavetekst,
+body [*|type="colophon"] div.docauthor {
   margin-bottom: 0 !important; }
 
 .ml-0,
@@ -3051,16 +3060,58 @@ a.text-warning:hover, a.text-warning:focus {
 a.text-danger:hover, a.text-danger:focus {
   color: #a71d2a !important; }
 
-.text-light, body.theme__dark, body.theme__dark #hjelpknapp a, body.theme__dark p, body.theme__dark #content blockquote, #content body.theme__dark blockquote, body.theme__dark blockquote, body.theme__dark a, body.theme__dark h1, body.theme__dark h2, body.theme__dark h3, body.theme__dark h4, body.theme__dark h5, body.theme__dark h6, body.theme__dark #content table tr th, #content table tr body.theme__dark th, body.theme__dark table tr th, #content.theme__dark, #content.theme__dark span.sentence, body.theme__dark span.sentence, #content.theme__dark table, body.theme__dark table {
+.text-light {
   color: #f8f9fa; }
 
-a.text-light:hover, body.theme__dark #hjelpknapp a:hover, body.theme__dark a:hover, a#content.theme__dark:hover, a.text-light:focus, body.theme__dark #hjelpknapp a:focus, body.theme__dark a:focus, a#content.theme__dark:focus {
+a.text-light:hover, a.text-light:focus {
   color: #cbd3da !important; }
 
-.text-dark, body {
+.text-dark, body, body span.sentence a,
+body span.lic a,
+body span.page-normal a,
+body span.page-special a,
+body h1 a, body h2 a, body h3 a, body h4 a, body h5 a, body h6 a, body #content table tr th a, #content table tr body th a, body table tr th a,
+body div.doctitle a,
+body div.docauthor a,
+body div.imggroup div.caption a,
+body table tr td a,
+body ul a,
+body p a,
+body #content blockquote a, #content body blockquote a,
+body blockquote a,
+body div.oppgaver-li-oppgavetekst a,
+body div.underoppgaver-li-oppgavetekst a {
   color: #212d39; }
 
-a.text-dark:hover, a.text-dark:focus {
+a.text-dark:hover, body span.sentence a:hover,
+body span.lic a:hover,
+body span.page-normal a:hover,
+body span.page-special a:hover,
+body h1 a:hover, body h2 a:hover, body h3 a:hover, body h4 a:hover, body h5 a:hover, body h6 a:hover, body #content table tr th a:hover, #content table tr body th a:hover, body table tr th a:hover,
+body div.doctitle a:hover,
+body div.docauthor a:hover,
+body div.imggroup div.caption a:hover,
+body table tr td a:hover,
+body ul a:hover,
+body p a:hover,
+body #content blockquote a:hover, #content body blockquote a:hover,
+body blockquote a:hover,
+body div.oppgaver-li-oppgavetekst a:hover,
+body div.underoppgaver-li-oppgavetekst a:hover, a.text-dark:focus, body span.sentence a:focus,
+body span.lic a:focus,
+body span.page-normal a:focus,
+body span.page-special a:focus,
+body h1 a:focus, body h2 a:focus, body h3 a:focus, body h4 a:focus, body h5 a:focus, body h6 a:focus, body #content table tr th a:focus, #content table tr body th a:focus, body table tr th a:focus,
+body div.doctitle a:focus,
+body div.docauthor a:focus,
+body div.imggroup div.caption a:focus,
+body table tr td a:focus,
+body ul a:focus,
+body p a:focus,
+body #content blockquote a:focus, #content body blockquote a:focus,
+body blockquote a:focus,
+body div.oppgaver-li-oppgavetekst a:focus,
+body div.underoppgaver-li-oppgavetekst a:focus {
   color: #050709 !important; }
 
 .text-night {
@@ -3215,7 +3266,7 @@ mark,
   font-size: 90%;
   text-transform: uppercase; }
 
-.blockquote, #content blockquote, body blockquote {
+.blockquote, #content blockquote, body blockquote, body div.produsent {
   margin-bottom: 1.5rem;
   font-size: 1.25rem; }
 
@@ -4077,7 +4128,7 @@ body table.imggroup tbody + tbody {
   .table-hover .table-active:hover > th {
     background-color: rgba(0, 0, 0, 0.075); }
 
-.table .thead-dark th, #content table .thead-dark th, body table .thead-dark th, body table.liste .thead-dark th, body table.imggroup .thead-dark th, #content.theme__dark table thead th, .table body.theme__dark table thead th, body.theme__dark table .table thead th, #content body.theme__dark table thead th, body.theme__dark #content table thead th, body.theme__dark table thead th, body.theme__dark table.liste thead th, body.theme__dark table.imggroup thead th {
+.table .thead-dark th, #content table .thead-dark th, body table .thead-dark th, body table.liste .thead-dark th, body table.imggroup .thead-dark th {
   color: #fff;
   background-color: #343a40;
   border-color: #454d55; }
@@ -4138,12 +4189,12 @@ body table.imggroup tbody + tbody {
     .table-responsive-xl > .table-bordered {
       border: 0; } }
 
-.table-responsive, #content table, body table, #content table.liste, body table.liste, #content table.imggroup, body table.imggroup, #content.theme__dark table, body.theme__dark table {
+.table-responsive, #content table, body table, #content table.liste, body table.liste, #content table.imggroup, body table.imggroup {
   display: block;
   width: 100%;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch; }
-  .table-responsive > .table-bordered, #content table > .table-bordered, body table > .table-bordered, body table.liste > .table-bordered, body table.imggroup > .table-bordered, body.theme__dark table > .table-bordered {
+  .table-responsive > .table-bordered, #content table > .table-bordered, body table > .table-bordered, body table.liste > .table-bordered, body table.imggroup > .table-bordered {
     border: 0; }
 
 /* General styles
@@ -4179,7 +4230,7 @@ body {
   #content .noteref, body .noteref {
     vertical-align: super;
     font-size: 0.6em; }
-  #content .rearnotes .notebody p, body .rearnotes .notebody p, #content .rearnotes .notebody blockquote, body .rearnotes .notebody #content blockquote, body .rearnotes .notebody blockquote {
+  #content .rearnotes .notebody p, body .rearnotes .notebody p, #content .rearnotes .notebody blockquote, body .rearnotes .notebody #content blockquote, body .rearnotes .notebody blockquote, #content .rearnotes .notebody body div.oppgaver-li-oppgavetekst, body #content .rearnotes .notebody div.oppgaver-li-oppgavetekst, body .rearnotes .notebody div.oppgaver-li-oppgavetekst, #content .rearnotes .notebody body div.underoppgaver-li-oppgavetekst, body #content .rearnotes .notebody div.underoppgaver-li-oppgavetekst, body .rearnotes .notebody div.underoppgaver-li-oppgavetekst, #content .rearnotes .notebody body div.docauthor, body #content .rearnotes .notebody div.docauthor, body .rearnotes .notebody div.docauthor {
     display: block;
     padding: 15px 20px;
     border-top: 1px solid #B1C900;
@@ -4340,37 +4391,37 @@ body {
         font-family: "Arial black", sans-serif; }
         #content h6 .lead, body h6 .lead, #content table tr th .lead, body table tr #content th .lead, body table tr th .lead {
           font-size: 24px; } }
-  #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
+  #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content body div.oppgaver-li-oppgavetekst, body #content div.oppgaver-li-oppgavetekst, body div.oppgaver-li-oppgavetekst, #content body div.underoppgaver-li-oppgavetekst, body #content div.underoppgaver-li-oppgavetekst, body div.underoppgaver-li-oppgavetekst, #content body div.docauthor, body #content div.docauthor, body div.docauthor, #content div.line, body div.line {
     margin-bottom: 30px;
     font-size: 17.82px;
     font-family: Arial, sans-serif;
     zoom: 1; }
-    #content p.lead, body p.lead, #content blockquote.lead, body blockquote.lead, #content div.line.lead, body div.line.lead {
+    #content p.lead, body p.lead, #content blockquote.lead, body blockquote.lead, #content body div.lead.oppgaver-li-oppgavetekst, body #content div.lead.oppgaver-li-oppgavetekst, body div.lead.oppgaver-li-oppgavetekst, #content body div.lead.underoppgaver-li-oppgavetekst, body #content div.lead.underoppgaver-li-oppgavetekst, body div.lead.underoppgaver-li-oppgavetekst, #content body div.lead.docauthor, body #content div.lead.docauthor, body div.lead.docauthor, #content div.line.lead, body div.line.lead {
       font-size: 26.73px; }
     @media (max-width: 639.98px) {
-      #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
+      #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content body div.oppgaver-li-oppgavetekst, body #content div.oppgaver-li-oppgavetekst, body div.oppgaver-li-oppgavetekst, #content body div.underoppgaver-li-oppgavetekst, body #content div.underoppgaver-li-oppgavetekst, body div.underoppgaver-li-oppgavetekst, #content body div.docauthor, body #content div.docauthor, body div.docauthor, #content div.line, body div.line {
         overflow-wrap: break-word; } }
     @media (min-width: 768px) and (max-width: 1023.98px) {
-      #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
+      #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content body div.oppgaver-li-oppgavetekst, body #content div.oppgaver-li-oppgavetekst, body div.oppgaver-li-oppgavetekst, #content body div.underoppgaver-li-oppgavetekst, body #content div.underoppgaver-li-oppgavetekst, body div.underoppgaver-li-oppgavetekst, #content body div.docauthor, body #content div.docauthor, body div.docauthor, #content div.line, body div.line {
         margin-bottom: 36px;
         font-size: 16.2px;
         font-family: Arial, sans-serif;
         zoom: 1; }
-        #content p.lead, body p.lead, #content blockquote.lead, body blockquote.lead, #content div.line.lead, body div.line.lead {
+        #content p.lead, body p.lead, #content blockquote.lead, body blockquote.lead, #content body div.lead.oppgaver-li-oppgavetekst, body #content div.lead.oppgaver-li-oppgavetekst, body div.lead.oppgaver-li-oppgavetekst, #content body div.lead.underoppgaver-li-oppgavetekst, body #content div.lead.underoppgaver-li-oppgavetekst, body div.lead.underoppgaver-li-oppgavetekst, #content body div.lead.docauthor, body #content div.lead.docauthor, body div.lead.docauthor, #content div.line.lead, body div.line.lead {
           font-size: 24.3px; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
-    #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
+    #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content body div.oppgaver-li-oppgavetekst, body #content div.oppgaver-li-oppgavetekst, body div.oppgaver-li-oppgavetekst, #content body div.underoppgaver-li-oppgavetekst, body #content div.underoppgaver-li-oppgavetekst, body div.underoppgaver-li-oppgavetekst, #content body div.docauthor, body #content div.docauthor, body div.docauthor, #content div.line, body div.line {
       overflow-wrap: break-word; } }
     @media (min-width: 1024px) {
-      #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
+      #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content body div.oppgaver-li-oppgavetekst, body #content div.oppgaver-li-oppgavetekst, body div.oppgaver-li-oppgavetekst, #content body div.underoppgaver-li-oppgavetekst, body #content div.underoppgaver-li-oppgavetekst, body div.underoppgaver-li-oppgavetekst, #content body div.docauthor, body #content div.docauthor, body div.docauthor, #content div.line, body div.line {
         margin-bottom: 45px;
         font-size: 18px;
         font-family: Arial, sans-serif;
         zoom: 1; }
-        #content p.lead, body p.lead, #content blockquote.lead, body blockquote.lead, #content div.line.lead, body div.line.lead {
+        #content p.lead, body p.lead, #content blockquote.lead, body blockquote.lead, #content body div.lead.oppgaver-li-oppgavetekst, body #content div.lead.oppgaver-li-oppgavetekst, body div.lead.oppgaver-li-oppgavetekst, #content body div.lead.underoppgaver-li-oppgavetekst, body #content div.lead.underoppgaver-li-oppgavetekst, body div.lead.underoppgaver-li-oppgavetekst, #content body div.lead.docauthor, body #content div.lead.docauthor, body div.lead.docauthor, #content div.line.lead, body div.line.lead {
           font-size: 27px; } }
   @media (min-width: 1024px) and (max-width: 639.98px) {
-    #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
+    #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content body div.oppgaver-li-oppgavetekst, body #content div.oppgaver-li-oppgavetekst, body div.oppgaver-li-oppgavetekst, #content body div.underoppgaver-li-oppgavetekst, body #content div.underoppgaver-li-oppgavetekst, body div.underoppgaver-li-oppgavetekst, #content body div.docauthor, body #content div.docauthor, body div.docauthor, #content div.line, body div.line {
       overflow-wrap: break-word; } }
   #content img, body img {
     margin-bottom: 1.5rem !important; }
@@ -4555,7 +4606,7 @@ body {
       color: #212d39 !important;
       background-color: #f0dae4 !important;
       border: 1px solid #bd5b87 !important; }
-    #content .ramme.bg-blue, body .ramme.bg-blue, #content div.language-html, body div.language-html {
+    #content .ramme.bg-blue, body .ramme.bg-blue {
       color: #212d39 !important;
       background-color: #dae4f0 !important;
       border: 1px solid #5b87bd !important; }
@@ -4631,162 +4682,65 @@ body {
       overflow-wrap: break-word; } }
 
 /* End Core.SCSS */
-/* Begin DarkTheme.SCSS */
-body.theme__dark #toc_container .toc_container__wrapper,
-body.theme__dark #content .content__wrapper,
-body.theme__dark body .content__wrapper,
-body.theme__dark .page__list-wrapper {
-  border-color: #fff; }
-
-body.theme__dark #toc_container,
-body.theme__dark #page-list,
-body.theme__dark #book_header {
-  background-color: #2a3a49;
-  border-color: #fff; }
-
-body.theme__dark #toc_container a:hover,
-body.theme__dark #page-list a:hover {
-  background: #E9FD59 !important;
-  color: #212d39 !important; }
-
-body.theme__dark #toc_container .intro {
-  background-color: #2a3a49; }
-
-body.theme__dark #toc_container .toc_container__wrapper,
-body.theme__dark #toc_container .intro,
-body.theme__dark #toc_container,
-body.theme__dark #content .content__wrapper,
-body.theme__dark body .content__wrapper,
-body.theme__dark .page__list-wrapper,
-body.theme__dark .content__wrapper,
-body.theme__dark ::-webkit-scrollbar-track {
-  border-color: #fff; }
-
-body.theme__dark input[type="range"] {
-  background-image: -webkit-gradient(linear, left top, right top, color-stop(0.3, #B1C900), color-stop(0.3, #506d8a)); }
-
-body.theme__dark input[type='range']::-webkit-slider-thumb {
-  background-color: #fff;
-  border: 0.2vh solid #fff; }
-
-body.theme__dark input[type='range']::-moz-range-thumb {
-  background-color: #fff;
-  border: 0.2vh solid #fff;
-  height: 1.2vh;
-  width: 1.2vh;
-  border-radius: 50%; }
-
-body.theme__dark .header__right-2 {
-  color: #fff; }
-
-body.theme__dark #skippability span,
-body.theme__dark #Avspillingshastighet_main span,
-body.theme__dark header .header__right-2 span {
-  color: #2a3a49; }
-
-body.theme__dark .progress-container {
-  background-color: #fff;
-  border: 1px solid #fff; }
-
-body.theme__dark .progress-bar {
-  background-color: #212d39; }
-
-body.theme__dark #play_button {
-  background-color: #fff; }
-
-#content.theme__dark, body.theme__dark {
-  border-color: #fff;
-  /* Frames
-     * ---------------------------------------------------------- */
-  /* Tables
-     * ---------------------------------------------------------- */ }
-  #content.theme__dark a:hover, body.theme__dark a:hover,
-  #content.theme__dark .rbPausedFragment,
-  body.theme__dark .rbPausedFragment,
-  #content.theme__dark .rbActiveFragment,
-  body.theme__dark .rbActiveFragment {
-    background: #E9FD59 !important;
-    color: #212d39 !important; }
-  @media (max-width: 767.98px) {
-    #content.theme__dark, body.theme__dark {
-      border: 1px solid #000; } }
-  #content.theme__dark .generisk-ramme, body.theme__dark .generisk-ramme {
-    color: #fff !important;
-    background-color: #2b3a48 !important;
-    border: 1px solid #bcbec0 !important;
-    border-radius: 5px;
-    padding: 20px;
-    margin-bottom: 30px; }
-    #content.theme__dark .generisk-ramme .sentence, body.theme__dark .generisk-ramme .sentence {
-      color: inherit !important; }
-    @media (min-width: 640px) and (max-width: 767.98px) {
-      #content.theme__dark .generisk-ramme, body.theme__dark .generisk-ramme {
-        padding: 30px;
-        margin-bottom: 36px; } }
-    @media (min-width: 768px) {
-      #content.theme__dark .generisk-ramme, body.theme__dark .generisk-ramme {
-        padding: 35px;
-        margin-bottom: 45px; } }
-  #content.theme__dark .ramme, body.theme__dark .ramme {
-    color: #fff !important;
-    background-color: #2b3a48 !important;
-    border: 1px solid #bcbec0 !important;
-    border-radius: 5px;
-    padding: 20px;
-    margin-bottom: 30px; }
-    #content.theme__dark .ramme .sentence, body.theme__dark .ramme .sentence {
-      color: inherit !important; }
-    @media (min-width: 640px) and (max-width: 767.98px) {
-      #content.theme__dark .ramme, body.theme__dark .ramme {
-        padding: 30px;
-        margin-bottom: 36px; } }
-    @media (min-width: 768px) {
-      #content.theme__dark .ramme, body.theme__dark .ramme {
-        padding: 35px;
-        margin-bottom: 45px; } }
-    #content.theme__dark .ramme.bg-red, body.theme__dark .ramme.bg-red {
-      color: #fff !important;
-      background-color: #482b3a !important;
-      border: 1px solid #ae7794 !important; }
-    #content.theme__dark .ramme.bg-blue, body.theme__dark .ramme.bg-blue, #content.theme__dark div.language-html, body.theme__dark div.language-html {
-      color: #fff !important;
-      background-color: #486178 !important;
-      border: 1px solid #a8bacb !important; }
-    #content.theme__dark .ramme.bg-yellow, body.theme__dark .ramme.bg-yellow {
-      color: #fff !important;
-      background-color: #48392b !important;
-      border: 1px solid #ae9277 !important; }
-  #content.theme__dark table, body.theme__dark table {
-    background-color: inherit !important; }
-    #content.theme__dark table ul, body.theme__dark table ul {
-      padding-inline-start: 0; }
-      #content.theme__dark table ul li, body.theme__dark table ul li {
-        margin-left: 0; }
-
-/* End DarkTheme.SCSS */
+/* Begin Html.SCSS */
 body {
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
-  margin-left: auto;
-  max-width: 320px; }
-  @media (min-width: 640px) {
-    body {
-      max-width: 600px; } }
-  @media (min-width: 768px) {
-    body {
-      max-width: 678px; } }
-  @media (min-width: 1024px) {
-    body {
-      max-width: 884px; } }
-  @media (min-width: 1200px) {
-    body {
-      max-width: 1060px; } }
+  margin-left: auto; }
+  body .colophon .precedingemptyline, body [*|type="colophon"] .precedingemptyline {
+    margin-top: 1.5rem !important; }
+  body .page-front, body .pagenum {
+    display: none !important; }
+  body span.sentence,
+  body span.lic,
+  body span.page-normal,
+  body span.page-special,
+  body h1, body h2, body h3, body h4, body h5, body h6, body #content table tr th, #content table tr body th, body table tr th,
+  body div.doctitle,
+  body div.docauthor,
+  body div.imggroup div.caption,
+  body table tr td,
+  body ul,
+  body p,
+  body #content blockquote,
+  #content body blockquote,
+  body blockquote,
+  body div.oppgaver-li-oppgavetekst,
+  body div.underoppgaver-li-oppgavetekst,
+  body div.docauthor {
+    background-color: inherit; }
+    body span.sentence a:hover,
+    body span.lic a:hover,
+    body span.page-normal a:hover,
+    body span.page-special a:hover,
+    body h1 a:hover, body h2 a:hover, body h3 a:hover, body h4 a:hover, body h5 a:hover, body h6 a:hover, body #content table tr th a:hover, #content table tr body th a:hover, body table tr th a:hover,
+    body div.doctitle a:hover,
+    body div.docauthor a:hover,
+    body div.imggroup div.caption a:hover,
+    body table tr td a:hover,
+    body ul a:hover,
+    body p a:hover,
+    body #content blockquote a:hover,
+    #content body blockquote a:hover,
+    body blockquote a:hover,
+    body div.oppgaver-li-oppgavetekst a:hover,
+    body div.underoppgaver-li-oppgavetekst a:hover,
+    body div.docauthor a:hover {
+      background-color: #ff0;
+      text-decoration: none; }
+  body ul.plain, body ul.pl {
+    list-style-type: none; }
+  body .start-info {
+    margin-bottom: 30px; }
+    @media (min-width: 640px) and (max-width: 767.98px) {
+      body .start-info {
+        margin-bottom: 36px; } }
+    @media (min-width: 768px) {
+      body .start-info {
+        margin-bottom: 45px; } }
 
-div.language-html {
-  padding: 20px 5px 5px 5px !important;
-  border-color: transparent !important;
-  margin-bottom: 1.5rem !important; }
+/* End Html.SCSS */
 
-/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=html.css.map */

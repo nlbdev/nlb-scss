@@ -222,10 +222,6 @@ body {
         color: $table-default-text;
         scrollbar-color: $scrollbar-default-marker;
         scrollbar-base-color: $white;
-    
-        @include media-breakpoint-down('md') {
-            @extend .table-bordered;
-        }
         
         thead, tbody, tfoot {
             width: 100%;
