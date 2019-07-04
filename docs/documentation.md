@@ -14,16 +14,16 @@ NLB, {{ 'now' | date: "%Y" }}
 
 ## Installasjon
 
-- **NCC**: 
-  - Filen [ncc.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.0.0/ncc.min.css) må omdøpes til `default.css` og kopieres inn i rotmappen.
+- **NCC**:
+  - Filen [ncc.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.0.1/ncc.min.css) må omdøpes til `default.css` og kopieres inn i rotmappen.
   - I `ncc.html` må det lenkes til `default.css` i hodet på filen `<link rel="stylesheet" type="text/css" href="default.css"/>`
-- **Lydbok med tekst**: 
-  - Filen [html.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.0.0/html.min.css) må omdøpes til `default.css` og kopieres inn i rotmappen.
+- **Lydbok med tekst**:
+  - Filen [html.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.0.1/html.min.css) må omdøpes til `default.css` og kopieres inn i rotmappen.
   - I hovedfilen må det lenkes til `default.css` i hodet på filen `<link rel="stylesheet" type="text/css" href="default.css"/>`
-- **Nettleserbok**: 
-  - Filene `js_style.css` og `rb_smil_emulator.js` slettes fra boken. 
-  - I hodet på `_nettleserbok.html` slettes referansene til CSS, og det må legges inn `<link rel="stylesheet" type="text/css" href="nettleserbok.min.css"/>`. 
-  - Filen [nettleserbok.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.0.0/nettleserbok.min.css) og [rb_smil_emulator.js](https://github.com/nlbdev/nlb-scss/releases/download/v1.0.0/rb_smil_emulator.js) må kopieres inn i rotmappen.
+- **Nettleserbok**:
+  - Filene `js_style.css` og `rb_smil_emulator.js` slettes fra boken.
+  - I hodet på `_nettleserbok.html` slettes referansene til CSS, og det må legges inn `<link rel="stylesheet" type="text/css" href="nettleserbok.min.css"/>`.
+  - Filen [nettleserbok.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.0.1/nettleserbok.min.css) og [rb_smil_emulator.js](https://github.com/nlbdev/nlb-scss/releases/download/v1.0.1/rb_smil_emulator.js) må kopieres inn i rotmappen.
 
 ### Krav til HTML
 
