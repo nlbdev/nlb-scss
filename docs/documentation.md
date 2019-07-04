@@ -35,7 +35,8 @@ Siste versjon finnes på: [GitHub](https://github.com/nlbdev/nlb-scss/releases)
 
 ## Endringslogg
 
-v1.0.0 - 
+- v1.0.0: Init
+- v1.0.1: Endringer på tabeller, kantlinjefarge, størrelse.
 
 ## Dokumentasjon
 
