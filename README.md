@@ -1,6 +1,10 @@
-# nlb-scss
+# NLB Stylesheets
 
-> NLB SCSS using Grunt
+> A project to standarize and normalize stylesheets used in digital books, following guidelines on usability and accessibility for the visually impaired and dyslectics.
+
+[Documentation (in Norwegian)](https://nlbdev.github.io/nlb-scss/)
+
+## Developer installation
 
 1. Install [NodeJS](https://nodejs.org/en/)
 2. Install Grunt with npm: `npm i -g grunt yarn` (run in command-line at the root folder)
