@@ -1,21 +1,21 @@
 {
-  "name": "scss-example",
-  "version": "1.0.0",
-  "description": "NLB SCSS Example",
+  "name": "nlb-scss",
+  "version": "1.0.1",
+  "description": "NLB SCSS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nlbdev/scss-example.git"
+    "url": "git+https://github.com/nlbdev/nlb-scss.git"
   },
   "author": "nlbdev",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nlbdev/scss-example/issues"
+    "url": "https://github.com/nlbdev/nlb-scss/issues"
   },
-  "homepage": "https://github.com/nlbdev/scss-example#readme",
+  "homepage": "https://github.com/nlbdev/nlb-scss#readme",
   "dependencies": {
     "autoprefixer": "^9.6.0",
     "bootstrap": "^4.3.1",
