@@ -4401,16 +4401,20 @@ body {
   #content table, body table {
     color: #22313f;
     scrollbar-color: #B1C900;
-    scrollbar-base-color: #fff; }
+    scrollbar-base-color: #fff;
+    border-left: 1px solid #90989f; }
     #content table thead, body table thead, #content table tbody, body table tbody, #content table tfoot, body table tfoot {
       width: 100%; }
+    #content table tr, body table tr {
+      border-bottom: 1px solid #90989f; }
     #content table tr td, body table tr td {
       margin-bottom: 30px;
       font-size: 17.82px;
       font-family: Arial, sans-serif;
       zoom: 1;
       margin: 12px;
-      overflow-wrap: normal !important; }
+      overflow-wrap: normal !important;
+      border-right: 1px solid #90989f; }
       #content table tr td.lead, body table tr td.lead {
         font-size: 26.73px; }
       @media (max-width: 639.98px) {
