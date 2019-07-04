@@ -231,13 +231,14 @@ body {
         thead {
             @extend .thead-light;
         }
-        
+
         tr {
             border-bottom: 1px solid $table-default-line;
         }
 
         tr th {
             @extend h6;
+            border-right: 1px solid $table-default-line;
         }
 
         tr td {

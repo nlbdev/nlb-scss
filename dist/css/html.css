@@ -4458,6 +4458,8 @@ body {
       width: 100%; }
     #content table tr, body table tr {
       border-bottom: 1px solid #90989f; }
+    #content table tr th, body table tr th {
+      border-right: 1px solid #90989f; }
     #content table tr td, body table tr td {
       margin-bottom: 30px;
       font-size: 17.82px;
