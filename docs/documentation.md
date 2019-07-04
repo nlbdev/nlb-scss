@@ -87,7 +87,7 @@ p | Arial | 18px | 27px
 
 ### Ramme
 
-Alle rammer må ha `ramme`-klassen, tilleggsklasser angir bakgrunnsfarge, tekstfarge og linjefarge.
+Alle rammer må ha `ramme`-klassen, tilleggsklasser angir bakgrunnsfarge og tekstfarge.
 
 - Hovedklasse: `generisk-ramme`
 
@@ -151,4 +151,98 @@ Alle rammer må ha `ramme`-klassen, tilleggsklasser angir bakgrunnsfarge, tekstf
 
 ### Tabell
 
+Tabeller kodes på følgende måte:
+
+```html
+<table>
+    <thead>
+        <tr>
+            <th>Fornavn</th>
+            <th>Etternavn</th>
+            <th>Alder</th>
+            <th>Poststed</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Ola</td>
+            <td>Normann</td>
+            <td>43</td>
+            <td>Oslo</td>
+        </tr>
+        <tr>
+            <td>Kari</td>
+            <td>Normann</td>
+            <td>53</td>
+            <td>Oslo</td>
+        </tr>
+        <tr>
+            <td>Per</td>
+            <td>Normann</td>
+            <td>24</td>
+            <td>Oslo</td>
+        </tr>
+        <tr>
+            <td>Pål</td>
+            <td>Normann</td>
+            <td>25</td>
+            <td>Oslo</td>
+        </tr>
+        <tr>
+            <td>Espen</td>
+            <td>Normann</td>
+            <td>17</td>
+            <td>Oslo</td>
+        </tr>
+    </tbody>
+</table>
+```
+
+Som vil se slik ut:
+
+<table>
+    <thead>
+        <tr>
+            <th>Fornavn</th>
+            <th>Etternavn</th>
+            <th>Alder</th>
+            <th>Poststed</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Ola</td>
+            <td>Normann</td>
+            <td>43</td>
+            <td>Oslo</td>
+        </tr>
+        <tr>
+            <td>Kari</td>
+            <td>Normann</td>
+            <td>53</td>
+            <td>Oslo</td>
+        </tr>
+        <tr>
+            <td>Per</td>
+            <td>Normann</td>
+            <td>24</td>
+            <td>Oslo</td>
+        </tr>
+        <tr>
+            <td>Pål</td>
+            <td>Normann</td>
+            <td>25</td>
+            <td>Oslo</td>
+        </tr>
+        <tr>
+            <td>Espen</td>
+            <td>Normann</td>
+            <td>17</td>
+            <td>Oslo</td>
+        </tr>
+    </tbody>
+</table>
+
 ### Usortert og sortert liste
+
+### Bilder
