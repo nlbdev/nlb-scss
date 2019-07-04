@@ -11,6 +11,7 @@ body {
 }
 
 div.language-html {
-    @include nlb-frame();
-    @include nlb-color($frame-blue-bg, darken($frame-blue-bg, 35%), $dark);
+    @extend .ramme.bg-blue;
+    padding: 20px 5px 5px 5px !important;
+    border: none !important;
 }

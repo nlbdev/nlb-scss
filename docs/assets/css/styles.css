@@ -4559,7 +4559,7 @@ body {
       color: #212d39 !important;
       background-color: #f0dae4 !important;
       border: 1px solid #bd5b87 !important; }
-    #content .ramme.bg-blue, body .ramme.bg-blue {
+    #content .ramme.bg-blue, body .ramme.bg-blue, #content div.language-html, body div.language-html {
       color: #212d39 !important;
       background-color: #dae4f0 !important;
       border: 1px solid #5b87bd !important; }
@@ -4752,7 +4752,7 @@ body.theme__dark #play_button {
       color: #fff !important;
       background-color: #482b3a !important;
       border: 1px solid #ae7794 !important; }
-    #content.theme__dark .ramme.bg-blue, body.theme__dark .ramme.bg-blue {
+    #content.theme__dark .ramme.bg-blue, body.theme__dark .ramme.bg-blue, #content.theme__dark div.language-html, body.theme__dark div.language-html {
       color: #fff !important;
       background-color: #486178 !important;
       border: 1px solid #a8bacb !important; }
@@ -4789,21 +4789,7 @@ body {
       max-width: 1060px; } }
 
 div.language-html {
-  border-radius: 5px;
-  padding: 20px;
-  margin-bottom: 30px;
-  color: #212d39 !important;
-  background-color: #dae4f0 !important;
-  border: 1px solid #5b87bd !important; }
-  div.language-html .sentence {
-    color: inherit !important; }
-  @media (min-width: 640px) and (max-width: 767.98px) {
-    div.language-html {
-      padding: 30px;
-      margin-bottom: 36px; } }
-  @media (min-width: 768px) {
-    div.language-html {
-      padding: 35px;
-      margin-bottom: 45px; } }
+  padding: 20px 5px 5px 5px !important;
+  border: none !important; }
 
 /*# sourceMappingURL=styles.css.map */
