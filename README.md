@@ -1,6 +1,6 @@
 # NLB Stylesheets
 
-> A project to standarize and normalize stylesheets used in digital books, following guidelines on usability and accessibility for the visually impaired and dyslectics.
+> A project to standarize and normalize stylesheets used in digital books, following guidelines on usability and accessibility for the visually impaired and dyslectics. 
 
 [Documentation (in Norwegian)](https://nlbdev.github.io/nlb-scss/)
 

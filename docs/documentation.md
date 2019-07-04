@@ -1,10 +1,11 @@
 # NLB Stilark
 
 Det er utviklet et standarisert og normalisert stilark, som følger brukervennlighet og tilgjengelighetskrav satt av synshemmede (Statped) og dyslektikere (Dysleksi Norge).
+Stilarkene er utviklet av NLB, med hjelp fra Seeds på design. Kildekoden er lisensiert med MIT lisens, som gir deg som utvikler full frihet hvis du ønsker å bygge videre på koden vi har utviklet.
 
 Denne siden er en demo på stilarket for lydbøker med tekst.
 
-[Light mode](https://nlbdev.github.io/nlb-scss/) | [Dark mode](https://nlbdev.github.io/nlb-scss/dark)
+Trykk for [Dagmodus](https://nlbdev.github.io/nlb-scss/) eller [Nattmodus](https://nlbdev.github.io/nlb-scss/dark)
 
 ## Installasjon
 
