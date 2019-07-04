@@ -8,9 +8,9 @@ Denne siden er en demo på stilarket for lydbøker med tekst.
 
 Trykk for [Dagmodus](https://nlbdev.github.io/nlb-scss/) eller [Nattmodus](https://nlbdev.github.io/nlb-scss/dark)
 
-![NLB Logo](assets/images/NLB_logo.svg "NLB Logo")
-
 NLB, {{ 'now' | date: "%Y" }}
+
+![NLB Logo](assets/images/NLB_logo.svg "NLB Logo")
 
 ## Installasjon
 
@@ -32,9 +32,11 @@ Siste versjon finnes på: [GitHub](https://github.com/nlbdev/nlb-scss/releases)
 
 `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>`
 
-Farge: [#22313F](https://www.colorhexa.com/22313f)
+Farge
 
-Farge Nattmodus: [#f8f9fa](https://www.colorhexa.com/f8f9fa)
+Dagmodus | Nattmodus
+--- | ---
+[#22313F](https://www.colorhexa.com/22313f) | [#f8f9fa](https://www.colorhexa.com/f8f9fa)
 
 #### SM (0-639px)
 
@@ -73,9 +75,11 @@ h6 | Arial black | 18px | 24px
 
 `<p>`
 
-Farge: [#22313F](https://www.colorhexa.com/22313f)
+Farge
 
-Farge Nattmodus: [#f8f9fa](https://www.colorhexa.com/f8f9fa)
+Dagmodus | Nattmodus
+--- | ---
+[#22313F](https://www.colorhexa.com/22313f) | [#f8f9fa](https://www.colorhexa.com/f8f9fa)
 
 #### SM (0-639px)
 
@@ -322,3 +326,67 @@ For bilder bruker du følgende kode:
         <li>Sub-element</li>
     </ul>
 </ul>
+
+### Fotnoter
+
+Fotnoter merkes av med klassen `noteref` og attributtet `bodyref` refererer til id for dertilhørende fotnote, se eksempel under.
+
+```html
+<p>
+    Lorem<span class="noteref" bodyref="#ref1">1</span> ipsum<span class="noteref" bodyref="#ref2">2</span>
+</p>
+
+<div class="notebody" id="ref1">
+    <p>1. fotnote</p>
+</div>
+<div class="notebody" id="ref2">
+    <p>2. fotnote</p>
+</div>
+```
+
+<p>
+    Lorem<span class="noteref" bodyref="#ref1">1</span> ipsum<span class="noteref" bodyref="#ref2">2</span>
+</p>
+
+<div class="notebody" id="ref1">
+    <p>1. fotnote</p>
+</div>
+<div class="notebody" id="ref2">
+    <p>2. fotnote</p>
+</div>
+
+### Sidetall
+
+Sidetall merkes av med klassene `sidetall`, `page-front`, `page-normal` og `page-special`.
+
+```html
+<div class="sidetall">
+    <span class="page-normal">
+        <span>18</span>
+    </span>
+</div>
+```
+
+<div class="sidetall">
+    <span class="page-normal">
+        <span>18</span>
+    </span>
+</div>
+
+### Prodnoter
+
+Produksjonsnotater er bare synlig for skjermlesere.
+
+```html
+<div class="prodnote-optional">
+    <span class="optional-prodnote">
+        <span>Produksjonstekst</span>
+    </span>
+</div>
+```
+
+<div class="prodnote-optional">
+    <span class="optional-prodnote">
+        <span>Produksjonstekst</span>
+    </span>
+</div>
