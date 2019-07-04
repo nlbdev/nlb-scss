@@ -8,6 +8,8 @@ Denne siden er en demo på stilarket for lydbøker med tekst.
 
 Trykk for [Dagmodus](https://nlbdev.github.io/nlb-scss/) eller [Nattmodus](https://nlbdev.github.io/nlb-scss/dark)
 
+![NLB Logo](assets/images/NLB_logo.svg "NLB Logo")
+
 ## Installasjon
 
 - **NCC**: Filen [ncc.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.0.0/ncc.min.css) må omdøpes til `default.css` og i `ncc.html` må det lenkes til `default.css` i hodet på filen `<link rel="stylesheet" type="text/css" href="default.css"/>`
@@ -165,7 +167,9 @@ Tekstfarge: | [#f8f9fa](https://www.colorhexa.com/f8f9fa)
 
 ### Bilder
 
-
+```html
+<img src="..." alt="..." />
+```
 
 ### Tabell
 
