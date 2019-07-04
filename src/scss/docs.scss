@@ -9,3 +9,8 @@ body {
     @include make-container-max-widths();
     @extend #content;
 }
+
+div.language-html {
+    @include nlb-frame();
+    @include nlb-color($frame-blue-bg, darken($frame-blue-bg, 35%), $dark);
+}

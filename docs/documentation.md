@@ -161,6 +161,11 @@ Tekstfarge: | [#f8f9fa](https://www.colorhexa.com/f8f9fa)
 ```
 
 <div class="bg-dark text-light">Eksempel</div>
+<div>&nbsp;</div>
+
+### Bilder
+
+
 
 ### Tabell
 
@@ -257,5 +262,3 @@ Som vil se slik ut:
 </table>
 
 ### Usortert og sortert liste
-
-### Bilder
