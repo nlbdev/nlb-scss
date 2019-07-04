@@ -2,13 +2,15 @@
 
 Det er utviklet et standarisert og normalisert stilark, som følger brukervennlighet og tilgjengelighetskrav satt av synshemmede (Statped) og dyslektikere (Dysleksi Norge).
 
-Stilarkene er utviklet av NLB, med hjelp fra Seeds på design. Kildekoden er lisensiert med MIT lisens, som gir deg som utvikler full frihet hvis du ønsker å bygge videre på koden vi har utviklet.
+Stilarkene er utviklet av NLB, med hjelp fra Seeds på design. Kildekoden er lisensiert med MIT lisens, som gir deg som utvikler full frihet hvis du ønsker å bygge videre på koden vi har utviklet. Det eneste vi ber om er at du nevner oss i deres dokumentasjon.
 
 Denne siden er en demo på stilarket for lydbøker med tekst.
 
 Trykk for [Dagmodus](https://nlbdev.github.io/nlb-scss/) eller [Nattmodus](https://nlbdev.github.io/nlb-scss/dark)
 
 ![NLB Logo](assets/images/NLB_logo.svg "NLB Logo")
+
+NLB, {{ 'now' | date: "%Y" }}
 
 ## Installasjon
 
@@ -153,6 +155,7 @@ Tekstfarge: | [#212d39](https://www.colorhexa.com/212d39)
 ```
 
 <div class="bg-light text-dark">Eksempel</div>
+<div>&nbsp;</div>
 
 Tekstfarge: Lys | `text-light`
 --- | ---:
@@ -167,14 +170,14 @@ Tekstfarge: | [#f8f9fa](https://www.colorhexa.com/f8f9fa)
 
 ### Bilder
 
+For bilder bruker du følgende kode:
+
 ```html
-<img src="..." alt="..." />
+<img src="..." alt="..." title="..." />
 ```
 
 ### Tabell
 
-Tabeller kodes på følgende måte:
-
 ```html
 <table>
     <thead>
@@ -220,8 +223,6 @@ Tabeller kodes på følgende måte:
 </table>
 ```
 
-Som vil se slik ut:
-
 <table>
     <thead>
         <tr>
@@ -265,4 +266,54 @@ Som vil se slik ut:
     </tbody>
 </table>
 
-### Usortert og sortert liste
+### Sortert liste
+
+```html
+<ol>
+    <li>Element</li>
+    <li>Element</li>
+    <li>Element</li>
+    <li>Element</li>
+    <ol>
+        <li>Sub-element</li>
+        <li>Sub-element</li>
+    </ol>
+</ol>
+```
+
+<ol>
+    <li>Element</li>
+    <li>Element</li>
+    <li>Element</li>
+    <li>Element</li>
+    <ol>
+        <li>Sub-element</li>
+        <li>Sub-element</li>
+    </ol>
+</ol>
+
+### Usortert liste
+
+```html
+<ul>
+    <li>Element</li>
+    <li>Element</li>
+    <li>Element</li>
+    <li>Element</li>
+    <ul>
+        <li>Sub-element</li>
+        <li>Sub-element</li>
+    </ul>
+</ul>
+```
+
+<ul>
+    <li>Element</li>
+    <li>Element</li>
+    <li>Element</li>
+    <li>Element</li>
+    <ul>
+        <li>Sub-element</li>
+        <li>Sub-element</li>
+    </ul>
+</ul>
