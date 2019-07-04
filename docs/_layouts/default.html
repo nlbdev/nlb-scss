@@ -2,9 +2,12 @@
 <html lang="{{ page.lang | default: site.lang | default: "no" }}">
   {%- include head.html -%}
   </head>
+  {%- if page.style == 'night' -%}
+  <body class="theme__dark">
+  {%- else -%}
   <body>
-    <div class="container">
-      {%- include header.html -%}
+  {%- endif -%}
+    <div class="container-fluid">
       <main>
         {{ content }}
       </main>
