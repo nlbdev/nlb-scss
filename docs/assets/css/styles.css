@@ -4407,7 +4407,8 @@ body {
     scrollbar-color: #B1C900;
     scrollbar-base-color: #fff; }
     #content table thead, body table thead, #content table tbody, body table tbody, #content table tfoot, body table tfoot {
-      width: 100%; }
+      width: 100%;
+      display: table; }
     #content table tr td, body table tr td {
       margin-bottom: 30px;
       font-size: 17.82px;

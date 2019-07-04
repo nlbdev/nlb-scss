@@ -4373,7 +4373,8 @@ body {
     scrollbar-color: #B1C900;
     scrollbar-base-color: #fff; }
     #content table thead, #content table tbody, #content table tfoot {
-      width: 100%; }
+      width: 100%;
+      display: table; }
     #content table tr td {
       margin-bottom: 30px;
       font-size: 17.82px;
