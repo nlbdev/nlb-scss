@@ -1,9 +1,9 @@
 ---
 layout: default
 title: NLB Stilark
-style: dark
+style: night
 
 lang: nb_NO
 ---
 
-{% include_relative index.md %}
+{% include_relative documentation.md %}

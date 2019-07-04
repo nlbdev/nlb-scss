@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="{{ page.lang | default: site.lang | default: "no" }}">
+<html lang="{{ page.lang | default: site.lang | default: "nb_NO" }}">
   {%- include head.html -%}
   </head>
   {%- if page.style == 'night' -%}
@@ -7,11 +7,9 @@
   {%- else -%}
   <body>
   {%- endif -%}
-    <div class="container-fluid">
-      <main>
-        {{ content }}
-      </main>
-      {%- include footer.html -%}
-    </div>
+    <main>
+      {{ content }}
+    </main>
+    {%- include footer.html -%}
   </body>
 </html>
