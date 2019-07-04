@@ -4712,9 +4712,6 @@ body.theme__dark #play_button {
   body.theme__dark .rbActiveFragment {
     background: #E9FD59 !important;
     color: #212d39 !important; }
-  @media (max-width: 767.98px) {
-    #content.theme__dark, body.theme__dark {
-      border: 1px solid #000; } }
   #content.theme__dark .generisk-ramme, body.theme__dark .generisk-ramme {
     color: #fff !important;
     background-color: #2b3a48 !important;
