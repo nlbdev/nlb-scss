@@ -226,35 +226,33 @@ body {
         
         thead, tbody, tfoot {
             width: 100%;
+            border-bottom: 1px solid $table-default-line;
         }
     
         thead {
             @extend .thead-light;
         }
 
-        tr {
-            border-bottom: 1px solid $table-default-line;
-        }
-
-        tr th {
-            @extend h6;
-            border-right: 1px solid $table-default-line;
-        }
-
-        tr td {
-            @include nlb-set-paragraph-font($nlb-p-margin-bottom-sm, $nlb-p-font-size-sm, $nlb-p-font-size-lead-sm);
-            margin: 12px;
-            overflow-wrap: normal !important;
-            border-right: 1px solid $table-default-line;
-        
-            @include media-breakpoint-only('md') {
-                @include nlb-set-paragraph-font($nlb-p-margin-bottom-md, $nlb-p-font-size-md, $nlb-p-font-size-lead-md);
-                margin: 15px;
+        thead tr, tbody tr, tfoot tr {
+            th {
+                @extend h6;
+                border-right: 1px solid $table-default-line;
             }
-        
-            @include media-breakpoint-up('lg') {
-                @include nlb-set-paragraph-font($nlb-p-margin-bottom-lg, $nlb-p-font-size-lg, $nlb-p-font-size-lead-lg);
-                margin: 20px;
+            td {
+                @include nlb-set-paragraph-font($nlb-p-margin-bottom-sm, $nlb-p-font-size-sm, $nlb-p-font-size-lead-sm);
+                margin: 12px;
+                overflow-wrap: normal !important;
+                border-right: 1px solid $table-default-line;
+            
+                @include media-breakpoint-only('md') {
+                    @include nlb-set-paragraph-font($nlb-p-margin-bottom-md, $nlb-p-font-size-md, $nlb-p-font-size-lead-md);
+                    margin: 15px;
+                }
+            
+                @include media-breakpoint-up('lg') {
+                    @include nlb-set-paragraph-font($nlb-p-margin-bottom-lg, $nlb-p-font-size-lg, $nlb-p-font-size-lead-lg);
+                    margin: 20px;
+                }
             }
         }
 

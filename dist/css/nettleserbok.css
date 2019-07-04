@@ -361,7 +361,7 @@ hr {
   height: 0;
   overflow: visible; }
 
-h1, h2, h3, h4, h5, h6, #content table tr th {
+h1, h2, h3, h4, h5, h6, #content table thead tr th, #content table tbody tr th, #content table tfoot tr th {
   margin-top: 0;
   margin-bottom: 0.75rem; }
 
@@ -3028,7 +3028,7 @@ a.text-warning:hover, a.text-warning:focus {
 a.text-danger:hover, a.text-danger:focus {
   color: #a71d2a !important; }
 
-.text-light, body.theme__dark, body.theme__dark #hjelpknapp a, body.theme__dark p, body.theme__dark #content blockquote, #content body.theme__dark blockquote, body.theme__dark a, body.theme__dark h1, body.theme__dark h2, body.theme__dark h3, body.theme__dark h4, body.theme__dark h5, body.theme__dark h6, body.theme__dark #content table tr th, #content table tr body.theme__dark th, #content.theme__dark, #content.theme__dark span.sentence, #content.theme__dark table {
+.text-light, body.theme__dark, body.theme__dark #hjelpknapp a, body.theme__dark p, body.theme__dark #content blockquote, #content body.theme__dark blockquote, body.theme__dark a, body.theme__dark h1, body.theme__dark h2, body.theme__dark h3, body.theme__dark h4, body.theme__dark h5, body.theme__dark h6, body.theme__dark #content table thead tr th, #content table thead tr body.theme__dark th, body.theme__dark #content table tbody tr th, #content table tbody tr body.theme__dark th, body.theme__dark #content table tfoot tr th, #content table tfoot tr body.theme__dark th, #content.theme__dark, #content.theme__dark span.sentence, #content.theme__dark table {
   color: #f8f9fa; }
 
 a.text-light:hover, body.theme__dark #hjelpknapp a:hover, body.theme__dark a:hover, a#content.theme__dark:hover, a.text-light:focus, body.theme__dark #hjelpknapp a:focus, body.theme__dark a:focus, a#content.theme__dark:focus {
@@ -3089,7 +3089,7 @@ body.fullscreen #page-list,
 body.fullscreen #toc_container {
   visibility: hidden !important; }
 
-h1, h2, h3, h4, h5, h6, #content table tr th,
+h1, h2, h3, h4, h5, h6, #content table thead tr th, #content table tbody tr th, #content table tfoot tr th,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-bottom: 0.75rem;
   font-weight: 500;
@@ -3122,7 +3122,7 @@ h4, .h4 {
 h5, .h5 {
   font-size: 1.25rem; }
 
-h6, #content table tr th, .h6 {
+h6, #content table thead tr th, #content table tbody tr th, #content table tfoot tr th, .h6 {
   font-size: 1rem; }
 
 .lead {
@@ -4285,28 +4285,28 @@ body {
         font-family: "Arial bold", sans-serif; }
         #content h5 .lead {
           font-size: 26px; } }
-  #content h6, #content table tr th {
+  #content h6, #content table thead tr th, #content table tbody tr th, #content table tfoot tr th {
     font-weight: bold;
     margin-bottom: 13px;
     font-size: 17.82px;
     font-family: "Arial black", sans-serif; }
-    #content h6 .lead, #content table tr th .lead {
+    #content h6 .lead, #content table thead tr th .lead, #content table tbody tr th .lead, #content table tfoot tr th .lead {
       font-size: 23.76px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
-      #content h6, #content table tr th {
+      #content h6, #content table thead tr th, #content table tbody tr th, #content table tfoot tr th {
         font-weight: bold;
         margin-bottom: 15px;
         font-size: 16.2px;
         font-family: "Arial black", sans-serif; }
-        #content h6 .lead, #content table tr th .lead {
+        #content h6 .lead, #content table thead tr th .lead, #content table tbody tr th .lead, #content table tfoot tr th .lead {
           font-size: 21.6px; } }
     @media (min-width: 1024px) {
-      #content h6, #content table tr th {
+      #content h6, #content table thead tr th, #content table tbody tr th, #content table tfoot tr th {
         font-weight: bold;
         margin-bottom: 20px;
         font-size: 18px;
         font-family: "Arial black", sans-serif; }
-        #content h6 .lead, #content table tr th .lead {
+        #content h6 .lead, #content table thead tr th .lead, #content table tbody tr th .lead, #content table tfoot tr th .lead {
           font-size: 24px; } }
   #content p, #content blockquote, #content div.line {
     margin-bottom: 30px;
@@ -4372,12 +4372,11 @@ body {
     scrollbar-base-color: #fff;
     border-left: 1px solid #90989f; }
     #content table thead, #content table tbody, #content table tfoot {
-      width: 100%; }
-    #content table tr {
+      width: 100%;
       border-bottom: 1px solid #90989f; }
-    #content table tr th {
+    #content table thead tr th, #content table tbody tr th, #content table tfoot tr th {
       border-right: 1px solid #90989f; }
-    #content table tr td {
+    #content table thead tr td, #content table tbody tr td, #content table tfoot tr td {
       margin-bottom: 30px;
       font-size: 17.82px;
       font-family: Arial, sans-serif;
@@ -4385,34 +4384,34 @@ body {
       margin: 12px;
       overflow-wrap: normal !important;
       border-right: 1px solid #90989f; }
-      #content table tr td.lead {
+      #content table thead tr td.lead, #content table tbody tr td.lead, #content table tfoot tr td.lead {
         font-size: 26.73px; }
       @media (max-width: 639.98px) {
-        #content table tr td {
+        #content table thead tr td, #content table tbody tr td, #content table tfoot tr td {
           overflow-wrap: break-word; } }
       @media (min-width: 768px) and (max-width: 1023.98px) {
-        #content table tr td {
+        #content table thead tr td, #content table tbody tr td, #content table tfoot tr td {
           margin-bottom: 36px;
           font-size: 16.2px;
           font-family: Arial, sans-serif;
           zoom: 1;
           margin: 15px; }
-          #content table tr td.lead {
+          #content table thead tr td.lead, #content table tbody tr td.lead, #content table tfoot tr td.lead {
             font-size: 24.3px; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
-    #content table tr td {
+    #content table thead tr td, #content table tbody tr td, #content table tfoot tr td {
       overflow-wrap: break-word; } }
       @media (min-width: 1024px) {
-        #content table tr td {
+        #content table thead tr td, #content table tbody tr td, #content table tfoot tr td {
           margin-bottom: 45px;
           font-size: 18px;
           font-family: Arial, sans-serif;
           zoom: 1;
           margin: 20px; }
-          #content table tr td.lead {
+          #content table thead tr td.lead, #content table tbody tr td.lead, #content table tfoot tr td.lead {
             font-size: 27px; } }
   @media (min-width: 1024px) and (max-width: 639.98px) {
-    #content table tr td {
+    #content table thead tr td, #content table tbody tr td, #content table tfoot tr td {
       overflow-wrap: break-word; } }
     #content table caption {
       color: #212d39;

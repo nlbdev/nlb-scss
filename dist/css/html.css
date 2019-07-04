@@ -361,7 +361,7 @@ hr {
   height: 0;
   overflow: visible; }
 
-h1, h2, h3, h4, h5, h6, #content table tr th, body table tr th {
+h1, h2, h3, h4, h5, h6, #content table thead tr th, body table thead tr th, #content table tbody tr th, body table tbody tr th, #content table tfoot tr th, body table tfoot tr th {
   margin-top: 0;
   margin-bottom: 0.75rem; }
 
@@ -3070,7 +3070,7 @@ a.text-light:hover, a.text-light:focus {
 body span.lic a,
 body span.page-normal a,
 body span.page-special a,
-body h1 a, body h2 a, body h3 a, body h4 a, body h5 a, body h6 a, body #content table tr th a, #content table tr body th a, body table tr th a,
+body h1 a, body h2 a, body h3 a, body h4 a, body h5 a, body h6 a, body #content table thead tr th a, #content table thead tr body th a, body table thead tr th a, body #content table tbody tr th a, #content table tbody tr body th a, body table tbody tr th a, body #content table tfoot tr th a, #content table tfoot tr body th a, body table tfoot tr th a,
 body div.doctitle a,
 body div.docauthor a,
 body div.imggroup div.caption a,
@@ -3087,7 +3087,7 @@ a.text-dark:hover, body span.sentence a:hover,
 body span.lic a:hover,
 body span.page-normal a:hover,
 body span.page-special a:hover,
-body h1 a:hover, body h2 a:hover, body h3 a:hover, body h4 a:hover, body h5 a:hover, body h6 a:hover, body #content table tr th a:hover, #content table tr body th a:hover, body table tr th a:hover,
+body h1 a:hover, body h2 a:hover, body h3 a:hover, body h4 a:hover, body h5 a:hover, body h6 a:hover, body #content table thead tr th a:hover, #content table thead tr body th a:hover, body table thead tr th a:hover, body #content table tbody tr th a:hover, #content table tbody tr body th a:hover, body table tbody tr th a:hover, body #content table tfoot tr th a:hover, #content table tfoot tr body th a:hover, body table tfoot tr th a:hover,
 body div.doctitle a:hover,
 body div.docauthor a:hover,
 body div.imggroup div.caption a:hover,
@@ -3101,7 +3101,7 @@ body div.underoppgaver-li-oppgavetekst a:hover, a.text-dark:focus, body span.sen
 body span.lic a:focus,
 body span.page-normal a:focus,
 body span.page-special a:focus,
-body h1 a:focus, body h2 a:focus, body h3 a:focus, body h4 a:focus, body h5 a:focus, body h6 a:focus, body #content table tr th a:focus, #content table tr body th a:focus, body table tr th a:focus,
+body h1 a:focus, body h2 a:focus, body h3 a:focus, body h4 a:focus, body h5 a:focus, body h6 a:focus, body #content table thead tr th a:focus, #content table thead tr body th a:focus, body table thead tr th a:focus, body #content table tbody tr th a:focus, #content table tbody tr body th a:focus, body table tbody tr th a:focus, body #content table tfoot tr th a:focus, #content table tfoot tr body th a:focus, body table tfoot tr th a:focus,
 body div.doctitle a:focus,
 body div.docauthor a:focus,
 body div.imggroup div.caption a:focus,
@@ -3161,7 +3161,7 @@ a.text-pure-yellow:hover, a.text-pure-yellow:focus {
 .invisible {
   visibility: hidden !important; }
 
-h1, h2, h3, h4, h5, h6, #content table tr th, body table tr th,
+h1, h2, h3, h4, h5, h6, #content table thead tr th, body table thead tr th, #content table tbody tr th, body table tbody tr th, #content table tfoot tr th, body table tfoot tr th,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-bottom: 0.75rem;
   font-weight: 500;
@@ -3194,7 +3194,7 @@ h4, .h4 {
 h5, .h5 {
   font-size: 1.25rem; }
 
-h6, #content table tr th, body table tr th, .h6 {
+h6, #content table thead tr th, body table thead tr th, #content table tbody tr th, body table tbody tr th, #content table tfoot tr th, body table tfoot tr th, .h6 {
   font-size: 1rem; }
 
 .lead {
@@ -4133,7 +4133,7 @@ body table.imggroup tbody + tbody {
   background-color: #343a40;
   border-color: #454d55; }
 
-.table .thead-light th, #content table .thead-light th, body table .thead-light th, body table.liste .thead-light th, body table.imggroup .thead-light th, #content table thead th, #content table.liste thead th, #content table.imggroup thead th, .table body table thead th, body table .table thead th, body table thead th, body table.liste thead th, body table.imggroup thead th {
+.table .thead-light th, #content table .thead-light th, body table .thead-light th, body table.liste .thead-light th, body table.imggroup .thead-light th, #content table thead th, #content table.liste thead th, #content table.imggroup thead th, .table body table thead th, body table .table thead th, #content body table thead th, body #content table thead th, body table thead th, body table.liste thead th, body table.imggroup thead th {
   color: #495057;
   background-color: #e9ecef;
   border-color: #90989f; }
@@ -4368,28 +4368,28 @@ body {
         font-family: "Arial bold", sans-serif; }
         #content h5 .lead, body h5 .lead {
           font-size: 26px; } }
-  #content h6, body h6, #content table tr th, body table tr #content th, body table tr th {
+  #content h6, body h6, #content table thead tr th, body table thead tr #content th, body table thead tr th, #content table tbody tr th, body table tbody tr #content th, body table tbody tr th, #content table tfoot tr th, body table tfoot tr #content th, body table tfoot tr th {
     font-weight: bold;
     margin-bottom: 13px;
     font-size: 17.82px;
     font-family: "Arial black", sans-serif; }
-    #content h6 .lead, body h6 .lead, #content table tr th .lead, body table tr #content th .lead, body table tr th .lead {
+    #content h6 .lead, body h6 .lead, #content table thead tr th .lead, body table thead tr #content th .lead, body table thead tr th .lead, #content table tbody tr th .lead, body table tbody tr #content th .lead, body table tbody tr th .lead, #content table tfoot tr th .lead, body table tfoot tr #content th .lead, body table tfoot tr th .lead {
       font-size: 23.76px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
-      #content h6, body h6, #content table tr th, body table tr #content th, body table tr th {
+      #content h6, body h6, #content table thead tr th, body table thead tr #content th, body table thead tr th, #content table tbody tr th, body table tbody tr #content th, body table tbody tr th, #content table tfoot tr th, body table tfoot tr #content th, body table tfoot tr th {
         font-weight: bold;
         margin-bottom: 15px;
         font-size: 16.2px;
         font-family: "Arial black", sans-serif; }
-        #content h6 .lead, body h6 .lead, #content table tr th .lead, body table tr #content th .lead, body table tr th .lead {
+        #content h6 .lead, body h6 .lead, #content table thead tr th .lead, body table thead tr #content th .lead, body table thead tr th .lead, #content table tbody tr th .lead, body table tbody tr #content th .lead, body table tbody tr th .lead, #content table tfoot tr th .lead, body table tfoot tr #content th .lead, body table tfoot tr th .lead {
           font-size: 21.6px; } }
     @media (min-width: 1024px) {
-      #content h6, body h6, #content table tr th, body table tr #content th, body table tr th {
+      #content h6, body h6, #content table thead tr th, body table thead tr #content th, body table thead tr th, #content table tbody tr th, body table tbody tr #content th, body table tbody tr th, #content table tfoot tr th, body table tfoot tr #content th, body table tfoot tr th {
         font-weight: bold;
         margin-bottom: 20px;
         font-size: 18px;
         font-family: "Arial black", sans-serif; }
-        #content h6 .lead, body h6 .lead, #content table tr th .lead, body table tr #content th .lead, body table tr th .lead {
+        #content h6 .lead, body h6 .lead, #content table thead tr th .lead, body table thead tr #content th .lead, body table thead tr th .lead, #content table tbody tr th .lead, body table tbody tr #content th .lead, body table tbody tr th .lead, #content table tfoot tr th .lead, body table tfoot tr #content th .lead, body table tfoot tr th .lead {
           font-size: 24px; } }
   #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content body div.oppgaver-li-oppgavetekst, body #content div.oppgaver-li-oppgavetekst, body div.oppgaver-li-oppgavetekst, #content body div.underoppgaver-li-oppgavetekst, body #content div.underoppgaver-li-oppgavetekst, body div.underoppgaver-li-oppgavetekst, #content body div.docauthor, body #content div.docauthor, body div.docauthor, #content div.line, body div.line {
     margin-bottom: 30px;
@@ -4455,12 +4455,11 @@ body {
     scrollbar-base-color: #fff;
     border-left: 1px solid #90989f; }
     #content table thead, body table thead, #content table tbody, body table tbody, #content table tfoot, body table tfoot {
-      width: 100%; }
-    #content table tr, body table tr {
+      width: 100%;
       border-bottom: 1px solid #90989f; }
-    #content table tr th, body table tr th {
+    #content table thead tr th, body table thead tr th, #content table tbody tr th, body table tbody tr th, #content table tfoot tr th, body table tfoot tr th {
       border-right: 1px solid #90989f; }
-    #content table tr td, body table tr td {
+    #content table thead tr td, body table thead tr td, #content table tbody tr td, body table tbody tr td, #content table tfoot tr td, body table tfoot tr td {
       margin-bottom: 30px;
       font-size: 17.82px;
       font-family: Arial, sans-serif;
@@ -4468,34 +4467,34 @@ body {
       margin: 12px;
       overflow-wrap: normal !important;
       border-right: 1px solid #90989f; }
-      #content table tr td.lead, body table tr td.lead {
+      #content table thead tr td.lead, body table thead tr td.lead, #content table tbody tr td.lead, body table tbody tr td.lead, #content table tfoot tr td.lead, body table tfoot tr td.lead {
         font-size: 26.73px; }
       @media (max-width: 639.98px) {
-        #content table tr td, body table tr td {
+        #content table thead tr td, body table thead tr td, #content table tbody tr td, body table tbody tr td, #content table tfoot tr td, body table tfoot tr td {
           overflow-wrap: break-word; } }
       @media (min-width: 768px) and (max-width: 1023.98px) {
-        #content table tr td, body table tr td {
+        #content table thead tr td, body table thead tr td, #content table tbody tr td, body table tbody tr td, #content table tfoot tr td, body table tfoot tr td {
           margin-bottom: 36px;
           font-size: 16.2px;
           font-family: Arial, sans-serif;
           zoom: 1;
           margin: 15px; }
-          #content table tr td.lead, body table tr td.lead {
+          #content table thead tr td.lead, body table thead tr td.lead, #content table tbody tr td.lead, body table tbody tr td.lead, #content table tfoot tr td.lead, body table tfoot tr td.lead {
             font-size: 24.3px; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
-    #content table tr td, body table tr td {
+    #content table thead tr td, body table thead tr td, #content table tbody tr td, body table tbody tr td, #content table tfoot tr td, body table tfoot tr td {
       overflow-wrap: break-word; } }
       @media (min-width: 1024px) {
-        #content table tr td, body table tr td {
+        #content table thead tr td, body table thead tr td, #content table tbody tr td, body table tbody tr td, #content table tfoot tr td, body table tfoot tr td {
           margin-bottom: 45px;
           font-size: 18px;
           font-family: Arial, sans-serif;
           zoom: 1;
           margin: 20px; }
-          #content table tr td.lead, body table tr td.lead {
+          #content table thead tr td.lead, body table thead tr td.lead, #content table tbody tr td.lead, body table tbody tr td.lead, #content table tfoot tr td.lead, body table tfoot tr td.lead {
             font-size: 27px; } }
   @media (min-width: 1024px) and (max-width: 639.98px) {
-    #content table tr td, body table tr td {
+    #content table thead tr td, body table thead tr td, #content table tbody tr td, body table tbody tr td, #content table tfoot tr td, body table tfoot tr td {
       overflow-wrap: break-word; } }
     #content table caption, body table caption {
       color: #212d39;
@@ -4703,7 +4702,7 @@ body {
   body span.lic,
   body span.page-normal,
   body span.page-special,
-  body h1, body h2, body h3, body h4, body h5, body h6, body #content table tr th, #content table tr body th, body table tr th,
+  body h1, body h2, body h3, body h4, body h5, body h6, body #content table thead tr th, #content table thead tr body th, body table thead tr th, body #content table tbody tr th, #content table tbody tr body th, body table tbody tr th, body #content table tfoot tr th, #content table tfoot tr body th, body table tfoot tr th,
   body div.doctitle,
   body div.docauthor,
   body div.imggroup div.caption,
@@ -4721,7 +4720,7 @@ body {
     body span.lic a:hover,
     body span.page-normal a:hover,
     body span.page-special a:hover,
-    body h1 a:hover, body h2 a:hover, body h3 a:hover, body h4 a:hover, body h5 a:hover, body h6 a:hover, body #content table tr th a:hover, #content table tr body th a:hover, body table tr th a:hover,
+    body h1 a:hover, body h2 a:hover, body h3 a:hover, body h4 a:hover, body h5 a:hover, body h6 a:hover, body #content table thead tr th a:hover, #content table thead tr body th a:hover, body table thead tr th a:hover, body #content table tbody tr th a:hover, #content table tbody tr body th a:hover, body table tbody tr th a:hover, body #content table tfoot tr th a:hover, #content table tfoot tr body th a:hover, body table tfoot tr th a:hover,
     body div.doctitle a:hover,
     body div.docauthor a:hover,
     body div.imggroup div.caption a:hover,
