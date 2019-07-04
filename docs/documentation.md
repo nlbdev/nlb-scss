@@ -16,6 +16,7 @@ NLB, {{ 'now' | date: "%Y" }}
 
 - **NCC**: Filen [ncc.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.0.0/ncc.min.css) må omdøpes til `default.css` og i `ncc.html` må det lenkes til `default.css` i hodet på filen `<link rel="stylesheet" type="text/css" href="default.css"/>`
 - **Lydbok med tekst**: Filen [html.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.0.0/html.min.css) må omdøpes til `default.css` og i hovedfilen må det lenkes til `default.css` i hodet på filen `<link rel="stylesheet" type="text/css" href="default.css"/>`
+- **Nettleserbok**: Filene `js_style.css` og `rb_smil_emulator.js` slettes fra boken. I hodet på `_nettleserbok.html` slettes referansene til CSS, og det må legges inn `<link rel="stylesheet" type="text/css" href="nettleserbok.css"/>`. Filen [nettleserbok.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.0.0/nettleserbok.min.css) kopieres inn og må omdøpes til `nettleserbok.css` og filen [rb_smil_emulator.js](https://github.com/nlbdev/nlb-scss/releases/download/v1.0.0/rb_smil_emulator.js) må kopieres inn.
 
 ### Krav til HTML
 
@@ -32,6 +33,8 @@ Siste versjon finnes på: [GitHub](https://github.com/nlbdev/nlb-scss/releases)
 `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>`
 
 Farge: [#22313F](https://www.colorhexa.com/22313f)
+
+Farge Nattmodus: [#f8f9fa](https://www.colorhexa.com/f8f9fa)
 
 #### SM (0-639px)
 
@@ -71,6 +74,8 @@ h6 | Arial black | 18px | 24px
 `<p>`
 
 Farge: [#22313F](https://www.colorhexa.com/22313f)
+
+Farge Nattmodus: [#f8f9fa](https://www.colorhexa.com/f8f9fa)
 
 #### SM (0-639px)
 
