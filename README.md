@@ -7,7 +7,7 @@
 ## Developer installation
 
 1. Install [NodeJS](https://nodejs.org/en/)
-2. Install Grunt with npm: `npm i -g grunt yarn` (run in command-line at the root folder)
+2. Install Grunt and Yarn with npm: `npm i -g grunt yarn` (run in command-line at the root folder)
 3. Run `yarn`
 
 To compile once run `grunt`
