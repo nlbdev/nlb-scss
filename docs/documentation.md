@@ -4,6 +4,8 @@ Det er utviklet et standarisert og normalisert stilark, som følger brukervennli
 
 Denne siden er en demo på stilarket for lydbøker med tekst.
 
+[Light mode](https://nlbdev.github.io/nlb-scss/) | [Dark mode](https://nlbdev.github.io/nlb-scss/dark)
+
 ## Installasjon
 
 - **NCC**: Filen [ncc.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.0.0/ncc.min.css) må omdøpes til `default.css` og i `ncc.html` må det lenkes til `default.css` i hodet på filen `<link rel="stylesheet" type="text/css" href="default.css"/>`
@@ -90,9 +92,9 @@ Alle rammer må ha `ramme`-klassen, tilleggsklasser angir bakgrunnsfarge, tekstf
 
     Bakgrunnsfarge: [#E4F0DA](https://www.colorhexa.com/E4F0DA)
 
-    Bakgrunnsfarge nattmodus: [#2b3a48](https://www.colorhexa.com/2b3a48)
-
     Linjefarge: [#B1C900](https://www.colorhexa.com/B1C900)
+
+    Bakgrunnsfarge nattmodus: [#2b3a48](https://www.colorhexa.com/2b3a48)
 
     Linjefarge nattmodus: [#bcbec0](https://www.colorhexa.com/bcbec0)
 
@@ -102,11 +104,11 @@ Alle rammer må ha `ramme`-klassen, tilleggsklasser angir bakgrunnsfarge, tekstf
 
     Bakgrunnsfarge: [#f0dae4](https://www.colorhexa.com/f0dae4)
 
-    Bakgrunnsfarge nattmodus: [#482b3a](https://www.colorhexa.com/482b3a)
-
     Linjefarge: [#bd5b87](https://www.colorhexa.com/bd5b87)
 
-    Linjefarge nattmodus: [#bcbec0](https://www.colorhexa.com/bcbec0)
+    Bakgrunnsfarge nattmodus: [#482b3a](https://www.colorhexa.com/482b3a)
+
+    Linjefarge nattmodus: [#ae7794](https://www.colorhexa.com/ae7794)
 
     <div class="ramme bg-red">Eksempel</div>
 
@@ -114,11 +116,11 @@ Alle rammer må ha `ramme`-klassen, tilleggsklasser angir bakgrunnsfarge, tekstf
 
     Bakgrunnsfarge: [#dae4f0](https://www.colorhexa.com/dae4f0)
 
-    Bakgrunnsfarge nattmodus: [#486178](https://www.colorhexa.com/486178)
-
     Linjefarge: [#5b87bd](https://www.colorhexa.com/5b87bd)
 
-    Linjefarge nattmodus: [#bcbec0](https://www.colorhexa.com/bcbec0)
+    Bakgrunnsfarge nattmodus: [#486178](https://www.colorhexa.com/486178)
+
+    Linjefarge nattmodus: [#a8bacb](https://www.colorhexa.com/a8bacb)
 
     <div class="ramme bg-blue">Eksempel</div>
 
@@ -126,11 +128,11 @@ Alle rammer må ha `ramme`-klassen, tilleggsklasser angir bakgrunnsfarge, tekstf
 
     Bakgrunnsfarge: [#eff0da](https://www.colorhexa.com/eff0da)
 
-    Bakgrunnsfarge nattmodus: [#48392b](https://www.colorhexa.com/48392b)
-
     Linjefarge: [#b8bd5b](https://www.colorhexa.com/b8bd5b)
 
-    Linjefarge nattmodus: [#bcbec0](https://www.colorhexa.com/bcbec0)
+    Bakgrunnsfarge nattmodus: [#48392b](https://www.colorhexa.com/48392b)
+
+    Linjefarge nattmodus: [#ae9277](https://www.colorhexa.com/ae9277)
 
     <div class="ramme bg-yellow">Eksempel</div>
 
