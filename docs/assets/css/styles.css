@@ -4108,7 +4108,7 @@ body table.imggroup tbody + tbody {
 
 @media (max-width: 639.98px) {
   .table-responsive-sm {
-    display: block;
+    display: table;
     width: 100%;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch; }
@@ -4117,7 +4117,7 @@ body table.imggroup tbody + tbody {
 
 @media (max-width: 767.98px) {
   .table-responsive-md {
-    display: block;
+    display: table;
     width: 100%;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch; }
@@ -4126,7 +4126,7 @@ body table.imggroup tbody + tbody {
 
 @media (max-width: 1023.98px) {
   .table-responsive-lg {
-    display: block;
+    display: table;
     width: 100%;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch; }
@@ -4135,7 +4135,7 @@ body table.imggroup tbody + tbody {
 
 @media (max-width: 1199.98px) {
   .table-responsive-xl {
-    display: block;
+    display: table;
     width: 100%;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch; }
@@ -4143,7 +4143,7 @@ body table.imggroup tbody + tbody {
       border: 0; } }
 
 .table-responsive, #content table, body table, #content table.liste, body table.liste, #content table.imggroup, body table.imggroup, #content.theme__dark table, body.theme__dark table {
-  display: block;
+  display: table;
   width: 100%;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch; }
@@ -4407,8 +4407,7 @@ body {
     scrollbar-color: #B1C900;
     scrollbar-base-color: #fff; }
     #content table thead, body table thead, #content table tbody, body table tbody, #content table tfoot, body table tfoot {
-      width: 100%;
-      display: table; }
+      width: 100%; }
     #content table tr td, body table tr td {
       margin-bottom: 30px;
       font-size: 17.82px;

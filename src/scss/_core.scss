@@ -218,14 +218,17 @@ body {
     }
     
     table {
-        @extend .table, .table-bordered, .table-responsive;
+        @extend .table, .table-responsive;
         color: $table-default-text;
         scrollbar-color: $scrollbar-default-marker;
         scrollbar-base-color: $white;
+    
+        @include media-breakpoint-down('md') {
+            @extend .table-bordered;
+        }
         
         thead, tbody, tfoot {
             width: 100%;
-            display: table;
         }
     
         thead {
