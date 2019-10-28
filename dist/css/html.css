@@ -1,5 +1,5 @@
 /*! Html Fulltext CSS */
-/*! NLB Stylesheets | v1.0.0 */
+/*! NLB Stylesheets | v1.0.2 */
 /* Begin Core.SCSS */
 /* Imports
  * ---------------------------------------------------------- */
@@ -4215,6 +4215,8 @@ body {
      * ---------------------------------------------------------- */
   /* Lists
      * ---------------------------------------------------------- */ }
+  #content .hidden-headline, body .hidden-headline {
+    display: none; }
   @media (min-width: 640px) and (max-width: 767.98px) {
     #content, body {
       padding-right: 45px;
