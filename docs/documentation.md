@@ -373,26 +373,26 @@ Sidetall merkes av med klassene `page-front`, `page-normal` og `page-special`.
 Block-kontekst:
 
 ```html
-<div id="…" epub:type="pagebreak" class="page-front" title="1"></div>
-<div id="…" epub:type="pagebreak" class="page-normal" title="1"></div>
-<div id="…" epub:type="pagebreak" class="page-special" title="1"></div>
+<div id="…" epub:type="pagebreak" class="page-front" title="1">1</div>
+<div id="…" epub:type="pagebreak" class="page-normal" title="1">1</div>
+<div id="…" epub:type="pagebreak" class="page-special" title="1">1</div>
 ```
 
-<div epub:type="pagebreak" class="page-front" title="1"></div>
-<div epub:type="pagebreak" class="page-normal" title="1"></div>
-<div epub:type="pagebreak" class="page-special" title="1"></div>
+<div epub:type="pagebreak" class="page-front" title="1">1</div>
+<div epub:type="pagebreak" class="page-normal" title="1">1</div>
+<div epub:type="pagebreak" class="page-special" title="1">1</div>
 
 Inline-kontekst:
 
 ```html
-<span id="…" epub:type="pagebreak" class="page-front" title="1"></span>
-<span id="…" epub:type="pagebreak" class="page-normal" title="1"></span>
-<span id="…" epub:type="pagebreak" class="page-special" title="1"></span>
+<span id="…" epub:type="pagebreak" class="page-front" title="1">1</span>
+<span id="…" epub:type="pagebreak" class="page-normal" title="1">1</span>
+<span id="…" epub:type="pagebreak" class="page-special" title="1">1</span>
 ```
 
-<span epub:type="pagebreak" class="page-front" title="1"></span>
-<span epub:type="pagebreak" class="page-normal" title="1"></span>
-<span epub:type="pagebreak" class="page-special" title="1"></span>
+<span epub:type="pagebreak" class="page-front" title="1">1</span>
+<span epub:type="pagebreak" class="page-normal" title="1">1</span>
+<span epub:type="pagebreak" class="page-special" title="1">1</span>
 
 ### Prodnoter
 
