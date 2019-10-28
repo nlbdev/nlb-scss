@@ -48,10 +48,6 @@ body {
         padding-right: 70px;
         padding-left: 70px;
     }
-
-    .prodnote, .optional-prodnote, .prodnote-optional {
-        @extend .d-none;
-    }
     
     .noteref {
         vertical-align: super;

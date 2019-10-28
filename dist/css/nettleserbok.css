@@ -816,7 +816,7 @@ button.bg-pure-yellow:focus {
   clear: both;
   content: ""; }
 
-.d-none, #content .hidden-headline, #content .prodnote, #content .optional-prodnote, #content .prodnote-optional, #content .page-normal,
+.d-none, #content .hidden-headline, #content .page-normal,
 #content .page-front,
 #content .page-special {
   display: none !important; }
