@@ -378,9 +378,7 @@ Block-kontekst:
 <div id="…" epub:type="pagebreak" class="page-special" title="1">1</div>
 ```
 
-<div epub:type="pagebreak" class="page-front" title="1">1</div>
 <div epub:type="pagebreak" class="page-normal" title="1">1</div>
-<div epub:type="pagebreak" class="page-special" title="1">1</div>
 
 Inline-kontekst:
 
@@ -390,9 +388,7 @@ Inline-kontekst:
 <span id="…" epub:type="pagebreak" class="page-special" title="1">1</span>
 ```
 
-<span epub:type="pagebreak" class="page-front" title="1">1</span>
 <span epub:type="pagebreak" class="page-normal" title="1">1</span>
-<span epub:type="pagebreak" class="page-special" title="1">1</span>
 
 ### Prodnoter
 
