@@ -1,6 +1,6 @@
 {
   "name": "nlb-scss",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "NLB SCSS",
   "main": "index.js",
   "scripts": {
