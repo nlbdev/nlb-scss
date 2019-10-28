@@ -23,7 +23,7 @@ NLB, {{ 'now' | date: "%Y" }}
 - **Nettleserbok**:
   - Filene `js_style.css` og `rb_smil_emulator.js` slettes fra boken.
   - I hodet på `_nettleserbok.html` slettes referansene til CSS, og det må legges inn `<link rel="stylesheet" type="text/css" href="nettleserbok.min.css"/>`.
-  - Filen [nettleserbok.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.0.2/nettleserbok.min.css) og [rb_smil_emulator.js](https://github.com/nlbdev/nlb-scss/releases/download/v1.0.1/rb_smil_emulator.js) må kopieres inn i rotmappen.
+  - Filen [nettleserbok.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.0.2/nettleserbok.min.css) og [rb_smil_emulator.js](https://github.com/nlbdev/nlb-scss/releases/download/v1.0.2/rb_smil_emulator.js) må kopieres inn i rotmappen.
 
 ### Krav til HTML
 
@@ -395,8 +395,6 @@ Inline-kontekst:
 <span epub:type="pagebreak" class="page-special" title="1">1</span>
 
 ### Prodnoter
-
-Produksjonsnotater er bare synlig for skjermlesere.
 
 ```html
 <aside class="prodnote" epub:type="z3998:production">

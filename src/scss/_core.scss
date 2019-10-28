@@ -28,7 +28,7 @@ body {
 }
 #content {
     // max-width: 100%;
-    .hidden-headline { display: none; }
+    .hidden-headline { @extend .d-none; }
     .nested-list { list-style-type: none; padding-left: 0; }
 
     padding-right: 20px;
@@ -50,7 +50,7 @@ body {
     }
 
     .prodnote, .optional-prodnote, .prodnote-optional {
-        @extend .sr-only;
+        @extend .d-none;
     }
     
     .noteref {

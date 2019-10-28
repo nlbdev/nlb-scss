@@ -802,7 +802,7 @@ button.bg-pure-yellow:focus {
   clear: both;
   content: ""; }
 
-.d-none, #content .page-normal,
+.d-none, #content .hidden-headline, #content .prodnote, #content .optional-prodnote, #content .prodnote-optional, #content .page-normal,
 #content .page-front,
 #content .page-special {
   display: none !important; }
@@ -1431,7 +1431,7 @@ button.bg-pure-yellow:focus {
     top: 0;
     z-index: 1020; } }
 
-.sr-only, #content .prodnote, #content .optional-prodnote, #content .prodnote-optional {
+.sr-only {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -4118,8 +4118,6 @@ body {
      * ---------------------------------------------------------- */
   /* Lists
      * ---------------------------------------------------------- */ }
-  #content .hidden-headline {
-    display: none; }
   #content .nested-list {
     list-style-type: none;
     padding-left: 0; }

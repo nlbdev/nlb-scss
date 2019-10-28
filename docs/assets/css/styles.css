@@ -823,7 +823,7 @@ body .page-special {
   clear: both;
   content: ""; }
 
-.d-none, #content .page-normal, body .page-normal,
+.d-none, #content .hidden-headline, body .hidden-headline, #content .prodnote, body .prodnote, #content .optional-prodnote, body .optional-prodnote, #content .prodnote-optional, body .prodnote-optional, #content .page-normal, body .page-normal,
 #content .page-front,
 body .page-front,
 #content .page-special,
@@ -1456,7 +1456,7 @@ body .page-special {
     top: 0;
     z-index: 1020; } }
 
-.sr-only, #content .prodnote, body .prodnote, #content .optional-prodnote, body .optional-prodnote, #content .prodnote-optional, body .prodnote-optional {
+.sr-only {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -4164,8 +4164,6 @@ body {
      * ---------------------------------------------------------- */
   /* Lists
      * ---------------------------------------------------------- */ }
-  #content .hidden-headline, body .hidden-headline {
-    display: none; }
   #content .nested-list, body .nested-list {
     list-style-type: none;
     padding-left: 0; }
