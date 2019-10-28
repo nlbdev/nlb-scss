@@ -295,10 +295,10 @@ For bilder bruker du følgende kode:
     <li>Element</li>
     <li>Element</li>
     <li>Element</li>
-    <li>
+    <ol>
         <li>Sub-element</li>
         <li>Sub-element</li>
-    </li>
+    </ol>
 </ol>
 ```
 
@@ -306,10 +306,10 @@ For bilder bruker du følgende kode:
     <li>Element</li>
     <li>Element</li>
     <li>Element</li>
-    <li>
+    <ol>
         <li>Sub-element</li>
         <li>Sub-element</li>
-    </li>
+    </ol>
 </ol>
 
 ### Usortert liste
@@ -319,10 +319,10 @@ For bilder bruker du følgende kode:
     <li>Element</li>
     <li>Element</li>
     <li>Element</li>
-    <li>
+    <ul>
         <li>Sub-element</li>
         <li>Sub-element</li>
-    </li>
+    </ul>
 </ul>
 ```
 
@@ -330,10 +330,10 @@ For bilder bruker du følgende kode:
     <li>Element</li>
     <li>Element</li>
     <li>Element</li>
-    <li>
+    <ul>
         <li>Sub-element</li>
         <li>Sub-element</li>
-    </li>
+    </ul>
 </ul>
 
 ### Fotnoter
