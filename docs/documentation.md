@@ -295,7 +295,7 @@ For bilder bruker du følgende kode:
     <li>Element</li>
     <li>Element</li>
     <li>Element</li>
-    <li>
+    <li class="nested-list">
         <ol>
             <li>Sub-element</li>
             <li>Sub-element</li>
@@ -308,7 +308,7 @@ For bilder bruker du følgende kode:
     <li>Element</li>
     <li>Element</li>
     <li>Element</li>
-    <li>
+    <li class="nested-list">
         <ol>
             <li>Sub-element</li>
             <li>Sub-element</li>
@@ -323,7 +323,7 @@ For bilder bruker du følgende kode:
     <li>Element</li>
     <li>Element</li>
     <li>Element</li>
-    <li>
+    <li class="nested-list">
         <ul>
             <li>Sub-element</li>
             <li>Sub-element</li>
@@ -336,7 +336,7 @@ For bilder bruker du følgende kode:
     <li>Element</li>
     <li>Element</li>
     <li>Element</li>
-    <li>
+    <li class="nested-list">
         <ul>
             <li>Sub-element</li>
             <li>Sub-element</li>

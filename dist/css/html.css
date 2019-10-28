@@ -4217,6 +4217,9 @@ body {
      * ---------------------------------------------------------- */ }
   #content .hidden-headline, body .hidden-headline {
     display: none; }
+  #content .nested-list, body .nested-list {
+    list-style-type: none;
+    padding-left: 0; }
   @media (min-width: 640px) and (max-width: 767.98px) {
     #content, body {
       padding-right: 45px;
