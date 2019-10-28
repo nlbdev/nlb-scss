@@ -295,11 +295,10 @@ For bilder bruker du følgende kode:
     <li>Element</li>
     <li>Element</li>
     <li>Element</li>
-    <li>Element</li>
-    <ol>
+    <li>
         <li>Sub-element</li>
         <li>Sub-element</li>
-    </ol>
+    </li>
 </ol>
 ```
 
@@ -307,11 +306,10 @@ For bilder bruker du følgende kode:
     <li>Element</li>
     <li>Element</li>
     <li>Element</li>
-    <li>Element</li>
-    <ol>
+    <li>
         <li>Sub-element</li>
         <li>Sub-element</li>
-    </ol>
+    </li>
 </ol>
 
 ### Usortert liste
@@ -321,11 +319,10 @@ For bilder bruker du følgende kode:
     <li>Element</li>
     <li>Element</li>
     <li>Element</li>
-    <li>Element</li>
-    <ul>
+    <li>
         <li>Sub-element</li>
         <li>Sub-element</li>
-    </ul>
+    </li>
 </ul>
 ```
 
@@ -333,73 +330,72 @@ For bilder bruker du følgende kode:
     <li>Element</li>
     <li>Element</li>
     <li>Element</li>
-    <li>Element</li>
-    <ul>
+    <li>
         <li>Sub-element</li>
         <li>Sub-element</li>
-    </ul>
+    </li>
 </ul>
 
 ### Fotnoter
 
-Fotnoter merkes av med klassen `noteref` og attributtet `bodyref` refererer til id for dertilhørende fotnote, se eksempel under.
+Fotnoter merkes av med klassen `noteref` refererer til id for dertilhørende fotnote, se eksempel under.
 
 ```html
 <p>
-    Lorem<span class="noteref" bodyref="#ref1">1</span> ipsum<span class="noteref" bodyref="#ref2">2</span>
+    Lorem<a href="#ref1" epub:type="noteref" class="noteref">1</a> ipsum<a href="#ref2" epub:type="noteref" class="noteref">2</a>
 </p>
-
-<div class="notebody" id="ref1">
-    <p>1. fotnote</p>
-</div>
-<div class="notebody" id="ref2">
-    <p>2. fotnote</p>
-</div>
+<ol>
+  <li epub:type="footnote" class="notebody" id="ref1">...</li>
+  <li epub:type="footnote" class="notebody" id="ref2">...</li>
+</ol>
 ```
 
 <p>
-    Lorem<span class="noteref" bodyref="#ref1">1</span> ipsum<span class="noteref" bodyref="#ref2">2</span>
+    Lorem<a href="#ref1" epub:type="noteref" class="noteref">1</a> ipsum<a href="#ref2" epub:type="noteref" class="noteref">2</a>
 </p>
-
-<div class="notebody" id="ref1">
-    <p>1. fotnote</p>
-</div>
-<div class="notebody" id="ref2">
-    <p>2. fotnote</p>
-</div>
+<ol>
+  <li epub:type="footnote" class="notebody" id="ref1">...</li>
+  <li epub:type="footnote" class="notebody" id="ref2">...</li>
+</ol>
 
 ### Sidetall
 
-Sidetall merkes av med klassene `sidetall`, `page-front`, `page-normal` og `page-special`.
+Sidetall merkes av med klassene `page-front`, `page-normal` og `page-special`.
+
+Block-kontekst:
 
 ```html
-<div class="sidetall">
-    <span class="page-normal">
-        <span>18</span>
-    </span>
-</div>
+<div id="…" epub:type="pagebreak" class="page-front" title="1"></div>
+<div id="…" epub:type="pagebreak" class="page-normal" title="1"></div>
+<div id="…" epub:type="pagebreak" class="page-special" title="1"></div>
 ```
 
-<div class="sidetall">
-    <span class="page-normal">
-        <span>18</span>
-    </span>
-</div>
+<div epub:type="pagebreak" class="page-front" title="1"></div>
+<div epub:type="pagebreak" class="page-normal" title="1"></div>
+<div epub:type="pagebreak" class="page-special" title="1"></div>
+
+Inline-kontekst:
+
+```html
+<span id="…" epub:type="pagebreak" class="page-front" title="1"></span>
+<span id="…" epub:type="pagebreak" class="page-normal" title="1"></span>
+<span id="…" epub:type="pagebreak" class="page-special" title="1"></span>
+```
+
+<span epub:type="pagebreak" class="page-front" title="1"></span>
+<span epub:type="pagebreak" class="page-normal" title="1"></span>
+<span epub:type="pagebreak" class="page-special" title="1"></span>
 
 ### Prodnoter
 
 Produksjonsnotater er bare synlig for skjermlesere.
 
 ```html
-<div class="prodnote-optional">
-    <span class="optional-prodnote">
-        <span>Produksjonstekst</span>
-    </span>
-</div>
+<aside class="prodnote" epub:type="z3998:production">
+    <span>Produksjonstekst</span>
+</aside>
 ```
 
-<div class="prodnote-optional">
-    <span class="optional-prodnote">
-        <span>Produksjonstekst</span>
-    </span>
-</div>
+<aside class="prodnote" epub:type="z3998:production">
+    <span>Produksjonstekst</span>
+</aside>
