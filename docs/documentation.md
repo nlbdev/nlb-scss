@@ -295,10 +295,12 @@ For bilder bruker du følgende kode:
     <li>Element</li>
     <li>Element</li>
     <li>Element</li>
-    <ol>
-        <li>Sub-element</li>
-        <li>Sub-element</li>
-    </ol>
+    <li>
+        <ol>
+            <li>Sub-element</li>
+            <li>Sub-element</li>
+        </ol>
+    </li>
 </ol>
 ```
 
@@ -306,10 +308,12 @@ For bilder bruker du følgende kode:
     <li>Element</li>
     <li>Element</li>
     <li>Element</li>
-    <ol>
-        <li>Sub-element</li>
-        <li>Sub-element</li>
-    </ol>
+    <li>
+        <ol>
+            <li>Sub-element</li>
+            <li>Sub-element</li>
+        </ol>
+    </li>
 </ol>
 
 ### Usortert liste
@@ -319,10 +323,12 @@ For bilder bruker du følgende kode:
     <li>Element</li>
     <li>Element</li>
     <li>Element</li>
-    <ul>
-        <li>Sub-element</li>
-        <li>Sub-element</li>
-    </ul>
+    <li>
+        <ul>
+            <li>Sub-element</li>
+            <li>Sub-element</li>
+        </ul>
+    </li>
 </ul>
 ```
 
@@ -330,10 +336,12 @@ For bilder bruker du følgende kode:
     <li>Element</li>
     <li>Element</li>
     <li>Element</li>
-    <ul>
-        <li>Sub-element</li>
-        <li>Sub-element</li>
-    </ul>
+    <li>
+        <ul>
+            <li>Sub-element</li>
+            <li>Sub-element</li>
+        </ul>
+    </li>
 </ul>
 
 ### Fotnoter
