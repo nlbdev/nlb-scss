@@ -6,6 +6,8 @@ Stilarkene er utviklet av NLB, med hjelp fra Seeds på design. Kildekoden er lis
 
 Denne siden er en demo på stilarket for lydbøker med tekst.
 
+Stilarkene er basert på Bootstrap 4 <https://getbootstrap.com/>
+
 Trykk for [Dagmodus](https://nlbdev.github.io/nlb-scss/) eller [Nattmodus](https://nlbdev.github.io/nlb-scss/dark)
 
 NLB, {{ 'now' | date: "%Y" }}
