@@ -16,6 +16,7 @@ module.exports = function (grunt) {
 					'dist/css/html.css': 'src/scss/html.scss',
 					'dist/css/ncc.css': 'src/scss/ncc.scss',
 					'dist/css/nettleserbok.css': 'src/scss/nettleserbok.scss',
+					'dist/css/statped.css': 'src/scss/statped.scss',
 					'docs/assets/css/styles.css': 'src/scss/docs.scss'
 				}
 			}
@@ -40,7 +41,8 @@ module.exports = function (grunt) {
 					'dist/css/epub.min.css': 'dist/css/epub.css',
 					'dist/css/html.min.css': 'dist/css/html.css',
 					'dist/css/ncc.min.css': 'dist/css/ncc.css',
-					'dist/css/nettleserbok.min.css': 'dist/css/nettleserbok.css'
+					'dist/css/nettleserbok.min.css': 'dist/css/nettleserbok.css',
+					'dist/css/statped.min.css': 'dist/css/statped.css'
 				}
 			}
 		},

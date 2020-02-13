@@ -1,0 +1,41 @@
+/*! Statped CSS */
+@charset "UTF-8";
+
+@import "core";
+
+/* Begin Statped.SCSS */
+body {
+    @include make-container();
+    @extend #content;
+
+    #toc-html {
+        a {
+            color: $black;
+        }
+    }
+    
+    .preface, .colophon, [*|type="colophon"] {
+        .precedingemptyline {
+            margin-top: $line-height-sm+rem !important;
+        }
+        p {
+            @extend .my-0;
+        }
+    }
+    
+    .part {
+        p strong {
+            @extend .lead;
+        }
+    }
+    .notebody {
+        p {
+            display: block;
+            padding: 15px 20px;
+            border-top: 1px solid $nlb-green;
+            margin-bottom: 0;
+        }
+    }
+}
+
+/* End Statped.SCSS */
