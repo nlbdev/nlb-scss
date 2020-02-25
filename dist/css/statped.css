@@ -365,7 +365,7 @@ h1, h2, h3, h4, h5, h6, #content table thead tr th, body table thead tr th, #con
   margin-top: 0;
   margin-bottom: 0.75rem; }
 
-p, #content blockquote, body blockquote {
+p, #content blockquote, body blockquote, body div.oppgaver-li-oppgavetekst, body div.underoppgaver-li-oppgavetekst, body div.docauthor {
   margin-top: 0;
   margin-bottom: 1rem; }
 
@@ -1531,18 +1531,20 @@ body .page-special {
 
 .mt-0,
 .my-0,
-body .preface p,
-body .preface #content blockquote,
-#content body .preface blockquote,
-body .preface blockquote,
 body .colophon p,
 body .colophon #content blockquote,
 #content body .colophon blockquote,
 body .colophon blockquote,
+body .colophon div.oppgaver-li-oppgavetekst,
+body .colophon div.underoppgaver-li-oppgavetekst,
+body .colophon div.docauthor,
 body [*|type="colophon"] p,
 body [*|type="colophon"] #content blockquote,
 #content body [*|type="colophon"] blockquote,
-body [*|type="colophon"] blockquote {
+body [*|type="colophon"] blockquote,
+body [*|type="colophon"] div.oppgaver-li-oppgavetekst,
+body [*|type="colophon"] div.underoppgaver-li-oppgavetekst,
+body [*|type="colophon"] div.docauthor {
   margin-top: 0 !important; }
 
 .mr-0,
@@ -1551,18 +1553,20 @@ body [*|type="colophon"] blockquote {
 
 .mb-0,
 .my-0,
-body .preface p,
-body .preface #content blockquote,
-#content body .preface blockquote,
-body .preface blockquote,
 body .colophon p,
 body .colophon #content blockquote,
 #content body .colophon blockquote,
 body .colophon blockquote,
+body .colophon div.oppgaver-li-oppgavetekst,
+body .colophon div.underoppgaver-li-oppgavetekst,
+body .colophon div.docauthor,
 body [*|type="colophon"] p,
 body [*|type="colophon"] #content blockquote,
 #content body [*|type="colophon"] blockquote,
-body [*|type="colophon"] blockquote {
+body [*|type="colophon"] blockquote,
+body [*|type="colophon"] div.oppgaver-li-oppgavetekst,
+body [*|type="colophon"] div.underoppgaver-li-oppgavetekst,
+body [*|type="colophon"] div.docauthor {
   margin-bottom: 0 !important; }
 
 .ml-0,
@@ -3062,10 +3066,52 @@ a.text-danger:hover, a.text-danger:focus {
 a.text-light:hover, a.text-light:focus {
   color: #cbd3da !important; }
 
-.text-dark, body {
+.text-dark, body, body span.sentence a,
+body span.lic a,
+body span.page-normal a,
+body span.page-special a,
+body h1 a, body h2 a, body h3 a, body h4 a, body h5 a, body h6 a, body #content table thead tr th a, #content table thead tr body th a, body table thead tr th a, body #content table tbody tr th a, #content table tbody tr body th a, body table tbody tr th a, body #content table tfoot tr th a, #content table tfoot tr body th a, body table tfoot tr th a,
+body div.doctitle a,
+body div.docauthor a,
+body div.imggroup div.caption a,
+body table tr td a,
+body ul a,
+body p a,
+body #content blockquote a, #content body blockquote a,
+body blockquote a,
+body div.oppgaver-li-oppgavetekst a,
+body div.underoppgaver-li-oppgavetekst a {
   color: #212d39; }
 
-a.text-dark:hover, a.text-dark:focus {
+a.text-dark:hover, body span.sentence a:hover,
+body span.lic a:hover,
+body span.page-normal a:hover,
+body span.page-special a:hover,
+body h1 a:hover, body h2 a:hover, body h3 a:hover, body h4 a:hover, body h5 a:hover, body h6 a:hover, body #content table thead tr th a:hover, #content table thead tr body th a:hover, body table thead tr th a:hover, body #content table tbody tr th a:hover, #content table tbody tr body th a:hover, body table tbody tr th a:hover, body #content table tfoot tr th a:hover, #content table tfoot tr body th a:hover, body table tfoot tr th a:hover,
+body div.doctitle a:hover,
+body div.docauthor a:hover,
+body div.imggroup div.caption a:hover,
+body table tr td a:hover,
+body ul a:hover,
+body p a:hover,
+body #content blockquote a:hover, #content body blockquote a:hover,
+body blockquote a:hover,
+body div.oppgaver-li-oppgavetekst a:hover,
+body div.underoppgaver-li-oppgavetekst a:hover, a.text-dark:focus, body span.sentence a:focus,
+body span.lic a:focus,
+body span.page-normal a:focus,
+body span.page-special a:focus,
+body h1 a:focus, body h2 a:focus, body h3 a:focus, body h4 a:focus, body h5 a:focus, body h6 a:focus, body #content table thead tr th a:focus, #content table thead tr body th a:focus, body table thead tr th a:focus, body #content table tbody tr th a:focus, #content table tbody tr body th a:focus, body table tbody tr th a:focus, body #content table tfoot tr th a:focus, #content table tfoot tr body th a:focus, body table tfoot tr th a:focus,
+body div.doctitle a:focus,
+body div.docauthor a:focus,
+body div.imggroup div.caption a:focus,
+body table tr td a:focus,
+body ul a:focus,
+body p a:focus,
+body #content blockquote a:focus, #content body blockquote a:focus,
+body blockquote a:focus,
+body div.oppgaver-li-oppgavetekst a:focus,
+body div.underoppgaver-li-oppgavetekst a:focus {
   color: #050709 !important; }
 
 .text-night {
@@ -3151,7 +3197,7 @@ h5, .h5 {
 h6, #content table thead tr th, body table thead tr th, #content table tbody tr th, body table tbody tr th, #content table tfoot tr th, body table tfoot tr th, .h6 {
   font-size: 1rem; }
 
-.lead, body .part p strong, body .part #content blockquote strong, #content body .part blockquote strong, body .part blockquote strong {
+.lead {
   font-size: 1.25rem;
   font-weight: 300; }
 
@@ -3220,7 +3266,7 @@ mark,
   font-size: 90%;
   text-transform: uppercase; }
 
-.blockquote, #content blockquote, body blockquote {
+.blockquote, #content blockquote, body blockquote, body div.produsent {
   margin-bottom: 1.5rem;
   font-size: 1.25rem; }
 
@@ -4187,7 +4233,7 @@ body {
   #content .noteref, body .noteref {
     vertical-align: super;
     font-size: 0.6em; }
-  #content .rearnotes .notebody p, body .rearnotes .notebody p, #content .rearnotes .notebody blockquote, body .rearnotes .notebody #content blockquote, body .rearnotes .notebody blockquote {
+  #content .rearnotes .notebody p, body .rearnotes .notebody p, #content .rearnotes .notebody blockquote, body .rearnotes .notebody #content blockquote, body .rearnotes .notebody blockquote, #content .rearnotes .notebody body div.oppgaver-li-oppgavetekst, body #content .rearnotes .notebody div.oppgaver-li-oppgavetekst, body .rearnotes .notebody div.oppgaver-li-oppgavetekst, #content .rearnotes .notebody body div.underoppgaver-li-oppgavetekst, body #content .rearnotes .notebody div.underoppgaver-li-oppgavetekst, body .rearnotes .notebody div.underoppgaver-li-oppgavetekst, #content .rearnotes .notebody body div.docauthor, body #content .rearnotes .notebody div.docauthor, body .rearnotes .notebody div.docauthor {
     display: block;
     padding: 15px 20px;
     border-top: 1px solid #B1C900;
@@ -4215,7 +4261,7 @@ body {
     margin-bottom: 20px;
     font-size: 35.64px;
     font-family: "Arial black", sans-serif; }
-    #content h1 .lead, body h1 .lead, #content h1 body .part p strong, body .part p #content h1 strong, body h1 .part p strong, body .part p h1 strong, body .part #content h1 blockquote strong, body h1 .part #content blockquote strong, body .part #content blockquote h1 strong, #content body h1 .part blockquote strong, #content body .part blockquote h1 strong, #content h1 body .part blockquote strong, body .part blockquote #content h1 strong, body h1 .part blockquote strong, body .part blockquote h1 strong, #content h1.title .lead, body h1.title .lead, #content h1.title body .part p strong, body .part p #content h1.title strong, body h1.title .part p strong, body .part p h1.title strong, body .part #content h1.title blockquote strong, body h1.title .part #content blockquote strong, body .part #content blockquote h1.title strong, #content body h1.title .part blockquote strong, #content body .part blockquote h1.title strong, #content h1.title body .part blockquote strong, body .part blockquote #content h1.title strong, body h1.title .part blockquote strong, body .part blockquote h1.title strong {
+    #content h1 .lead, body h1 .lead, #content h1.title .lead, body h1.title .lead {
       font-size: 39.6px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content h1, body h1, #content h1.title, body h1.title {
@@ -4223,7 +4269,7 @@ body {
         margin-bottom: 30px;
         font-size: 32.4px;
         font-family: "Arial black", sans-serif; }
-        #content h1 .lead, body h1 .lead, #content h1 body .part p strong, body .part p #content h1 strong, body h1 .part p strong, body .part p h1 strong, body .part #content h1 blockquote strong, body h1 .part #content blockquote strong, body .part #content blockquote h1 strong, #content body h1 .part blockquote strong, #content body .part blockquote h1 strong, #content h1 body .part blockquote strong, body .part blockquote #content h1 strong, body h1 .part blockquote strong, body .part blockquote h1 strong, #content h1.title .lead, body h1.title .lead, #content h1.title body .part p strong, body .part p #content h1.title strong, body h1.title .part p strong, body .part p h1.title strong, body .part #content h1.title blockquote strong, body h1.title .part #content blockquote strong, body .part #content blockquote h1.title strong, #content body h1.title .part blockquote strong, #content body .part blockquote h1.title strong, #content h1.title body .part blockquote strong, body .part blockquote #content h1.title strong, body h1.title .part blockquote strong, body .part blockquote h1.title strong {
+        #content h1 .lead, body h1 .lead, #content h1.title .lead, body h1.title .lead {
           font-size: 36px; } }
     @media (min-width: 1024px) {
       #content h1, body h1, #content h1.title, body h1.title {
@@ -4231,14 +4277,14 @@ body {
         margin-bottom: 40px;
         font-size: 36px;
         font-family: "Arial black", sans-serif; }
-        #content h1 .lead, body h1 .lead, #content h1 body .part p strong, body .part p #content h1 strong, body h1 .part p strong, body .part p h1 strong, body .part #content h1 blockquote strong, body h1 .part #content blockquote strong, body .part #content blockquote h1 strong, #content body h1 .part blockquote strong, #content body .part blockquote h1 strong, #content h1 body .part blockquote strong, body .part blockquote #content h1 strong, body h1 .part blockquote strong, body .part blockquote h1 strong, #content h1.title .lead, body h1.title .lead, #content h1.title body .part p strong, body .part p #content h1.title strong, body h1.title .part p strong, body .part p h1.title strong, body .part #content h1.title blockquote strong, body h1.title .part #content blockquote strong, body .part #content blockquote h1.title strong, #content body h1.title .part blockquote strong, #content body .part blockquote h1.title strong, #content h1.title body .part blockquote strong, body .part blockquote #content h1.title strong, body h1.title .part blockquote strong, body .part blockquote h1.title strong {
+        #content h1 .lead, body h1 .lead, #content h1.title .lead, body h1.title .lead {
           font-size: 40px; } }
   #content h2, body h2 {
     font-weight: bold;
     margin-bottom: 20px;
     font-size: 31.68px;
     font-family: "Arial bold", sans-serif; }
-    #content h2 .lead, body h2 .lead, #content h2 body .part p strong, body .part p #content h2 strong, body h2 .part p strong, body .part p h2 strong, body .part #content h2 blockquote strong, body h2 .part #content blockquote strong, body .part #content blockquote h2 strong, #content body h2 .part blockquote strong, #content body .part blockquote h2 strong, #content h2 body .part blockquote strong, body .part blockquote #content h2 strong, body h2 .part blockquote strong, body .part blockquote h2 strong {
+    #content h2 .lead, body h2 .lead {
       font-size: 35.64px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content h2, body h2 {
@@ -4246,7 +4292,7 @@ body {
         margin-bottom: 25px;
         font-size: 28.8px;
         font-family: "Arial bold", sans-serif; }
-        #content h2 .lead, body h2 .lead, #content h2 body .part p strong, body .part p #content h2 strong, body h2 .part p strong, body .part p h2 strong, body .part #content h2 blockquote strong, body h2 .part #content blockquote strong, body .part #content blockquote h2 strong, #content body h2 .part blockquote strong, #content body .part blockquote h2 strong, #content h2 body .part blockquote strong, body .part blockquote #content h2 strong, body h2 .part blockquote strong, body .part blockquote h2 strong {
+        #content h2 .lead, body h2 .lead {
           font-size: 32.4px; } }
     @media (min-width: 1024px) {
       #content h2, body h2 {
@@ -4254,14 +4300,14 @@ body {
         margin-bottom: 30px;
         font-size: 32px;
         font-family: "Arial bold", sans-serif; }
-        #content h2 .lead, body h2 .lead, #content h2 body .part p strong, body .part p #content h2 strong, body h2 .part p strong, body .part p h2 strong, body .part #content h2 blockquote strong, body h2 .part #content blockquote strong, body .part #content blockquote h2 strong, #content body h2 .part blockquote strong, #content body .part blockquote h2 strong, #content h2 body .part blockquote strong, body .part blockquote #content h2 strong, body h2 .part blockquote strong, body .part blockquote h2 strong {
+        #content h2 .lead, body h2 .lead {
           font-size: 36px; } }
   #content h3, body h3 {
     font-weight: bold;
     margin-bottom: 17px;
     font-size: 27.72px;
     font-family: "Arial bold", sans-serif; }
-    #content h3 .lead, body h3 .lead, #content h3 body .part p strong, body .part p #content h3 strong, body h3 .part p strong, body .part p h3 strong, body .part #content h3 blockquote strong, body h3 .part #content blockquote strong, body .part #content blockquote h3 strong, #content body h3 .part blockquote strong, #content body .part blockquote h3 strong, #content h3 body .part blockquote strong, body .part blockquote #content h3 strong, body h3 .part blockquote strong, body .part blockquote h3 strong {
+    #content h3 .lead, body h3 .lead {
       font-size: 31.68px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content h3, body h3 {
@@ -4269,7 +4315,7 @@ body {
         margin-bottom: 20px;
         font-size: 25.2px;
         font-family: "Arial bold", sans-serif; }
-        #content h3 .lead, body h3 .lead, #content h3 body .part p strong, body .part p #content h3 strong, body h3 .part p strong, body .part p h3 strong, body .part #content h3 blockquote strong, body h3 .part #content blockquote strong, body .part #content blockquote h3 strong, #content body h3 .part blockquote strong, #content body .part blockquote h3 strong, #content h3 body .part blockquote strong, body .part blockquote #content h3 strong, body h3 .part blockquote strong, body .part blockquote h3 strong {
+        #content h3 .lead, body h3 .lead {
           font-size: 28.8px; } }
     @media (min-width: 1024px) {
       #content h3, body h3 {
@@ -4277,14 +4323,14 @@ body {
         margin-bottom: 25px;
         font-size: 28px;
         font-family: "Arial bold", sans-serif; }
-        #content h3 .lead, body h3 .lead, #content h3 body .part p strong, body .part p #content h3 strong, body h3 .part p strong, body .part p h3 strong, body .part #content h3 blockquote strong, body h3 .part #content blockquote strong, body .part #content blockquote h3 strong, #content body h3 .part blockquote strong, #content body .part blockquote h3 strong, #content h3 body .part blockquote strong, body .part blockquote #content h3 strong, body h3 .part blockquote strong, body .part blockquote h3 strong {
+        #content h3 .lead, body h3 .lead {
           font-size: 32px; } }
   #content h4, body h4 {
     font-weight: bold;
     margin-bottom: 14px;
     font-size: 21.78px;
     font-family: "Arial black", sans-serif; }
-    #content h4 .lead, body h4 .lead, #content h4 body .part p strong, body .part p #content h4 strong, body h4 .part p strong, body .part p h4 strong, body .part #content h4 blockquote strong, body h4 .part #content blockquote strong, body .part #content blockquote h4 strong, #content body h4 .part blockquote strong, #content body .part blockquote h4 strong, #content h4 body .part blockquote strong, body .part blockquote #content h4 strong, body h4 .part blockquote strong, body .part blockquote h4 strong {
+    #content h4 .lead, body h4 .lead {
       font-size: 25.74px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content h4, body h4 {
@@ -4292,7 +4338,7 @@ body {
         margin-bottom: 15px;
         font-size: 19.8px;
         font-family: "Arial black", sans-serif; }
-        #content h4 .lead, body h4 .lead, #content h4 body .part p strong, body .part p #content h4 strong, body h4 .part p strong, body .part p h4 strong, body .part #content h4 blockquote strong, body h4 .part #content blockquote strong, body .part #content blockquote h4 strong, #content body h4 .part blockquote strong, #content body .part blockquote h4 strong, #content h4 body .part blockquote strong, body .part blockquote #content h4 strong, body h4 .part blockquote strong, body .part blockquote h4 strong {
+        #content h4 .lead, body h4 .lead {
           font-size: 23.4px; } }
     @media (min-width: 1024px) {
       #content h4, body h4 {
@@ -4300,14 +4346,14 @@ body {
         margin-bottom: 20px;
         font-size: 22px;
         font-family: "Arial black", sans-serif; }
-        #content h4 .lead, body h4 .lead, #content h4 body .part p strong, body .part p #content h4 strong, body h4 .part p strong, body .part p h4 strong, body .part #content h4 blockquote strong, body h4 .part #content blockquote strong, body .part #content blockquote h4 strong, #content body h4 .part blockquote strong, #content body .part blockquote h4 strong, #content h4 body .part blockquote strong, body .part blockquote #content h4 strong, body h4 .part blockquote strong, body .part blockquote h4 strong {
+        #content h4 .lead, body h4 .lead {
           font-size: 26px; } }
   #content h5, body h5 {
     font-weight: bold;
     margin-bottom: 14px;
     font-size: 21.78px;
     font-family: "Arial bold", sans-serif; }
-    #content h5 .lead, body h5 .lead, #content h5 body .part p strong, body .part p #content h5 strong, body h5 .part p strong, body .part p h5 strong, body .part #content h5 blockquote strong, body h5 .part #content blockquote strong, body .part #content blockquote h5 strong, #content body h5 .part blockquote strong, #content body .part blockquote h5 strong, #content h5 body .part blockquote strong, body .part blockquote #content h5 strong, body h5 .part blockquote strong, body .part blockquote h5 strong {
+    #content h5 .lead, body h5 .lead {
       font-size: 25.74px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content h5, body h5 {
@@ -4315,7 +4361,7 @@ body {
         margin-bottom: 15px;
         font-size: 19.8px;
         font-family: "Arial bold", sans-serif; }
-        #content h5 .lead, body h5 .lead, #content h5 body .part p strong, body .part p #content h5 strong, body h5 .part p strong, body .part p h5 strong, body .part #content h5 blockquote strong, body h5 .part #content blockquote strong, body .part #content blockquote h5 strong, #content body h5 .part blockquote strong, #content body .part blockquote h5 strong, #content h5 body .part blockquote strong, body .part blockquote #content h5 strong, body h5 .part blockquote strong, body .part blockquote h5 strong {
+        #content h5 .lead, body h5 .lead {
           font-size: 23.4px; } }
     @media (min-width: 1024px) {
       #content h5, body h5 {
@@ -4323,14 +4369,14 @@ body {
         margin-bottom: 20px;
         font-size: 22px;
         font-family: "Arial bold", sans-serif; }
-        #content h5 .lead, body h5 .lead, #content h5 body .part p strong, body .part p #content h5 strong, body h5 .part p strong, body .part p h5 strong, body .part #content h5 blockquote strong, body h5 .part #content blockquote strong, body .part #content blockquote h5 strong, #content body h5 .part blockquote strong, #content body .part blockquote h5 strong, #content h5 body .part blockquote strong, body .part blockquote #content h5 strong, body h5 .part blockquote strong, body .part blockquote h5 strong {
+        #content h5 .lead, body h5 .lead {
           font-size: 26px; } }
   #content h6, body h6, #content table thead tr th, body table thead tr #content th, body table thead tr th, #content table tbody tr th, body table tbody tr #content th, body table tbody tr th, #content table tfoot tr th, body table tfoot tr #content th, body table tfoot tr th {
     font-weight: bold;
     margin-bottom: 13px;
     font-size: 17.82px;
     font-family: "Arial black", sans-serif; }
-    #content h6 .lead, body h6 .lead, #content table thead tr th .lead, body table thead tr #content th .lead, body table thead tr th .lead, #content table tbody tr th .lead, body table tbody tr #content th .lead, body table tbody tr th .lead, #content table tfoot tr th .lead, body table tfoot tr #content th .lead, body table tfoot tr th .lead, #content h6 body .part p strong, body .part p #content h6 strong, body h6 .part p strong, body .part p h6 strong, #content table thead tr th body .part p strong, body #content table thead tr th .part p strong, body .part p #content table thead tr th strong, #content table thead tr body th .part p strong, #content table thead tr body .part p th strong, #content body table thead tr th .part p strong, #content body .part p table thead tr th strong, body table thead tr #content th .part p strong, body .part p table thead tr #content th strong, body table thead tr th .part p strong, body .part p table thead tr th strong, #content table tbody tr th body .part p strong, body #content table tbody tr th .part p strong, body .part p #content table tbody tr th strong, #content table tbody tr body th .part p strong, #content table tbody tr body .part p th strong, #content body table tbody tr th .part p strong, #content body .part p table tbody tr th strong, body table tbody tr #content th .part p strong, body .part p table tbody tr #content th strong, body table tbody tr th .part p strong, body .part p table tbody tr th strong, #content table tfoot tr th body .part p strong, body #content table tfoot tr th .part p strong, body .part p #content table tfoot tr th strong, #content table tfoot tr body th .part p strong, #content table tfoot tr body .part p th strong, #content body table tfoot tr th .part p strong, #content body .part p table tfoot tr th strong, body table tfoot tr #content th .part p strong, body .part p table tfoot tr #content th strong, body table tfoot tr th .part p strong, body .part p table tfoot tr th strong, body .part #content h6 blockquote strong, body h6 .part #content blockquote strong, body .part #content blockquote h6 strong, body .part #content table thead tr th blockquote strong, body table thead tr .part #content th blockquote strong, body .part table thead tr #content th blockquote strong, body table thead tr .part #content blockquote th strong, body .part table thead tr #content blockquote th strong, body table thead tr th .part #content blockquote strong, body .part #content blockquote table thead tr th strong, body .part #content table tbody tr th blockquote strong, body table tbody tr .part #content th blockquote strong, body .part table tbody tr #content th blockquote strong, body table tbody tr .part #content blockquote th strong, body .part table tbody tr #content blockquote th strong, body table tbody tr th .part #content blockquote strong, body .part #content blockquote table tbody tr th strong, body .part #content table tfoot tr th blockquote strong, body table tfoot tr .part #content th blockquote strong, body .part table tfoot tr #content th blockquote strong, body table tfoot tr .part #content blockquote th strong, body .part table tfoot tr #content blockquote th strong, body table tfoot tr th .part #content blockquote strong, body .part #content blockquote table tfoot tr th strong, #content body h6 .part blockquote strong, #content body .part blockquote h6 strong, body table thead tr #content body .part blockquote th strong, body table tbody tr #content body .part blockquote th strong, body table tfoot tr #content body .part blockquote th strong, #content h6 body .part blockquote strong, body .part blockquote #content h6 strong, body h6 .part blockquote strong, body .part blockquote h6 strong, #content table thead tr th body .part blockquote strong, body #content table thead tr th .part blockquote strong, body .part blockquote #content table thead tr th strong, #content table thead tr body th .part blockquote strong, #content table thead tr body .part blockquote th strong, #content body table thead tr th .part blockquote strong, #content body .part blockquote table thead tr th strong, body table thead tr #content th .part blockquote strong, body .part blockquote table thead tr #content th strong, body table thead tr th .part blockquote strong, body .part blockquote table thead tr th strong, #content table tbody tr th body .part blockquote strong, body #content table tbody tr th .part blockquote strong, body .part blockquote #content table tbody tr th strong, #content table tbody tr body th .part blockquote strong, #content table tbody tr body .part blockquote th strong, #content body table tbody tr th .part blockquote strong, #content body .part blockquote table tbody tr th strong, body table tbody tr #content th .part blockquote strong, body .part blockquote table tbody tr #content th strong, body table tbody tr th .part blockquote strong, body .part blockquote table tbody tr th strong, #content table tfoot tr th body .part blockquote strong, body #content table tfoot tr th .part blockquote strong, body .part blockquote #content table tfoot tr th strong, #content table tfoot tr body th .part blockquote strong, #content table tfoot tr body .part blockquote th strong, #content body table tfoot tr th .part blockquote strong, #content body .part blockquote table tfoot tr th strong, body table tfoot tr #content th .part blockquote strong, body .part blockquote table tfoot tr #content th strong, body table tfoot tr th .part blockquote strong, body .part blockquote table tfoot tr th strong {
+    #content h6 .lead, body h6 .lead, #content table thead tr th .lead, body table thead tr #content th .lead, body table thead tr th .lead, #content table tbody tr th .lead, body table tbody tr #content th .lead, body table tbody tr th .lead, #content table tfoot tr th .lead, body table tfoot tr #content th .lead, body table tfoot tr th .lead {
       font-size: 23.76px; }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content h6, body h6, #content table thead tr th, body table thead tr #content th, body table thead tr th, #content table tbody tr th, body table tbody tr #content th, body table tbody tr th, #content table tfoot tr th, body table tfoot tr #content th, body table tfoot tr th {
@@ -4338,7 +4384,7 @@ body {
         margin-bottom: 15px;
         font-size: 16.2px;
         font-family: "Arial black", sans-serif; }
-        #content h6 .lead, body h6 .lead, #content table thead tr th .lead, body table thead tr #content th .lead, body table thead tr th .lead, #content table tbody tr th .lead, body table tbody tr #content th .lead, body table tbody tr th .lead, #content table tfoot tr th .lead, body table tfoot tr #content th .lead, body table tfoot tr th .lead, #content h6 body .part p strong, body .part p #content h6 strong, body h6 .part p strong, body .part p h6 strong, #content table thead tr th body .part p strong, body #content table thead tr th .part p strong, body .part p #content table thead tr th strong, #content table thead tr body th .part p strong, #content table thead tr body .part p th strong, #content body table thead tr th .part p strong, #content body .part p table thead tr th strong, body table thead tr #content th .part p strong, body .part p table thead tr #content th strong, body table thead tr th .part p strong, body .part p table thead tr th strong, #content table tbody tr th body .part p strong, body #content table tbody tr th .part p strong, body .part p #content table tbody tr th strong, #content table tbody tr body th .part p strong, #content table tbody tr body .part p th strong, #content body table tbody tr th .part p strong, #content body .part p table tbody tr th strong, body table tbody tr #content th .part p strong, body .part p table tbody tr #content th strong, body table tbody tr th .part p strong, body .part p table tbody tr th strong, #content table tfoot tr th body .part p strong, body #content table tfoot tr th .part p strong, body .part p #content table tfoot tr th strong, #content table tfoot tr body th .part p strong, #content table tfoot tr body .part p th strong, #content body table tfoot tr th .part p strong, #content body .part p table tfoot tr th strong, body table tfoot tr #content th .part p strong, body .part p table tfoot tr #content th strong, body table tfoot tr th .part p strong, body .part p table tfoot tr th strong, body .part #content h6 blockquote strong, body h6 .part #content blockquote strong, body .part #content blockquote h6 strong, body .part #content table thead tr th blockquote strong, body table thead tr .part #content th blockquote strong, body .part table thead tr #content th blockquote strong, body table thead tr .part #content blockquote th strong, body .part table thead tr #content blockquote th strong, body table thead tr th .part #content blockquote strong, body .part #content blockquote table thead tr th strong, body .part #content table tbody tr th blockquote strong, body table tbody tr .part #content th blockquote strong, body .part table tbody tr #content th blockquote strong, body table tbody tr .part #content blockquote th strong, body .part table tbody tr #content blockquote th strong, body table tbody tr th .part #content blockquote strong, body .part #content blockquote table tbody tr th strong, body .part #content table tfoot tr th blockquote strong, body table tfoot tr .part #content th blockquote strong, body .part table tfoot tr #content th blockquote strong, body table tfoot tr .part #content blockquote th strong, body .part table tfoot tr #content blockquote th strong, body table tfoot tr th .part #content blockquote strong, body .part #content blockquote table tfoot tr th strong, #content body h6 .part blockquote strong, #content body .part blockquote h6 strong, body table thead tr #content body .part blockquote th strong, body table tbody tr #content body .part blockquote th strong, body table tfoot tr #content body .part blockquote th strong, #content h6 body .part blockquote strong, body .part blockquote #content h6 strong, body h6 .part blockquote strong, body .part blockquote h6 strong, #content table thead tr th body .part blockquote strong, body #content table thead tr th .part blockquote strong, body .part blockquote #content table thead tr th strong, #content table thead tr body th .part blockquote strong, #content table thead tr body .part blockquote th strong, #content body table thead tr th .part blockquote strong, #content body .part blockquote table thead tr th strong, body table thead tr #content th .part blockquote strong, body .part blockquote table thead tr #content th strong, body table thead tr th .part blockquote strong, body .part blockquote table thead tr th strong, #content table tbody tr th body .part blockquote strong, body #content table tbody tr th .part blockquote strong, body .part blockquote #content table tbody tr th strong, #content table tbody tr body th .part blockquote strong, #content table tbody tr body .part blockquote th strong, #content body table tbody tr th .part blockquote strong, #content body .part blockquote table tbody tr th strong, body table tbody tr #content th .part blockquote strong, body .part blockquote table tbody tr #content th strong, body table tbody tr th .part blockquote strong, body .part blockquote table tbody tr th strong, #content table tfoot tr th body .part blockquote strong, body #content table tfoot tr th .part blockquote strong, body .part blockquote #content table tfoot tr th strong, #content table tfoot tr body th .part blockquote strong, #content table tfoot tr body .part blockquote th strong, #content body table tfoot tr th .part blockquote strong, #content body .part blockquote table tfoot tr th strong, body table tfoot tr #content th .part blockquote strong, body .part blockquote table tfoot tr #content th strong, body table tfoot tr th .part blockquote strong, body .part blockquote table tfoot tr th strong {
+        #content h6 .lead, body h6 .lead, #content table thead tr th .lead, body table thead tr #content th .lead, body table thead tr th .lead, #content table tbody tr th .lead, body table tbody tr #content th .lead, body table tbody tr th .lead, #content table tfoot tr th .lead, body table tfoot tr #content th .lead, body table tfoot tr th .lead {
           font-size: 21.6px; } }
     @media (min-width: 1024px) {
       #content h6, body h6, #content table thead tr th, body table thead tr #content th, body table thead tr th, #content table tbody tr th, body table tbody tr #content th, body table tbody tr th, #content table tfoot tr th, body table tfoot tr #content th, body table tfoot tr th {
@@ -4346,39 +4392,39 @@ body {
         margin-bottom: 20px;
         font-size: 18px;
         font-family: "Arial black", sans-serif; }
-        #content h6 .lead, body h6 .lead, #content table thead tr th .lead, body table thead tr #content th .lead, body table thead tr th .lead, #content table tbody tr th .lead, body table tbody tr #content th .lead, body table tbody tr th .lead, #content table tfoot tr th .lead, body table tfoot tr #content th .lead, body table tfoot tr th .lead, #content h6 body .part p strong, body .part p #content h6 strong, body h6 .part p strong, body .part p h6 strong, #content table thead tr th body .part p strong, body #content table thead tr th .part p strong, body .part p #content table thead tr th strong, #content table thead tr body th .part p strong, #content table thead tr body .part p th strong, #content body table thead tr th .part p strong, #content body .part p table thead tr th strong, body table thead tr #content th .part p strong, body .part p table thead tr #content th strong, body table thead tr th .part p strong, body .part p table thead tr th strong, #content table tbody tr th body .part p strong, body #content table tbody tr th .part p strong, body .part p #content table tbody tr th strong, #content table tbody tr body th .part p strong, #content table tbody tr body .part p th strong, #content body table tbody tr th .part p strong, #content body .part p table tbody tr th strong, body table tbody tr #content th .part p strong, body .part p table tbody tr #content th strong, body table tbody tr th .part p strong, body .part p table tbody tr th strong, #content table tfoot tr th body .part p strong, body #content table tfoot tr th .part p strong, body .part p #content table tfoot tr th strong, #content table tfoot tr body th .part p strong, #content table tfoot tr body .part p th strong, #content body table tfoot tr th .part p strong, #content body .part p table tfoot tr th strong, body table tfoot tr #content th .part p strong, body .part p table tfoot tr #content th strong, body table tfoot tr th .part p strong, body .part p table tfoot tr th strong, body .part #content h6 blockquote strong, body h6 .part #content blockquote strong, body .part #content blockquote h6 strong, body .part #content table thead tr th blockquote strong, body table thead tr .part #content th blockquote strong, body .part table thead tr #content th blockquote strong, body table thead tr .part #content blockquote th strong, body .part table thead tr #content blockquote th strong, body table thead tr th .part #content blockquote strong, body .part #content blockquote table thead tr th strong, body .part #content table tbody tr th blockquote strong, body table tbody tr .part #content th blockquote strong, body .part table tbody tr #content th blockquote strong, body table tbody tr .part #content blockquote th strong, body .part table tbody tr #content blockquote th strong, body table tbody tr th .part #content blockquote strong, body .part #content blockquote table tbody tr th strong, body .part #content table tfoot tr th blockquote strong, body table tfoot tr .part #content th blockquote strong, body .part table tfoot tr #content th blockquote strong, body table tfoot tr .part #content blockquote th strong, body .part table tfoot tr #content blockquote th strong, body table tfoot tr th .part #content blockquote strong, body .part #content blockquote table tfoot tr th strong, #content body h6 .part blockquote strong, #content body .part blockquote h6 strong, body table thead tr #content body .part blockquote th strong, body table tbody tr #content body .part blockquote th strong, body table tfoot tr #content body .part blockquote th strong, #content h6 body .part blockquote strong, body .part blockquote #content h6 strong, body h6 .part blockquote strong, body .part blockquote h6 strong, #content table thead tr th body .part blockquote strong, body #content table thead tr th .part blockquote strong, body .part blockquote #content table thead tr th strong, #content table thead tr body th .part blockquote strong, #content table thead tr body .part blockquote th strong, #content body table thead tr th .part blockquote strong, #content body .part blockquote table thead tr th strong, body table thead tr #content th .part blockquote strong, body .part blockquote table thead tr #content th strong, body table thead tr th .part blockquote strong, body .part blockquote table thead tr th strong, #content table tbody tr th body .part blockquote strong, body #content table tbody tr th .part blockquote strong, body .part blockquote #content table tbody tr th strong, #content table tbody tr body th .part blockquote strong, #content table tbody tr body .part blockquote th strong, #content body table tbody tr th .part blockquote strong, #content body .part blockquote table tbody tr th strong, body table tbody tr #content th .part blockquote strong, body .part blockquote table tbody tr #content th strong, body table tbody tr th .part blockquote strong, body .part blockquote table tbody tr th strong, #content table tfoot tr th body .part blockquote strong, body #content table tfoot tr th .part blockquote strong, body .part blockquote #content table tfoot tr th strong, #content table tfoot tr body th .part blockquote strong, #content table tfoot tr body .part blockquote th strong, #content body table tfoot tr th .part blockquote strong, #content body .part blockquote table tfoot tr th strong, body table tfoot tr #content th .part blockquote strong, body .part blockquote table tfoot tr #content th strong, body table tfoot tr th .part blockquote strong, body .part blockquote table tfoot tr th strong {
+        #content h6 .lead, body h6 .lead, #content table thead tr th .lead, body table thead tr #content th .lead, body table thead tr th .lead, #content table tbody tr th .lead, body table tbody tr #content th .lead, body table tbody tr th .lead, #content table tfoot tr th .lead, body table tfoot tr #content th .lead, body table tfoot tr th .lead {
           font-size: 24px; } }
-  #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
+  #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content body div.oppgaver-li-oppgavetekst, body #content div.oppgaver-li-oppgavetekst, body div.oppgaver-li-oppgavetekst, #content body div.underoppgaver-li-oppgavetekst, body #content div.underoppgaver-li-oppgavetekst, body div.underoppgaver-li-oppgavetekst, #content body div.docauthor, body #content div.docauthor, body div.docauthor, #content div.line, body div.line {
     margin-bottom: 30px;
     font-size: 17.82px;
     font-family: Arial, sans-serif;
     zoom: 1; }
-    #content p.lead, body p.lead, #content blockquote.lead, body blockquote.lead, #content div.line.lead, body div.line.lead {
+    #content p.lead, body p.lead, #content blockquote.lead, body blockquote.lead, #content body div.lead.oppgaver-li-oppgavetekst, body #content div.lead.oppgaver-li-oppgavetekst, body div.lead.oppgaver-li-oppgavetekst, #content body div.lead.underoppgaver-li-oppgavetekst, body #content div.lead.underoppgaver-li-oppgavetekst, body div.lead.underoppgaver-li-oppgavetekst, #content body div.lead.docauthor, body #content div.lead.docauthor, body div.lead.docauthor, #content div.line.lead, body div.line.lead {
       font-size: 26.73px; }
     @media (max-width: 639.98px) {
-      #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
+      #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content body div.oppgaver-li-oppgavetekst, body #content div.oppgaver-li-oppgavetekst, body div.oppgaver-li-oppgavetekst, #content body div.underoppgaver-li-oppgavetekst, body #content div.underoppgaver-li-oppgavetekst, body div.underoppgaver-li-oppgavetekst, #content body div.docauthor, body #content div.docauthor, body div.docauthor, #content div.line, body div.line {
         overflow-wrap: break-word; } }
     @media (min-width: 768px) and (max-width: 1023.98px) {
-      #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
+      #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content body div.oppgaver-li-oppgavetekst, body #content div.oppgaver-li-oppgavetekst, body div.oppgaver-li-oppgavetekst, #content body div.underoppgaver-li-oppgavetekst, body #content div.underoppgaver-li-oppgavetekst, body div.underoppgaver-li-oppgavetekst, #content body div.docauthor, body #content div.docauthor, body div.docauthor, #content div.line, body div.line {
         margin-bottom: 36px;
         font-size: 16.2px;
         font-family: Arial, sans-serif;
         zoom: 1; }
-        #content p.lead, body p.lead, #content blockquote.lead, body blockquote.lead, #content div.line.lead, body div.line.lead {
+        #content p.lead, body p.lead, #content blockquote.lead, body blockquote.lead, #content body div.lead.oppgaver-li-oppgavetekst, body #content div.lead.oppgaver-li-oppgavetekst, body div.lead.oppgaver-li-oppgavetekst, #content body div.lead.underoppgaver-li-oppgavetekst, body #content div.lead.underoppgaver-li-oppgavetekst, body div.lead.underoppgaver-li-oppgavetekst, #content body div.lead.docauthor, body #content div.lead.docauthor, body div.lead.docauthor, #content div.line.lead, body div.line.lead {
           font-size: 24.3px; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
-    #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
+    #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content body div.oppgaver-li-oppgavetekst, body #content div.oppgaver-li-oppgavetekst, body div.oppgaver-li-oppgavetekst, #content body div.underoppgaver-li-oppgavetekst, body #content div.underoppgaver-li-oppgavetekst, body div.underoppgaver-li-oppgavetekst, #content body div.docauthor, body #content div.docauthor, body div.docauthor, #content div.line, body div.line {
       overflow-wrap: break-word; } }
     @media (min-width: 1024px) {
-      #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
+      #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content body div.oppgaver-li-oppgavetekst, body #content div.oppgaver-li-oppgavetekst, body div.oppgaver-li-oppgavetekst, #content body div.underoppgaver-li-oppgavetekst, body #content div.underoppgaver-li-oppgavetekst, body div.underoppgaver-li-oppgavetekst, #content body div.docauthor, body #content div.docauthor, body div.docauthor, #content div.line, body div.line {
         margin-bottom: 45px;
         font-size: 18px;
         font-family: Arial, sans-serif;
         zoom: 1; }
-        #content p.lead, body p.lead, #content blockquote.lead, body blockquote.lead, #content div.line.lead, body div.line.lead {
+        #content p.lead, body p.lead, #content blockquote.lead, body blockquote.lead, #content body div.lead.oppgaver-li-oppgavetekst, body #content div.lead.oppgaver-li-oppgavetekst, body div.lead.oppgaver-li-oppgavetekst, #content body div.lead.underoppgaver-li-oppgavetekst, body #content div.lead.underoppgaver-li-oppgavetekst, body div.lead.underoppgaver-li-oppgavetekst, #content body div.lead.docauthor, body #content div.lead.docauthor, body div.lead.docauthor, #content div.line.lead, body div.line.lead {
           font-size: 27px; } }
   @media (min-width: 1024px) and (max-width: 639.98px) {
-    #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content div.line, body div.line {
+    #content p, body p, #content blockquote, body #content blockquote, #content body blockquote, #content body blockquote, body #content blockquote, body blockquote, #content body div.oppgaver-li-oppgavetekst, body #content div.oppgaver-li-oppgavetekst, body div.oppgaver-li-oppgavetekst, #content body div.underoppgaver-li-oppgavetekst, body #content div.underoppgaver-li-oppgavetekst, body div.underoppgaver-li-oppgavetekst, #content body div.docauthor, body #content div.docauthor, body div.docauthor, #content div.line, body div.line {
       overflow-wrap: break-word; } }
   #content img, body img {
     margin-bottom: 1.5rem !important; }
@@ -4523,7 +4569,7 @@ body {
     @media (max-width: 639.98px) {
       #content .generisk-ramme, body .generisk-ramme {
         overflow-wrap: break-word; } }
-    #content .generisk-ramme.lead, body .generisk-ramme.lead, #content body .part p strong.generisk-ramme, body .part p #content strong.generisk-ramme, body .part p strong.generisk-ramme, body .part #content blockquote strong.generisk-ramme, #content body .part blockquote strong.generisk-ramme, body .part blockquote #content strong.generisk-ramme, body .part blockquote strong.generisk-ramme {
+    #content .generisk-ramme.lead, body .generisk-ramme.lead {
       font-size: 26.73px; }
     @media (max-width: 639.98px) {
       #content .generisk-ramme, body .generisk-ramme {
@@ -4534,7 +4580,7 @@ body {
         font-size: 16.2px;
         font-family: Arial, sans-serif;
         zoom: 1; }
-        #content .generisk-ramme.lead, body .generisk-ramme.lead, #content body .part p strong.generisk-ramme, body .part p #content strong.generisk-ramme, body .part p strong.generisk-ramme, body .part #content blockquote strong.generisk-ramme, #content body .part blockquote strong.generisk-ramme, body .part blockquote #content strong.generisk-ramme, body .part blockquote strong.generisk-ramme {
+        #content .generisk-ramme.lead, body .generisk-ramme.lead {
           font-size: 24.3px; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
     #content .generisk-ramme, body .generisk-ramme {
@@ -4545,7 +4591,7 @@ body {
         font-size: 18px;
         font-family: Arial, sans-serif;
         zoom: 1; }
-        #content .generisk-ramme.lead, body .generisk-ramme.lead, #content body .part p strong.generisk-ramme, body .part p #content strong.generisk-ramme, body .part p strong.generisk-ramme, body .part #content blockquote strong.generisk-ramme, #content body .part blockquote strong.generisk-ramme, body .part blockquote #content strong.generisk-ramme, body .part blockquote strong.generisk-ramme {
+        #content .generisk-ramme.lead, body .generisk-ramme.lead {
           font-size: 27px; } }
   @media (min-width: 1024px) and (max-width: 639.98px) {
     #content .generisk-ramme, body .generisk-ramme {
@@ -4651,15 +4697,57 @@ body {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto; }
-  body #toc-html a {
-    color: #000; }
-  body .preface .precedingemptyline, body .colophon .precedingemptyline, body [*|type="colophon"] .precedingemptyline {
+  body .colophon .precedingemptyline, body [*|type="colophon"] .precedingemptyline {
     margin-top: 1.5rem !important; }
-  body .notebody p, body .notebody #content blockquote, #content body .notebody blockquote, body .notebody blockquote {
-    display: block;
-    padding: 15px 20px;
-    border-top: 1px solid #B1C900;
-    margin-bottom: 0; }
+  body .page-front, body .pagenum {
+    display: none !important; }
+  body span.sentence,
+  body span.lic,
+  body span.page-normal,
+  body span.page-special,
+  body h1, body h2, body h3, body h4, body h5, body h6, body #content table thead tr th, #content table thead tr body th, body table thead tr th, body #content table tbody tr th, #content table tbody tr body th, body table tbody tr th, body #content table tfoot tr th, #content table tfoot tr body th, body table tfoot tr th,
+  body div.doctitle,
+  body div.docauthor,
+  body div.imggroup div.caption,
+  body table tr td,
+  body ul,
+  body p,
+  body #content blockquote,
+  #content body blockquote,
+  body blockquote,
+  body div.oppgaver-li-oppgavetekst,
+  body div.underoppgaver-li-oppgavetekst,
+  body div.docauthor {
+    background-color: inherit; }
+    body span.sentence a:hover,
+    body span.lic a:hover,
+    body span.page-normal a:hover,
+    body span.page-special a:hover,
+    body h1 a:hover, body h2 a:hover, body h3 a:hover, body h4 a:hover, body h5 a:hover, body h6 a:hover, body #content table thead tr th a:hover, #content table thead tr body th a:hover, body table thead tr th a:hover, body #content table tbody tr th a:hover, #content table tbody tr body th a:hover, body table tbody tr th a:hover, body #content table tfoot tr th a:hover, #content table tfoot tr body th a:hover, body table tfoot tr th a:hover,
+    body div.doctitle a:hover,
+    body div.docauthor a:hover,
+    body div.imggroup div.caption a:hover,
+    body table tr td a:hover,
+    body ul a:hover,
+    body p a:hover,
+    body #content blockquote a:hover,
+    #content body blockquote a:hover,
+    body blockquote a:hover,
+    body div.oppgaver-li-oppgavetekst a:hover,
+    body div.underoppgaver-li-oppgavetekst a:hover,
+    body div.docauthor a:hover {
+      background-color: #ff0;
+      text-decoration: none; }
+  body ul.plain, body ul.pl {
+    list-style-type: none; }
+  body .start-info {
+    margin-bottom: 30px; }
+    @media (min-width: 640px) and (max-width: 767.98px) {
+      body .start-info {
+        margin-bottom: 36px; } }
+    @media (min-width: 768px) {
+      body .start-info {
+        margin-bottom: 45px; } }
 
 /* End Statped.SCSS */
 

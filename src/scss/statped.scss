@@ -7,35 +7,63 @@
 body {
     @include make-container();
     @extend #content;
-
-    #toc-html {
-        a {
-            color: $black;
-        }
-    }
     
-    .preface, .colophon, [*|type="colophon"] {
+    .colophon, [*|type="colophon"] {
         .precedingemptyline {
             margin-top: $line-height-sm+rem !important;
         }
+    
         p {
             @extend .my-0;
         }
     }
+ 
+    .page-front, .pagenum {
+        display: none !important;
+    }
     
-    .part {
-        p strong {
-            @extend .lead;
+    span.sentence, 
+    span.lic, 
+    span.page-normal, 
+    span.page-special,  
+    h1, h2, h3, h4, h5, h6, 
+    div.doctitle, 
+    div.docauthor,
+    div.imggroup div.caption, 
+    table tr td,
+    ul,
+    p {
+        background-color: inherit;
+
+        a {
+            @extend .text-dark;
+        }
+        a:hover {
+            background-color: #ff0;
+            text-decoration: none;
         }
     }
-    .notebody {
-        p {
-            display: block;
-            padding: 15px 20px;
-            border-top: 1px solid $nlb-green;
-            margin-bottom: 0;
+    
+    ul.plain, ul.pl {
+        list-style-type: none;
+    }
+    div.oppgaver-li-oppgavetekst, div.underoppgaver-li-oppgavetekst, div.docauthor {
+        @extend p;
+    }
+    div.produsent {
+        @extend .blockquote;
+    }
+    .start-info {
+        margin-bottom: $nlb-p-margin-bottom-sm;
+    
+        @include media-breakpoint-only('sm') {
+            margin-bottom: $nlb-p-margin-bottom-md;
         }
+    
+        @include media-breakpoint-up('md') {
+            margin-bottom: $nlb-p-margin-bottom-lg;
+        }
+    
     }
 }
-
 /* End Statped.SCSS */
