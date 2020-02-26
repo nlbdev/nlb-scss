@@ -1896,8 +1896,12 @@ body .page-special,
 .my-auto {
   margin-top: auto !important; }
 
-.mr-auto, #content figure img, body figure img, #content .imggroup img, body .imggroup img,
-.mx-auto {
+.mr-auto,
+.mx-auto,
+#content figure img,
+body figure img,
+#content .imggroup img,
+body .imggroup img {
   margin-right: auto !important; }
 
 .mb-auto,
@@ -1905,7 +1909,11 @@ body .page-special,
   margin-bottom: auto !important; }
 
 .ml-auto,
-.mx-auto {
+.mx-auto,
+#content figure img,
+body figure img,
+#content .imggroup img,
+body .imggroup img {
   margin-left: auto !important; }
 
 @media (min-width: 640px) {
@@ -2941,7 +2949,7 @@ body .page-special,
   text-overflow: ellipsis;
   white-space: nowrap; }
 
-.text-left, body figure figcaption, body figure .caption, body .imggroup figcaption, body .imggroup .caption {
+.text-left {
   text-align: left !important; }
 
 .text-right, #content .page-normal, body .page-normal,
@@ -4688,37 +4696,7 @@ body {
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
-  margin-left: auto;
-  /* Images
-     * ---------------------------------------------------------- */ }
-  body img {
-    margin-bottom: 1.5rem !important; }
-  body figure, body .imggroup {
-    width: 100%;
-    margin-bottom: 30px; }
-    @media (min-width: 768px) and (max-width: 1023.98px) {
-      body figure, body .imggroup {
-        text-align: left;
-        margin-bottom: 36px; } }
-    @media (min-width: 1024px) {
-      body figure, body .imggroup {
-        text-align: left;
-        margin-bottom: 45px; } }
-    body figure img, body .imggroup img {
-      max-width: 100%; }
-      @media (min-width: 768px) {
-        body figure img, body .imggroup img {
-          max-width: 70%; } }
-    body figure figcaption, body figure .caption, body .imggroup figcaption, body .imggroup .caption {
-      color: #212d39;
-      min-height: 15px;
-      margin-top: 15px; }
-      @media (min-width: 768px) and (max-width: 1023.98px) {
-        body figure figcaption, body figure .caption, body .imggroup figcaption, body .imggroup .caption {
-          margin-top: 20px; } }
-      @media (min-width: 1024px) {
-        body figure figcaption, body figure .caption, body .imggroup figcaption, body .imggroup .caption {
-          min-height: 25px; } }
+  margin-left: auto; }
   body .colophon .precedingemptyline, body [*|type="colophon"] .precedingemptyline {
     margin-top: 1.5rem !important; }
   body .page-front, body .pagenum {
