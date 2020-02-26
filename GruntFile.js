@@ -55,7 +55,7 @@ module.exports = function (grunt) {
 			},
 			secondary: {
 				cwd: 'dist',
-				src: [ '**/*.min.css' ],
+				src: [ '**/*.css', '**/*.css.map' ],
 				dest: 'tests',
 				expand: true
 			}

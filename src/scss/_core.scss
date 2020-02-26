@@ -191,7 +191,7 @@ body {
         }
     
         img {
-            @extend .figure-img, .img-fluid, .rounded, .mx-auto, .d-block;
+            @extend .figure-img, .img-fluid, .rounded, .mr-auto, .d-block;
             max-width: 100%;
     
             @include media-breakpoint-up('md') {

@@ -1856,10 +1856,8 @@ button.bg-pure-yellow:focus {
 .my-auto {
   margin-top: auto !important; }
 
-.mr-auto,
-.mx-auto,
-#content figure img,
-#content .imggroup img {
+.mr-auto, #content figure img, #content .imggroup img,
+.mx-auto {
   margin-right: auto !important; }
 
 .mb-auto,
@@ -1867,9 +1865,7 @@ button.bg-pure-yellow:focus {
   margin-bottom: auto !important; }
 
 .ml-auto,
-.mx-auto,
-#content figure img,
-#content .imggroup img {
+.mx-auto {
   margin-left: auto !important; }
 
 @media (min-width: 640px) {

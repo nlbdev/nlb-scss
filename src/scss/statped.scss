@@ -2,12 +2,60 @@
 @charset "UTF-8";
 
 @import "core";
+//@import "darktheme";
 
 /* Begin Statped.SCSS */
 body {
     @include make-container();
     @extend #content;
+        
+    /* Images
+     * ---------------------------------------------------------- */
+    img {
+        @extend .img-fluid, .rounded;
+        margin-bottom: $height !important;
+    }
     
+    figure, .imggroup {
+        @extend .figure, .text-center;
+        width: 100%;
+        margin-bottom: 30px;
+    
+        @include media-breakpoint-only('md') {
+            text-align: left;
+            margin-bottom: 36px;
+        }
+    
+        @include media-breakpoint-up('lg') {
+            text-align: left;
+            margin-bottom: 45px;
+        }
+    
+        img {
+            @extend .figure-img, .img-fluid, .rounded, .mr-auto, .d-block;
+            max-width: 100%;
+    
+            @include media-breakpoint-up('md') {
+                max-width: 70%;
+            }
+        }
+    
+        figcaption, .caption {
+            @extend .figure-caption, .text-left;
+            color: $dark;
+            min-height: 15px;
+            margin-top: 15px;
+    
+            @include media-breakpoint-only('md') {
+                margin-top: 20px;
+            }
+        
+            @include media-breakpoint-up('lg') {
+                min-height: 25px;
+            }
+        }
+    }
+
     .colophon, [*|type="colophon"] {
         .precedingemptyline {
             margin-top: $line-height-sm+rem !important;

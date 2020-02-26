@@ -1887,12 +1887,8 @@ body .page-special,
 .my-auto {
   margin-top: auto !important; }
 
-.mr-auto,
-.mx-auto,
-#content figure img,
-body figure img,
-#content .imggroup img,
-body .imggroup img {
+.mr-auto, #content figure img, body figure img, #content .imggroup img, body .imggroup img,
+.mx-auto {
   margin-right: auto !important; }
 
 .mb-auto,
@@ -1900,11 +1896,7 @@ body .imggroup img {
   margin-bottom: auto !important; }
 
 .ml-auto,
-.mx-auto,
-#content figure img,
-body figure img,
-#content .imggroup img,
-body .imggroup img {
+.mx-auto {
   margin-left: auto !important; }
 
 @media (min-width: 640px) {
