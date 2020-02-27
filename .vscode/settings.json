@@ -1,4 +1,6 @@
 {
     "liveServer.settings.CustomBrowser":"chrome",
-    "liveServer.settings.ChromeDebuggingAttachment":true
+    "liveServer.settings.ChromeDebuggingAttachment":true,
+    "liveServer.settings.fullReload":true,
+    "liveServer.settings.wait":1000
 }

@@ -4,7 +4,8 @@
   "description": "NLB SCSS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "watch": "grunt watch",
+    "build": "grunt"
   },
   "repository": {
     "type": "git",
