@@ -2960,7 +2960,7 @@ body .page-special {
   text-align: right !important; }
 
 .text-center, #content figure, body figure, #content .imggroup, body .imggroup {
-  text-align: center !important; }
+  text-align: left !important; }
 
 @media (min-width: 640px) {
   .text-sm-left {
@@ -2968,7 +2968,7 @@ body .page-special {
   .text-sm-right {
     text-align: right !important; }
   .text-sm-center {
-    text-align: center !important; } }
+    text-align: left !important; } }
 
 @media (min-width: 768px) {
   .text-md-left {
@@ -2976,7 +2976,7 @@ body .page-special {
   .text-md-right {
     text-align: right !important; }
   .text-md-center {
-    text-align: center !important; } }
+    text-align: left !important; } }
 
 @media (min-width: 1024px) {
   .text-lg-left {
@@ -2984,7 +2984,7 @@ body .page-special {
   .text-lg-right {
     text-align: right !important; }
   .text-lg-center {
-    text-align: center !important; } }
+    text-align: left !important; } }
 
 @media (min-width: 1200px) {
   .text-xl-left {
@@ -2992,7 +2992,7 @@ body .page-special {
   .text-xl-right {
     text-align: right !important; }
   .text-xl-center {
-    text-align: center !important; } }
+    text-align: left !important; } }
 
 .text-lowercase {
   text-transform: lowercase !important; }

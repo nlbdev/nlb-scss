@@ -2914,7 +2914,7 @@ button.bg-pure-yellow:focus {
   text-align: right !important; }
 
 .text-center, #content figure, #content .imggroup {
-  text-align: center !important; }
+  text-align: left !important; }
 
 @media (min-width: 640px) {
   .text-sm-left {
@@ -2922,7 +2922,7 @@ button.bg-pure-yellow:focus {
   .text-sm-right {
     text-align: right !important; }
   .text-sm-center {
-    text-align: center !important; } }
+    text-align: left !important; } }
 
 @media (min-width: 768px) {
   .text-md-left {
@@ -2930,7 +2930,7 @@ button.bg-pure-yellow:focus {
   .text-md-right {
     text-align: right !important; }
   .text-md-center {
-    text-align: center !important; } }
+    text-align: left !important; } }
 
 @media (min-width: 1024px) {
   .text-lg-left {
@@ -2938,7 +2938,7 @@ button.bg-pure-yellow:focus {
   .text-lg-right {
     text-align: right !important; }
   .text-lg-center {
-    text-align: center !important; } }
+    text-align: left !important; } }
 
 @media (min-width: 1200px) {
   .text-xl-left {
@@ -2946,7 +2946,7 @@ button.bg-pure-yellow:focus {
   .text-xl-right {
     text-align: right !important; }
   .text-xl-center {
-    text-align: center !important; } }
+    text-align: left !important; } }
 
 .text-lowercase {
   text-transform: lowercase !important; }

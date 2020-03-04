@@ -21,7 +21,7 @@
 
     .text#{$infix}-left   { text-align: left !important; }
     .text#{$infix}-right  { text-align: right !important; }
-    .text#{$infix}-center { text-align: center !important; }
+    .text#{$infix}-center { text-align: left !important; }
   }
 }
 

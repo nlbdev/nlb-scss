@@ -1569,7 +1569,7 @@ body [*|type="colophon"] div.underoppgaver-li-oppgavetekst,
 body [*|type="colophon"] div.docauthor {
   margin-bottom: 0 !important; }
 
-.ml-0,
+.ml-0, body figure > aside,
 .mx-0 {
   margin-left: 0 !important; }
 
@@ -1896,7 +1896,7 @@ body .page-special,
 .my-auto {
   margin-top: auto !important; }
 
-.mr-auto,
+.mr-auto, body figure img, body .imggroup img,
 .mx-auto,
 #content figure img,
 body figure img,
@@ -2960,7 +2960,7 @@ body .page-special {
   text-align: right !important; }
 
 .text-center, #content figure, body figure, #content .imggroup, body .imggroup {
-  text-align: center !important; }
+  text-align: left !important; }
 
 @media (min-width: 640px) {
   .text-sm-left {
@@ -2968,7 +2968,7 @@ body .page-special {
   .text-sm-right {
     text-align: right !important; }
   .text-sm-center {
-    text-align: center !important; } }
+    text-align: left !important; } }
 
 @media (min-width: 768px) {
   .text-md-left {
@@ -2976,7 +2976,7 @@ body .page-special {
   .text-md-right {
     text-align: right !important; }
   .text-md-center {
-    text-align: center !important; } }
+    text-align: left !important; } }
 
 @media (min-width: 1024px) {
   .text-lg-left {
@@ -2984,7 +2984,7 @@ body .page-special {
   .text-lg-right {
     text-align: right !important; }
   .text-lg-center {
-    text-align: center !important; } }
+    text-align: left !important; } }
 
 @media (min-width: 1200px) {
   .text-xl-left {
@@ -2992,7 +2992,7 @@ body .page-special {
   .text-xl-right {
     text-align: right !important; }
   .text-xl-center {
-    text-align: center !important; } }
+    text-align: left !important; } }
 
 .text-lowercase {
   text-transform: lowercase !important; }
@@ -4696,7 +4696,40 @@ body {
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
-  margin-left: auto; }
+  margin-left: auto;
+  /* Images
+     * ---------------------------------------------------------- */ }
+  body img {
+    margin-bottom: 1.5rem !important; }
+  body figure, body .imggroup {
+    width: 100%;
+    margin-bottom: 30px; }
+    @media (min-width: 768px) and (max-width: 1023.98px) {
+      body figure, body .imggroup {
+        margin-bottom: 36px; } }
+    @media (min-width: 1024px) {
+      body figure, body .imggroup {
+        margin-bottom: 45px; } }
+    body figure img, body .imggroup img {
+      max-width: 100%; }
+      @media (min-width: 768px) {
+        body figure img, body .imggroup img {
+          margin-left: 0 !important;
+          max-width: 70%; } }
+    body figure figcaption, body figure .caption, body .imggroup figcaption, body .imggroup .caption {
+      color: #212d39;
+      min-height: 15px;
+      margin-top: 15px; }
+      @media (min-width: 768px) {
+        body figure figcaption, body figure .caption, body .imggroup figcaption, body .imggroup .caption {
+          text-align: left !important;
+          margin-left: 0 !important; } }
+      @media (min-width: 768px) and (max-width: 1023.98px) {
+        body figure figcaption, body figure .caption, body .imggroup figcaption, body .imggroup .caption {
+          margin-top: 20px; } }
+      @media (min-width: 1024px) {
+        body figure figcaption, body figure .caption, body .imggroup figcaption, body .imggroup .caption {
+          min-height: 25px; } }
   body .colophon .precedingemptyline, body [*|type="colophon"] .precedingemptyline {
     margin-top: 1.5rem !important; }
   body .page-front, body .pagenum {

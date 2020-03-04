@@ -9,6 +9,60 @@ body {
     @include make-container();
     @extend #content;
 
+    /* Images
+     * ---------------------------------------------------------- */
+    img {
+        @extend .img-fluid, .rounded;
+        margin-bottom: $height !important;
+    }
+    
+    figure, .imggroup {
+        @extend .figure;
+        width: 100%;
+        margin-bottom: 30px;
+    
+        @include media-breakpoint-only('md') {
+            margin-bottom: 36px;
+        }
+    
+        @include media-breakpoint-up('lg') {
+            margin-bottom: 45px;
+        }
+    
+        img {
+            @extend .figure-img, .img-fluid, .rounded, .mr-auto, .d-block;
+            max-width: 100%;
+    
+            @include media-breakpoint-up('md') {
+                margin-left: 0 !important;
+                max-width: 70%;
+            }
+        }
+    
+        figcaption, .caption {
+            @extend .figure-caption;
+            color: $dark;
+            min-height: 15px;
+            margin-top: 15px;
+
+            @include media-breakpoint-up('md') {
+                text-align: left !important;
+                margin-left: 0 !important;
+            }
+    
+            @include media-breakpoint-only('md') {
+                margin-top: 20px;
+            }
+        
+            @include media-breakpoint-up('lg') {
+                min-height: 25px;
+            }
+        }
+    }
+    figure > aside {
+        @extend .ml-0;
+    }
+
     .colophon, [*|type="colophon"] {
         .precedingemptyline {
             margin-top: $line-height-sm+rem !important;
