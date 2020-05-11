@@ -701,9 +701,7 @@ button.bg-pure-yellow:focus {
 .border {
   border: 1px solid #90989f !important; }
 
-.border-top, #content .page-normal,
-#content .page-front,
-#content .page-special {
+.border-top, #content .sidetall.page-normal, #content .sidetall.page-front, #content .sidetall.page-special {
   border-top: 1px solid #90989f !important; }
 
 .border-right {
@@ -802,9 +800,7 @@ button.bg-pure-yellow:focus {
   clear: both;
   content: ""; }
 
-.d-none, #content .hidden-headline, #content .page-normal,
-#content .page-front,
-#content .page-special {
+.d-none, #content .hidden-headline, #content .sidetall.page-normal, #content .sidetall.page-front, #content .sidetall.page-special {
   display: none !important; }
 
 .d-inline {
@@ -838,9 +834,7 @@ button.bg-pure-yellow:focus {
     display: inline !important; }
   .d-sm-inline-block {
     display: inline-block !important; }
-  .d-sm-block, #content .page-normal,
-  #content .page-front,
-  #content .page-special {
+  .d-sm-block, #content .sidetall.page-normal, #content .sidetall.page-front, #content .sidetall.page-special {
     display: block !important; }
   .d-sm-table {
     display: table !important; }
@@ -1612,9 +1606,7 @@ button.bg-pure-yellow:focus {
 .mx-4 {
   margin-right: 2.25rem !important; }
 
-.mb-4, #content .page-normal,
-#content .page-front,
-#content .page-special,
+.mb-4, #content .sidetall.page-normal, #content .sidetall.page-front, #content .sidetall.page-special,
 .my-4 {
   margin-bottom: 2.25rem !important; }
 
@@ -1625,9 +1617,7 @@ button.bg-pure-yellow:focus {
 .m-5 {
   margin: 4.5rem !important; }
 
-.mt-5, #content .page-normal,
-#content .page-front,
-#content .page-special,
+.mt-5, #content .sidetall.page-normal, #content .sidetall.page-front, #content .sidetall.page-special,
 .my-5 {
   margin-top: 4.5rem !important; }
 
@@ -1703,9 +1693,7 @@ button.bg-pure-yellow:focus {
 .p-3 {
   padding: 1.5rem !important; }
 
-.pt-3, #content .page-normal,
-#content .page-front,
-#content .page-special,
+.pt-3, #content .sidetall.page-normal, #content .sidetall.page-front, #content .sidetall.page-special,
 .py-3 {
   padding-top: 1.5rem !important; }
 
@@ -2913,9 +2901,7 @@ button.bg-pure-yellow:focus {
 .text-left {
   text-align: left !important; }
 
-.text-right, #content .page-normal,
-#content .page-front,
-#content .page-special {
+.text-right, #content .sidetall.page-normal, #content .sidetall.page-front, #content .sidetall.page-special {
   text-align: right !important; }
 
 .text-center, #content figure, #content .imggroup {
@@ -3077,6 +3063,29 @@ a.text-pure-yellow:hover, a.text-pure-yellow:focus {
 
 .invisible {
   visibility: hidden !important; }
+
+.sr-only {
+  border: 0 !important;
+  clip: rect(1px, 1px, 1px, 1px) !important;
+  -webkit-clip-path: inset(50%) !important;
+  clip-path: inset(50%) !important;
+  height: 1px !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  padding: 0 !important;
+  position: absolute !important;
+  width: 1px !important;
+  white-space: nowrap !important; }
+
+.sr-only-focusable:active, .sr-only-focusable:focus {
+  clip: auto !important;
+  -webkit-clip-path: none !important;
+  clip-path: none !important;
+  height: auto !important;
+  margin: auto !important;
+  overflow: visible !important;
+  width: auto !important;
+  white-space: normal !important; }
 
 h1, h2, h3, h4, h5, h6, #content table thead tr th, #content table tbody tr th, #content table tfoot tr th,
 .h1, .h2, .h3, .h4, .h5, .h6 {
@@ -4153,11 +4162,9 @@ body {
       display: block;
       clear: both;
       content: ""; }
-  #content .page-normal,
-  #content .page-front,
-  #content .page-special {
-    font-weight: bold;
-    page-break-before: always; }
+    #content .sidetall.page-normal, #content .sidetall.page-front, #content .sidetall.page-special {
+      font-weight: bold;
+      page-break-before: always; }
   #content strong {
     font-weight: bold; }
   #content h1.title {
@@ -4594,6 +4601,19 @@ body {
   @media (min-width: 768px) and (max-width: 639.98px) {
     #content .ordliste dl dt {
       overflow-wrap: break-word; } }
+
+.spoken-math {
+  border: 0 !important;
+  clip: rect(1px, 1px, 1px, 1px) !important;
+  -webkit-clip-path: inset(50%) !important;
+  clip-path: inset(50%) !important;
+  height: 1px !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  padding: 0 !important;
+  position: absolute !important;
+  width: 1px !important;
+  white-space: nowrap !important; }
 
 /* End Core.SCSS */
 /* Begin Ncc.SCSS */

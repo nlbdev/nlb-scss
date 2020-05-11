@@ -62,3 +62,4 @@ typings/
 
 # NLB Testfiles
 dist/tests/
+tests/
