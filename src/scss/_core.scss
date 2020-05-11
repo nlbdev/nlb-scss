@@ -390,4 +390,8 @@ body {
     }
 }
 
+.spoken-math {
+    @include sr-only();
+}
+
 /* End Core.SCSS */
