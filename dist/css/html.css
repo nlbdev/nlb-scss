@@ -4618,6 +4618,10 @@ body {
       color: #212d39 !important;
       background-color: #eff0da !important;
       border: 1px solid #b8bd5b !important; }
+    #content .ramme.bg-green, body .ramme.bg-green {
+      color: #212d39 !important;
+      background-color: #e4f0da !important;
+      border: 1px solid #B1C900 !important; }
   #content table.liste, body table.liste, #content ul, body ul, #content ol, body ol {
     font-size: 17.82px;
     margin-bottom: 30px;

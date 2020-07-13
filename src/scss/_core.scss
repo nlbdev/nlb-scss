@@ -324,6 +324,10 @@ body {
         &.bg-yellow {
             @include nlb-color($frame-yellow-bg, darken($frame-yellow-bg, 35%), $dark);
         }
+        
+        &.bg-green {
+            @include nlb-color($frame-default-bg, $frame-default-line, $dark);
+        }
     }
     
     /* Lists
