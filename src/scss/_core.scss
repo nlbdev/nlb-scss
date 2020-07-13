@@ -80,15 +80,15 @@ body {
     
         display: inline-block;
         width: 100%;
+    }
     
-        &.page-normal,
-        &.page-front, 
-        &.page-special {
-            @extend .border-top, .d-none, .d-sm-block, .pt-3, .mt-5, .mb-4, .text-right;
-        
-            font-weight: bold;
-            page-break-before: always;
-        }
+    .page-normal,
+    .page-front, 
+    .page-special {
+        @extend .border-top, .d-none, .d-sm-block, .pt-3, .mt-5, .mb-4, .text-right;
+    
+        font-weight: bold;
+        page-break-before: always;
     }
     
     /* Typography
