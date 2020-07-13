@@ -189,18 +189,24 @@ body {
     
         @include media-breakpoint-up('lg') {
             margin-bottom: 45px;
+            text-align: left !important;
         }
     
         img {
             @extend .figure-img, .img-fluid, .rounded, .mx-auto, .d-block;
             max-width: 100%;
-    
+
             @include media-breakpoint-up('md') {
                 max-width: 70%;
             }
+
+            @include media-breakpoint-up('lg') {
+                margin-left: 0 !important;
+                margin-right: auto !important;
+            }
         }
     
-        figcaption, .caption {
+        figcaption, .caption > *  {
             @extend .figure-caption;
             color: $dark;
             min-height: 15px;
@@ -212,6 +218,8 @@ body {
         
             @include media-breakpoint-up('lg') {
                 min-height: 25px;
+                margin-left: 0 !important;
+                margin-right: auto !important;
             }
         }
     }
