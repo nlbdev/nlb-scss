@@ -17,15 +17,15 @@ NLB, {{ 'now' | date: "%Y" }}
 ## Installasjon
 
 - **NCC**:
-  - Filen [ncc.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.0.3/ncc.min.css) må omdøpes til `default.css` og kopieres inn i rotmappen.
+  - Filen [ncc.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.1.0/ncc.min.css) må omdøpes til `default.css` og kopieres inn i rotmappen.
   - I `ncc.html` må det lenkes til `default.css` i hodet på filen `<link rel="stylesheet" type="text/css" href="default.css"/>`
 - **Lydbok med tekst**:
-  - Filen [html.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.0.3/html.min.css) må omdøpes til `default.css` og kopieres inn i rotmappen.
+  - Filen [html.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.1.0/html.min.css) må omdøpes til `default.css` og kopieres inn i rotmappen.
   - I hovedfilen må det lenkes til `default.css` i hodet på filen `<link rel="stylesheet" type="text/css" href="default.css"/>`
 - **Nettleserbok**:
   - Filene `js_style.css` og `rb_smil_emulator.js` slettes fra boken.
   - I hodet på `_nettleserbok.html` slettes referansene til CSS, og det må legges inn `<link rel="stylesheet" type="text/css" href="nettleserbok.min.css"/>`.
-  - Filen [nettleserbok.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.0.3/nettleserbok.min.css) og [rb_smil_emulator.js](https://github.com/nlbdev/nlb-scss/releases/download/v1.0.3/rb_smil_emulator.js) må kopieres inn i rotmappen.
+  - Filen [nettleserbok.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.1.0/nettleserbok.min.css) og [rb_smil_emulator.js](https://github.com/nlbdev/nlb-scss/releases/download/v1.1.0/rb_smil_emulator.js) må kopieres inn i rotmappen.
 
 ### Krav til HTML
 
@@ -40,6 +40,7 @@ Siste versjon finnes på: [GitHub](https://github.com/nlbdev/nlb-scss/releases)
 - v1.0.0: Init
 - v1.0.1: Endringer på tabeller, kantlinjefarge, størrelse.
 - v1.0.2: La til hidden-headline klasse for å skjule overskrifter.
+- v1.1.0: Feilrettinger i lister, overskrifter, skriftstørrelser, o.l.
 
 ## Dokumentasjon
 
@@ -53,39 +54,6 @@ Dagmodus | Nattmodus
 --- | ---
 [#22313F](https://www.colorhexa.com/22313f) | [#f8f9fa](https://www.colorhexa.com/f8f9fa)
 
-#### SM (0-639px)
-
-Navn | Font type | Font størrelse (Normal) | Font størrelse (Ledetekst)
---- | --- | :---: | :---:
-h1 | Arial black | 35,64px | 39,60px
-h2 | Arial bold | 31,68px | 35,64px
-h3 | Arial bold | 30,80px | 31,68px
-h4 | Arial black | 21,78px | 25,74px
-h5 | Arial bold | 21,78px | 25,74px
-h6 | Arial black | 17,82px | 26,13px
-
-#### MD (640-767px)
-
-Navn | Font type | Font størrelse (Normal) | Font størrelse (Ledetekst)
---- | --- | :---: | :---:
-h1 | Arial black | 32,40px | 36,00px
-h2 | Arial bold | 28,80px | 32,40px
-h3 | Arial bold | 28,00px | 28,80px
-h4 | Arial black | 19,80px | 23,40px
-h5 | Arial bold | 19,80px | 23,40px
-h6 | Arial black | 16,20px | 21,60px
-
-#### LG (768px+)
-
-Navn | Font type | Font størrelse (Normal) | Font størrelse (Ledetekst)
---- | --- | :---: | :---:
-h1 | Arial black | 36px | 40px
-h2 | Arial bold | 32px | 36px
-h3 | Arial bold | 28px | 32px
-h4 | Arial black | 22px | 26px
-h5 | Arial bold | 22px | 26px
-h6 | Arial black | 18px | 24px
-
 ### Brødtekst
 
 `<p>`
@@ -95,24 +63,6 @@ Farge
 Dagmodus | Nattmodus
 --- | ---
 [#22313F](https://www.colorhexa.com/22313f) | [#f8f9fa](https://www.colorhexa.com/f8f9fa)
-
-#### SM (0-639px)
-
-Navn | Font type | Font størrelse (Normal) | Font størrelse (Ledetekst)
---- | --- | :---: | :---:
-p | Arial | 17,82px | 26,73px
-
-#### MD (640-767px)
-
-Navn | Font type | Font størrelse (Normal) | Font størrelse (Ledetekst)
---- | --- | :---: | :---:
-p | Arial | 16,20px | 24,30px
-
-#### LG (768px+)
-
-Navn | Font type | Font størrelse (Normal) | Font størrelse (Ledetekst)
---- | --- | :---: | :---:
-p | Arial | 18px | 27px
 
 ### Ramme
 
@@ -169,6 +119,19 @@ Linjefarge nattmodus: | [#ae9277](https://www.colorhexa.com/ae9277)
 ```
 
 <div class="ramme bg-yellow">Eksempel</div>
+
+Bakgrunnsfarge: Grønn `bg-green` | eksempel: `ramme bg-green`
+--- | ---:
+Bakgrunnsfarge: | [#E4F0DA](https://www.colorhexa.com/E4F0DA)
+Linjefarge: | [#B1C900](https://www.colorhexa.com/B1C900)
+Bakgrunnsfarge nattmodus: | [#2b3a48](https://www.colorhexa.com/2b3a48)
+Linjefarge nattmodus: | [#bcbec0](https://www.colorhexa.com/bcbec0)
+
+```html
+<div class="ramme bg-green">Eksempel</div>
+```
+
+<div class="ramme bg-green">Eksempel</div>
 
 Tekstfarge: Sort | `text-dark`
 --- | ---:
