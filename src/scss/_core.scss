@@ -39,6 +39,8 @@ body {
     blockquote {
         @include nlb-color($gray-200, $gray-300, $dark);
         @include nlb-frame();
+
+        font-style: italic;
     }
 
     // max-width: 100%;
