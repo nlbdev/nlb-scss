@@ -4542,17 +4542,14 @@ body {
     @media (min-width: 640px) and (max-width: 767.98px) {
       #content table.liste, #content ul, #content ol {
         font-size: 17.82px;
-        margin-bottom: 30px;
         margin-left: 20px; } }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content table.liste, #content ul, #content ol {
         font-size: 16.2px;
-        margin-bottom: 36px;
         margin-left: 25px; } }
     @media (min-width: 1024px) {
       #content table.liste, #content ul, #content ol {
         font-size: 18px;
-        margin-bottom: 45px;
         margin-left: 25px; } }
     #content table.liste .listepunkt-punktmerke-innhold, #content table.liste li, #content ul .listepunkt-punktmerke-innhold, #content ul li, #content ol .listepunkt-punktmerke-innhold, #content ol li {
       margin-bottom: 16px;
@@ -4563,11 +4560,30 @@ body {
       @media (min-width: 768px) {
         #content table.liste .listepunkt-punktmerke-innhold, #content table.liste li, #content ul .listepunkt-punktmerke-innhold, #content ul li, #content ol .listepunkt-punktmerke-innhold, #content ol li {
           margin-bottom: 24px; } }
-  #content ul {
-    padding-inline-start: 0; }
-    #content ul li {
-      margin-left: 0; }
-    #content ul.plain {
+  #content ol, #content ul {
+    padding-inline-start: 0;
+    margin-left: 45px; }
+    @media (min-width: 640px) and (max-width: 767.98px) {
+      #content ol, #content ul {
+        margin-bottom: 22.5px; } }
+    @media (min-width: 768px) and (max-width: 1023.98px) {
+      #content ol, #content ul {
+        margin-bottom: 27px; } }
+    @media (min-width: 1024px) {
+      #content ol, #content ul {
+        margin-bottom: 33.75px; } }
+    #content ol li, #content ul li {
+      margin-left: 0;
+      margin-bottom: 8px; }
+      @media (min-width: 640px) and (max-width: 767.98px) {
+        #content ol li, #content ul li {
+          margin-bottom: 10px; } }
+      @media (min-width: 768px) {
+        #content ol li, #content ul li {
+          margin-bottom: 12px; } }
+      #content ol li ol, #content ol li ul, #content ul li ol, #content ul li ul {
+        margin-left: 30px !important; }
+    #content ol.plain, #content ul.plain {
       list-style-type: none; }
   #content .ordliste dl dt {
     margin-bottom: 30px;

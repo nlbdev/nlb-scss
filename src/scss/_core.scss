@@ -335,19 +335,16 @@ body {
 
         @include media-breakpoint-only('sm') {
             font-size: $nlb-p-font-size-sm;
-            margin-bottom: $nlb-p-margin-bottom-sm;
             margin-left: 20px;
         }
     
         @include media-breakpoint-only('md') {
             font-size: $nlb-p-font-size-md;
-            margin-bottom: $nlb-p-margin-bottom-md;
             margin-left: 25px;
         }
     
         @include media-breakpoint-up('lg') {
             font-size: $nlb-p-font-size-lg;
-            margin-bottom: $nlb-p-margin-bottom-lg;
             margin-left: 25px;
         }
 
@@ -364,11 +361,35 @@ body {
             }
         }
     }
-    ul {
+    ol, ul {
         padding-inline-start: 0;
+        margin-left: 45px;
+
+        @include media-breakpoint-only('sm') {
+            margin-bottom: $nlb-p-margin-bottom-sm*0.75;
+        }
+    
+        @include media-breakpoint-only('md') {
+            margin-bottom: $nlb-p-margin-bottom-md*0.75;
+        }
+    
+        @include media-breakpoint-up('lg') {
+            margin-bottom: $nlb-p-margin-bottom-lg*0.75;
+        }
 
         li {
             margin-left: 0;
+            margin-bottom: 8px;
+            @include media-breakpoint-only('sm') {
+                margin-bottom: 10px;
+            }
+            @include media-breakpoint-up('md') {
+                margin-bottom: 12px;
+            }
+            
+            ol, ul {
+                margin-left: 30px !important;
+            }
         }
 
         &.plain {
