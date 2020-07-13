@@ -346,12 +346,15 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  font-size: 1rem;
+  font-size: 2rem;
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
   text-align: left;
   background-color: #fff; }
+  @media (max-width: 1200px) {
+    body {
+      font-size: calc(1.325rem + 0.9vw) ; } }
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
@@ -715,7 +718,9 @@ button.bg-pure-yellow:focus {
 .border {
   border: 1px solid #90989f !important; }
 
-.border-top, #content .sidetall.page-normal, #content .sidetall.page-front, #content .sidetall.page-special {
+.border-top, #content .page-normal,
+#content .page-front,
+#content .page-special {
   border-top: 1px solid #90989f !important; }
 
 .border-right {
@@ -814,7 +819,9 @@ button.bg-pure-yellow:focus {
   clear: both;
   content: ""; }
 
-.d-none, #content .hidden-headline, #content .sidetall.page-normal, #content .sidetall.page-front, #content .sidetall.page-special {
+.d-none, #content .hidden-headline, #content .page-normal,
+#content .page-front,
+#content .page-special {
   display: none !important; }
 
 .d-inline {
@@ -848,7 +855,9 @@ button.bg-pure-yellow:focus {
     display: inline !important; }
   .d-sm-inline-block {
     display: inline-block !important; }
-  .d-sm-block, #content .sidetall.page-normal, #content .sidetall.page-front, #content .sidetall.page-special {
+  .d-sm-block, #content .page-normal,
+  #content .page-front,
+  #content .page-special {
     display: block !important; }
   .d-sm-table {
     display: table !important; }
@@ -1620,7 +1629,9 @@ button.bg-pure-yellow:focus {
 .mx-4 {
   margin-right: 2.25rem !important; }
 
-.mb-4, #content .sidetall.page-normal, #content .sidetall.page-front, #content .sidetall.page-special,
+.mb-4, #content .page-normal,
+#content .page-front,
+#content .page-special,
 .my-4 {
   margin-bottom: 2.25rem !important; }
 
@@ -1631,7 +1642,9 @@ button.bg-pure-yellow:focus {
 .m-5 {
   margin: 4.5rem !important; }
 
-.mt-5, #content .sidetall.page-normal, #content .sidetall.page-front, #content .sidetall.page-special,
+.mt-5, #content .page-normal,
+#content .page-front,
+#content .page-special,
 .my-5 {
   margin-top: 4.5rem !important; }
 
@@ -1707,7 +1720,9 @@ button.bg-pure-yellow:focus {
 .p-3 {
   padding: 1.5rem !important; }
 
-.pt-3, #content .sidetall.page-normal, #content .sidetall.page-front, #content .sidetall.page-special,
+.pt-3, #content .page-normal,
+#content .page-front,
+#content .page-special,
 .py-3 {
   padding-top: 1.5rem !important; }
 
@@ -2915,7 +2930,9 @@ button.bg-pure-yellow:focus {
 .text-left {
   text-align: left !important; }
 
-.text-right, #content .sidetall.page-normal, #content .sidetall.page-front, #content .sidetall.page-special {
+.text-right, #content .page-normal,
+#content .page-front,
+#content .page-special {
   text-align: right !important; }
 
 .text-center, #content figure, #content .imggroup {
@@ -3110,38 +3127,47 @@ h1, h2, h3, h4, h5, h6, #content table thead tr th, #content table tbody tr th, 
   line-height: 1.2; }
 
 h1, .h1 {
-  font-size: 2.5rem; }
+  font-size: 5rem; }
   @media (max-width: 1200px) {
     h1, .h1 {
-      font-size: calc(1.375rem + 1.5vw) ; } }
+      font-size: calc(1.625rem + 4.5vw) ; } }
 
 h2, .h2 {
-  font-size: 2rem; }
+  font-size: 4rem; }
   @media (max-width: 1200px) {
     h2, .h2 {
-      font-size: calc(1.325rem + 0.9vw) ; } }
+      font-size: calc(1.525rem + 3.3vw) ; } }
 
 h3, .h3 {
-  font-size: 1.75rem; }
+  font-size: 3.5rem; }
   @media (max-width: 1200px) {
     h3, .h3 {
-      font-size: calc(1.3rem + 0.6vw) ; } }
+      font-size: calc(1.475rem + 2.7vw) ; } }
 
 h4, .h4 {
-  font-size: 1.5rem; }
+  font-size: 3rem; }
   @media (max-width: 1200px) {
     h4, .h4 {
-      font-size: calc(1.275rem + 0.3vw) ; } }
+      font-size: calc(1.425rem + 2.1vw) ; } }
 
 h5, .h5 {
-  font-size: 1.25rem; }
+  font-size: 2.5rem; }
+  @media (max-width: 1200px) {
+    h5, .h5 {
+      font-size: calc(1.375rem + 1.5vw) ; } }
 
 h6, #content table thead tr th, #content table tbody tr th, #content table tfoot tr th, .h6 {
-  font-size: 1rem; }
+  font-size: 2rem; }
+  @media (max-width: 1200px) {
+    h6, #content table thead tr th, #content table tbody tr th, #content table tfoot tr th, .h6 {
+      font-size: calc(1.325rem + 0.9vw) ; } }
 
 .lead {
-  font-size: 1.25rem;
+  font-size: 2.5rem;
   font-weight: 300; }
+  @media (max-width: 1200px) {
+    .lead {
+      font-size: calc(1.375rem + 1.5vw) ; } }
 
 .display-1 {
   font-size: 6rem;
@@ -3210,7 +3236,10 @@ mark,
 
 .blockquote, #content blockquote, #content div.produsent, #content div.docauthor {
   margin-bottom: 1.5rem;
-  font-size: 1.25rem; }
+  font-size: 2.5rem; }
+  @media (max-width: 1200px) {
+    .blockquote, #content blockquote, #content div.produsent, #content div.docauthor {
+      font-size: calc(1.375rem + 1.5vw) ; } }
 
 .blockquote-footer {
   display: block;
@@ -3826,7 +3855,7 @@ mark,
   margin-bottom: 0.75rem;
   line-height: 1; }
 
-.figure-caption, #content figure figcaption, #content figure .caption, #content .imggroup figcaption, #content .imggroup .caption, #content table caption {
+.figure-caption, #content figure figcaption, #content figure .caption > *, #content .imggroup figcaption, #content .imggroup .caption > *, #content table caption {
   font-size: 90%;
   color: #6c757d; }
 
@@ -4134,6 +4163,11 @@ mark,
  * ---------------------------------------------------------- */
 body {
   overflow-x: hidden; }
+  body h1, body h1 > *, body h2, body h2 > *, body h3, body h3 > *, body h4, body h4 > *, body h5, body h5 > *, body h6, body #content table thead tr th, #content table thead tr body th, body #content table tbody tr th, #content table tbody tr body th, body #content table tfoot tr th, #content table tfoot tr body th, body h6 > *, body #content table thead tr th > *, #content table thead tr body th > *, body #content table tbody tr th > *, #content table tbody tr body th > *, body #content table tfoot tr th > *, #content table tfoot tr body th > *, body div, body div > *, body span, body span > *, body p, body #content blockquote, #content body blockquote, body p > *, body #content blockquote > *, #content body blockquote > * {
+    overflow-wrap: break-word; }
+    @media (min-width: 768px) {
+      body h1, body h1 > *, body h2, body h2 > *, body h3, body h3 > *, body h4, body h4 > *, body h5, body h5 > *, body h6, body #content table thead tr th, #content table thead tr body th, body #content table tbody tr th, #content table tbody tr body th, body #content table tfoot tr th, #content table tfoot tr body th, body h6 > *, body #content table thead tr th > *, #content table thead tr body th > *, body #content table tbody tr th > *, #content table tbody tr body th > *, body #content table tfoot tr th > *, #content table tfoot tr body th > *, body div, body div > *, body span, body span > *, body p, body #content blockquote, #content body blockquote, body p > *, body #content blockquote > *, #content body blockquote > * {
+        overflow-wrap: normal; } }
 
 #content {
   padding-right: 20px;
@@ -4148,6 +4182,24 @@ body {
      * ---------------------------------------------------------- */
   /* Lists
      * ---------------------------------------------------------- */ }
+  #content blockquote {
+    color: #212d39 !important;
+    background-color: #e9ecef !important;
+    border: 1px solid #dee2e6 !important;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 30px;
+    font-style: italic; }
+    #content blockquote .sentence {
+      color: inherit !important; }
+    @media (min-width: 640px) and (max-width: 767.98px) {
+      #content blockquote {
+        padding: 30px;
+        margin-bottom: 36px; } }
+    @media (min-width: 768px) {
+      #content blockquote {
+        padding: 35px;
+        margin-bottom: 45px; } }
   #content .nested-list {
     list-style-type: none;
     padding-left: 0; }
@@ -4178,9 +4230,11 @@ body {
       display: block;
       clear: both;
       content: ""; }
-    #content .sidetall.page-normal, #content .sidetall.page-front, #content .sidetall.page-special {
-      font-weight: bold;
-      page-break-before: always; }
+  #content .page-normal,
+  #content .page-front,
+  #content .page-special {
+    font-weight: bold;
+    page-break-before: always; }
   #content strong {
     font-weight: bold; }
   #content h1.title {
@@ -4188,170 +4242,224 @@ body {
   #content h1, #content h1.title {
     font-weight: bold;
     margin-bottom: 20px;
-    font-size: 35.64px;
+    font-size: 3.15rem;
     font-family: "Arial black", sans-serif; }
     #content h1 .lead, #content h1.title .lead {
-      font-size: 39.6px; }
+      font-size: 3.5rem; }
+    @media (max-width: 639.98px) {
+      #content h1, #content h1.title {
+        overflow-wrap: break-word; } }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content h1, #content h1.title {
         font-weight: bold;
         margin-bottom: 30px;
-        font-size: 32.4px;
+        font-size: 3.15rem;
         font-family: "Arial black", sans-serif; }
         #content h1 .lead, #content h1.title .lead {
-          font-size: 36px; } }
+          font-size: 3.5rem; } }
+  @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
+    #content h1, #content h1.title {
+      overflow-wrap: break-word; } }
     @media (min-width: 1024px) {
       #content h1, #content h1.title {
         font-weight: bold;
         margin-bottom: 40px;
-        font-size: 36px;
+        font-size: 2.025rem;
         font-family: "Arial black", sans-serif; }
         #content h1 .lead, #content h1.title .lead {
-          font-size: 40px; } }
+          font-size: 2.25rem; } }
+  @media (min-width: 1024px) and (max-width: 639.98px) {
+    #content h1, #content h1.title {
+      overflow-wrap: break-word; } }
   #content h2 {
     font-weight: bold;
     margin-bottom: 20px;
-    font-size: 31.68px;
+    font-size: 2.8rem;
     font-family: "Arial bold", sans-serif; }
     #content h2 .lead {
-      font-size: 35.64px; }
+      font-size: 3.15rem; }
+    @media (max-width: 639.98px) {
+      #content h2 {
+        overflow-wrap: break-word; } }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content h2 {
         font-weight: bold;
         margin-bottom: 25px;
-        font-size: 28.8px;
+        font-size: 2.8rem;
         font-family: "Arial bold", sans-serif; }
         #content h2 .lead {
-          font-size: 32.4px; } }
+          font-size: 3.15rem; } }
+  @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
+    #content h2 {
+      overflow-wrap: break-word; } }
     @media (min-width: 1024px) {
       #content h2 {
         font-weight: bold;
         margin-bottom: 30px;
-        font-size: 32px;
+        font-size: 1.8rem;
         font-family: "Arial bold", sans-serif; }
         #content h2 .lead {
-          font-size: 36px; } }
+          font-size: 2.025rem; } }
+  @media (min-width: 1024px) and (max-width: 639.98px) {
+    #content h2 {
+      overflow-wrap: break-word; } }
   #content h3 {
     font-weight: bold;
     margin-bottom: 17px;
-    font-size: 27.72px;
+    font-size: 2.45rem;
     font-family: "Arial bold", sans-serif; }
     #content h3 .lead {
-      font-size: 31.68px; }
+      font-size: 2.8rem; }
+    @media (max-width: 639.98px) {
+      #content h3 {
+        overflow-wrap: break-word; } }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content h3 {
         font-weight: bold;
         margin-bottom: 20px;
-        font-size: 25.2px;
+        font-size: 2.45rem;
         font-family: "Arial bold", sans-serif; }
         #content h3 .lead {
-          font-size: 28.8px; } }
+          font-size: 2.8rem; } }
+  @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
+    #content h3 {
+      overflow-wrap: break-word; } }
     @media (min-width: 1024px) {
       #content h3 {
         font-weight: bold;
         margin-bottom: 25px;
-        font-size: 28px;
+        font-size: 1.575rem;
         font-family: "Arial bold", sans-serif; }
         #content h3 .lead {
-          font-size: 32px; } }
+          font-size: 1.8rem; } }
+  @media (min-width: 1024px) and (max-width: 639.98px) {
+    #content h3 {
+      overflow-wrap: break-word; } }
   #content h4 {
     font-weight: bold;
     margin-bottom: 14px;
-    font-size: 21.78px;
+    font-size: 1.925rem;
     font-family: "Arial black", sans-serif; }
     #content h4 .lead {
-      font-size: 25.74px; }
+      font-size: 2.275rem; }
+    @media (max-width: 639.98px) {
+      #content h4 {
+        overflow-wrap: break-word; } }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content h4 {
         font-weight: bold;
         margin-bottom: 15px;
-        font-size: 19.8px;
+        font-size: 1.925rem;
         font-family: "Arial black", sans-serif; }
         #content h4 .lead {
-          font-size: 23.4px; } }
+          font-size: 2.275rem; } }
+  @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
+    #content h4 {
+      overflow-wrap: break-word; } }
     @media (min-width: 1024px) {
       #content h4 {
         font-weight: bold;
         margin-bottom: 20px;
-        font-size: 22px;
+        font-size: 1.2375rem;
         font-family: "Arial black", sans-serif; }
         #content h4 .lead {
-          font-size: 26px; } }
+          font-size: 1.4625rem; } }
+  @media (min-width: 1024px) and (max-width: 639.98px) {
+    #content h4 {
+      overflow-wrap: break-word; } }
   #content h5 {
     font-weight: bold;
     margin-bottom: 14px;
-    font-size: 21.78px;
+    font-size: 1.925rem;
     font-family: "Arial bold", sans-serif; }
     #content h5 .lead {
-      font-size: 25.74px; }
+      font-size: 2.275rem; }
+    @media (max-width: 639.98px) {
+      #content h5 {
+        overflow-wrap: break-word; } }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content h5 {
         font-weight: bold;
         margin-bottom: 15px;
-        font-size: 19.8px;
+        font-size: 1.925rem;
         font-family: "Arial bold", sans-serif; }
         #content h5 .lead {
-          font-size: 23.4px; } }
+          font-size: 2.275rem; } }
+  @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
+    #content h5 {
+      overflow-wrap: break-word; } }
     @media (min-width: 1024px) {
       #content h5 {
         font-weight: bold;
         margin-bottom: 20px;
-        font-size: 22px;
+        font-size: 1.2375rem;
         font-family: "Arial bold", sans-serif; }
         #content h5 .lead {
-          font-size: 26px; } }
+          font-size: 1.4625rem; } }
+  @media (min-width: 1024px) and (max-width: 639.98px) {
+    #content h5 {
+      overflow-wrap: break-word; } }
   #content h6, #content table thead tr th, #content table tbody tr th, #content table tfoot tr th {
     font-weight: bold;
     margin-bottom: 13px;
-    font-size: 17.82px;
+    font-size: 1.575rem;
     font-family: "Arial black", sans-serif; }
     #content h6 .lead, #content table thead tr th .lead, #content table tbody tr th .lead, #content table tfoot tr th .lead {
-      font-size: 23.76px; }
+      font-size: 2.1rem; }
+    @media (max-width: 639.98px) {
+      #content h6, #content table thead tr th, #content table tbody tr th, #content table tfoot tr th {
+        overflow-wrap: break-word; } }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content h6, #content table thead tr th, #content table tbody tr th, #content table tfoot tr th {
         font-weight: bold;
         margin-bottom: 15px;
-        font-size: 16.2px;
+        font-size: 1.575rem;
         font-family: "Arial black", sans-serif; }
         #content h6 .lead, #content table thead tr th .lead, #content table tbody tr th .lead, #content table tfoot tr th .lead {
-          font-size: 21.6px; } }
+          font-size: 2.1rem; } }
+  @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
+    #content h6, #content table thead tr th, #content table tbody tr th, #content table tfoot tr th {
+      overflow-wrap: break-word; } }
     @media (min-width: 1024px) {
       #content h6, #content table thead tr th, #content table tbody tr th, #content table tfoot tr th {
         font-weight: bold;
         margin-bottom: 20px;
-        font-size: 18px;
+        font-size: 1.0125rem;
         font-family: "Arial black", sans-serif; }
         #content h6 .lead, #content table thead tr th .lead, #content table tbody tr th .lead, #content table tfoot tr th .lead {
-          font-size: 24px; } }
+          font-size: 1.35rem; } }
+  @media (min-width: 1024px) and (max-width: 639.98px) {
+    #content h6, #content table thead tr th, #content table tbody tr th, #content table tfoot tr th {
+      overflow-wrap: break-word; } }
   #content p, #content blockquote, #content div.line {
     margin-bottom: 30px;
-    font-size: 17.82px;
+    font-size: 2.8rem;
     font-family: Arial, sans-serif;
     zoom: 1; }
     #content p.lead, #content blockquote.lead, #content div.line.lead {
-      font-size: 26.73px; }
+      font-size: 3.36rem; }
     @media (max-width: 639.98px) {
       #content p, #content blockquote, #content div.line {
         overflow-wrap: break-word; } }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content p, #content blockquote, #content div.line {
         margin-bottom: 36px;
-        font-size: 16.2px;
+        font-size: 2rem;
         font-family: Arial, sans-serif;
         zoom: 1; }
         #content p.lead, #content blockquote.lead, #content div.line.lead {
-          font-size: 24.3px; } }
+          font-size: 2.4rem; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
     #content p, #content blockquote, #content div.line {
       overflow-wrap: break-word; } }
     @media (min-width: 1024px) {
       #content p, #content blockquote, #content div.line {
         margin-bottom: 45px;
-        font-size: 18px;
+        font-size: 1.8rem;
         font-family: Arial, sans-serif;
         zoom: 1; }
         #content p.lead, #content blockquote.lead, #content div.line.lead {
-          font-size: 27px; } }
+          font-size: 2.16rem; } }
   @media (min-width: 1024px) and (max-width: 639.98px) {
     #content p, #content blockquote, #content div.line {
       overflow-wrap: break-word; } }
@@ -4365,22 +4473,29 @@ body {
         margin-bottom: 36px; } }
     @media (min-width: 1024px) {
       #content figure, #content .imggroup {
-        margin-bottom: 45px; } }
+        margin-bottom: 45px;
+        text-align: left !important; } }
     #content figure img, #content .imggroup img {
       max-width: 100%; }
       @media (min-width: 768px) {
         #content figure img, #content .imggroup img {
           max-width: 70%; } }
-    #content figure figcaption, #content figure .caption, #content .imggroup figcaption, #content .imggroup .caption {
+      @media (min-width: 1024px) {
+        #content figure img, #content .imggroup img {
+          margin-left: 0 !important;
+          margin-right: auto !important; } }
+    #content figure figcaption, #content figure .caption > *, #content .imggroup figcaption, #content .imggroup .caption > * {
       color: #212d39;
       min-height: 15px;
       margin-top: 15px; }
       @media (min-width: 768px) and (max-width: 1023.98px) {
-        #content figure figcaption, #content figure .caption, #content .imggroup figcaption, #content .imggroup .caption {
+        #content figure figcaption, #content figure .caption > *, #content .imggroup figcaption, #content .imggroup .caption > * {
           margin-top: 20px; } }
       @media (min-width: 1024px) {
-        #content figure figcaption, #content figure .caption, #content .imggroup figcaption, #content .imggroup .caption {
-          min-height: 25px; } }
+        #content figure figcaption, #content figure .caption > *, #content .imggroup figcaption, #content .imggroup .caption > * {
+          min-height: 25px;
+          margin-left: 0 !important;
+          margin-right: auto !important; } }
   #content table {
     color: #22313f;
     scrollbar-color: #B1C900;
@@ -4393,38 +4508,38 @@ body {
       border-right: 1px solid #90989f; }
     #content table thead tr td, #content table tbody tr td, #content table tfoot tr td {
       margin-bottom: 30px;
-      font-size: 17.82px;
+      font-size: 2.8rem;
       font-family: Arial, sans-serif;
       zoom: 1;
       margin: 12px;
       overflow-wrap: normal !important;
       border-right: 1px solid #90989f; }
       #content table thead tr td.lead, #content table tbody tr td.lead, #content table tfoot tr td.lead {
-        font-size: 26.73px; }
+        font-size: 3.36rem; }
       @media (max-width: 639.98px) {
         #content table thead tr td, #content table tbody tr td, #content table tfoot tr td {
           overflow-wrap: break-word; } }
       @media (min-width: 768px) and (max-width: 1023.98px) {
         #content table thead tr td, #content table tbody tr td, #content table tfoot tr td {
           margin-bottom: 36px;
-          font-size: 16.2px;
+          font-size: 2rem;
           font-family: Arial, sans-serif;
           zoom: 1;
           margin: 15px; }
           #content table thead tr td.lead, #content table tbody tr td.lead, #content table tfoot tr td.lead {
-            font-size: 24.3px; } }
+            font-size: 2.4rem; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
     #content table thead tr td, #content table tbody tr td, #content table tfoot tr td {
       overflow-wrap: break-word; } }
       @media (min-width: 1024px) {
         #content table thead tr td, #content table tbody tr td, #content table tfoot tr td {
           margin-bottom: 45px;
-          font-size: 18px;
+          font-size: 1.8rem;
           font-family: Arial, sans-serif;
           zoom: 1;
           margin: 20px; }
           #content table thead tr td.lead, #content table tbody tr td.lead, #content table tfoot tr td.lead {
-            font-size: 27px; } }
+            font-size: 2.16rem; } }
   @media (min-width: 1024px) and (max-width: 639.98px) {
     #content table thead tr td, #content table tbody tr td, #content table tfoot tr td {
       overflow-wrap: break-word; } }
@@ -4432,11 +4547,11 @@ body {
       color: #212d39;
       margin: 12px;
       margin-bottom: 30px;
-      font-size: 17.82px;
+      font-size: 2.8rem;
       font-family: Arial, sans-serif;
       zoom: 1; }
       #content table caption.lead {
-        font-size: 26.73px; }
+        font-size: 3.36rem; }
       @media (max-width: 639.98px) {
         #content table caption {
           overflow-wrap: break-word; } }
@@ -4444,11 +4559,11 @@ body {
         #content table caption {
           margin: 15px;
           margin-bottom: 36px;
-          font-size: 16.2px;
+          font-size: 2rem;
           font-family: Arial, sans-serif;
           zoom: 1; }
           #content table caption.lead {
-            font-size: 24.3px; } }
+            font-size: 2.4rem; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
     #content table caption {
       overflow-wrap: break-word; } }
@@ -4456,24 +4571,24 @@ body {
         #content table caption {
           margin: 20px;
           margin-bottom: 45px;
-          font-size: 18px;
+          font-size: 1.8rem;
           font-family: Arial, sans-serif;
           zoom: 1; }
           #content table caption.lead {
-            font-size: 27px; } }
+            font-size: 2.16rem; } }
   @media (min-width: 1024px) and (max-width: 639.98px) {
     #content table caption {
       overflow-wrap: break-word; } }
     #content table.liste, #content table.imggroup {
       border: none !important; }
       #content table.liste tr td, #content table.imggroup tr td {
-        font-size: 17.82px; }
+        font-size: 2.8rem; }
         @media (min-width: 768px) and (max-width: 1023.98px) {
           #content table.liste tr td, #content table.imggroup tr td {
-            font-size: 16.2px; } }
+            font-size: 2rem; } }
         @media (min-width: 1024px) {
           #content table.liste tr td, #content table.imggroup tr td {
-            font-size: 18px; } }
+            font-size: 1.8rem; } }
   #content .generisk-ramme {
     color: #212d39 !important;
     background-color: #e4f0da !important;
@@ -4482,7 +4597,7 @@ body {
     padding: 20px;
     margin-bottom: 30px;
     margin-bottom: 30px;
-    font-size: 17.82px;
+    font-size: 2.8rem;
     font-family: Arial, sans-serif;
     zoom: 1; }
     #content .generisk-ramme .sentence {
@@ -4499,29 +4614,29 @@ body {
       #content .generisk-ramme {
         overflow-wrap: break-word; } }
     #content .generisk-ramme.lead {
-      font-size: 26.73px; }
+      font-size: 3.36rem; }
     @media (max-width: 639.98px) {
       #content .generisk-ramme {
         overflow-wrap: break-word; } }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content .generisk-ramme {
         margin-bottom: 36px;
-        font-size: 16.2px;
+        font-size: 2rem;
         font-family: Arial, sans-serif;
         zoom: 1; }
         #content .generisk-ramme.lead {
-          font-size: 24.3px; } }
+          font-size: 2.4rem; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
     #content .generisk-ramme {
       overflow-wrap: break-word; } }
     @media (min-width: 1024px) {
       #content .generisk-ramme {
         margin-bottom: 45px;
-        font-size: 18px;
+        font-size: 1.8rem;
         font-family: Arial, sans-serif;
         zoom: 1; }
         #content .generisk-ramme.lead {
-          font-size: 27px; } }
+          font-size: 2.16rem; } }
   @media (min-width: 1024px) and (max-width: 639.98px) {
     #content .generisk-ramme {
       overflow-wrap: break-word; } }
@@ -4556,20 +4671,20 @@ body {
       background-color: #e4f0da !important;
       border: 1px solid #B1C900 !important; }
   #content table.liste, #content ul, #content ol {
-    font-size: 17.82px;
+    font-size: 2.8rem;
     margin-bottom: 30px;
     margin-left: 18px; }
     @media (min-width: 640px) and (max-width: 767.98px) {
       #content table.liste, #content ul, #content ol {
-        font-size: 17.82px;
+        font-size: 2.8rem;
         margin-left: 20px; } }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content table.liste, #content ul, #content ol {
-        font-size: 16.2px;
+        font-size: 2rem;
         margin-left: 25px; } }
     @media (min-width: 1024px) {
       #content table.liste, #content ul, #content ol {
-        font-size: 18px;
+        font-size: 1.8rem;
         margin-left: 25px; } }
     #content table.liste .listepunkt-punktmerke-innhold, #content table.liste li, #content ul .listepunkt-punktmerke-innhold, #content ul li, #content ol .listepunkt-punktmerke-innhold, #content ol li {
       margin-bottom: 16px;
@@ -4607,33 +4722,33 @@ body {
       list-style-type: none; }
   #content .ordliste dl dt {
     margin-bottom: 30px;
-    font-size: 17.82px;
+    font-size: 2.8rem;
     font-family: Arial, sans-serif;
     zoom: 1; }
     #content .ordliste dl dt.lead {
-      font-size: 26.73px; }
+      font-size: 3.36rem; }
     @media (max-width: 639.98px) {
       #content .ordliste dl dt {
         overflow-wrap: break-word; } }
     @media (min-width: 640px) and (max-width: 767.98px) {
       #content .ordliste dl dt {
         margin-bottom: 36px;
-        font-size: 16.2px;
+        font-size: 2rem;
         font-family: Arial, sans-serif;
         zoom: 1; }
         #content .ordliste dl dt.lead {
-          font-size: 24.3px; } }
+          font-size: 2.4rem; } }
   @media (min-width: 640px) and (max-width: 767.98px) and (max-width: 639.98px) {
     #content .ordliste dl dt {
       overflow-wrap: break-word; } }
     @media (min-width: 768px) {
       #content .ordliste dl dt {
         margin-bottom: 45px;
-        font-size: 18px;
+        font-size: 1.8rem;
         font-family: Arial, sans-serif;
         zoom: 1; }
         #content .ordliste dl dt.lead {
-          font-size: 27px; } }
+          font-size: 2.16rem; } }
   @media (min-width: 768px) and (max-width: 639.98px) {
     #content .ordliste dl dt {
       overflow-wrap: break-word; } }
@@ -4732,12 +4847,15 @@ body {
 
 .navbar-brand {
   display: inline-block;
-  padding-top: 0.3125rem;
-  padding-bottom: 0.3125rem;
+  padding-top: 0.65rem;
+  padding-bottom: 0.65rem;
   margin-right: 1.5rem;
-  font-size: 1.25rem;
+  font-size: 1.8rem;
   line-height: inherit;
   white-space: nowrap; }
+  @media (max-width: 1200px) {
+    .navbar-brand {
+      font-size: calc(1.305rem + 0.66vw) ; } }
   .navbar-brand:hover, .navbar-brand:focus {
     text-decoration: none; }
 
@@ -4766,11 +4884,14 @@ body {
 
 .navbar-toggler {
   padding: 0.25rem 0.75rem;
-  font-size: 1.25rem;
+  font-size: 1.8rem;
   line-height: 1;
   background-color: transparent;
   border: 1px solid transparent;
   border-radius: 0.25rem; }
+  @media (max-width: 1200px) {
+    .navbar-toggler {
+      font-size: calc(1.305rem + 0.66vw) ; } }
   .navbar-toggler:hover, .navbar-toggler:focus {
     text-decoration: none; }
 
@@ -5546,15 +5667,15 @@ a {
         margin-bottom: 36px; } }
     @media (min-width: 768px) {
       #content .oppgaver .oppgaver-li-oppgavetekst, #content .oppgaver .underoppgaver .underoppgaver-li-oppgavetekst {
-        font-size: 18px; } }
+        font-size: 1.8rem; } }
   #content .oppgaver .sentence {
-    font-size: 17.82px; }
+    font-size: 2.8rem; }
     @media (min-width: 640px) and (max-width: 767.98px) {
       #content .oppgaver .sentence {
         margin-bottom: 36px; } }
     @media (min-width: 768px) {
       #content .oppgaver .sentence {
-        font-size: 18px; } }
+        font-size: 1.8rem; } }
   #content .oppgaver .underoppgaver {
     margin-left: 18px; }
     @media (min-width: 640px) and (max-width: 767.98px) {
