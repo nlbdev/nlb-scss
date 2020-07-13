@@ -7,6 +7,10 @@
     .lead {
         font-size: $font-size-lead;
     }
+
+    @include media-breakpoint-only('xs') {
+        overflow-wrap: break-word;
+    }
 }
 @mixin nlb-set-paragraph-font($margin-bottom, $font-size, $font-size-lead) {
     margin-bottom: $margin-bottom;
