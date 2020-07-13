@@ -328,6 +328,9 @@ body {
     
     /* Lists
      * ---------------------------------------------------------- */
+    .list-style-type-none { 
+         @extend .list-unstyled; 
+    }
     table.liste, ul, ol {
         font-size: $nlb-p-font-size-sm;
         margin-bottom: $nlb-p-margin-bottom-sm;

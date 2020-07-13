@@ -3191,7 +3191,7 @@ mark,
   padding: 0.2em;
   background-color: #fcf8e3; }
 
-.list-unstyled {
+.list-unstyled, #content .list-style-type-none {
   padding-left: 0;
   list-style: none; }
 
