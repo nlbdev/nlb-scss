@@ -36,6 +36,11 @@ body {
     }
 }
 #content {
+    blockquote {
+        @include nlb-color($gray-200, $gray-300, $dark);
+        @include nlb-frame();
+    }
+
     // max-width: 100%;
     .hidden-headline { @extend .d-none; }
     .nested-list { list-style-type: none; padding-left: 0; }
