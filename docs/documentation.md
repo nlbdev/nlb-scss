@@ -41,6 +41,7 @@ Siste versjon finnes på: [GitHub](https://github.com/nlbdev/nlb-scss/releases)
 - v1.0.1: Endringer på tabeller, kantlinjefarge, størrelse.
 - v1.0.2: La til hidden-headline klasse for å skjule overskrifter.
 - v1.1.0: Feilrettinger i lister, overskrifter, skriftstørrelser, o.l.
+- v1.1.1: Retting av skriftstørrelse på mobil
 
 ## Dokumentasjon
 
