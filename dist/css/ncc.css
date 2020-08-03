@@ -3111,34 +3111,34 @@ h1, h2, h3, h4, h5, h6, #content table thead tr th, #content table tbody tr th, 
   line-height: 1.2; }
 
 h1, .h1 {
-  font-size: 5rem; }
-  @media (max-width: 1200px) {
-    h1, .h1 {
-      font-size: calc(1.625rem + 4.5vw) ; } }
-
-h2, .h2 {
   font-size: 4rem; }
   @media (max-width: 1200px) {
-    h2, .h2 {
+    h1, .h1 {
       font-size: calc(1.525rem + 3.3vw) ; } }
 
-h3, .h3 {
+h2, .h2 {
   font-size: 3.5rem; }
   @media (max-width: 1200px) {
-    h3, .h3 {
+    h2, .h2 {
       font-size: calc(1.475rem + 2.7vw) ; } }
 
-h4, .h4 {
+h3, .h3 {
   font-size: 3rem; }
   @media (max-width: 1200px) {
-    h4, .h4 {
+    h3, .h3 {
       font-size: calc(1.425rem + 2.1vw) ; } }
 
-h5, .h5 {
+h4, .h4 {
   font-size: 2.5rem; }
   @media (max-width: 1200px) {
-    h5, .h5 {
+    h4, .h4 {
       font-size: calc(1.375rem + 1.5vw) ; } }
+
+h5, .h5 {
+  font-size: 2.3rem; }
+  @media (max-width: 1200px) {
+    h5, .h5 {
+      font-size: calc(1.355rem + 1.26vw) ; } }
 
 h6, #content table thead tr th, #content table tbody tr th, #content table tfoot tr th, .h6 {
   font-size: 2rem; }
@@ -4226,10 +4226,10 @@ body {
   #content h1, #content h1.title {
     font-weight: bold;
     margin-bottom: 20px;
-    font-size: 3.15rem;
+    font-size: 1.125rem;
     font-family: "Arial black", sans-serif; }
     #content h1 .lead, #content h1.title .lead {
-      font-size: 3.5rem; }
+      font-size: 1.25rem; }
     @media (max-width: 639.98px) {
       #content h1, #content h1.title {
         overflow-wrap: break-word; } }
@@ -4237,10 +4237,10 @@ body {
       #content h1, #content h1.title {
         font-weight: bold;
         margin-bottom: 30px;
-        font-size: 3.15rem;
+        font-size: 1.6875rem;
         font-family: "Arial black", sans-serif; }
         #content h1 .lead, #content h1.title .lead {
-          font-size: 3.5rem; } }
+          font-size: 1.875rem; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
     #content h1, #content h1.title {
       overflow-wrap: break-word; } }
@@ -4258,10 +4258,10 @@ body {
   #content h2 {
     font-weight: bold;
     margin-bottom: 20px;
-    font-size: 2.8rem;
+    font-size: 1rem;
     font-family: "Arial bold", sans-serif; }
     #content h2 .lead {
-      font-size: 3.15rem; }
+      font-size: 1.125rem; }
     @media (max-width: 639.98px) {
       #content h2 {
         overflow-wrap: break-word; } }
@@ -4269,10 +4269,10 @@ body {
       #content h2 {
         font-weight: bold;
         margin-bottom: 25px;
-        font-size: 2.8rem;
+        font-size: 1.5rem;
         font-family: "Arial bold", sans-serif; }
         #content h2 .lead {
-          font-size: 3.15rem; } }
+          font-size: 1.6875rem; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
     #content h2 {
       overflow-wrap: break-word; } }
@@ -4290,10 +4290,10 @@ body {
   #content h3 {
     font-weight: bold;
     margin-bottom: 17px;
-    font-size: 2.45rem;
+    font-size: 1rem;
     font-family: "Arial bold", sans-serif; }
     #content h3 .lead {
-      font-size: 2.8rem; }
+      font-size: 1rem; }
     @media (max-width: 639.98px) {
       #content h3 {
         overflow-wrap: break-word; } }
@@ -4301,10 +4301,10 @@ body {
       #content h3 {
         font-weight: bold;
         margin-bottom: 20px;
-        font-size: 2.45rem;
+        font-size: 1.5rem;
         font-family: "Arial bold", sans-serif; }
         #content h3 .lead {
-          font-size: 2.8rem; } }
+          font-size: 1.5rem; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
     #content h3 {
       overflow-wrap: break-word; } }
@@ -4312,7 +4312,7 @@ body {
       #content h3 {
         font-weight: bold;
         margin-bottom: 25px;
-        font-size: 1.575rem;
+        font-size: 1.8rem;
         font-family: "Arial bold", sans-serif; }
         #content h3 .lead {
           font-size: 1.8rem; } }
@@ -4322,10 +4322,10 @@ body {
   #content h4 {
     font-weight: bold;
     margin-bottom: 14px;
-    font-size: 1.925rem;
+    font-size: 1rem;
     font-family: "Arial black", sans-serif; }
     #content h4 .lead {
-      font-size: 2.275rem; }
+      font-size: 1rem; }
     @media (max-width: 639.98px) {
       #content h4 {
         overflow-wrap: break-word; } }
@@ -4333,10 +4333,10 @@ body {
       #content h4 {
         font-weight: bold;
         margin-bottom: 15px;
-        font-size: 1.925rem;
+        font-size: 1.5rem;
         font-family: "Arial black", sans-serif; }
         #content h4 .lead {
-          font-size: 2.275rem; } }
+          font-size: 1.5rem; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
     #content h4 {
       overflow-wrap: break-word; } }
@@ -4344,20 +4344,20 @@ body {
       #content h4 {
         font-weight: bold;
         margin-bottom: 20px;
-        font-size: 1.2375rem;
+        font-size: 1.8rem;
         font-family: "Arial black", sans-serif; }
         #content h4 .lead {
-          font-size: 1.4625rem; } }
+          font-size: 1.8rem; } }
   @media (min-width: 1024px) and (max-width: 639.98px) {
     #content h4 {
       overflow-wrap: break-word; } }
   #content h5 {
     font-weight: bold;
     margin-bottom: 14px;
-    font-size: 1.925rem;
+    font-size: 1rem;
     font-family: "Arial bold", sans-serif; }
     #content h5 .lead {
-      font-size: 2.275rem; }
+      font-size: 1rem; }
     @media (max-width: 639.98px) {
       #content h5 {
         overflow-wrap: break-word; } }
@@ -4365,10 +4365,10 @@ body {
       #content h5 {
         font-weight: bold;
         margin-bottom: 15px;
-        font-size: 1.925rem;
+        font-size: 1.5rem;
         font-family: "Arial bold", sans-serif; }
         #content h5 .lead {
-          font-size: 2.275rem; } }
+          font-size: 1.5rem; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
     #content h5 {
       overflow-wrap: break-word; } }
@@ -4376,20 +4376,20 @@ body {
       #content h5 {
         font-weight: bold;
         margin-bottom: 20px;
-        font-size: 1.2375rem;
+        font-size: 1.8rem;
         font-family: "Arial bold", sans-serif; }
         #content h5 .lead {
-          font-size: 1.4625rem; } }
+          font-size: 1.8rem; } }
   @media (min-width: 1024px) and (max-width: 639.98px) {
     #content h5 {
       overflow-wrap: break-word; } }
   #content h6, #content table thead tr th, #content table tbody tr th, #content table tfoot tr th {
     font-weight: bold;
     margin-bottom: 13px;
-    font-size: 1.575rem;
+    font-size: 1rem;
     font-family: "Arial black", sans-serif; }
     #content h6 .lead, #content table thead tr th .lead, #content table tbody tr th .lead, #content table tfoot tr th .lead {
-      font-size: 2.1rem; }
+      font-size: 1rem; }
     @media (max-width: 639.98px) {
       #content h6, #content table thead tr th, #content table tbody tr th, #content table tfoot tr th {
         overflow-wrap: break-word; } }
@@ -4397,10 +4397,10 @@ body {
       #content h6, #content table thead tr th, #content table tbody tr th, #content table tfoot tr th {
         font-weight: bold;
         margin-bottom: 15px;
-        font-size: 1.575rem;
+        font-size: 1.5rem;
         font-family: "Arial black", sans-serif; }
         #content h6 .lead, #content table thead tr th .lead, #content table tbody tr th .lead, #content table tfoot tr th .lead {
-          font-size: 2.1rem; } }
+          font-size: 1.5rem; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
     #content h6, #content table thead tr th, #content table tbody tr th, #content table tfoot tr th {
       overflow-wrap: break-word; } }
@@ -4408,31 +4408,31 @@ body {
       #content h6, #content table thead tr th, #content table tbody tr th, #content table tfoot tr th {
         font-weight: bold;
         margin-bottom: 20px;
-        font-size: 1.0125rem;
+        font-size: 1.8rem;
         font-family: "Arial black", sans-serif; }
         #content h6 .lead, #content table thead tr th .lead, #content table tbody tr th .lead, #content table tfoot tr th .lead {
-          font-size: 1.35rem; } }
+          font-size: 1.8rem; } }
   @media (min-width: 1024px) and (max-width: 639.98px) {
     #content h6, #content table thead tr th, #content table tbody tr th, #content table tfoot tr th {
       overflow-wrap: break-word; } }
   #content p, #content blockquote, #content div.line {
     margin-bottom: 30px;
-    font-size: 2.8rem;
+    font-size: 1rem;
     font-family: Arial, sans-serif;
     zoom: 1; }
     #content p.lead, #content blockquote.lead, #content div.line.lead {
-      font-size: 3.36rem; }
+      font-size: 1.2rem; }
     @media (max-width: 639.98px) {
       #content p, #content blockquote, #content div.line {
         overflow-wrap: break-word; } }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content p, #content blockquote, #content div.line {
         margin-bottom: 36px;
-        font-size: 2rem;
+        font-size: 1.5rem;
         font-family: Arial, sans-serif;
         zoom: 1; }
         #content p.lead, #content blockquote.lead, #content div.line.lead {
-          font-size: 2.4rem; } }
+          font-size: 1.8rem; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
     #content p, #content blockquote, #content div.line {
       overflow-wrap: break-word; } }
@@ -4492,26 +4492,26 @@ body {
       border-right: 1px solid #90989f; }
     #content table thead tr td, #content table tbody tr td, #content table tfoot tr td {
       margin-bottom: 30px;
-      font-size: 2.8rem;
+      font-size: 1rem;
       font-family: Arial, sans-serif;
       zoom: 1;
       margin: 12px;
       overflow-wrap: normal !important;
       border-right: 1px solid #90989f; }
       #content table thead tr td.lead, #content table tbody tr td.lead, #content table tfoot tr td.lead {
-        font-size: 3.36rem; }
+        font-size: 1.2rem; }
       @media (max-width: 639.98px) {
         #content table thead tr td, #content table tbody tr td, #content table tfoot tr td {
           overflow-wrap: break-word; } }
       @media (min-width: 768px) and (max-width: 1023.98px) {
         #content table thead tr td, #content table tbody tr td, #content table tfoot tr td {
           margin-bottom: 36px;
-          font-size: 2rem;
+          font-size: 1.5rem;
           font-family: Arial, sans-serif;
           zoom: 1;
           margin: 15px; }
           #content table thead tr td.lead, #content table tbody tr td.lead, #content table tfoot tr td.lead {
-            font-size: 2.4rem; } }
+            font-size: 1.8rem; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
     #content table thead tr td, #content table tbody tr td, #content table tfoot tr td {
       overflow-wrap: break-word; } }
@@ -4531,11 +4531,11 @@ body {
       color: #212d39;
       margin: 12px;
       margin-bottom: 30px;
-      font-size: 2.8rem;
+      font-size: 1rem;
       font-family: Arial, sans-serif;
       zoom: 1; }
       #content table caption.lead {
-        font-size: 3.36rem; }
+        font-size: 1.2rem; }
       @media (max-width: 639.98px) {
         #content table caption {
           overflow-wrap: break-word; } }
@@ -4543,11 +4543,11 @@ body {
         #content table caption {
           margin: 15px;
           margin-bottom: 36px;
-          font-size: 2rem;
+          font-size: 1.5rem;
           font-family: Arial, sans-serif;
           zoom: 1; }
           #content table caption.lead {
-            font-size: 2.4rem; } }
+            font-size: 1.8rem; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
     #content table caption {
       overflow-wrap: break-word; } }
@@ -4566,10 +4566,10 @@ body {
     #content table.liste, #content table.imggroup {
       border: none !important; }
       #content table.liste tr td, #content table.imggroup tr td {
-        font-size: 2.8rem; }
+        font-size: 1rem; }
         @media (min-width: 768px) and (max-width: 1023.98px) {
           #content table.liste tr td, #content table.imggroup tr td {
-            font-size: 2rem; } }
+            font-size: 1.5rem; } }
         @media (min-width: 1024px) {
           #content table.liste tr td, #content table.imggroup tr td {
             font-size: 1.8rem; } }
@@ -4581,7 +4581,7 @@ body {
     padding: 20px;
     margin-bottom: 30px;
     margin-bottom: 30px;
-    font-size: 2.8rem;
+    font-size: 1rem;
     font-family: Arial, sans-serif;
     zoom: 1; }
     #content .generisk-ramme .sentence {
@@ -4598,18 +4598,18 @@ body {
       #content .generisk-ramme {
         overflow-wrap: break-word; } }
     #content .generisk-ramme.lead {
-      font-size: 3.36rem; }
+      font-size: 1.2rem; }
     @media (max-width: 639.98px) {
       #content .generisk-ramme {
         overflow-wrap: break-word; } }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content .generisk-ramme {
         margin-bottom: 36px;
-        font-size: 2rem;
+        font-size: 1.5rem;
         font-family: Arial, sans-serif;
         zoom: 1; }
         #content .generisk-ramme.lead {
-          font-size: 2.4rem; } }
+          font-size: 1.8rem; } }
   @media (min-width: 768px) and (max-width: 1023.98px) and (max-width: 639.98px) {
     #content .generisk-ramme {
       overflow-wrap: break-word; } }
@@ -4655,16 +4655,16 @@ body {
       background-color: #e4f0da !important;
       border: 1px solid #B1C900 !important; }
   #content table.liste, #content ul, #content ol {
-    font-size: 2.8rem;
+    font-size: 1rem;
     margin-bottom: 30px;
     margin-left: 18px; }
     @media (min-width: 640px) and (max-width: 767.98px) {
       #content table.liste, #content ul, #content ol {
-        font-size: 2.8rem;
+        font-size: 1rem;
         margin-left: 20px; } }
     @media (min-width: 768px) and (max-width: 1023.98px) {
       #content table.liste, #content ul, #content ol {
-        font-size: 2rem;
+        font-size: 1.5rem;
         margin-left: 25px; } }
     @media (min-width: 1024px) {
       #content table.liste, #content ul, #content ol {
@@ -4706,22 +4706,22 @@ body {
       list-style-type: none; }
   #content .ordliste dl dt {
     margin-bottom: 30px;
-    font-size: 2.8rem;
+    font-size: 1rem;
     font-family: Arial, sans-serif;
     zoom: 1; }
     #content .ordliste dl dt.lead {
-      font-size: 3.36rem; }
+      font-size: 1.2rem; }
     @media (max-width: 639.98px) {
       #content .ordliste dl dt {
         overflow-wrap: break-word; } }
     @media (min-width: 640px) and (max-width: 767.98px) {
       #content .ordliste dl dt {
         margin-bottom: 36px;
-        font-size: 2rem;
+        font-size: 1.5rem;
         font-family: Arial, sans-serif;
         zoom: 1; }
         #content .ordliste dl dt.lead {
-          font-size: 2.4rem; } }
+          font-size: 1.8rem; } }
   @media (min-width: 640px) and (max-width: 767.98px) and (max-width: 639.98px) {
     #content .ordliste dl dt {
       overflow-wrap: break-word; } }
