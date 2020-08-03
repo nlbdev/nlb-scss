@@ -17,15 +17,18 @@ NLB, {{ 'now' | date: "%Y" }}
 ## Installasjon
 
 - **NCC**:
-  - Filen [ncc.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.1.0/ncc.min.css) må omdøpes til `default.css` og kopieres inn i rotmappen.
+  - Filen [ncc.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.1.1/ncc.min.css) må omdøpes til `default.css` og kopieres inn i rotmappen.
   - I `ncc.html` må det lenkes til `default.css` i hodet på filen `<link rel="stylesheet" type="text/css" href="default.css"/>`
 - **Lydbok med tekst**:
-  - Filen [html.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.1.0/html.min.css) må omdøpes til `default.css` og kopieres inn i rotmappen.
+  - Filen [html.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.1.1/html.min.css) må omdøpes til `default.css` og kopieres inn i rotmappen.
   - I hovedfilen må det lenkes til `default.css` i hodet på filen `<link rel="stylesheet" type="text/css" href="default.css"/>`
+- **E-bok**:
+  - Filen [ebok.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.1.1/ebok.min.css) kopieres inn i rotmappen.
+  - I hovedfilen må det lenkes til `ebok.min.css` i hodet på filen `<link rel="stylesheet" type="text/css" href="ebok.min.css"/>`
 - **Nettleserbok**:
   - Filene `js_style.css` og `rb_smil_emulator.js` slettes fra boken.
   - I hodet på `_nettleserbok.html` slettes referansene til CSS, og det må legges inn `<link rel="stylesheet" type="text/css" href="nettleserbok.min.css"/>`.
-  - Filen [nettleserbok.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.1.0/nettleserbok.min.css) og [rb_smil_emulator.js](https://github.com/nlbdev/nlb-scss/releases/download/v1.1.0/rb_smil_emulator.js) må kopieres inn i rotmappen.
+  - Filen [nettleserbok.min.css](https://github.com/nlbdev/nlb-scss/releases/download/v1.1.1/nettleserbok.min.css) og [rb_smil_emulator.js](https://github.com/nlbdev/nlb-scss/releases/download/v1.1.0/rb_smil_emulator.js) må kopieres inn i rotmappen.
 
 ### Krav til HTML
 
