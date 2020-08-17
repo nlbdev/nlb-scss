@@ -40,7 +40,7 @@ module.exports = function (grunt) {
 					'dist/css/epub.min.css': 'dist/css/epub.css',
 					'dist/css/html.min.css': 'dist/css/html.css',
 					'dist/css/ncc.min.css': 'dist/css/ncc.css',
-					'dist/css/nettleserbok.min.css': 'dist/css/nettleserbok.css'
+					'dist/css/nettleserbok.min.css': 'dist/css/nettleserbok.css',
 				}
 			}
 		},

@@ -1,11 +1,11 @@
 /*! Nettleserbok CSS */
 @charset "UTF-8";
 
-@import "core";
-@import "bootstrap/nav";
-@import "bootstrap/navbar";
-@import "seeds";
-@import "darktheme";
+@import "includes/core";
+@import "includes/bootstrap/nav";
+@import "includes/bootstrap/navbar";
+@import "includes/seeds";
+@import "includes/darktheme";
 
 /* Begin Nettleserbok.SCSS */
 a {

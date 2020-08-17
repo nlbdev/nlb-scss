@@ -1,8 +1,8 @@
 /*! Documentation CSS */
 @charset "UTF-8";
 
-@import "core";
-@import "darktheme";
+@import "includes/core";
+@import "includes/darktheme";
 
 body {
     @include make-container();

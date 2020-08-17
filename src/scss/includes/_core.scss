@@ -1,4 +1,4 @@
-/*! NLB Stylesheets | v1.0.3 */
+/*! NLB Stylesheets */
 
 @charset "UTF-8";
 /* Begin Core.SCSS */
@@ -7,7 +7,7 @@
  * ---------------------------------------------------------- */
 @import "normalize";
 @import "bootstrap/functions";
-@import "variables";
+@import "../variables";
 @import "bootstrap/mixins";
 @import "bootstrap/root";
 @import "bootstrap/reboot";
