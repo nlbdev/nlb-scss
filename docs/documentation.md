@@ -46,6 +46,7 @@ Siste versjon finnes på: [GitHub](https://github.com/nlbdev/nlb-scss/releases)
 - v1.1.0: Feilrettinger i lister, overskrifter, skriftstørrelser, o.l.
 - v1.1.1: Retting av skriftstørrelse på mobil
 - v1.2.0: La til CSS for PIP (Braille)
+- v1.2.1: Flyttet hidden-headline klassen for bruk utenfor `#content`
 
 ## Dokumentasjon
 

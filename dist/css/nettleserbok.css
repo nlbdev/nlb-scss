@@ -1,5 +1,5 @@
 /*! Nettleserbok CSS */
-/*! NLB Stylesheets | v1.0.3 */
+/*! NLB Stylesheets */
 /* Begin Core.SCSS */
 /* Imports
  * ---------------------------------------------------------- */
@@ -819,7 +819,7 @@ button.bg-pure-yellow:focus {
   clear: both;
   content: ""; }
 
-.d-none, #content .hidden-headline, #content .page-normal,
+.d-none, .hidden-headline, #content .page-normal,
 #content .page-front,
 #content .page-special {
   display: none !important; }
