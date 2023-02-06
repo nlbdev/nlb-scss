@@ -47,8 +47,17 @@ Siste versjon finnes på: [GitHub](https://github.com/nlbdev/nlb-scss/releases)
 - v1.1.1: Retting av skriftstørrelse på mobil
 - v1.2.0: La til CSS for PIP (Braille)
 - v1.2.1: Flyttet hidden-headline klassen for bruk utenfor `#content`
+- v1.2.2: Endret på bakgrunnsfarge til papirhvit/off-white for forbedret lesekvalitet
 
 ## Dokumentasjon
+
+### Body
+
+Bakgrunnsfarge
+
+Dagmodus | Nattmodus
+--- | ---
+[#faf9f6](https://www.colorhexa.com/faf9f6) | [#212d39](https://www.colorhexa.com/212d39)
 
 ### Overskrifter
 
