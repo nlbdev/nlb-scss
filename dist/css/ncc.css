@@ -317,7 +317,7 @@ template {
   --info: #17a2b8;
   --warning: #ffc107;
   --danger: #dc3545;
-  --light: #f8f9fa;
+  --light: #faf9f6;
   --dark: #212d39;
   --night: #212d39;
   --pure-yellow: #E9FD59;
@@ -663,13 +663,13 @@ button.bg-danger:hover,
 button.bg-danger:focus {
   background-color: #bd2130 !important; }
 
-.bg-light, body {
-  background-color: #f8f9fa !important; }
+.bg-light {
+  background-color: #faf9f6 !important; }
 
 a.bg-light:hover, a.bg-light:focus,
 button.bg-light:hover,
 button.bg-light:focus {
-  background-color: #dae0e5 !important; }
+  background-color: #e8e3d5 !important; }
 
 .bg-dark {
   background-color: #212d39 !important; }
@@ -752,7 +752,7 @@ button.bg-pure-yellow:focus {
   border-color: #dc3545 !important; }
 
 .border-light {
-  border-color: #f8f9fa !important; }
+  border-color: #faf9f6 !important; }
 
 .border-dark {
   border-color: #212d39 !important; }
@@ -3023,10 +3023,10 @@ a.text-danger:hover, a.text-danger:focus {
   color: #a71d2a !important; }
 
 .text-light {
-  color: #f8f9fa; }
+  color: #faf9f6; }
 
 a.text-light:hover, a.text-light:focus {
-  color: #cbd3da !important; }
+  color: #dfd8c5 !important; }
 
 .text-dark, body {
   color: #212d39; }
@@ -3998,19 +3998,19 @@ mark,
 .table-light,
 .table-light > th,
 .table-light > td {
-  background-color: #fdfdfe; }
+  background-color: #fefdfc; }
 
 .table-light th,
 .table-light td,
 .table-light thead th,
 .table-light tbody + tbody {
-  border-color: #fbfcfc; }
+  border-color: #fcfcfa; }
 
 .table-hover .table-light:hover {
-  background-color: #ececf6; }
+  background-color: #f8f0e9; }
   .table-hover .table-light:hover > td,
   .table-hover .table-light:hover > th {
-    background-color: #ececf6; }
+    background-color: #f8f0e9; }
 
 .table-dark,
 .table-dark > th,
@@ -4146,7 +4146,8 @@ mark,
 /* General styles
  * ---------------------------------------------------------- */
 body {
-  overflow-x: hidden; }
+  overflow-x: hidden;
+  background-color: #faf9f6; }
   body h1, body h1 > *, body h2, body h2 > *, body h3, body h3 > *, body h4, body h4 > *, body h5, body h5 > *, body h6, body #content table thead tr th, #content table thead tr body th, body #content table tbody tr th, #content table tbody tr body th, body #content table tfoot tr th, #content table tfoot tr body th, body h6 > *, body #content table thead tr th > *, #content table thead tr body th > *, body #content table tbody tr th > *, #content table tbody tr body th > *, body #content table tfoot tr th > *, #content table tfoot tr body th > *, body div, body div > *, body span, body span > *, body p, body #content blockquote, #content body blockquote, body p > *, body #content blockquote > *, #content body blockquote > * {
     overflow-wrap: break-word; }
     @media (min-width: 768px) {
