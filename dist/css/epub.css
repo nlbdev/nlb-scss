@@ -663,7 +663,7 @@ button.bg-danger:hover,
 button.bg-danger:focus {
   background-color: #bd2130 !important; }
 
-.bg-light {
+.bg-light, body {
   background-color: #faf9f6 !important; }
 
 a.bg-light:hover, a.bg-light:focus,
@@ -4173,8 +4173,7 @@ body table.imggroup tbody + tbody {
 /* General styles
  * ---------------------------------------------------------- */
 body {
-  overflow-x: hidden;
-  background-color: #faf9f6; }
+  overflow-x: hidden; }
   body h1, body h1 > *, body h2, body h2 > *, body h3, body h3 > *, body h4, body h4 > *, body h5, body h5 > *, body h6, body #content table thead tr th, #content table thead tr body th, body table thead tr th, body #content table tbody tr th, #content table tbody tr body th, body table tbody tr th, body #content table tfoot tr th, #content table tfoot tr body th, body table tfoot tr th, body h6 > *, body #content table thead tr th > *, #content table thead tr body th > *, body table thead tr th > *, body #content table tbody tr th > *, #content table tbody tr body th > *, body table tbody tr th > *, body #content table tfoot tr th > *, #content table tfoot tr body th > *, body table tfoot tr th > *, body div, body div > *, body span, body span > *, body p, body #content blockquote, #content body blockquote, body blockquote, body p > *, body #content blockquote > *, #content body blockquote > *, body blockquote > * {
     overflow-wrap: break-word; }
     @media (min-width: 768px) {
