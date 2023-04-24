@@ -10,6 +10,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        
       - name: Set tag name
         id: set_tag_name
         run: |
@@ -22,9 +25,6 @@ jobs:
             next_tag_number=$((latest_tag_number+1))
             echo "::set-output name=tag_name::${today}.${next_tag_number}"
           fi
-          
-      - name: Checkout code
-        uses: actions/checkout@v2
 
       - name: Install Node.js
         uses: actions/setup-node@v2
