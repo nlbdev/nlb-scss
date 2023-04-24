@@ -4,6 +4,10 @@
 
 [Documentation (in Norwegian)](https://nlbdev.github.io/nlb-scss/)
 
+## Note
+
+This repo should now build automatically when merging pull request onto master.
+
 ## Developer installation
 
 1. Install [NodeJS](https://nodejs.org/en/)
