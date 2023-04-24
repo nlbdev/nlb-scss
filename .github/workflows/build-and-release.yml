@@ -34,15 +34,8 @@ jobs:
           release_name: NLB Stylesheets (${{ github.ref }})
           draft: false
           prerelease: false
-
-      - name: Upload release asset
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
           
-      - name: Upload release archive
+      - name: Upload release asset
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -52,7 +45,7 @@ jobs:
           asset_name: ${{ github.ref }}
           asset_content_type: application/zip
           
-      - name: Upload ebok.min.css
+      - name: Upload ebok.min.css asset
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -61,7 +54,7 @@ jobs:
           asset_path: ./dist/css/ebok.min.css
           asset_name: ebok.min.css
           
-      - name: Upload epub.min.css
+      - name: Upload epub.min.css asset
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -70,7 +63,7 @@ jobs:
           asset_path: ./dist/css/epub.min.css
           asset_name: epub.min.css
           
-      - name: Upload html.min.css
+      - name: Upload html.min.css asset
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -79,7 +72,7 @@ jobs:
           asset_path: ./dist/css/html.min.css
           asset_name: html.min.css
           
-      - name: Upload ncc.min.css
+      - name: Upload ncc.min.css asset
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -88,7 +81,7 @@ jobs:
           asset_path: ./dist/css/ncc.min.css
           asset_name: ncc.min.css
           
-      - name: Upload nettleserbok.min.css
+      - name: Upload nettleserbok.min.css asset
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -97,7 +90,7 @@ jobs:
           asset_path: ./dist/css/nettleserbok.min.css
           asset_name: nettleserbok.min.css
           
-      - name: Upload rb_smil_emulator.js
+      - name: Upload rb_smil_emulator.js asset
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
