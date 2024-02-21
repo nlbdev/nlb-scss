@@ -14,6 +14,6 @@ This repo should now build automatically when merging pull request onto master.
 2. Install Grunt and Yarn with npm: `npm i -g grunt yarn` (run in command-line at the root folder)
 3. Run `yarn`
 
-To compile once run `grunt`
+To compile once run `yarn build`
 
-To compile after each change to a SCSS file, run `grunt watch`
+To compile after each change to a SCSS file, run `yarn dev`
