@@ -31,7 +31,6 @@
     "grunt-sass": "^3.0.2",
     "jquery": "^3.4.1",
     "load-grunt-tasks": "^4.0.0",
-    "node-sass": "^4.11.0",
     "normalize.css": "^8.0.1",
     "pixrem": "^5.0.0",
     "popper.js": "^1.15.0",
@@ -39,6 +38,7 @@
     "postcss-clean": "^1.1.0",
     "postcss-import": "^12.0.1",
     "postcss-scss": "^2.0.0",
-    "precss": "^4.0.0"
+    "precss": "^4.0.0",
+    "sass": "^1.77.8"
   }
 }
