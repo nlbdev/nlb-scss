@@ -91,7 +91,7 @@ body {
     .page-normal,
     .page-front, 
     .page-special {
-        @extend .border-top, .d-none, .d-sm-block, .pt-3, .mt-5, .mb-4, .text-right;
+        @extend .border-top, .d-block, .pt-3, .mt-5, .mb-4, .text-right;
     
         font-weight: bold;
         page-break-before: always;
