@@ -11,18 +11,26 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
-      - name: Install Node.js
-        uses: actions/setup-node@v2
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: '14.x'
+          node-version: '18'
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 10
 
       - name: Install project dependencies
-        run: npm install
+        run: pnpm install
 
-      - name: Run Grunt build
-        run: npx grunt
+      - name: Run Vite build (development)
+        run: pnpm run build:css
+
+      - name: Run Vite build (production minified)
+        run: pnpm run build:css:min
 
       - name: Create release package
         id: create_release
