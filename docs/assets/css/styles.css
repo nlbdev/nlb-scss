@@ -78,7 +78,8 @@ a {
 abbr[title] {
   border-bottom: none; /* 1 */
   text-decoration: underline; /* 2 */
-  text-decoration: underline dotted; /* 2 */
+  -webkit-text-decoration: underline dotted;
+          text-decoration: underline dotted; /* 2 */
 }
 
 /**
@@ -391,10 +392,12 @@ p, #content blockquote, body blockquote {
 abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;
-  text-decoration: underline dotted;
+  -webkit-text-decoration: underline dotted;
+          text-decoration: underline dotted;
   cursor: help;
   border-bottom: 0;
-  text-decoration-skip-ink: none;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
 }
 
 address {
@@ -461,7 +464,7 @@ a {
   background-color: transparent;
 }
 a:hover {
-  color: #0056b3;
+  color: rgb(0, 86.1, 178.5);
   text-decoration: underline;
 }
 
@@ -695,7 +698,7 @@ template {
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #0062cc !important;
+  background-color: rgb(0, 98.4, 204) !important;
 }
 
 .bg-secondary {
@@ -705,7 +708,7 @@ button.bg-primary:focus {
 a.bg-secondary:hover, a.bg-secondary:focus,
 button.bg-secondary:hover,
 button.bg-secondary:focus {
-  background-color: #545b62 !important;
+  background-color: rgb(84.3605150215, 91.3905579399, 97.6394849785) !important;
 }
 
 .bg-success {
@@ -715,7 +718,7 @@ button.bg-secondary:focus {
 a.bg-success:hover, a.bg-success:focus,
 button.bg-success:hover,
 button.bg-success:focus {
-  background-color: #1e7e34 !important;
+  background-color: rgb(30.1449275362, 125.8550724638, 52) !important;
 }
 
 .bg-info {
@@ -725,7 +728,7 @@ button.bg-success:focus {
 a.bg-info:hover, a.bg-info:focus,
 button.bg-info:hover,
 button.bg-info:focus {
-  background-color: #117a8b !important;
+  background-color: rgb(17.3333333333, 122.0869565217, 138.6666666667) !important;
 }
 
 .bg-warning {
@@ -735,7 +738,7 @@ button.bg-info:focus {
 a.bg-warning:hover, a.bg-warning:focus,
 button.bg-warning:hover,
 button.bg-warning:focus {
-  background-color: #d39e00 !important;
+  background-color: rgb(211, 158.25, 0) !important;
 }
 
 .bg-danger {
@@ -745,7 +748,7 @@ button.bg-warning:focus {
 a.bg-danger:hover, a.bg-danger:focus,
 button.bg-danger:hover,
 button.bg-danger:focus {
-  background-color: #bd2130 !important;
+  background-color: rgb(189.2151898734, 32.7848101266, 47.7721518987) !important;
 }
 
 .bg-light, body {
@@ -755,7 +758,7 @@ button.bg-danger:focus {
 a.bg-light:hover, a.bg-light:focus,
 button.bg-light:hover,
 button.bg-light:focus {
-  background-color: #e8e3d5 !important;
+  background-color: rgb(231.7857142857, 227.1428571429, 213.2142857143) !important;
 }
 
 .bg-dark {
@@ -765,7 +768,7 @@ button.bg-light:focus {
 a.bg-dark:hover, a.bg-dark:focus,
 button.bg-dark:hover,
 button.bg-dark:focus {
-  background-color: #0e1419 !important;
+  background-color: rgb(14.3, 19.5, 24.7) !important;
 }
 
 .bg-night, #content.theme__dark, body.theme__dark, body.theme__dark #toc_container .toc_container__wrapper,
@@ -794,7 +797,7 @@ body.theme__dark #toc_container button.toc_container__wrapper:focus,
 body.theme__dark #content button.content__wrapper:focus,
 body.theme__dark body button.content__wrapper:focus,
 body.theme__dark button.page__list-wrapper:focus {
-  background-color: #0e1419 !important;
+  background-color: rgb(14.3, 19.5, 24.7) !important;
 }
 
 .bg-pure-yellow {
@@ -804,7 +807,7 @@ body.theme__dark button.page__list-wrapper:focus {
 a.bg-pure-yellow:hover, a.bg-pure-yellow:focus,
 button.bg-pure-yellow:hover,
 button.bg-pure-yellow:focus {
-  background-color: #e2fc27 !important;
+  background-color: rgb(226.3214285714, 252.3928571429, 38.6071428571) !important;
 }
 
 .bg-white {
@@ -1842,7 +1845,6 @@ body .page-special {
 .sr-only {
   border: 0 !important;
   clip: rect(1px, 1px, 1px, 1px) !important;
-  -webkit-clip-path: inset(50%) !important;
   clip-path: inset(50%) !important;
   height: 1px !important;
   margin: -1px !important;
@@ -1855,7 +1857,6 @@ body .page-special {
 
 .sr-only-focusable:active, .sr-only-focusable:focus {
   clip: auto !important;
-  -webkit-clip-path: none !important;
   clip-path: none !important;
   height: auto !important;
   margin: auto !important;
@@ -3911,7 +3912,7 @@ body .page-special {
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #0056b3 !important;
+  color: rgb(0, 86.1, 178.5) !important;
 }
 
 .text-secondary {
@@ -3919,7 +3920,7 @@ a.text-primary:hover, a.text-primary:focus {
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
-  color: #494f54 !important;
+  color: rgb(72.5407725322, 78.5858369099, 83.9592274678) !important;
 }
 
 .text-success {
@@ -3927,7 +3928,7 @@ a.text-secondary:hover, a.text-secondary:focus {
 }
 
 a.text-success:hover, a.text-success:focus {
-  color: #19692c !important;
+  color: rgb(25.2173913043, 105.2826086957, 43.5) !important;
 }
 
 .text-info {
@@ -3935,7 +3936,7 @@ a.text-success:hover, a.text-success:focus {
 }
 
 a.text-info:hover, a.text-info:focus {
-  color: #0f6674 !important;
+  color: rgb(14.5, 102.1304347826, 116) !important;
 }
 
 .text-warning {
@@ -3943,7 +3944,7 @@ a.text-info:hover, a.text-info:focus {
 }
 
 a.text-warning:hover, a.text-warning:focus {
-  color: #ba8b00 !important;
+  color: rgb(185.5, 139.125, 0) !important;
 }
 
 .text-danger {
@@ -3951,7 +3952,7 @@ a.text-warning:hover, a.text-warning:focus {
 }
 
 a.text-danger:hover, a.text-danger:focus {
-  color: #a71d2a !important;
+  color: rgb(167.4810126582, 29.0189873418, 42.2848101266) !important;
 }
 
 .text-light, #content.theme__dark table, body.theme__dark table, #content.theme__dark span.sentence, body.theme__dark span.sentence, #content.theme__dark, body.theme__dark, body.theme__dark #hjelpknapp a, body.theme__dark p, body.theme__dark #content blockquote, body.theme__dark body blockquote, #content body.theme__dark blockquote, body body.theme__dark blockquote, body.theme__dark a, body.theme__dark h1, body.theme__dark h2, body.theme__dark h3, body.theme__dark h4, body.theme__dark h5, body.theme__dark h6, body.theme__dark #content table thead tr th, body.theme__dark body table thead tr th, #content table thead tr body.theme__dark th, body table thead tr body.theme__dark th, body.theme__dark #content table tbody tr th, body.theme__dark body table tbody tr th, #content table tbody tr body.theme__dark th, body table tbody tr body.theme__dark th, body.theme__dark #content table tfoot tr th, body.theme__dark body table tfoot tr th, #content table tfoot tr body.theme__dark th, body table tfoot tr body.theme__dark th, body.theme__dark {
@@ -3959,7 +3960,7 @@ a.text-danger:hover, a.text-danger:focus {
 }
 
 a.text-light:hover, a#content.theme__dark:hover, body.theme__dark #hjelpknapp a:hover, body.theme__dark a:hover, a.text-light:focus, a#content.theme__dark:focus, body.theme__dark #hjelpknapp a:focus, body.theme__dark a:focus {
-  color: #dfd8c5 !important;
+  color: rgb(222.6785714286, 216.2142857143, 196.8214285714) !important;
 }
 
 .text-dark, body {
@@ -3967,7 +3968,7 @@ a.text-light:hover, a#content.theme__dark:hover, body.theme__dark #hjelpknapp a:
 }
 
 a.text-dark:hover, a.text-dark:focus {
-  color: #050709 !important;
+  color: rgb(4.95, 6.75, 8.55) !important;
 }
 
 .text-night {
@@ -3975,7 +3976,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 a.text-night:hover, a.text-night:focus {
-  color: #050709 !important;
+  color: rgb(4.95, 6.75, 8.55) !important;
 }
 
 .text-pure-yellow {
@@ -3983,7 +3984,7 @@ a.text-night:hover, a.text-night:focus {
 }
 
 a.text-pure-yellow:hover, a.text-pure-yellow:focus {
-  color: #dffc0d !important;
+  color: rgb(222.9821428571, 252.0892857143, 13.4107142857) !important;
 }
 
 .text-body {
@@ -4034,7 +4035,6 @@ a.text-pure-yellow:hover, a.text-pure-yellow:focus {
 .sr-only {
   border: 0 !important;
   clip: rect(1px, 1px, 1px, 1px) !important;
-  -webkit-clip-path: inset(50%) !important;
   clip-path: inset(50%) !important;
   height: 1px !important;
   margin: -1px !important;
@@ -4047,7 +4047,6 @@ a.text-pure-yellow:hover, a.text-pure-yellow:focus {
 
 .sr-only-focusable:active, .sr-only-focusable:focus {
   clip: auto !important;
-  -webkit-clip-path: none !important;
   clip-path: none !important;
   height: auto !important;
   margin: auto !important;
@@ -5134,201 +5133,201 @@ body table.imggroup tbody + tbody {
 .table-primary,
 .table-primary > th,
 .table-primary > td {
-  background-color: #b8daff;
+  background-color: rgb(183.6, 218.04, 255);
 }
 .table-primary th,
 .table-primary td,
 .table-primary thead th,
 .table-primary tbody + tbody {
-  border-color: #7abaff;
+  border-color: rgb(122.4, 186.36, 255);
 }
 
 .table-hover .table-primary:hover {
-  background-color: #9fcdff;
+  background-color: rgb(158.1, 204.84, 255);
 }
 .table-hover .table-primary:hover > td,
 .table-hover .table-primary:hover > th {
-  background-color: #9fcdff;
+  background-color: rgb(158.1, 204.84, 255);
 }
 
 .table-secondary,
 .table-secondary > th,
 .table-secondary > td {
-  background-color: #d6d8db;
+  background-color: rgb(213.84, 216.36, 218.6);
 }
 .table-secondary th,
 .table-secondary td,
 .table-secondary thead th,
 .table-secondary tbody + tbody {
-  border-color: #b3b7bb;
+  border-color: rgb(178.56, 183.24, 187.4);
 }
 
 .table-hover .table-secondary:hover {
-  background-color: #c8cbcf;
+  background-color: rgb(200.3075090253, 203.6560288809, 206.6324909747);
 }
 .table-hover .table-secondary:hover > td,
 .table-hover .table-secondary:hover > th {
-  background-color: #c8cbcf;
+  background-color: rgb(200.3075090253, 203.6560288809, 206.6324909747);
 }
 
 .table-success,
 .table-success > th,
 .table-success > td {
-  background-color: #c3e6cb;
+  background-color: rgb(194.8, 230.36, 202.92);
 }
 .table-success th,
 .table-success td,
 .table-success thead th,
 .table-success tbody + tbody {
-  border-color: #8fd19e;
+  border-color: rgb(143.2, 209.24, 158.28);
 }
 
 .table-hover .table-success:hover {
-  background-color: #b1dfbb;
+  background-color: rgb(176.7059405941, 222.9540594059, 187.2665346535);
 }
 .table-hover .table-success:hover > td,
 .table-hover .table-success:hover > th {
-  background-color: #b1dfbb;
+  background-color: rgb(176.7059405941, 222.9540594059, 187.2665346535);
 }
 
 .table-info,
 .table-info > th,
 .table-info > td {
-  background-color: #bee5eb;
+  background-color: rgb(190.04, 228.96, 235.12);
 }
 .table-info th,
 .table-info td,
 .table-info thead th,
 .table-info tbody + tbody {
-  border-color: #86cfda;
+  border-color: rgb(134.36, 206.64, 218.08);
 }
 
 .table-hover .table-info:hover {
-  background-color: #abdde5;
+  background-color: rgb(170.5152475248, 221.1332673267, 229.1447524752);
 }
 .table-hover .table-info:hover > td,
 .table-hover .table-info:hover > th {
-  background-color: #abdde5;
+  background-color: rgb(170.5152475248, 221.1332673267, 229.1447524752);
 }
 
 .table-warning,
 .table-warning > th,
 .table-warning > td {
-  background-color: #ffeeba;
+  background-color: rgb(255, 237.64, 185.56);
 }
 .table-warning th,
 .table-warning td,
 .table-warning thead th,
 .table-warning tbody + tbody {
-  border-color: #ffdf7e;
+  border-color: rgb(255, 222.76, 126.04);
 }
 
 .table-hover .table-warning:hover {
-  background-color: #ffe8a1;
+  background-color: rgb(255, 231.265, 160.06);
 }
 .table-hover .table-warning:hover > td,
 .table-hover .table-warning:hover > th {
-  background-color: #ffe8a1;
+  background-color: rgb(255, 231.265, 160.06);
 }
 
 .table-danger,
 .table-danger > th,
 .table-danger > td {
-  background-color: #f5c6cb;
+  background-color: rgb(245.2, 198.44, 202.92);
 }
 .table-danger th,
 .table-danger td,
 .table-danger thead th,
 .table-danger tbody + tbody {
-  border-color: #ed969e;
+  border-color: rgb(236.8, 149.96, 158.28);
 }
 
 .table-hover .table-danger:hover {
-  background-color: #f1b0b7;
+  background-color: rgb(241.4341772152, 176.7058227848, 182.9073417722);
 }
 .table-hover .table-danger:hover > td,
 .table-hover .table-danger:hover > th {
-  background-color: #f1b0b7;
+  background-color: rgb(241.4341772152, 176.7058227848, 182.9073417722);
 }
 
 .table-light,
 .table-light > th,
 .table-light > td {
-  background-color: #fefdfc;
+  background-color: rgb(253.6, 253.32, 252.48);
 }
 .table-light th,
 .table-light td,
 .table-light thead th,
 .table-light tbody + tbody {
-  border-color: #fcfcfa;
+  border-color: rgb(252.4, 251.88, 250.32);
 }
 
 .table-hover .table-light:hover {
-  background-color: #f8f0e9;
+  background-color: rgb(244.4928571429, 242.3914285714, 236.0871428571);
 }
 .table-hover .table-light:hover > td,
 .table-hover .table-light:hover > th {
-  background-color: #f8f0e9;
+  background-color: rgb(244.4928571429, 242.3914285714, 236.0871428571);
 }
 
 .table-dark,
 .table-dark > th,
 .table-dark > td {
-  background-color: #c1c4c8;
+  background-color: rgb(192.84, 196.2, 199.56);
 }
 .table-dark th,
 .table-dark td,
 .table-dark thead th,
 .table-dark tbody + tbody {
-  border-color: #8c9298;
+  border-color: rgb(139.56, 145.8, 152.04);
 }
 
 .table-hover .table-dark:hover {
-  background-color: #b3b7bc;
+  background-color: rgb(179.3614285714, 183.45, 187.5385714286);
 }
 .table-hover .table-dark:hover > td,
 .table-hover .table-dark:hover > th {
-  background-color: #b3b7bc;
+  background-color: rgb(179.3614285714, 183.45, 187.5385714286);
 }
 
 .table-night,
 .table-night > th,
 .table-night > td {
-  background-color: #c1c4c8;
+  background-color: rgb(192.84, 196.2, 199.56);
 }
 .table-night th,
 .table-night td,
 .table-night thead th,
 .table-night tbody + tbody {
-  border-color: #8c9298;
+  border-color: rgb(139.56, 145.8, 152.04);
 }
 
 .table-hover .table-night:hover {
-  background-color: #b3b7bc;
+  background-color: rgb(179.3614285714, 183.45, 187.5385714286);
 }
 .table-hover .table-night:hover > td,
 .table-hover .table-night:hover > th {
-  background-color: #b3b7bc;
+  background-color: rgb(179.3614285714, 183.45, 187.5385714286);
 }
 
 .table-pure-yellow,
 .table-pure-yellow > th,
 .table-pure-yellow > td {
-  background-color: #f9fed1;
+  background-color: rgb(248.84, 254.44, 208.52);
 }
 .table-pure-yellow th,
 .table-pure-yellow td,
 .table-pure-yellow thead th,
 .table-pure-yellow tbody + tbody {
-  border-color: #f4fea9;
+  border-color: rgb(243.56, 253.96, 168.68);
 }
 
 .table-hover .table-pure-yellow:hover {
-  background-color: #f6fdb8;
+  background-color: rgb(245.5007142857, 254.1364285714, 183.3235714286);
 }
 .table-hover .table-pure-yellow:hover > td,
 .table-hover .table-pure-yellow:hover > th {
-  background-color: #f6fdb8;
+  background-color: rgb(245.5007142857, 254.1364285714, 183.3235714286);
 }
 
 .table-active,
@@ -5348,7 +5347,7 @@ body table.imggroup tbody + tbody {
 .table .thead-dark th, #content table .thead-dark th, body table .thead-dark th, #content.theme__dark table thead th, body.theme__dark table thead th {
   color: #fff;
   background-color: #343a40;
-  border-color: #454d55;
+  border-color: rgb(69.1465517241, 77.125, 85.1034482759);
 }
 .table .thead-light th, .table #content table thead th, .table body table thead th, #content table.liste #content table thead th, body table.liste #content table thead th, #content table.liste body table thead th, body table.liste body table thead th, #content table.imggroup #content table thead th, body table.imggroup #content table thead th, #content table.imggroup body table thead th, body table.imggroup body table thead th, #content table .table thead th, body table .table thead th, #content table table.liste thead th, body table table.liste thead th, #content table table.imggroup thead th, body table table.imggroup thead th, #content table .thead-light th, body table .thead-light th, #content table thead th, body table thead th {
   color: #495057;
@@ -5363,7 +5362,7 @@ body table.imggroup tbody + tbody {
 .table-dark th,
 .table-dark td,
 .table-dark thead th {
-  border-color: #454d55;
+  border-color: rgb(69.1465517241, 77.125, 85.1034482759);
 }
 .table-dark.table-bordered {
   border: 0;
@@ -6133,17 +6132,17 @@ body .page-special {
 #content .ramme.bg-red, #content div.bg-red.language-html, body .ramme.bg-red, body div.bg-red.language-html {
   color: #212d39 !important;
   background-color: #f0dae4 !important;
-  border: 1px solid #bd5b87 !important;
+  border: 1px solid rgb(188.5096153846, 90.9903846154, 135.3173076923) !important;
 }
 #content .ramme.bg-blue, #content div.language-html, body .ramme.bg-blue, body div.language-html {
   color: #212d39 !important;
   background-color: #dae4f0 !important;
-  border: 1px solid #5b87bd !important;
+  border: 1px solid rgb(90.9903846154, 135.3173076923, 188.5096153846) !important;
 }
 #content .ramme.bg-yellow, #content div.bg-yellow.language-html, body .ramme.bg-yellow, body div.bg-yellow.language-html {
   color: #212d39 !important;
   background-color: #eff0da !important;
-  border: 1px solid #b8bd5b !important;
+  border: 1px solid rgb(184.0769230769, 188.5096153846, 90.9903846154) !important;
 }
 #content .ramme.bg-green, #content div.bg-green.language-html, body .ramme.bg-green, body div.bg-green.language-html {
   color: #212d39 !important;
@@ -6284,7 +6283,7 @@ body.theme__dark .page__list-wrapper {
 body.theme__dark #toc_container,
 body.theme__dark #page-list,
 body.theme__dark #book_header {
-  background-color: #2a3a49;
+  background-color: rgb(42.35, 57.75, 73.15);
   border-color: #fff;
 }
 body.theme__dark #toc_container a:hover,
@@ -6293,7 +6292,7 @@ body.theme__dark #page-list a:hover {
   color: #212d39 !important;
 }
 body.theme__dark #toc_container .intro {
-  background-color: #2a3a49;
+  background-color: rgb(42.35, 57.75, 73.15);
 }
 body.theme__dark #toc_container .toc_container__wrapper,
 body.theme__dark #toc_container .intro,
@@ -6305,7 +6304,7 @@ body.theme__dark ::-webkit-scrollbar-track {
   border-color: #fff;
 }
 body.theme__dark input[type=range] {
-  background-image: -webkit-gradient(linear, left top, right top, color-stop(0.3, #B1C900), color-stop(0.3, #506d8a));
+  background-image: -webkit-gradient(linear, left top, right top, color-stop(0.3, #B1C900), color-stop(0.3, rgb(79.75, 108.75, 137.75)));
 }
 body.theme__dark input[type=range]::-webkit-slider-thumb {
   background-color: #fff;
@@ -6324,7 +6323,7 @@ body.theme__dark .header__right-2 {
 body.theme__dark #skippability span,
 body.theme__dark #Avspillingshastighet_main span,
 body.theme__dark header .header__right-2 span {
-  color: #2a3a49;
+  color: rgb(42.35, 57.75, 73.15);
 }
 body.theme__dark .progress-container {
   background-color: #fff;
@@ -6401,17 +6400,17 @@ body.theme__dark .rbActiveFragment {
 #content.theme__dark .ramme.bg-red, #content.theme__dark div.bg-red.language-html, body.theme__dark .ramme.bg-red, body.theme__dark div.bg-red.language-html {
   color: #fff !important;
   background-color: #482b3a !important;
-  border: 1px solid #ae7794 !important;
+  border: 1px solid rgb(174.047826087, 119.452173913, 147.6913043478) !important;
 }
 #content.theme__dark .ramme.bg-blue, #content.theme__dark div.language-html, body.theme__dark .ramme.bg-blue, body.theme__dark div.ramme.language-html, body.theme__dark div.language-html {
   color: #fff !important;
   background-color: #486178 !important;
-  border: 1px solid #a8bacb !important;
+  border: 1px solid rgb(167.8125, 185.9765625, 202.6875) !important;
 }
 #content.theme__dark .ramme.bg-yellow, #content.theme__dark div.bg-yellow.language-html, body.theme__dark .ramme.bg-yellow, body.theme__dark div.bg-yellow.language-html {
   color: #fff !important;
   background-color: #48392b !important;
-  border: 1px solid #ae9277 !important;
+  border: 1px solid rgb(174.047826087, 145.8086956522, 119.452173913) !important;
 }
 #content.theme__dark table, body.theme__dark table {
   background-color: inherit !important;
@@ -6456,6 +6455,4 @@ div.language-html {
   padding: 20px 5px 5px 5px !important;
   border-color: transparent !important;
   margin-bottom: 1.5rem !important;
-}
-
-/*# sourceMappingURL=styles.css.map */
+}/*$vite$:1*/
