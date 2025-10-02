@@ -751,7 +751,7 @@ button.bg-danger:focus {
   background-color: rgb(189.2151898734, 32.7848101266, 47.7721518987) !important;
 }
 
-.bg-light, body {
+.bg-light {
   background-color: #faf9f6 !important;
 }
 
@@ -3963,7 +3963,7 @@ a.text-light:hover, a#content.theme__dark:hover, body.theme__dark #hjelpknapp a:
   color: rgb(222.6785714286, 216.2142857143, 196.8214285714) !important;
 }
 
-.text-dark, body {
+.text-dark {
   color: #212d39;
 }
 
