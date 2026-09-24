@@ -104,6 +104,10 @@
         @include nlb-dark-frame();
     }
 
+    blockquote {
+        @include nlb-dark-frame();
+    }
+
     .ramme {
         @include nlb-dark-frame();
     
@@ -117,6 +121,10 @@
         
         &.bg-yellow {
             @include nlb-color($frame-night-yellow-bg, lighten($frame-night-yellow-bg, 35%), $white);
+        }
+
+        &.bg-green {
+            @include nlb-color($frame-night-green-bg, lighten($frame-night-green-bg, 35%), $white);
         }
     }
     
