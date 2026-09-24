@@ -6374,6 +6374,29 @@ body.theme__dark .rbActiveFragment {
     margin-bottom: 45px;
   }
 }
+#content.theme__dark blockquote, body.theme__dark blockquote {
+  color: #fff !important;
+  background-color: #2b3a48 !important;
+  border: 1px solid #bcbec0 !important;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+#content.theme__dark blockquote .sentence, body.theme__dark blockquote .sentence {
+  color: inherit !important;
+}
+@media (min-width: 640px) and (max-width: 767.98px) {
+  #content.theme__dark blockquote, body.theme__dark blockquote {
+    padding: 30px;
+    margin-bottom: 36px;
+  }
+}
+@media (min-width: 768px) {
+  #content.theme__dark blockquote, body.theme__dark blockquote {
+    padding: 35px;
+    margin-bottom: 45px;
+  }
+}
 #content.theme__dark .ramme, #content.theme__dark div.language-html, body.theme__dark .ramme, body.theme__dark div.language-html {
   color: #fff !important;
   background-color: #2b3a48 !important;
@@ -6411,6 +6434,11 @@ body.theme__dark .rbActiveFragment {
   color: #fff !important;
   background-color: #48392b !important;
   border: 1px solid rgb(174.047826087, 145.8086956522, 119.452173913) !important;
+}
+#content.theme__dark .ramme.bg-green, #content.theme__dark div.bg-green.language-html, body.theme__dark .ramme.bg-green, body.theme__dark div.bg-green.language-html {
+  color: #fff !important;
+  background-color: #2b4839 !important;
+  border: 1px solid rgb(119.452173913, 174.047826087, 145.8086956522) !important;
 }
 #content.theme__dark table, body.theme__dark table {
   background-color: inherit !important;

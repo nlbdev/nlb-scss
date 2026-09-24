@@ -139,14 +139,27 @@ Bakgrunnsfarge: Grønn `bg-green` | eksempel: `ramme bg-green`
 --- | ---:
 Bakgrunnsfarge: | [#E4F0DA](https://www.colorhexa.com/E4F0DA)
 Linjefarge: | [#B1C900](https://www.colorhexa.com/B1C900)
-Bakgrunnsfarge nattmodus: | [#2b3a48](https://www.colorhexa.com/2b3a48)
-Linjefarge nattmodus: | [#bcbec0](https://www.colorhexa.com/bcbec0)
+Bakgrunnsfarge nattmodus: | [#2b4839](https://www.colorhexa.com/2b4839)
+Linjefarge nattmodus: | [#77ae92](https://www.colorhexa.com/77ae92)
 
 ```html
 <div class="ramme bg-green">Eksempel</div>
 ```
 
 <div class="ramme bg-green">Eksempel</div>
+
+Sitat | `blockquote`
+--- | ---:
+Bakgrunnsfarge: | [#e9ecef](https://www.colorhexa.com/e9ecef)
+Linjefarge: | [#dee2e6](https://www.colorhexa.com/dee2e6)
+Bakgrunnsfarge nattmodus: | [#2b3a48](https://www.colorhexa.com/2b3a48)
+Linjefarge nattmodus: | [#bcbec0](https://www.colorhexa.com/bcbec0)
+
+```html
+<blockquote><p>Eksempel</p></blockquote>
+```
+
+<blockquote><p>Eksempel</p></blockquote>
 
 Tekstfarge: Sort | `text-dark`
 --- | ---:
