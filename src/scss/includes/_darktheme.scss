@@ -104,6 +104,10 @@
         @include nlb-dark-frame();
     }
 
+    blockquote {
+        @include nlb-dark-frame();
+    }
+
     .ramme {
         @include nlb-dark-frame();
     
